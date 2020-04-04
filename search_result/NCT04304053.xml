@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="32">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04304053</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HCQ4COV19</org_study_id>
+    <secondary_id>2020-001031-27</secondary_id>
+    <nct_id>NCT04304053</nct_id>
+  </id_info>
+  <brief_title>Treatment of COVID-19 Cases and Chemoprophylaxis of Contacts as Prevention</brief_title>
+  <acronym>HCQ4COV19</acronym>
+  <official_title>Treatment of Non-severe Confirmed Cases of COVID-19 and Chemoprophylaxis of Their Contacts as Prevention Strategy: a Cluster Randomized Clinical Trial (PEP CoV-2 Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundacio Lluita Contra la SIDA</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Germans Trias i Pujol Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Department of Health, Generalitat de Catalunya</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>FUNDACIÓN FLS DE LUCHA CONTRA EL SIDA, LAS ENFERMEDADES INFECCIOSAS Y LA PROMOCIÓN DE LA SALUD Y LA CIENCIA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Laboratorios Gebro Pharma SA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Laboratorios Rubió</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institut Catala de Salut</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fundacio Lluita Contra la SIDA</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators plan to evaluate the efficacy of the 'test and treat' strategy of infected
+      patients and prophylactic chloroquine treatment to all contacts. The strategy entails
+      decentralized COVID-19 testing and starting antiviral darunavir/cobicistat plus chloroquine
+      treatment immediately in all who are found to be infected. As viral loads decline to
+      undetectable levels, the probability of onward transmission is reduced to very low levels.
+      Such evaluation will require prospective surveillance to assess the population-level effect
+      of transmission prevention.
+
+      Drug interventions in this protocol will follow the Spanish law about off-label use of
+      medicines.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Previous research on influenza has indicated that antiviral drugs administered before o short
+      after symptom onset can reduce infectiousness to others by reducing viral loads in the
+      respiratory secretions of patients.
+
+      Lopinavir/ritonavir, a protease inhibitor used to treat HIV/AIDS, was found to block COVID-19
+      infection in vitro at low-micromolar concentration, with a half-maximal effective
+      concentration (EC50) of 8.5 μM. China's guidelines were set up in January 2020 and treated
+      hospitalized patients with lopinavir/ritonavir, either alone or with various combinations.
+      Darunavir (DRV)/Cobicistat, is also a protease inhibitor used to treat and prevent HIV/AIDS.
+      Its as effective as lopinavir/ritonavir for the treatment of HIV/AIDS and better tolerated
+      because the adverse effects rate is lower (diarrhea 2% vs 27%).
+
+      Another promising drug is chloroquine, that showed excellent in vitro results and strong
+      antiviral effects on SARS-CoV infection of primate cells. Results from n=100 patients have
+      shown superiority to the control treatment in improving lung imaging findings, promoting
+      virus reversion to negative and shortening the disease.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 18, 2020</start_date>
+  <completion_date type="Anticipated">June 15, 2020</completion_date>
+  <primary_completion_date type="Anticipated">June 15, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Cluster-randomized clinical trial</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Open label</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Effectiveness of chemoprophylaxis assessed by incidence of secondary COVID-19 cases</measure>
+    <time_frame>Up to 14 days after start of treatment</time_frame>
+    <description>Incidence of secondary cases among contacts of a case and contacts of contacts</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The virological clearance rate of throat swabs, sputum, or lower respiratory tract secretions at days 3</measure>
+    <time_frame>3 days after start of treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The mortality rate of subjects at weeks 2</measure>
+    <time_frame>Up to 14 days after start of treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants that drop out of study</measure>
+    <time_frame>Up to 14 days after start of treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants that show non-compliance with study drug</measure>
+    <time_frame>Up to 14 days after start of treatment</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">3040</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>No Intervention- SARS-CoV-2 surveillance</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects exhibiting Acute Respiratory Infection (ARI) symptoms at a participating health care services complete a survey collecting demographic and clinical data and provide a swab for RT-PCR testing. Isolation of patient and contact tracing as per guidelines.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Testing, treatment and prophylaxis of SARS-CoV-2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects exhibiting ARI symptoms at a participating hospital complete a survey collecting demographic and clinical data and provide a swab to be tested on-site with a molecular assay. Isolation of patient and contact tracing as per guidelines. Case receive an antiviral if tested positive (Chloroquine and darunavir/cobicistat). Contacts receive Chloroquine prophylaxis</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Antiviral treatment and prophylaxis</intervention_name>
+    <description>darunavir 800 mg / cobicistat 150 mg tablets (oral, 1 tablet q24h, taking for 7 days) and hydroxychloroquine (200mg tablets) 800mg on day 1, and 400mg on days 2,3,4, 5, 6 and 7.
+Contacts will be offered a prophylactic regimen of hydroxychloroquine (200mg tablets) 800mg on day 1, and 400mg on days 2,3,4.</description>
+    <arm_group_label>Testing, treatment and prophylaxis of SARS-CoV-2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard Public Health measures</intervention_name>
+    <description>Isolation of patient and contact tracing as per national guidelines.</description>
+    <arm_group_label>No Intervention- SARS-CoV-2 surveillance</arm_group_label>
+    <arm_group_label>Testing, treatment and prophylaxis of SARS-CoV-2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for a case:
+
+          1. Patients who meet the requirements of the New Coronavirus Infection Diagnosis (Acute
+             respiratory infection symptoms or acute cough alone and positive PCR)
+
+          2. Aged ≥18 years male or female;
+
+          3. In women of childbearing potential, negative pregnancy test and commitment to use
+             contraceptive method throughout the study.
+
+          4. Willing to take study medication
+
+          5. Willing to comply with all study procedures, including repeat nasal swab at day 3
+
+          6. Able to provide oral and written informed consent
+
+        Exclusion Criteria for a case:
+
+          1. Serious condition meeting one of the following: (1) respiratory distress with
+             respiratory rate &gt;=30 breaths/min; (2) oxygen saturation&lt;=93% on quiet status; (3)
+             Arterial partial pressure of oxygen (PaO2)/oxygen concentration&lt;=300mmHg;
+
+          2. Critically ill patients meeting one of the following: (1) Experience respiratory
+             failure and need to receive mechanical ventilation; (2) Experience shock; (3)
+             Complicated with other organs failure and need intensive care and therapy in ICU;
+
+          3. Participants under treatment with medications likely to interfere with experimental
+             drugs
+
+          4. Unable to take drugs by mouth;
+
+          5. With significantly abnormal liver function (Child Pugh C)
+
+          6. Need of dialysis treatment, or GFR≤30 mL/min/1.73 m2;
+
+          7. Participants with psoriasis, myasthenia, haematopoietic and retinal
+             diseases,CNS-related hearing loss or glucose-6-phosphate dehydrogenase deficit
+
+          8. Participants with severe neurological and mental illness;
+
+          9. Pregnant or lactating women;
+
+         10. Inability to consent and/or comply with study protocol;
+
+         11. Individuals with known hypersensitivity to the study drugs.
+
+         12. Persons already treated with any of the study drugs during the last 30 days.
+
+         13. Concomitant administration of enzyme inducers (such as carbamazepine) which could lead
+             to ineffectiveness of darunavir; and those who receive CYP3A4 substrates (such as
+             statins) because of the risk of increased toxicity.
+
+         14. HIV patients (because these are already on antiretroviral treatment)
+
+         15. Any contraindications as per the Data Sheet of Rezolsta or Hydroxychloroquine.
+
+        Inclusion Criteria for a contact:
+
+          1. Patients who meet the definition of a contact according to the Catalan Public Health
+             Department Guidelines
+
+          2. Aged ≥18 years male or female;
+
+          3. In women of childbearing potential, negative pregnancy test and commitment to use
+             contraceptive method throughout the study.
+
+          4. Willing to take study medication;
+
+          5. Willing to comply with all study procedures;
+
+          6. Able to provide oral, informed consent and/or assent.
+
+        Exclusion Criteria for a contact:
+
+          1. With known history of cardiac arrhythmia (or QT prolongation syndrome);
+
+          2. Unable to take drugs by mouth;
+
+          3. With significantly abnormal liver function (Child Pugh C)
+
+          4. Need of dialysis treatment, or GFR≤30 mL/min/1.73 m2;
+
+          5. Participants with psoriasis, myasthenia, haematopoietic and retinal
+             diseases,CNS-related hearing loss or glucose-6-phosphate dehydrogenase deficit;
+
+          6. Persons already treated with any of the study drugs during the last 30 days;
+
+          7. Pregnant or lactating women;
+
+          8. Any contraindications as per the Data Sheet of Hydroxychloroquine.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>oriol Mitja, PhD</last_name>
+    <phone>0034 934651072</phone>
+    <email>oriolmitja@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Laia Bertran</last_name>
+    <phone>0034 934651072</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CAP II Sant Fèlix</name>
+      <address>
+        <city>Sabadell</city>
+        <state>Barcelona</state>
+        <zip>08204</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gerència Territorial Catalunya Central</name>
+      <address>
+        <city>Sant Fruitós De Bages</city>
+        <state>Barcelona</state>
+        <zip>08272</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre de Salut Isabel Roig-Casernes de Sant Andreu</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08030</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>March 2020</verification_date>
+  <study_first_submitted>March 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 11, 2020</study_first_posted>
+  <last_update_submitted>March 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Germans Trias i Pujol Hospital</investigator_affiliation>
+    <investigator_full_name>Oriol Mitja</investigator_full_name>
+    <investigator_title>Prof (Ass) Infectious Disease and Global Health</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antiviral Agents</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

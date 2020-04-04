@@ -1,0 +1,55 @@
+chest radiograph
+computed tomography
+chest CT
+Respiratory rate
+SpO2
+PaO2
+FiO2
+Fever
+Cough
+Sputum production
+Sore-throat
+Nasal discharge
+Myalgia 
+Headache
+chest tightness
+Dypnea
+Fatigue
+Obstructive pneumonia
+Pulmonary interstitial fibrosis
+Alveolar proteinosis
+Allergic alveolitis
+Bacterial pneumonia
+Fungal pneumonia
+Respiratory distress
+Mechanical ventilation
+Child Pugh score
+ALT
+AST
+Fat liver
+HCV
+HBV
+Renal impairment
+Continuous renal replacement therapy hemodialysis
+Peritoneal dialysis
+Creatinine clearance
+Arrhythmias
+Coronary artery disease
+Blood dyscrasia
+Active bleeding
+Significant disorder of coagulation
+Malignant tumor
+Diabetes
+Autoimmune diseases
+Severe malnutrition
+HIV
+immunosuppressive agents
+organ transplants
+parainfluenza virus
+adenovirus
+Psychosis
+Allergic
+Expected survival time
+SOFA
+ICU
+End-stage lung disease

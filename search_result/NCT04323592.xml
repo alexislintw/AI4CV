@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="193">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04323592</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MP-19 023_2020</org_study_id>
+    <nct_id>NCT04323592</nct_id>
+  </id_info>
+  <brief_title>Efficacy of Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome</brief_title>
+  <acronym>MP-C19</acronym>
+  <official_title>Prolonged Low Doses of Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Trieste</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Trieste</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 infection is overwhelming Italian healthcare. There is an urgent need for a solution
+      to the lack of ICU beds and increasing deaths day after day.
+
+      A recent retrospective Chinese paper (JAMA Intern Med, online March 13, 2020) showed
+      impressive positive effect of methylprednisolone (MP) on survival of SARS-CoV-2 critically
+      ill patients. We're routinely using MP for severe pneumonia-ARDS with acute respiratory
+      failure with very good results.
+
+      The main objective of this multi-centre observational trial is to evaluate the efficacy of
+      low dose prolonged infusion of methylprednisolone (MP) for patients with severe acute
+      respiratory syndrome.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Comparison of two groups of patients SARS-CoV-2 positive with severe acute respiratory
+      syndrome:
+
+        1. Consecutively treated with low prolonged doses of methylprednisolone
+
+        2. Historical patients never treated with corticosteroids
+
+      The two group will be matched (1:1) according to the following criteria:
+
+        1. sex
+
+        2. age &lt;10 years difference
+
+        3. CRP level at admission (difference &lt;20%)
+
+        4. SOFA score (difference &lt;20%)
+
+        5. P/F difference &lt;20%
+
+      Anti-viral agents, chloroquine, respiratory support (any), and antibiotics (any) will be
+      permitted to each study group.
+
+      Corticosteroids use, other than methylprednisolone for MP-treated group is a reason of
+      drop-out.
+
+        1. Methylprednisolone treated-group will receive at study entry Methylprednisolone 80mg iv
+           bolus followed by Methylprednisolone 80mg in 240cc 0.9% saline iv infusion at 10cc/h for
+           at least 8 days or more until PCR&lt;20mg/L and/or P/F&gt;350. Then methylprednisolone 16mg
+           BID os slowly tapering until PCR normal range +/- normal range and P/F&gt;400.
+
+           Group 1 will be treated also with usual respiratory support (oxygen, O2 high-flow nasal
+           cannula, CPAP, noninvasive ventilation, invasive mechanical ventilation, ECMO).
+
+        2. Control group will be selected and matched among historical patients with the same
+           disease and treatment, but without any administration of methylprednisolone and other
+           corticosteroids.
+
+      Matching criteria will be the following (all of them):
+
+        1. same sex
+
+        2. age +/- 10 years
+
+        3. C-reactive protein within 20% value difference
+
+        4. P/F within 20% value difference
+
+        5. SOFA score within 20% value difference
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 23, 2020</start_date>
+  <completion_date type="Anticipated">May 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">May 20, 2020</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>52 consecutively recruited patients will be treated with methylprednisolone according to the study protocol. Each patient will be compared with &quot;historical&quot; but concurrent patients never treated with corticosteroids and strictly matched according to predefined criteria.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Composite primary end-point</measure>
+    <time_frame>28 days</time_frame>
+    <description>Death or ICU admission or Invasive mechanical ventilation (yes/not, at least one of three of the composite end-point)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>death</measure>
+    <time_frame>28 days</time_frame>
+    <description>Yes/no</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Admission to ICU</measure>
+    <time_frame>28 days</time_frame>
+    <description>yes/no</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Endotracheal intubation (invasive mechanical ventilation)</measure>
+    <time_frame>28 days</time_frame>
+    <description>yes/no</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>reduction of C-reactive protein or CRP</measure>
+    <time_frame>14 days and 28 days</time_frame>
+    <description>mg/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of mechanical ventilation</measure>
+    <time_frame>28 days</time_frame>
+    <description>number of days free from mechanical ventilation (invasive or not)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">104</enrollment>
+  <condition>Severe Acute Respiratory Syndrome (SARS) Pneumonia</condition>
+  <condition>Coronavirus Infections</condition>
+  <condition>ARDS, Human</condition>
+  <arm_group>
+    <arm_group_label>Methylprednisolone treated consecutive cases</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>SARS-CoV-2 positive patients with severe acute respiratory syndrome consecutively treated with methylprednisolone (MP) at low prolonged dose.
+At admission, inclusion criteria checked, the patient undergo 80mg iv bolus of MP followed by infusion (10cc/h) of MP in 240cc 0.9% saline every day until PaO2/FiO2 increase over 350 and/or CRP decrease below 20mg/L, then MP is administered PO tapering slowly until normal CRP values (+20%) are reached.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Controls (non-methylprednisolone treated subjects)</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Concurrent patients, also &quot;historical&quot;, with the same inclusion/section exclusion criteria never treated with steroids, strictly matched according to gender and age (+/-10 years) and other three parameters:
+CRP, SOFA score, PaO2:FiO2 -&gt; each parameter must be &lt;20% difference between case and control.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methylprednisolone</intervention_name>
+    <description>Methylprednisolone given at low prolonged dose infusion after initial 80mg iv bolus at admission followed by 80mg in 240cc 0.9% saline administered iv at 10cc/h speed for at least 7 day or more. Duration of Methylprednisolone treatment depends from CRP and P/F values already described in arm/group description</description>
+    <arm_group_label>Methylprednisolone treated consecutive cases</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>standard care</intervention_name>
+    <description>usual standard of care:
+oxygen therapy (regular or high-flow) and monitoring
+empiric antibiotic therapy
+mechanical ventilation (invasive or noninvasive)
+ECMO when needed and available
+pronation when possible
+other treatment which can be used are: antivirals, chloroquine, vitamins</description>
+    <arm_group_label>Controls (non-methylprednisolone treated subjects)</arm_group_label>
+    <arm_group_label>Methylprednisolone treated consecutive cases</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. SARS-CoV-2 positive
+
+          2. Age &gt;17 years and &lt; 80 years
+
+          3. P/F &lt; 250 mmHg
+
+          4. Bilateral pneumonia (infiltrates/interstitial)
+
+          5. CRP &gt;10mg/dL (or &gt;100mg/L)
+
+          6. Alternatively to 4-5-6 criteria a diagnosis of ARDS according to the Berlin definition
+             (JAMA 2012)
+
+        Exclusion Criteria:
+
+          -  Heart failure as predominant cause of acute respiratory failure
+
+          -  Decompensated liver cirrhosis
+
+          -  Cancer
+
+          -  Organ transplantation
+
+          -  HIV+
+
+          -  dialysis
+
+          -  long-term oxygen therapy
+
+          -  Idiopathic pulmonary fibrosis
+
+          -  Progressive neurmomuscular disorders (e.g. Duchenne, Pompe, ALS)
+
+          -  immunosupressive treatments
+
+          -  Chronic use of corticosteroids
+
+          -  Use of tocilizumab
+
+          -  pregnancy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francesco Salton, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Trieste</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Francesco Salton, MD</last_name>
+    <phone>3486986287</phone>
+    <phone_ext>4667</phone_ext>
+    <email>francesco.salton@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marco Confalonieri, MD</last_name>
+    <phone>3356895168</phone>
+    <email>mconfalonieri@units.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Marco Confalonieri</name>
+      <address>
+        <city>Trieste</city>
+        <state>TS</state>
+        <zip>34149</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>marco confalonieri, MD</last_name>
+      <phone>+393356895168</phone>
+      <email>mconfalonieri@units.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Francesco confalonieri, MD</last_name>
+      <phone>3486986287</phone>
+      <email>francesco.salton@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>March 2020</verification_date>
+  <study_first_submitted>March 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2020</study_first_posted>
+  <last_update_submitted>March 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>March 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Trieste</investigator_affiliation>
+    <investigator_full_name>marco confalonieri</investigator_full_name>
+    <investigator_title>Head of Pulmonology and Critical care Dept.</investigator_title>
+  </responsible_party>
+  <keyword>SARS-CoV-2,</keyword>
+  <keyword>SARS</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>Methylprednisolone</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methylprednisolone</mesh_term>
+    <mesh_term>Methylprednisolone Acetate</mesh_term>
+    <mesh_term>Methylprednisolone Hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone</mesh_term>
+    <mesh_term>Prednisolone acetate</mesh_term>
+    <mesh_term>Prednisolone hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone phosphate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Anonymised data will be available only to data manager who can visualise clinical chart anytime when is needed</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 21, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/92/NCT04323592/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>March 19, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/92/NCT04323592/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

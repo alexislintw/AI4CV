@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="121">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04303507</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VIR20001</org_study_id>
+    <nct_id>NCT04303507</nct_id>
+  </id_info>
+  <brief_title>Chloroquine/ Hydroxychloroquine Prevention of Coronavirus Disease (COVID-19) in the Healthcare Setting</brief_title>
+  <acronym>COPCOV</acronym>
+  <official_title>Chloroquine/ Hydroxychloroquine Prevention of Coronavirus Disease (COVID-19) in the Healthcare Setting; a Randomised, Placebo-controlled Prophylaxis Study (COPCOV)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Oxford</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Oxford</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is a double-blind, randomised, placebo-controlled trial that will be conducted in
+      health care settings. After obtaining fully informed consent, the investigator will recruit
+      healthcare workers, or other individuals at significant risk who can be followed reliably for
+      5 months. 40,000 participants will be recruited and the investigator predict an average of
+      400-800 participants per site in 50-100 sites.
+
+      The participant will be randomised to receive either chloroquine/ hydroxychloroquine or
+      placebo (1:1 randomisation). A loading dose of 10mg base/kg, followed by 155 mg daily (250mg
+      chloroquine phosphate salt or 200mg hydroxychloroquine sulphate) will be taken for 3 months.
+      Subsequent episodes of symptomatic respiratory illness, including symptomatic COVID-19,
+      clinical outcomes, and asymptomatic infection with the virus causing COVID-19 will be
+      recorded during the follow-up period. If they are diagnosed with COVID-19 during the period
+      of prophylaxis, they will continue their prophylaxis unless advised to do so by their
+      healthcare professional until they run out of their current supply of chloroquine/
+      hydroxychloroquine or placebo at home. They will not collect more. They will be followed up
+      for 28 days (up until a maximum of 60 days if not recovered at 28 days).
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of symptomatic COVID-19 infections</measure>
+    <time_frame>Approximately 100 days</time_frame>
+    <description>Number of symptomatic COVID-19 infections will be compared between the chloroquine or hydroxychloroquine and placebo groups</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Symptoms severity of COVID-19</measure>
+    <time_frame>Approximately 100 days</time_frame>
+    <description>Symptoms severity of COVID-19 will be compared between the two groups using a respiratory severity score.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of asymptomatic cases of COVID-19</measure>
+    <time_frame>Approximately 100 days</time_frame>
+    <description>Number of asymptomatic cases of COVID-19 will be determined by comparing acute and convalescent serology in the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of symptomatic acute respiratory illnesses</measure>
+    <time_frame>Approximately 100 days</time_frame>
+    <description>Number of symptomatic acute respiratory illnesses will be compared between the chloroquine or hydroxychloroquine and placebo groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of symptomatic acute respiratory illnesses</measure>
+    <time_frame>Approximately 100 days</time_frame>
+    <description>Severity of symptomatic acute respiratory illnesses will be compared between the chloroquine or hydroxychloroquine and placebo groups.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Genetic loci and levels of biochemical components will be correlated with frequency of COVID-19, ARI and disease severity.</measure>
+    <time_frame>Approximately 100 days</time_frame>
+    <description>Genetic loci and levels of biochemical components will be correlated with frequency of COVID-19, ARI and disease severity.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40000</enrollment>
+  <condition>COVID19</condition>
+  <condition>Coronavirus</condition>
+  <condition>Acute Respiratory Illnesses</condition>
+  <arm_group>
+    <arm_group_label>Chloroquine or Hydroxychloroquine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Asia, the participant will receive chloroquine.
+In Europe, the participant will receive hydroxychloroquine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Chloroquine or Hydroxychloroquine</intervention_name>
+    <description>A loading dose of 10 mg base/ kg followed by 155 mg daily (250mg chloroquine phosphate salt or 200mg of or hydroxychloroquine sulphate) will be taken for 3 months</description>
+    <arm_group_label>Chloroquine or Hydroxychloroquine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Study Participants
+
+        These are of two types:
+
+        A. Adult volunteers (exact age is dependent on countries) working as a healthcare worker or
+        frontline (i.e. patient contact) in a healthcare facility or similar institution
+
+        B. Provided that they are willing to participate in the trial and can be followed
+        adequately for up to 5 months, we may also enrol hospitalised patients or relatives exposed
+        or potentially exposed to the SARS-CoV-2 virus or other high-risk groups
+
+        Inclusion Criteria:
+
+          -  Participant is willing and able to give informed consent for participation in the
+             study and agrees with the study and its conduct
+
+          -  Agrees not to self-medicate with chloroquine, hydroxychloroquine or other potential
+             antivirals
+
+          -  Adults (exact age is dependent on countries)
+
+          -  Not previously diagnosed with COVID-19
+
+          -  Not currently symptomatic with an Acute Respiratory Infection
+
+          -  Participant A. works in healthcare facility or other well characterised high-risk
+             environment, OR B. is an inpatient or relative of a patient in a participating
+             hospital and likely exposed to COVID-19 infection or another high-risk group
+
+          -  Possesses an internet-enabled smartphone (Android or iOS)
+
+        Exclusion Criteria:
+
+          -  Hypersensitivity reaction to chloroquine, hydroxychloroquine or 4-aminoquinolines
+
+          -  Contraindication to taking chloroquine as prophylaxis e.g. known epileptic, known
+             creatinine clearance &lt; 10 ml/min
+
+          -  Already taking chloroquine, hydroxychloroquine or 4-aminoquinolines
+
+          -  Taking a concomitant medication (Abiraterone acetate, Agalsidase, Conivaptan,
+             Dabrafenib, Dacomitinib, Enzalutamide, Idelalisib, Mifepristone, Mitotane, tiripentol)
+             which cannot be safely stopped
+
+          -  Known retinal disease
+
+          -  Inability to be followed up for the trial period
+
+          -  Known prolonged QT syndrome (however ECG is not required at baseline)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>William Schilling, MD</last_name>
+    <phone>+66 2 203-6333</phone>
+    <email>William@tropmedres.ac</email>
+  </overall_contact>
+  <verification_date>March 2020</verification_date>
+  <study_first_submitted>March 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 11, 2020</study_first_posted>
+  <last_update_submitted>March 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>March 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+    <mesh_term>Chloroquine</mesh_term>
+    <mesh_term>Chloroquine diphosphate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>With participant's consent, suitably anonymised clinical data and results from blood analyses stored in the database may be shared according to the terms defined in the MORU data sharing policy with other researchers to use in the future.</ipd_description>
+    <ipd_url>https://www.tropmedres.ac/units/moru-bangkok/bioethics-engagement/data-sharing</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

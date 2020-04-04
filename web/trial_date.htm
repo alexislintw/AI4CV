@@ -1,0 +1,56 @@
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      
+      function drawChart() {
+        var arrData;
+        $.ajax({
+          type: "GET",  
+          url: "data.csv",
+          dataType: "text",       
+          success: function(response) {
+		    arrData = $.csv.toArrays(response);
+		    
+		    var data = new google.visualization.DataTable();
+            data.addColumn('date', 'Date');
+            data.addColumn('number', 'Trials');
+
+		    for (var i=0; i<arrData.length; i++) {
+		      var arrDate = arrData[i][0].split('-');
+		      var d = new Date(arrDate[0],arrDate[1]-1,arrDate[2]);
+		      var n = parseInt(arrData[i][1]);
+              data.addRow([d,n]);
+            }
+          
+            var options = {
+              title: 'COVID-19 Search Result Numbers',
+              curveType: 'function',
+              
+              displayAnnotations: true,
+              hAxis: {
+                title: 'Date',
+                format: 'yyyy-MM-dd',
+                slantedText: true,
+           		slantedTextAngle: 45
+              },
+              vAxis: {
+                title: 'Number of Trials'
+              }
+            }
+
+            var chart = new google.visualization.LineChart(document.getElementById('line_chart'));
+            chart.draw(data, options);
+	      }  
+	    });
+	  }
+    </script>
+  </head>
+  <body>
+    <div id="line_chart" style="width: 800px; height: 600px"></div>
+  </body>
+</html>

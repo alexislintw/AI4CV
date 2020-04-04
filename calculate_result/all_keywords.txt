@@ -1,0 +1,55 @@
+ast, 84
+alt, 42
+icu, 35
+fever, 33
+pao2, 28
+fio2, 28
+mechanical ventilation, 28
+allergic, 28
+hiv, 27
+cough, 24
+spo2, 23
+malignant tumor, 18
+respiratory distress, 14
+respiratory rate, 11
+child pugh score, 8
+creatinine clearance, 8
+immunosuppressive agents, 7
+arrhythmias, 6
+chest ct, 5
+myalgia, 5
+hcv, 5
+active bleeding, 5
+autoimmune diseases, 5
+severe malnutrition, 5
+fatigue, 4
+bacterial pneumonia, 4
+hbv, 4
+peritoneal dialysis, 4
+organ transplants, 4
+computed tomography, 3
+sputum production, 3
+headache, 3
+obstructive pneumonia, 3
+pulmonary interstitial fibrosis, 3
+alveolar proteinosis, 3
+allergic alveolitis, 3
+renal impairment, 3
+adenovirus, 3
+psychosis, 3
+expected survival time, 3
+end-stage lung disease, 3
+chest radiograph, 2
+coronary artery disease, 2
+diabetes, 2
+sofa, 2
+sore-throat, 1
+nasal discharge, 1
+fungal pneumonia, 1
+blood dyscrasia, 1
+significant disorder of coagulation, 1
+parainfluenza virus, 1
+chest tightness, 0
+dypnea, 0
+fat liver, 0
+continuous renal replacement therapy hemodialysis, 0

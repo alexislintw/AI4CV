@@ -1,0 +1,5219 @@
+NCT04283461
+
+        Inclusion Criteria:
+
+        A subject must meet all of the following criteria to be eligible to participate in this
+        study:
+
+          1. Provides written informed consent prior to initiation of any study procedures.
+
+          2. Be able to understand and agrees to comply with planned study procedures and be
+             available for all study visits.
+
+          3. Agrees to the collection of venous blood per protocol.
+
+          4. Male or non-pregnant female, 18 to 55 years of age, inclusive, at time of enrollment.
+
+          5. Body Mass Index 18-35 kg/m^2, inclusive, at screening.
+
+          6. Women of childbearing potential* must agree to use or have practiced true abstinence**
+             or use at least one acceptable primary form of contraception.***, **** Note: These
+             criteria are applicable to females in a heterosexual relationship and child-bearing
+             potential (i.e., the criteria do not apply to subjects in a same sex relationship).
+
+             *Not of childbearing potential - post-menopausal females (defined as having a history
+             of amenorrhea for at least one year) or a documented status as being surgically
+             sterile (hysterectomy, bilateral oophorectomy, tubal ligation/salpingectomy, or
+             Essure(R) placement).
+
+             **True abstinence is 100% of time no sexual intercourse (male's penis enters the
+             female's vagina). (Periodic abstinence [e.g., calendar, ovulation, symptothermal,
+             post-ovulation methods] and withdrawal are not acceptable methods of contraception).
+
+             ***Acceptable forms of primary contraception include monogamous relationship with a
+             vasectomized partner who has been vasectomized for 180 days or more prior to the
+             subject's first vaccination, intrauterine devices, birth control pills, and
+             injectable/implantable/insertable hormonal birth control products.
+
+             ****Must use at least one acceptable primary form of contraception for at least 30
+             days prior to the first vaccination and at least one acceptable primary form of
+             contraception for 60 days after the last vaccination.
+
+          7. Women of childbearing potential must have a negative urine or serum pregnancy test
+             within 24 hours prior to each vaccination.
+
+          8. Male subjects of childbearing potential*: use of condoms to ensure effective
+             contraception with a female partner from first vaccination until 3 months after the
+             last vaccination.
+
+             *Biological males who are post-pubertal and considered fertile until permanently
+             sterile by bilateral orchiectomy or vasectomy.
+
+          9. Male subjects agree to refrain from sperm donation from the time of first vaccination
+             until 3 months after the last vaccination.
+
+         10. Oral temperature is less than 100.0 degrees Fahrenheit (37.8 degrees Celsius).
+
+         11. Pulse no greater than 100 beats per minute.
+
+         12. Systolic blood pressure (BP) is 85 to 150 mmHg, inclusive.
+
+         13. Clinical screening laboratory evaluations (white blood cell (WBC), hemoglobin (Hgb),
+             platelets (PLTs), alanine transaminase (ALT), aspartate transaminase (AST), creatinine
+             (Cr), alkaline phosphatase (ALP), total bilirubin (T. Bili), Lipase, prothrombin time
+             (PT), and partial thromboplastin time (PTT)) are within acceptable normal reference
+             ranges at the clinical laboratory being used.
+
+         14. Must agree to have samples stored for secondary research.
+
+         15. Agrees to adhere to Lifestyle Considerations throughout study duration.
+
+        Exclusion Criteria:
+
+        A subject who meets any of the following criteria will be excluded from participation in
+        this study:
+
+          1. Positive pregnancy test either at screening or just prior to each vaccine
+             administration.
+
+          2. Female subject who is breastfeeding or plans to breastfeed from the time of the first
+             vaccination through 60 days after the last vaccination.
+
+          3. Has any medical disease or condition that, in the opinion of the site PI or
+             appropriate sub-investigator, precludes study participation.*
+
+             *Including acute, subacute, intermittent or chronic medical disease or condition that
+             would place the subject at an unacceptable risk of injury, render the subject unable
+             to meet the requirements of the protocol, or may interfere with the evaluation of
+             responses or the subject's successful completion of this trial.
+
+          4. Presence of self-reported or medically documented significant medical or psychiatric
+             condition(s).*
+
+             *Significant medical or psychiatric conditions include but are not limited to:
+             Respiratory disease (e.g., chronic obstructive pulmonary disease [COPD], asthma)
+             requiring daily medications currently or any treatment of respiratory disease
+             exacerbations (e.g., asthma exacerbation) in the last 5 years. Asthma medications:
+             inhaled, oral, or intravenous (IV) corticosteroids, leukotriene modifiers, long and
+             short acting beta agonists, theophylline, ipratropium, biologics.
+
+             Significant cardiovascular disease (e.g., congestive heart failure, cardiomyopathy,
+             ischemic heart disease) or history of myocarditis or pericarditis as an adult.
+
+             Neurological or neurodevelopmental conditions (e.g., migraines, epilepsy, stroke,
+             seizures in the last 3 years, encephalopathy, focal neurologic deficits,
+             Guillain-Barré syndrome, encephalomyelitis or transverse myelitis).
+
+             Ongoing malignancy or recent diagnosis of malignancy in the last five years excluding
+             basal cell and squamous cell carcinoma of the skin, which are allowed.
+
+             An autoimmune disease, including hypothyroidism without a defined non-autoimmune
+             cause, localized or history of psoriasis.
+
+             An immunodeficiency of any cause.
+
+          5. Has an acute illness*, as determined by the site PI or appropriate sub-investigator,
+             with or without fever [oral temperature >38.0 degrees Celsius (100.4 degrees
+             Fahrenheit)] within 72 hours prior to each vaccination.
+
+             *An acute illness which is nearly resolved with only minor residual symptoms remaining
+             is allowable if, in the opinion of the site PI or appropriate sub-investigator, the
+             residual symptoms will not interfere with the ability to assess safety parameters as
+             required by the protocol.
+
+          6. Has a positive test result for hepatitis B surface antigen, hepatitis C virus
+             antibody, or HIV types 1 or 2 antibodies at screening.
+
+          7. Has participated in another investigational study involving any investigational
+             product* within 60 days, or 5 half-lives, whichever is longer, before the first
+             vaccine administration.
+
+             *study drug, biologic or device
+
+          8. Currently enrolled in or plans to participate in another clinical trial with an
+             investigational agent* that will be received during the study-reporting period.**
+
+             *Including licensed or unlicensed vaccine, drug, biologic, device, blood product, or
+             medication.
+
+             **13 months after the first vaccination.
+
+          9. Has previously participated in an investigational study involving lipid nanoparticles
+             (LNPs) (a component of the investigational vaccine assessed in this trial).
+
+         10. Has a history of hypersensitivity or severe allergic reaction (e.g., anaphylaxis,
+             generalized urticaria, angioedema, other significant reaction) to any previous
+             licensed or unlicensed vaccines.
+
+         11. Chronic use (more than 14 continuous days) of any medications that may be associated
+             with impaired immune responsiveness.*
+
+               -  Including, but not limited to, systemic corticosteroids exceeding 10 mg/day of
+                  prednisone equivalent, allergy injections, immunoglobulin, interferon,
+                  immunomodulators, cytotoxic drugs, or other similar or toxic drugs during the
+                  preceding 6-month period prior to vaccine administration (Day 1). The use of low
+                  dose topical, ophthalmic, inhaled and intranasal steroid preparations will be
+                  permitted.
+
+         12. Received immunoglobulins and/or any blood or blood products within the 4 months before
+             the first vaccine administration or at any time during the study.
+
+         13. Has any blood dyscrasias or significant disorder of coagulation.
+
+         14. Has any chronic liver disease, including fatty liver.
+
+         15. Has a history of alcohol abuse or other recreational drug (excluding cannabis) use
+             within 6 months before the first vaccine administration.
+
+         16. Has a positive test result for drugs of abuse at screening or before the first vaccine
+             administration. If cannabis is the only detected drug, inclusion is permitted.
+
+         17. Has any abnormality or permanent body art (e.g., tattoo) that would interfere with the
+             ability to observe local reactions at the injection site (deltoid region).
+
+         18. Received or plans to receive a licensed, live vaccine within 4 weeks before or after
+             each vaccination.
+
+         19. Received or plans to receive a licensed, inactivated vaccine within 2 weeks before or
+             after each vaccination.
+
+         20. Receipt of any other 2019-nCoV or other experimental coronavirus vaccine at any time
+             prior to or during the study.
+
+         21. Known close contact of anyone known to have 2019-nCoV infection within 2 weeks prior
+             to vaccine administration.
+
+         22. Has traveled to China within 30 days before the first vaccination.
+
+         23. Current use of any prescription or over-the-counter medications within 7 days prior to
+             vaccination, unless approved by the investigator.
+
+         24. The subject must agree to refrain from donating blood or plasma during the study.
+
+         25. Plan to travel outside the US (continental US, Hawaii, and Alaska) from enrollment
+             through 28 days after the second vaccination.
+      
+
+NCT04303507
+
+        Inclusion Criteria:
+
+          -  Participant is willing and able to give informed consent for participation in the
+             study and agrees with the study and its conduct
+
+          -  Agrees not to self-medicate with chloroquine, hydroxychloroquine or other potential
+             antivirals
+
+          -  Adults ≥ 16 years
+
+          -  Not previously diagnosed with COVID-19
+
+          -  Participant works in healthcare facility or other well characterised high-risk
+             environment, OR is an inpatient or relative of a patient in a participating hospital
+             and likely exposed to COVID-19 infection or another high-risk group
+
+        Exclusion Criteria:
+
+          -  Hypersensitivity reaction to chloroquine, hydroxychloroquine or 4-aminoquinolines
+
+          -  Contraindication to taking chloroquine as prophylaxis e.g. known epileptic, creatinine
+             clearance < 10 ml/min
+
+          -  Already taking chloroquine, hydroxychloroquine or 4-aminoquinolines
+
+          -  Known retinal disease
+
+          -  Inability to be followed up for the trial period
+
+          -  Taking a concomitant medication (Abiraterone acetate, Agalsidase, Amodiaquine,
+             Conivaptan, Dabrafenib, Dacomitinib, Dapsone (Systemic), Enzalutamide, Fusidic Acid
+             (Systemic), Idelalisib, Lanthanum, Lumefantrine, Mefloquine, MiFEPRIStone, Mitotane,
+             Pimozide, QT-prolonging Agents, Stiripentol) which cannot be safely stopped
+      
+
+NCT04319211
+
+        Inclusion Criteria:
+
+          -  Being between the ages of 18-55
+
+          -  To continue their active education or business life before the social isolation
+             period.
+
+          -  Spending time at home differently from routine life recently
+
+          -  Having a smart phone
+
+          -  Not having visual impairment
+
+          -  Being literate in Turkish
+
+        Exclusion Criteria:
+
+          -  Mental disability or diagnosed severe psychological discomfort
+
+          -  Being diagnosed with serious systemic disease (cardiovascular, metabolic, pulmonary…)
+
+          -  Changing the living conditions in the last 3 months (moving, changing jobs ...)
+      
+
+NCT04320862
+
+        Inclusion Criteria:
+
+          -  flu-like symptoms
+
+          -  a viral test order for COVID-19
+
+          -  confirmed COVID-19
+
+          -  concern for exposure to COVID-19
+
+        Exclusion Criteria:
+
+        - None
+      
+
+NCT04290780
+
+        Inclusion Criteria:
+
+        1 ) Any adult or child or member of the nursing staff from the study participant hospital
+        who presents an infectious syndrome including the following definition :
+
+        2) Suspect Case:
+
+        Fever above 37.8 ° C if no antipyretics are taken; And or Cough or pharyngeal pain or other
+        symptom suggestive of respiratory infection. AND at least 1 of the following
+        characteristics:
+
+          -  return from a trip to China, or to a country in which the increase in the incidence of
+             infections in SARS-CoV-2 has been proven;
+
+          -  close contact (sharing the same place of family, professional life, same plane, etc.)
+             with a person defined as a suspected or confirmed case;
+
+          -  Occurring in an establishment having received at least one case of suspected or
+             confirmed infection at SARS-CoV-2.
+
+        Or 3) Confirmed Case: The same clinical definitions, in addition to a positive RT-PCR-type
+        virological diagnostic result specific to SARS-CoV-2
+
+        Exclusion Criteria:
+
+          -  Anyone who does not meet the above definition.
+      
+
+NCT04226157
+
+        Inclusion Criteria:
+
+          -  Acute ischemic stroke in the past 180 days of screening
+
+          -  Age >/= 18 years old
+
+          -  Automated Office Blood Pressure ≥135 systolic or ≥85 diastolic at time of screening
+
+          -  Stage 2 hypertension (as defined by >140 mmHg SBP and or >90 mmHg DBP on 2 occasions
+             or history of hypertension prior to stroke or currently taking antihypertensive
+             medications)
+
+          -  Able to live independently (as defined by modified Rankin scale score of 0-2)
+
+        Exclusion Criteria:
+
+          -  CKD stage IV or greater (GFR < 30)
+
+          -  Inability to check BP in either arm (e.g. amputation, lymphedema)
+
+          -  Pregnancy
+
+          -  High-grade intracranial or extracranial stenosis requiring a higher BP goal
+
+          -  Unable to provide informed consent for themselves in English or Spanish
+
+          -  Life expectancy less than 12 months
+      
+
+NCT04296643
+
+        Inclusion Criteria:
+
+          -  Nurses who work > 37 hours per week in medical, emergency, pediatric units
+
+        Exclusion Criteria:
+
+          -  Nurses with one or more comorbidities
+
+          -  Nurses who cannot pass an N95 respirator fit-test
+      
+
+NCT04320056
+
+        Inclusion Criteria:
+
+          -  Age> 18 years old
+
+          -  patients with acute respiratory failure related to suspected community acquired
+             pneumonia (viral and non viral) requiring oxygen therapy < 6 L/min (or FiO2< 0.50) (to
+             maintain SpO2 between 90 and 94% SpO2) without criteria for immediate intubation or
+             ICU transfer.
+
+          -  Patients hospital admission < 72 hours
+
+        Exclusion Criteria:
+
+          -  shock state,
+
+          -  no SpO2 signal available,
+
+          -  patient agitation,
+
+          -  pH < 7.30 (if blood gas available)
+
+          -  PaCO2 > 50 mmHg, (if blood gas available) or chronic hypercapnia history
+
+          -  Non invasive respiratory support (NIV, High flow Nasal Therapy (HFNT)) at study
+             inclusion
+
+          -  Withdrawal of life support or palliation as the goal of care
+
+          -  patients' or next of kin refusal to participate to the study
+      
+
+NCT04272710
+
+        Inclusion Criteria:
+
+          -  Adult aged >=18years old;
+
+          -  Diagnosed with 2019-nCoV. Diagnostic criteria including: Laboratory (RT-PCR) confirmed
+             2019-nCoV infection; CT of the lung conformed to the manifestation of viral pneumonia.
+
+          -  Diagnosed with primary hypertension.
+
+          -  Criteria for severe or critical ill conditions: Respiratory rate >=30/min; or Rest
+             SPO2<=93%; or PaO2/FiO2<=300mmHg.
+
+        Exclusion Criteria:
+
+          -  Near-death state (expected survival time less than 24 hours);
+
+          -  Malignant tumor;
+
+          -  Pregnancy or puerperium women;
+
+          -  ACEI contraindication
+
+          -  Patients who refused to participant.
+      
+
+NCT04319172
+
+        Inclusion Criteria:
+
+          -  Patients older than 16 years with a solid organ transplant diagnosed of COVID-19.
+
+        NOTE: A confirmed case of infection, is defined by a clinical syndrome that is compatible
+        to that of an respiratory infection (fever, cough and/or dyspnea) and the presence of a
+        positive microbiological result.
+
+        Exclusion Criteria:
+
+          -  Absence of informed consent after giving the information regarding the study.
+      
+
+NCT04245631
+
+        Inclusion Criteria:
+
+          -  1. Suspected cases (formerly observed cases)
+
+        Meet the following 2 at the same time:
+
+        Epidemiological history There was a history of travel or residence in Wuhan within two
+        weeks before the onset of illness; or patients who had had fever from Wuhan with
+        respiratory symptoms within 14 days before the onset of illness, or had clustered onset.
+
+        Clinical manifestations
+
+          1. fever;
+
+          2. It has the imaging characteristics of pneumonia mentioned above;
+
+          3. The total number of white blood cells is normal or decreased, or the lymphocyte count
+             is decreased in the early stage of onset.
+
+               -  2. confirmed cases On the basis of meeting the criteria for suspected cases,
+                  sputum, throat swabs, lower respiratory tract secretions, and other specimens
+                  were tested by real-time fluorescent RT-PCR for positive nucleic acid detection
+                  of new coronavirus; or viral gene sequencing was highly homologous with known new
+                  coronaviruses.
+
+        Exclusion Criteria:
+
+          -  1. Influenza virus, parainfluenza virus, adenovirus, respiratory syncytial virus,
+             rhinovirus, human metapneumovirus, SARS coronavirus, and other known other viral
+             pneumonia;
+
+          -  2. Mycoplasma pneumoniae, chlamydia pneumonia, and bacterial pneumonia; non-infectious
+             diseases such as vasculitis, dermatomyositis, and organizing pneumonia.
+      
+
+NCT04261426
+
+        Inclusion Criteria:
+
+          -  Adult aged >=18years old;
+
+          -  Laboratory (RT-PCR) confirmed 2019-nCoV infection in throat swab and/or sputum and/or
+             lower respiratory tract samples;
+
+          -  The interval between the onset of symptoms and randomized is within 7 days. The onset
+             of symptoms is mainly based on fever. If there is no fever, cough or other related
+             symptoms can be used;
+
+          -  Meet any of the following criteria for severe or critical ill conditions:
+
+               1. Respiratory rate >=30/min; or
+
+               2. Rest SPO2<=90%; or
+
+               3. PaO2/FiO2<=300mmHg; or
+
+               4. Respiratory failure and needs mechanical ventilation; or
+
+               5. Shock occurs; or
+
+               6. Multiple organ failure and needs ICU monitoring;
+
+          -  Sign the Informed Consent Form on a voluntary basis.
+
+        Exclusion Criteria:
+
+          -  Exist of other evidences that can explain pneumonia including but not limited to:
+
+        influenza A virus, influenza B virus, bacterial pneumonia, fungal pneumonia, noninfectious
+        causes, etc.;
+
+          -  Allergy to Intravenous Immunoglobulin or its preparation components;
+
+          -  Patients with selective IgA deficiency
+
+          -  Women who are pregnant or breast-feeding;
+
+          -  Researchers consider unsuitable.
+      
+
+NCT04306497
+
+        Inclusion Criteria:
+
+          -  It conforms to the diagnostic criteria of confirmed cases of COVID-19;
+
+          -  Age from 18-75, regardless gender.
+
+          -  The patient informed consent and sign the informed consent form (if the subject has no
+             capacity, limited capacity and limited expression of personal will, he or she should
+             obtain the consent of his guardian and sign the informed consent at the same time).
+
+        Exclusion Criteria:
+
+          -  Women during pregnancy or lactation;
+
+          -  Allergic constitution, such as those who have a history of allergy to two or more
+             drugs or food, or who are known to be allergic to drug ingredients observed in this
+             study.
+
+          -  Severe complications such as multiple organ failure and shock occurred.
+
+          -  Complicated with severe primary diseases such as heart, brain, liver, kidney and so
+             on.
+
+          -  Patients have mental illness.
+
+          -  Patients who participated in or is currently participating in other clinical trials
+             within the first month of this study.
+      
+
+NCT04320732
+
+        Inclusion Criteria:
+
+          -  Norwegian adult
+
+        Exclusion Criteria:
+
+          -  Unable to consent
+      
+
+NCT04304690
+
+        Inclusion Criteria:
+
+          -  Any permanent medical or paramedic staff of participating services who have given
+             written consent to participate
+
+          -  Having a social security insurance.
+
+        Exclusion Criteria:
+
+          -  Non-permanent staff (occasional staffing), administrative staff, technical staff of
+             participating services.
+
+          -  Staff who were not active during the inclusion period.
+      
+
+NCT04321174
+
+        Inclusion Criteria:
+
+          1. High risk close contact with a confirmed COVID-19 case during their symptomatic
+             period, including one day before symptom onset, within the past 1-7 days. High risk
+             close contact is defined as any of the following exposures without the consistent
+             appropriate use of recommended personal protective equipment:
+
+               1. Provided direct care for the index case
+
+               2. Had close physical contact with the index case
+
+               3. Lived with the index case
+
+               4. Had close contact (within 2 metres), without direct physical contact, for a
+                  prolonged period of time
+
+               5. Had direct contact with infectious body fluids, including oral secretions,
+                  respiratory secretions, or stool.
+
+          2. Successfully contacted by the study team within 24 hours of study team notification of
+             the relevant index COVID-19 case. This time window is necessary because the efficacy
+             of PEP may be dependent on the timing of its initiation, and because randomization of
+             a ring cannot be delayed while awaiting response from contacts that cannot be rapidly
+             reached.
+
+          3. Age ≥6 months, since the safety and pharmacokinetic profiles of LPV/r in pediatric
+             patients below the age of 6 months have not been established.
+
+          4. Ability to communicate with study staff in English
+
+        Exclusion Criteria:
+
+          1. Known hypersensitivity/allergy to lopinavir or ritonavir.
+
+          2. Current use of LPV/r for the treatment or prevention of HIV infection.
+
+          3. Receipt of LPV/r in the context of this trial or any other trial of COVID-19 PEP
+             within 2 days or less prior to the last known contact with the index COVID-19 case.
+             The two day time window is intended to ensure that exposure would not have occurred in
+             the presence of clinically relevant drug levels (five times the elimination half-life
+             of LPV/r, which is estimated at 4-6 hours with prolonged use).
+
+          4. Baseline respiratory tract specimen positive for COVID-19. Randomized participants
+             whose baseline samples subsequently show COVID-19 will have study drug discontinued
+             but still remain under observation.
+
+          5. Current breastfeeding, due to potential for serious adverse reactions in nursing
+             infants exposed to LPV/r
+
+          6. Concomitant medications with prohibited drug interactions with LPV/r that cannot be
+             temporarily suspended/replaced, including but not restricted to: 37
+
+               -  alfuzosin (e.g. Xatral®)
+
+               -  amiodarone (e.g. Cordarone™)
+
+               -  apalutamide (e.g. Erleada™)
+
+               -  astemizole*, terfenadine*
+
+               -  cisapride*
+
+               -  colchicine, when used in patients with renal and/or hepatic impairment
+
+               -  dronedarone (e.g., Multaq®)
+
+               -  elbasvir/grazoprevir (e.g., ZepatierTM)
+
+               -  ergotamine* (e.g. Cafergot®*), dihydroergotamine (e.g. Migranal®), ergonovine,
+                  methylergonovine*
+
+               -  fusidic acid (e.g., Fucidin®), systemic*
+
+               -  lurasidone (e.g., Latuda®), pimozide (e.g., Orap®*)
+
+               -  neratinib (e.g., Nerlynx®)
+
+               -  sildenafil (e.g., Revatio®)
+
+               -  triazolam (e.g. Halcion®), midazolam oral*
+
+               -  rifampin (e.g. Rimactane®*, Rifadin®, Rifater®*, Rifamate®*)
+
+               -  St. John's Wort
+
+               -  Tadalafil (e.g. Adcirca®)
+
+               -  venetoclax (e.g. Venclexta®)
+
+               -  lovastatin (e.g., Mevacor®*), lomitapide (e.g., JuxtapidTM) or simvastatin (e.g.,
+                  Zocor®)
+
+               -  vardenafil (e.g., Levitra® or Staxyn®)
+
+               -  salmeterol (e.g., Advair® or Serevent®)
+
+                    -  denotes products not marketed in Canada
+      
+
+NCT04276987
+
+        Inclusion Criteria:
+
+        1.Willingness of study participant to accept this treatment arm, and signed informed
+        consent; 2.Male or female, aged at 18 years (including) to 75 years old; 3.Patients with
+        confirmed novel coronavirus pneumonia; 4.Confirmation of SARS-CoV-2 infection by
+        reverse-transcription polymerase chain reaction (RT-PCR) from respiratory tract or blood
+        specimens; 5.Diagnostic criteria of "Severe" or " Critical":
+
+          1. Severe, comply with any of the following:
+
+               1. Respiratory distress, Respiratory rate (RR) ≥ 30 times/min
+
+               2. Pulse oxygen saturation (SpO2) at rest ≤ 93%
+
+               3. Partial pressure of oxygen/fraction of inspired oxygen (PaO2/FiO2) ≤ 300mmHg
+
+          2. Critical, comply with any of the following:
+
+               1. Respiratory failure, and requirement for mechanical ventilation
+
+               2. Shock
+
+               3. Other organ failure and requirement for ICU monitoring
+
+        Exclusion Criteria:
+
+          1. Allergic or hypersensitive to any of the ingredients;
+
+          2. Pneumonia caused by bacteria, mycoplasma, chlamydia, legionella, fungi or other
+             viruses;
+
+          3. Obstructive HABP/VABP induced by lung cancer or other known causes;
+
+          4. Carcinoid syndrome;
+
+          5. History of long-term use of immunosuppressive agents;
+
+          6. History of epilepsy and requirement for continuous anticonvulsant treatment or
+             anticonvulsant treatment received within the last 3 years;
+
+          7. History of severe chronic respiratory disease and requirement for long-term oxygen
+             therapy;
+
+          8. Undergoing hemodialysis or peritoneal dialysis;
+
+          9. Estimated or actual rate of creatinine clearance < 15 ml/min;
+
+         10. History of moderate and severe liver disease (Child-Pugh score >12);
+
+         11. Expectation of receiving any of following medications during the study:
+
+               1. Receiving continuous valproic acid or sodium valproate within the first 2 weeks
+                  prior to screening
+
+               2. Receiving 5-transtryptamine reuptake inhibitors, tricyclic antidepressants, 5-HT1
+                  receptor agonists or monoamine oxidase inhibitors within the first 2 weeks prior
+                  to screening
+
+         12. Incapable of understanding study protocol;
+
+         13. History of deep venous thrombosis or pulmonary embolism within the last 3 years;
+
+         14. Undergoing ECMO or high-frequency oscillatory ventilation support;
+
+         15. HIV, hepatitis virus, or syphilis infection;
+
+         16. Period of pregnancy or lactation, or planned pregnancy within 6 months;
+
+         17. Any condition of unsuitable for the study determined by investigators.
+      
+
+NCT04292340
+
+        Inclusion Criteria:
+
+          -  The participants were diagnosed as COVID-19;
+
+          -  Participants received anti-SARS-CoV-2 inactivated convalescent plasma
+
+          -  Written the informed consent.
+
+        Exclusion Criteria:
+
+          -  Participants lacked detailed medical history
+      
+
+NCT04315987
+
+        Inclusion Criteria:
+
+          1. Male or female, aged ≥ 18 years
+
+          2. Laboratory confirmation of 2019-nCoV infection by reverse-transcription polymerase
+             chain reaction (RT-PCR) from any diagnostic sampling source; and
+
+          3. CT image is characteristic of 2019 novel coronavirus pneumonia
+
+          4. In compliance with the 2019-nCoV pneumonia diagnosis standard [according to the novel
+             coronavirus infection pneumonia diagnosis and treatment program (Trial Implementation
+             Version 6) issued by the National Health and Medical Commission, and WHO 2019 new
+             coronavirus guidelines standards]: (A) increased breathing rate (≥30 beats / min),
+             difficulty breathing, cyanosis of the lips; (B) in resting state, means oxygen
+             saturation ≤93%; (C) partial pressure of arterial oxygen (PaO2) / Fraction of inspired
+             oxygen (FiO2) ≤300 mmHg (1mmHg = 0.133kPa);
+
+        Exclusion Criteria:
+
+          1. Patients with autoimmune diseases in the past or screening;
+
+          2. Those who have serious basic diseases that affect their survival, including: malignant
+             tumor, hematopathy, malignant fluid, active hemorrhage, severe malnutrition, etc.
+             which have not been controlled and can not be removed due to multiple metastasis;
+
+          3. Known or self-reported HIV or syphilis infected persons;
+
+          4. Have participated in stem cell clinical research;
+
+          5. Pregnant or lactating women or those who have fertility plans in the past year;
+
+          6. The estimated life cycle is less than 48 hours;
+
+          7. Other conditions that the researcher thinks are not suitable for participating in the
+             experiment.
+
+          8. Shock
+
+          9. Continuous use of immunosuppressive agents or organ transplants in the past 6 months;
+      
+
+NCT04284046
+
+        Inclusion Criteria:
+
+          -  all patients suspected of 2019 novel coronavirus infection.
+
+        Exclusion Criteria:
+
+          -  patients' data are not available.
+      
+
+NCT04291729
+
+        Inclusion Criteria:
+
+          -  Aged 18-75 years old;
+
+          -  Pneumonia patients with new coronavirus infection were confirmed to be positive by
+             RT-PCR and clinical manifestations. The diagnosis standard refers to the diagnosis and
+             treatment plan for pneumonia with new coronavirus infection (Current Trial Version);
+
+          -  Patients with newly diagnosed respiratory system discomfort who have been hospitalized
+             (the diagnosis time of respiratory system discomfort shall not exceed 7 days);
+
+          -  Women and their partners who have no planned pregnancy for nearly half a year and are
+             willing to take effective contraceptive measures within 30 days from the first
+             administration of the study drug to the last administration;
+
+          -  Agree not to participate in other clinical research within 30 days from the first
+             administration of the study drug to the last administration;
+
+          -  Patients who voluntarily sign informed consent.
+
+        Exclusion Criteria:
+
+          -  The pneumonia patients with severe new coronavirus infection met one of the following
+             conditions: respiratory distress, RR >= 30 times / min; or SaO2 / SpO2 <93% in resting
+             state; or arterial partial pressure of oxygen (PaO2) / concentration of oxygen (FiO2)
+             <300MMHG (1mmhg = 0.133kpa);
+
+          -  Pneumonia patients with severe new coronavirus infection meet one of the following
+             conditions: respiratory failure and need mechanical ventilation; or shock; or other
+             organ failure combined with ICU monitoring treatment;
+
+          -  Severe liver disease (such as child Pugh score >=C, AST > 5 times upper limit);
+
+          -  Patients with contraindications specified in the instructions of ritonavir tablets;
+
+          -  The pregnancy test of female subjects in the screening period was positive;
+
+          -  The researchers judged that it was not suitable to participate in this clinical trial
+             (for example, patients who may be transferred to another hospital during the study
+             period; patients with multiple basic diseases, etc.).
+      
+
+NCT04269525
+
+        Inclusion Criteria:
+
+          -  18-75 years old ,no gender restriction
+
+          -  According to Diagnosis and Clinical Management of Pneumonia caused by 2019-nCoV
+             infection(Trial Version 4), patients are diagnosed with severe or critical 2019-nCoV
+             pneumonia with stay in the ICU of less than 48 hours
+
+          -  Women of childbearing age should have a negative blood pregnancy test before the start
+             of dosing and agree to take effective contraceptive measures during the trial until
+             the last follow-up (28 days)
+
+          -  Sequential Organ Failure Assessment(SOFA) score between 2-13 point
+
+          -  Voluntarily participate in this clinical study and sign a written informed consent. If
+             the patient cannot obtain informed consent, he can authorize his legal representative.
+
+        Exclusion Criteria:
+
+          -  Liver or kidney SOFA score of more than 3 points;
+
+          -  HIV positive
+
+          -  Highly allergic constitution or history of severe allergies;
+
+          -  Pregnant and lactating women;
+
+          -  Patients with malignant tumors;
+
+          -  Patients with previous history of pulmonary embolism;
+
+          -  Participating in clinical trials of other drugs within 3 months before enrollment.
+
+          -  be thought by researchers to be inappropriate to participate in this clinical study.
+      
+
+NCT04306055
+
+        Inclusion Criteria:
+
+          -  Blood donors whose last donation were between 1 Jan to 31 March, 2019.
+
+        Exclusion Criteria:
+
+          -  Blood donors whose blood test results were positive.
+      
+
+NCT04280224
+
+        Inclusion Criteria:
+
+          -  1. Male or female, aged at 18 years-65 years old
+
+          -  2. Pneumonia that is judged by chest radiograph or computed tomography
+
+          -  3. Laboratory confirmation of NCP infection by reverse-transcription polymerase chain
+             reaction(RT-PCR) from any diagnostic sampling source
+
+        Exclusion Criteria:
+
+          -  1. Pregnancy or breastfeeding
+
+          -  2. Known HIV, HBV or HCV infection
+
+          -  3. Patients with malignant tumor, other serious systemic diseases and psychosis
+
+          -  4. Patients who are participating in other clinical trials
+
+          -  5. Inability to provide informed consent or to comply with test requirements
+      
+
+NCT04305574
+
+        Inclusion Criteria:
+
+          -  At least 21 years
+
+          -  Has stayed in Singapore for at least 2 years
+
+        Exclusion Criteria:
+
+          -  Below 21 years
+
+          -  Has stayed in Singapore for less than 2 years
+      
+
+NCT04262921
+
+        Inclusion Criteria:
+
+        - Suspected or proven novel Coronavirus (nCoV) infection as main reason for admission to
+        hospital.
+
+        Non inclusion criteria:
+
+        - Subject deprived of freedom, subject under a legal protective measure
+
+        Exclusion Criteria:
+
+          -  Confirmed diagnosis of a pathogen unrelated to the objectives of this study and no
+             indication or likelihood of co-infection with a relevant pathogen.
+
+          -  Refusal by participant, parent or appropriate representative.
+      
+
+NCT04321616
+
+        Inclusion Criteria:
+
+          1. Adult patients, 18 years and above
+
+          2. Confirmed SARS-2-CoV-2 infection by PCR
+
+          3. Admitted to the hospital ward or the ICU
+
+          4. Subjects (or legally authorized representative) provides written informed consent
+             prior to initiation of the study
+
+        Exclusion Criteria:
+
+          1. Severe co-morbidity with life expectancy <3 months according to investigators
+             assessment
+
+          2. (Aspartate Transaminase/ Alanine Aminotransferase) ASAT/ALAT > 5 times the upper limit
+             of normal
+
+          3. Acute co-morbidity within 7 days before inclusion such as myocardial infarction
+
+          4. Known intolerance to the available study drugs
+
+          5. Pregnancy, possible pregnancy or breast feeding
+
+          6. Any reason why, in the opinion of the investigators, the patient should not
+             participate
+
+          7. Subject participates in a potentially confounding drug or device trial during the
+             course of the study
+
+          8. Prolonged QT interval (>450 ms)
+      
+
+NCT04251871
+
+        Inclusion Criteria:
+
+          -  Confirmed 2019-nCoV infection case in term of laboratory evidence;
+
+          -  80 years ≥ age ≥ 14years;
+
+          -  Within 72 hours after the onset of abnormalities shown by Chest radiology or several
+             symptoms (fever and cough).
+
+        Exclusion Criteria:
+
+          -  Age < 14 years or > 80 years;
+
+          -  Pregnant or lactating female;
+
+          -  One of the following items occurred at the enrollment: (i) respiratory failure
+             necessitating mechanical ventilation; (ii) liver failure: total bilirubin ≥ 10mg/dL
+             and/or severe coagulation disorders; (iii) renal function failure: although adequate
+             circulating blood and cardiac output, urine ≤ 0.5ml/kg·h, Cr or BUN ≥ 1.5 times normal
+             elevation;
+
+          -  Intake of Chinese medicinal herbs during the past 2 weeks;
+
+          -  Refused to sign an informed consent form prior to study participation;
+
+          -  Unwilling and unable to comply with protocol request.
+      
+
+NCT04312009
+
+        Inclusion Criteria:
+
+          -  Presumptive positive laboratory test for SARS-CoV-2 or upper respiratory infection
+             with recent exposure to laboratory-proven SARS-CoV-2-infected person
+
+          -  Negative influenza and respiratory virus panel
+
+          -  New or worsening hypoxia (SpO2 <95%) compared to baseline or increasing oxygen
+             requirement
+
+          -  Randomization within 24 hours of initial presentation to a hospital (inclusive of
+             transfer)
+
+        Exclusion Criteria:
+
+          -  Currently taking an angiotensin converting enzyme inhibitor (ACEi) or Angiotensin
+             receptor blocker (ARB)
+
+          -  Prior reaction or intolerance to an ARB or ACEi
+
+          -  Blood pressure less than 110/70 mmHg
+
+          -  Potassium great than 5.0 mEq/L within 4 weeks of study enrollment.
+
+          -  Pregnancy or breastfeeding
+
+          -  In females of childbearing age, unwillingness to use birth control for the duration of
+             the study
+
+          -  Estimated Glomerular Filtration Rate (eGFR) of < 30ml/min/1.73 m2 within 4 weeks of
+             study initiation or history of advanced renal disease
+
+          -  AST and/or ALT > 3 times the upper limit of normal within 4 weeks of study enrollment
+
+          -  Severe volume depletion or severe acute kidney injury that, in the opinion of the
+             investigator, would preclude administration of Losartan
+
+          -  Concurrent treatment with Alikirin
+
+          -  Inability to obtain informed consent
+
+          -  Non-English speakers
+      
+
+NCT04318444
+
+        Inclusion Criteria:
+
+          -  Household contact of index case: currently residing in the same household as an
+             individual evaluated at NYP via outpatient, emergency department (ED), or inpatient
+             services who (1) test positive for COVID-19, or (2) are defined as suspected cases, or
+             persons under investigations (PUI), by the treating physician.
+
+          -  Willing to take study drug as directed for 5 days.
+
+        Exclusion Criteria:
+
+          -  Age <18 years old
+
+          -  Suspected or confirmed current COVID-19, defined as: (1) temperature > 38 Celsius; (2)
+             cough; (3) shortness of breath; (4) sore throat; or, if available (not required), (5)
+             positive confirmatory testing for COVID-19
+
+          -  Suspected or confirmed convalescent COVID-19, defined as any of the above symptoms
+             within the prior 4 weeks.
+
+          -  Inability to take medications orally
+
+          -  Inability to provide written consent
+
+          -  Known sensitivity/allergy to hydroxychloroquine
+
+          -  Current use of hydroxychloroquine for another indication
+
+          -  Pregnancy
+
+          -  Prior diagnosis of retinopathy
+
+          -  Prior diagnosis of glucose-6-phosphate dehydrogenase (G6PD) deficiency
+
+          -  Major comorbidities increasing risk of study drug including: i. Hematologic
+             malignancy, ii. Advanced (stage 4-5) chronic kidney disease or dialysis therapy, iii.
+             Known history of ventricular arrhythmias, iv. Current use of drugs that prolong the QT
+             interval
+      
+
+NCT04303299
+
+        Inclusion Criteria:
+
+          -  The subject has to grant permission to enter into the study by signing and dating the
+             informed consent form before completing any study-related procedure such as any
+             assessment or evaluation not related to the normal medical care of the subject.
+
+          -  Able to give written inform consent and retained one copy of the consent form
+
+          -  Male or female subject, aged between 16 - 100 years old.
+
+          -  Subject diagnosed to be COVID19
+
+          -  Female subject in good health and sexually active was instructed by the investigator
+             to avoid pregnancy during the study and to use condom or other contraceptive measure
+             if necessary. The subject was required to have a negative urine pregnancy test before
+             being eligible for the study. (At each of the subsequent visit, a urine pregnancy test
+             was performed).
+
+          -  Subject judged to be reliable for compliance for taking medication and capable of
+             recording the effects of the medication and motivated in receiving benefits from the
+             treatment.and compliance to quarantine procedure 7-14 days after treatment
+
+        Exclusion Criteria:
+
+          -  The subject was pregnant or lactating.
+
+          -  The subject was a female at risk of pregnancy during the study and not taking adequate
+             precautions against pregnancy.
+
+          -  The subject had a known hypersensitivity to any of the test materials or related
+             compounds.
+
+          -  The subject was unable or unwilling to comply fully with the protocol.
+
+          -  Treatment with investigational drug (s) within 6 months before the screening visit.
+
+          -  The subject had previously entered in this study.
+
+          -  Patient who planned to schedule elective surgery during the study
+
+          -  The used of other antiviral agents
+      
+
+NCT04293887
+
+        Inclusion Criteria:
+
+          1. Age ≥ 18 years;
+
+          2. Clinically diagnosed patients with new type of coronavirus pneumonia, including: in
+             accordance with the criteria for suspected cases, have one of the following etiology
+             evidence:
+
+             ① Real-time fluorescence RT-PCR of respiratory specimens or blood specimens for
+             detection of new coronavirus nucleic acid;
+
+             ② Sequencing of viral genes in respiratory specimens or blood specimens, highly
+             homologous to known new coronavirus
+
+          3. The time interval between the onset of symptoms and random enrollment is within 7
+             days. The onset of symptoms is mainly based on fever. If there is no fever, cough,
+             diarrhea or other related symptoms can be used.
+
+        Exclusion Criteria:
+
+          1. Any situation where the programme cannot be carried out safely;
+
+          2. Patients who have used interferon or remedesivir;
+
+          3. No clinical manifestations and chest imaging findings
+
+          4. Known allergy or hypersensitivity to interferon (including asthma);
+
+          5. Disabled in patients with uncontrolled autoimmune diseases;
+
+          6. Patients with severe heart disease, decompensated liver disease, renal insufficiency
+             (CrCL <50ml / min), and those with abnormal bone marrow function are prohibited;
+
+          7. Epilepsy and impaired central nervous system function;
+
+          8. Pregnancy: Positive pregnancy test for women of childbearing age;
+
+          9. Breastfeeding women have not stopped breastfeeding;
+
+         10. The patient may be transferred to a non-participating hospital within 72 hours.
+      
+
+NCT04319016
+
+        Inclusion Criteria:
+
+          -  pregnant women with laboratory-confirmed 2019-n-CoV
+      
+
+NCT04304053
+
+        Inclusion Criteria for a case:
+
+          1. Patients who meet the requirements of the New Coronavirus Infection Diagnosis (Acute
+             respiratory infection symptoms or acute cough alone and positive PCR)
+
+          2. Aged ≥18 years male or female;
+
+          3. In women of childbearing potential, negative pregnancy test and commitment to use
+             contraceptive method throughout the study.
+
+          4. Willing to take study medication
+
+          5. Willing to comply with all study procedures, including repeat nasal swab at day 3
+
+          6. Able to provide oral and written informed consent
+
+        Exclusion Criteria for a case:
+
+          1. Serious condition meeting one of the following: (1) respiratory distress with
+             respiratory rate >=30 breaths/min; (2) oxygen saturation<=93% on quiet status; (3)
+             Arterial partial pressure of oxygen (PaO2)/oxygen concentration<=300mmHg;
+
+          2. Critically ill patients meeting one of the following: (1) Experience respiratory
+             failure and need to receive mechanical ventilation; (2) Experience shock; (3)
+             Complicated with other organs failure and need intensive care and therapy in ICU;
+
+          3. Participants under treatment with medications likely to interfere with experimental
+             drugs
+
+          4. Unable to take drugs by mouth;
+
+          5. With significantly abnormal liver function (Child Pugh C)
+
+          6. Need of dialysis treatment, or GFR≤30 mL/min/1.73 m2;
+
+          7. Participants with psoriasis, myasthenia, haematopoietic and retinal
+             diseases,CNS-related hearing loss or glucose-6-phosphate dehydrogenase deficit
+
+          8. Participants with severe neurological and mental illness;
+
+          9. Pregnant or lactating women;
+
+         10. Inability to consent and/or comply with study protocol;
+
+         11. Individuals with known hypersensitivity to the study drugs.
+
+         12. Persons already treated with any of the study drugs during the last 30 days.
+
+         13. Concomitant administration of enzyme inducers (such as carbamazepine) which could lead
+             to ineffectiveness of darunavir; and those who receive CYP3A4 substrates (such as
+             statins) because of the risk of increased toxicity.
+
+         14. HIV patients (because these are already on antiretroviral treatment)
+
+         15. Any contraindications as per the Data Sheet of Rezolsta or Hydroxychloroquine.
+
+        Inclusion Criteria for a contact:
+
+          1. Patients who meet the definition of a contact according to the Catalan Public Health
+             Department Guidelines
+
+          2. Aged ≥18 years male or female;
+
+          3. In women of childbearing potential, negative pregnancy test and commitment to use
+             contraceptive method throughout the study.
+
+          4. Willing to take study medication;
+
+          5. Willing to comply with all study procedures;
+
+          6. Able to provide oral, informed consent and/or assent.
+
+        Exclusion Criteria for a contact:
+
+          1. With known history of cardiac arrhythmia (or QT prolongation syndrome);
+
+          2. Unable to take drugs by mouth;
+
+          3. With significantly abnormal liver function (Child Pugh C)
+
+          4. Need of dialysis treatment, or GFR≤30 mL/min/1.73 m2;
+
+          5. Participants with psoriasis, myasthenia, haematopoietic and retinal
+             diseases,CNS-related hearing loss or glucose-6-phosphate dehydrogenase deficit;
+
+          6. Persons already treated with any of the study drugs during the last 30 days;
+
+          7. Pregnant or lactating women;
+
+          8. Any contraindications as per the Data Sheet of Hydroxychloroquine.
+      
+
+NCT04273581
+
+        Inclusion Criteria:
+
+          1. Age ≥18 years;
+
+          2. The laboratory (RT-PCR) confirmed the diagnosis of severe patients infected with
+             CoVID-19 (refer to the fifth edition of the Chinese diagnosis and treatment guideline
+             for trial); the diagnosis of new coronavirus pneumonia was confirmed, and any of the
+             following: 1) Respiratory distress, breathing ≥30 beats / min; 2) In the resting
+             state, the oxygen saturation is ≤93%; 3) Arterial blood oxygen partial pressure /
+             oxygen concentration ≤300mmHg
+
+          3. The diagnosis is less than or equal to 12 days;
+
+        Exclusion Criteria:
+
+          1. Severe liver disease (such as Child Pugh score ≥ C, AST> 5 times the upper limit);
+             severe renal dysfunction (the glomerulus is 30ml / min / 1.73m2 or less)
+
+          2. Pregnancy or breastfeeding or positive pregnancy test;
+
+          3. In the 30 days before the screening assessment, have taken any experimental treatment
+             drugs for CoVID-19 (including off-label, informed consent use or trial-related);
+
+          4. Those with a history of thromboembolism, except for those caused by PICC.
+      
+
+NCT04292964
+
+        Inclusion Criteria:
+
+          -  Adult aged >=18years old;
+
+          -  Diagnosed with CONVID19. Diagnostic criteria including: Laboratory (RT-PCR) confirmed
+             SARS-Cov-2 infection; CT of the lung conformed to the manifestation of viral
+             pneumonia.
+
+          -  Criteria for severe or critical ill conditions: Respiratory rate >=30/min; or Rest
+             SPO2<=93%; or PaO2/FiO2<=300mmHg.
+
+        Exclusion Criteria:
+
+          -  Near-death state (expected survival time less than 24 hours);
+
+          -  Malignant tumor;
+
+          -  Pregnancy or puerperium women;
+
+          -  Patients who refused to participant.
+      
+
+NCT04279899
+
+        Inclusion Criteria:
+
+          -  The neonates with COVID-19,or neonates born by infected mothers
+
+        Exclusion Criteria:
+
+          -  The neonates with major anomalies
+      
+
+NCT04275245
+
+        Inclusion Criteria:
+
+          -  Men and women aged 18 to 75 years (inclusive)
+
+          -  In line with the new coronavirus infection pneumonia diagnosis and treatment plan
+             (trial version 4) issued by the Health Commission, patients with new coronavirus (2019
+             ncov) pneumonia were clinically diagnosed;
+
+          -  The subjects must be able to understand the study and willing to participate in the
+             study, and sign the informed consent (if the subjects with no behavioral ability think
+             it is in their own interests to participate in the test, they should sign the informed
+             consent by their legal guardian, or notify the consent by phone (recording) and
+             explain it in the original medical record and other relevant documents).
+
+        Exclusion Criteria:
+
+          -  Known or expected to have allergic reactions or a history of allergy to any of the
+             ingredients treated in this trial;
+
+          -  In the judgment of the investigator, there are other reasons that the patient is not
+             suitable to participate in this study.
+      
+
+NCT03680274
+
+        Inclusion Criteria:
+
+          1. Admitted to the intensive care unit with proven or suspected infection as the main
+             diagnosis;
+
+          2. Currently treated with a continuous IV infusion of vasopressors (norepinephrine,
+             epinephrine, vasopressin, dopamine, phenylephrine).
+
+        Exclusion Criteria:
+
+          1. > 24 hours of intensive care unit admission;
+
+          2. Known Glucose-6-phosphate dehydrogenase (G6PD) deficiency;
+
+          3. Pregnancy;
+
+          4. Known allergy to vitamin C;
+
+          5. Known kidney stones within the past 1 year;
+
+          6. Received any intravenous vitamin C during this hospitalization unless incorporated in
+             parenteral nutrition;
+
+          7. Expected death or withdrawal of life-sustaining treatments within 48 hours;
+
+          8. Previously enrolled in this study;
+
+          9. Previously enrolled in a trial with which co-enrolment is not allowed.
+
+        The LOVIT trial has broad eligibility criteria and includes patients with a primary
+        diagnosis of sepsis (including sepsis caused by viral pathogens as COVID-19).
+      
+
+NCT04308668
+
+        Inclusion Criteria:
+
+          -  Exposure to a COVID19 case within 3 days as either a healthcare worker or household
+             contact
+
+          -  Provision of informed consent
+
+        Exclusion Criteria:
+
+          -  Symptomatic COVID19 disease
+
+          -  Current Symptoms of: Fever, Cough, or Shortness of Breath
+
+          -  Contraindication or allergy to hydroxychloroquine
+
+          -  Retinal eye disease
+
+          -  Known glucose-6 phosphate dehydrogenase (G-6-PD) deficiency
+
+          -  Known chronic kidney disease, stage 4 or 5 or receiving dialysis
+
+          -  Weight < 40 kg
+
+          -  Current use of: hydroxychloroquine or cardiac medicines of: flecainide, Tambocor;
+             amiodarone, Cordarone, Pacerone; digoxin or Digox, Digitek, Lanoxin; procainamide or
+             Procan, Procanbid, propafenone, Rythmal)
+      
+
+NCT04314232
+
+        Inclusion Criteria:
+
+          -  All patients >18 years of age with a positive test for SARS-CoV2 are eligble for
+             inclusion.
+
+          -  Healty age-matched volunteers will be included as a control group
+
+        Exclusion Criteria:
+
+          -  None
+      
+
+NCT04273646
+
+        Inclusion Criteria:
+
+          1. CT image is characteristic of viral pneumonia;
+
+          2. 2019-ncov infection (positive nucleic acid test) is confirmed by pathogenic test;
+
+          3. In compliance with the 2019-nCoV infection severe pneumonia diagnosis standard
+             (according to the novel coronavirus infection pneumonia diagnosis and treatment
+             program (Trial Implementation Version 5) issued by the National Health and Medical
+             Commission, and WHO 2019 new coronavirus guidelines standards). It is severe if it
+             meets any of the following: (A) Increased breathing rate (≥30 beats / min), difficulty
+             breathing, cyanosis of the lips; (B) When inhaling, means oxygen saturation ≤93%; (C)
+             Partial pressure of arterial oxygen (PaO2) / Fraction of inspired oxygen (FiO2) ≤300
+             mmHg (1mmHg = 0.133kPa);
+
+          4. 18 years old ≤ age ≤ 65 years old, regardless of gender;
+
+          5. The patient or legal donor agrees to participate in the study and signs the informed
+             consent.
+
+        Exclusion Criteria:
+
+          1. Patients with severe allergies or allergies to stem cell preparations and their
+             components;
+
+          2. Patients with serious basic diseases that affect survival, including: blood diseases,
+             cachexia, active bleeding, severe malnutrition, etc .;
+
+          3. Patients with pulmonary obstructive pneumonia, severe pulmonary interstitial fibrosis,
+             alveolar proteinosis, allergic alveolitis, and other known viral pneumonia or
+             bacterial pneumonia;
+
+          4. Continuous use of immunosuppressive agents or organ transplants in the past 6 months;
+
+          5. In vitro life support (ECMO, ECCO2R, RRT);
+
+          6. Expected deaths within 48 hours, uncontrolled infections;
+
+          7. Patients with malignant blood-borne diseases such as HIV or syphilis;
+
+          8. Patient with pregnancy, are planning to become pregnant or breastfeeding;
+
+          9. Patients with poor compliance and unable to complete the full study;
+
+         10. The investigator determines that there may be increased risk of the subject or other
+             conditions that interfere with the clinical trial and the judgment of the results
+             (such as excessive stress, sensitivity or cognitive impairment, etc.);
+
+         11. There are other situations that the researchers think are not suitable to participate
+             in this clinical study.
+      
+
+NCT04316949
+
+        Inclusion Criteria:
+
+          -  Hospitalized patients with microbiologically confirmed diagnosis of SARS-CoV-2
+             infection
+
+          -  Age > 17 years
+
+        Exclusion Criteria:
+
+          -  Invasive mechanical ventilation within 12 hours from hospital admission
+      
+
+NCT04315298
+
+        Key Inclusion Criteria:
+
+          -  Laboratory-confirmed SARS-CoV-2 infection as determined by polymerase chain reaction
+             (PCR) or other commercial or public health assay
+
+          -  Hospitalized with illness of any duration with evidence of pneumonia and severe
+             disease, critical disease, or multi-system organ dysfunction at baseline
+
+          -  Ability to provide informed consent signed by study patient or legally acceptable
+             representative
+
+          -  Willingness and ability to comply with study-related procedures/assessments
+
+        Key Exclusion Criteria:
+
+          -  In the opinion of the investigator, unlikely to survive for >48 hours from screening
+
+          -  Presence of any of the following abnormal laboratory values at screening: absolute
+             neutrophil count (ANC) less than 2000 mm3, aspartate aminotransferase (AST) or alanine
+             aminotransferase (ALT) greater than 5 x upper limit of normal (ULN), platelets <50,000
+             per mm3
+
+          -  Treatment with anti-IL 6, anti-IL-6R antagonists, or with Janus kinase inhibitors
+             (JAKi) in the past 30 days or plans to receive during the study period
+
+          -  Current treatment with conventional synthetic disease-modifying antirheumatic drugs
+             (DMARDs)/immunosuppressive agents
+
+          -  Use of chronic oral corticosteroids for a non-COVID-19-related condition in a dose
+             higher than prednisone 10 mg or equivalent per day
+
+          -  History of, or current autoimmune or inflammatory systemic or localized disease(s)
+             other than rheumatoid arthritis
+
+          -  Known active tuberculosis (TB), history of incompletely treated TB, suspected or known
+             extrapulmonary TB, suspected or known systemic bacterial or fungal infections
+
+          -  Patients who have received immunosuppressive antibody therapy within the past 5
+             months, including intravenous immunoglobulin or plans to receive during the study
+             period
+
+          -  Participation in any clinical research study evaluating an investigational product
+             (IP) or therapy within 3 months and less than 5 half-lives of IP prior to the
+             screening visit (The use of remdisivir in the context of a single-arm remdisivir
+             compassionate use protocol is permitted)
+
+          -  Any physical examination findings and/or history of any illness that, in the opinion
+             of the study investigator, might confound the results of the study or pose an
+             additional risk to the patient by their participation in the study
+
+        NOTE: Other protocol defined inclusion / exclusion criteria may apply
+      
+
+NCT04279197
+
+        Inclusion Criteria:
+
+          -  Patients with pulmonary fibrosis after standard treatment of COVID-19
+
+          -  Age 18-65
+
+          -  2019-nCoV nucleic acid negative in respiratory tract or blood samples were detected by
+             real-time fluorescence PCR for more than 2 times
+
+          -  The patient did not participant in other drug clinical studies within 1 month.
+
+          -  The patient or the patient's guardian agrees to participate the trial and sign the
+             informed Consent Form
+
+        Exclusion Criteria:
+
+          -  Gestation or lactation period women and women who plan to get pregnant during the
+             study period
+
+          -  Those who are unable to communicate, such as patients in unconsciousness or with
+             dementia, various mental , etc.
+
+          -  Severe background disease like severe cardiac insufficiency (cardiac function grade
+             IV), severe liver and kidney diseases, bronchial asthma, COPD, neurological diseases,
+             tumors,etc.
+
+          -  Long-term bedridden for various reasons
+
+          -  Patient who are allergy to the experimental drug
+      
+
+NCT04302519
+
+        Inclusion Criteria:
+
+          -  1. Age ≥ 18, age ≤ 75, gender unlimited;
+
+          -  2. novel coronavirus diagnosed severe pneumonia and confirmed no effective treatment
+             plan. (severe patients meet any of the following: (1) respiratory distress, RR > 30
+             times / minute; (2) resting state, oxygen saturation is less than 93%; (3) arterial
+             oxygen partial pressure (PaO2) / oxygen inhalation (FiO2) is less than 300 mmHg (1mm
+             Hg=0.133 kPa).
+
+          -  3. Those who voluntarily participate in the clinical study and can cooperate with
+             researchers to carry out the study, and the patients themselves or their legal
+             representatives voluntarily sign the informed consent.
+
+        Exclusion Criteria:
+
+          -  1. Patients with autoimmune diseases in the past or screening;
+
+          -  2. Those who have serious basic diseases that affect their survival, including:
+             malignant tumor, hematopathy, malignant fluid, active hemorrhage, severe malnutrition,
+             etc. which have not been controlled and can not be removed due to multiple metastasis;
+
+          -  3. Known or self-reported HIV or syphilis infected persons;
+
+          -  4. Have participated in stem cell clinical research;
+
+          -  5. Pregnant or lactating women or those who have fertility plans in the past year;
+
+          -  6. The estimated life cycle is less than 48 hours;
+
+          -  7. Those who participated in other clinical trials within 3 months before screening;
+
+          -  8. Other conditions that the researcher thinks are not suitable for participating in
+             the experiment.
+      
+
+NCT04292730
+
+        Key Inclusion Criteria:
+
+          -  Willing and able to provide written informed consent prior to performing study
+             procedures
+
+          -  Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV)-2 infection confirmed by
+             polymerase chain reaction (PCR) test ≤ 4 days before randomization
+
+          -  Currently hospitalized with fever defined as temperature ≥ 36.6 °C armpit, ≥ 37.2 °C
+             oral, or ≥ 37.8 °C rectal
+
+          -  Peripheral capillary oxygen saturation (SpO2) > 94% on room air at screening
+
+          -  Radiographic evidence of pulmonary infiltrates
+
+        Key Exclusion Criteria:
+
+          -  Participation in any other clinical trial of an experimental treatment for COVID-19
+
+          -  Concurrent treatment with other agents with actual or possible direct acting antiviral
+             activity against SARS-CoV-2 is prohibited < 24 hours prior to study drug dosing
+
+          -  Requiring mechanical ventilation at screening
+
+          -  Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit
+             of normal (ULN)
+
+          -  Creatinine clearance < 50 mL/min
+
+        Note: Other protocol defined Inclusion/Exclusion criteria may apply.
+      
+
+NCT04276688
+
+        Inclusion Criteria:
+
+          1. Recruited subjects include all adult patients ≥18 years hospitalised for virologically
+             confirmed 2019-n-CoV infection.
+
+          2. NEWS of ≥1 upon recruitment
+
+          3. Auditory temperature ≥38°C with at least one of the following symptoms (cough, sputum
+             production, sore-throat, nasal discharge, myalgia, headache or fatigue) upon admission
+
+          4. Symptom duration ≤10 days
+
+          5. All subjects give written informed consent.
+
+          6. Subjects must be available to complete the study and comply with study procedures.
+             Willingness to allow for serum samples to be stored beyond the study period, for
+             potential additional future testing to better characterize immune response.
+
+        Exclusion Criteria:
+
+          1. Inability to comprehend and to follow all required study procedures.
+
+          2. Allergy or severe reactions to the study drugs
+
+          3. Patients with known prolonged QT or PR interval, second- or third-degree heart block,
+             or ventricular cardiac arrhythmias, including torsade de pointes
+
+          4. Patients taking medication that will potentially interact with lopinavir/ ritonavir,
+             ribavirin or interferon-beta1b
+
+          5. Patients with known history of severe depression
+
+          6. Pregnant or lactation women
+
+          7. Inability to comprehend and to follow all required study procedures
+
+          8. Received an experimental agent (vaccine, drug, biologic, device, blood product, or
+             medication) within 1 month prior to recruitment in this study or expect to receive an
+             experimental agent during this study. Unwilling to refuse participation in another
+             clinical study through the end of this study.
+
+          9. Have a history of alcohol or drug abuse in the last 5 years.
+
+         10. Have any condition that the investigator believes may interfere with successful
+             completion of the study.
+      
+
+NCT04311177
+
+        Inclusion Criteria:
+
+          -  Presumptive positive laboratory test for SARS-CoV-2 or upper respiratory infection
+             with recent exposure to laboratory-proven SARS-CoV-2-infected person
+
+          -  Negative influenza and respiratory virus panel
+
+          -  Randomization within 48 hours of meeting inclusion criteria
+
+        Exclusion Criteria:
+
+          -  Currently taking an angiotensin converting enzyme inhibitor (ACEi) or Angiotensin
+             receptor blocker (ARB)
+
+          -  Prior reaction or intolerance to an ARB or ACEi
+
+          -  Potassium great than 5.0 mEq/L within 4 weeks of study enrollment
+
+          -  Pregnancy or breastfeeding
+
+          -  Females of childbearing age
+
+          -  Estimated Glomerular Filtration Rate (eGFR) of < 30ml/min/1.73 m2 within 4 weeks of
+             study initiation or history of advanced renal disease
+
+          -  AST and/or ALT > 3 times the upper limit of normal within 4 weeks of study enrollment
+
+          -  Concurrent treatment with Alikirin
+
+          -  Inability to obtain informed consent
+
+          -  Non-English speakers
+      
+
+NCT04290858
+
+        Inclusion Criteria:
+
+          1. Laboratory confirmed COVID19 infection defined with a positive RT-PCR from any
+             specimen.
+
+          2. Hospital admission with at least one of the following:
+
+               -  fever ≥ 36.6 °C from axillary site; or ≥ 37.2°C from oral site; or ≥ 37.6°C from
+                  tympanic or rectal site.
+
+               -  Respiratory rate ≥ 24 bpm
+
+               -  cough
+
+          3. Spontaneous breathing with or without hypoxia of any degree. Gas exchange and
+             ventilation maybe assisted by any continuous continuous airway pressure (CPAP), or any
+             system of Non Invasive Ventilation (NIV), with Positive End-Expiratory Pressure (PEEP)
+             ≤ 10 cmH2O.
+
+          4. ≤ 8 days since onset of the symptoms
+
+        Exclusion Criteria:
+
+          1. Pregnancy, or positive pregnancy test in a predose examination
+
+          2. Open tracheostomy
+
+          3. Therapy with high flow nasal cannula
+
+          4. Clinical controindication, as deemed by the attending physician
+      
+
+NCT04273321
+
+        Inclusion Criteria:
+
+          -  age more than 18 years old
+
+          -  accord with the clinical diagnosis and/ or etiological diagnosis diagnostic criteria
+             of Novel coronavirus pneumonia (COVID-19).
+
+          -  admitted in the general wards
+
+          -  be able to sign informed consent
+
+        Exclusion Criteria:
+
+          -  severe immunosuppression (HIV infection, long-term use of immunosuppressive agents
+
+          -  pregnant or lactation period women
+
+          -  glucocorticoids are needed for other diseases
+
+          -  unwilling or unable to participate or complete the study
+
+          -  participate in other study
+      
+
+NCT04298814
+
+        Inclusion Criteria:
+
+          -  Wuhan residents;
+
+          -  novel coronavirus pneumonia was found to be characterized by fever and cough.
+             Laboratory tests revealed leukocyte or lymphocyte decrease, chest CT examination
+             showed viral pneumonia changes, and was diagnosed as COVID-19 pneumonia according to
+             the national health and Health Committee's new coronavirus pneumonia diagnosis and
+             treatment plan (trial version fifth Revision).
+
+          -  Severe and critical patients with covid-19 pneumonia in urgent need of tracheal
+             intubation;
+
+          -  Sign informed consent.
+
+        Exclusion Criteria:
+
+          -  Suspected patients with covid-19 pneumonia;
+
+          -  Patients who need emergency endotracheal intubation due to other causes of respiratory
+             failure;
+
+          -  The family refused to sign the informed consent.
+      
+
+NCT04290871
+
+        Inclusion Criteria:
+
+          1. Age ≥18 years
+
+          2. Laboratory (RT-PCR) confirmed infection with 2019-nCoV
+
+          3. PaO2/FiO2 < 300 or SpO2 below 93% breathing ambient air
+
+        Exclusion Criteria:
+
+          1. Physician makes a decision that trial involvement is not in the patient's best
+             interest, or any condition that does not allow the protocol to be followed safely
+
+          2. Pregnant or positive pregnancy test in a pre-dose examination
+
+          3. Use of high flow nasal cannula
+      
+
+NCT04313946
+
+        Inclusion Criteria:
+
+          -  flu-like symptoms: myalgia, cough, fever, sputum
+
+          -  Chest X-Rays
+
+          -  COVID-19 biological tests
+
+        Exclusion Criteria:
+
+          -  patient refusal
+
+          -  uncertain radiographs
+
+          -  uncertain tests results
+      
+
+NCT04306393
+
+        Inclusion Criteria:
+
+          -  >/= 18 years old
+
+          -  ICU admission
+
+          -  Intubation and mechanical ventilation
+
+          -  Positivity of 2019-nCoV rt-PCR
+
+          -  PaO2/FiO2 ratio < 300 mmHg
+
+        Exclusion Criteria:
+
+          -  patients intubated for 72 hours or more from initiation of the treatment gas
+
+          -  physician being contrary to the involvement as participating in the trial is not in
+             the patient's best interest, or any condition that does not allow the protocol to be
+             followed safely
+
+          -  pregnancy
+      
+
+NCT04279782
+
+        Inclusion Criteria:
+
+          1. Epidemiological history including resident of Hubei province, or travel history to
+             Hubei province or exposure to suspected patients in the past two weeks.
+
+          2. Symptoms like fever, fatigue, myalgia, headache, cough, sputum production, chest
+             tightness, dyspnea, etc.
+
+          3. White blood cells decreased or were normal, or lymphocytes decreased, and chest CT
+             images showed typical findings of viral pneumonia.
+
+        Exclusion Criteria:
+
+          1. Patients can not follow-up;
+
+          2. Investigator considering inappropriate.
+      
+
+NCT04261907
+
+        Inclusion Criteria:
+
+          -  1. Aged between 18 and 75 years, extremes included, male or female
+
+          -  2. Laboratory (RT-PCR) and clinical symptoms confirmed case of 2019-nCoV pneumonia,
+             according to the official guideline "Pneumonia Diagnosis and Treatment Scheme for
+             Novel Coronavirus Infection (Trial Version 5)"
+
+          -  3. Hospitalised with a new onset respiratory illness (≤7 days since illness onset)
+
+          -  4. No family planning within six months, and agree to take effective contraceptive
+             measures throughout the study and for at least 30 days after the final study drug dose
+
+          -  5. Must agree not to enroll in another study of an investigational agent prior to
+             completion of Day 30 of study
+
+          -  6. Informed Consent Form (ICF) signed voluntarily
+
+        Exclusion Criteria:
+
+          -  1. Severe 2019-nCoV pneumonia met one of the following criteria: respiratory distress,
+             RR ≥ 30 times / min, or SaO2 / SpO2 ≤ 93% in resting state, or arterial partial
+             pressure of oxygen (PaO2) /concentration of oxygen (FiO2) ≤ 300mmHg (1mmHg = 0.133kpa)
+
+          -  2. Critical severe 2019-nCoV pneumonia met one of the following criteria: respiratory
+             failure and mechanical ventilation required, or shock, or combined with other organ
+             failure required ICU monitoring treatment
+
+          -  3. Severe liver disease (e.g. Child Pugh score ≥ C, AST > 5 times upper limit)
+
+          -  4. Known allergic reaction to any of components of ASC09 / ritonavir compound tablets
+
+          -  5. Patients with definite contraindications in the label of ritonavir
+
+          -  6. Positive serum pregnancy test result for women with childbearing potential at
+             screening
+
+          -  7. Using HIV protease inhibitor drugs
+
+          -  8. Not suitable for the study, in the opinion of the Investigator (e.g. patient may be
+             transferred to another hospital during the study period, patient with multiple basic
+             diseases, etc.)
+      
+
+NCT04292327
+
+        Inclusion criteria.
+
+          1. 2019-nCov (SARA-Cov-2) nucleic acid positive detected by PCR.
+
+          2. Older than 18 years old and younger than 75 years old.
+
+          3. Meet the diagnostic criteria of COVID-19 for different types (including ordinary type,
+             heavy type and critical type)
+
+        Exclusion criteria.
+
+          1. the age is less than 18 years old;
+
+          2. pregnant or lactating women;
+
+          3. severe underlying diseases, such as advanced malignant tumor, end-stage lung disease,
+             etc.
+      
+
+NCT04252664
+
+        Inclusion Criteria:
+
+          1. Age ≥18 years at time of signing Informed Consent Form
+
+          2. Laboratory (RT-PCR) confirmed infection with 2019-nCoV.
+
+          3. Lung involvement confirmed with chest imaging
+
+          4. Hospitalised with:
+
+               -  Fever - ≥36.7℃ -axilla or Oral temperature ≥ 38.0 ℃ or ≥38.6°C tympanic or rectal
+                  or
+
+               -  And at least one of Respiratory rate >24/min Or Cough
+
+          5. ≤8 days since illness onset
+
+          6. Willingness of study participant to accept randomization to any assigned treatment
+             arm.
+
+          7. Must agree not to enroll in another study of an investigational agent prior to
+             completion of Day 28 of study.
+
+        Exclusion Criteria:
+
+          1. Physician makes a decision that trial involvement is not in patients' best interest,
+             or any condition that does not allow the protocol to be followed safely.
+
+          2. Severe liver disease (e.g. Child Pugh score ≥ C, AST>5 times upper limit)
+
+          3. SaO2/SPO2≤94% in room air condition, or the Pa02/Fi02 ratio <300mgHg
+
+          4. Known allergic reaction to remdesivir
+
+          5. Patients with known severe renal impairment (estimated glomerular filtration rate ≤30
+             mL/min/1.73 m2) or receiving continuous renal replacement therapy, hemodialysis,
+             peritoneal dialysis
+
+          6. Pregnant or breastfeeding, or positive pregnancy test in a predose examination
+
+          7. Will be transferred to another hospital which is not the study site within 72 hours.
+
+          8. Receipt of any experimental treatment for 2019-nCoV (off-label, compassionate use, or
+             trial related) within the 30 days prior to the time of the screening evaluation.
+      
+
+NCT04319315
+
+        Inclusion Criteria:
+
+          -  Medical Physicians in Middle East area
+
+        Exclusion Criteria:
+
+          -  none
+      
+
+NCT04321265
+
+        Inclusion Criteria:
+
+          1. Age > 70 years
+
+          2. ICU-Admission
+
+          3. Infection or suspected infection with SARS-CoV-2
+
+        Exclusion Criteria:
+
+        1. Age <70 years
+      
+
+NCT04252274
+
+        Inclusion Criteria:
+
+          -  The participants were diagnosed as pneumonia caused by 2019-nCoV, according to the
+             notice on printing and distributing the diagnosis and treatment plan of pneumonia with
+             new coronavirus infection (trial version 4 or update version) made by National Health
+             Commission of the People's Republic of China.
+
+          -  Written the informed consent
+
+        Exclusion Criteria:
+
+          -  Hypersensitivity to darunavir, colibrestat, or any excipients
+
+          -  Patients with severe liver injury (Child-Pugh Class C)
+
+          -  Concomitant medications that are highly dependent on CYP3A clearance, and the elevated
+             plasma concentrations are associated with serious or life-threatening events.
+
+          -  Subjects were considered to be unable to complete the study, or not suitable for the
+             study by researchers
+
+        Exit criteria:
+
+          -  Subjects asked to withdraw the study
+
+          -  Subject will benefit if withdraw according to researchers' suggestions
+      
+
+NCT04305106
+
+        Inclusion Criteria:
+
+          1. Age: 18-80 years old, male and female;
+
+          2. Covid-19 confirmed cases;
+
+          3. Comply with any of the following:
+
+               -  Dyspnea, RR ≥ 30 times / min;
+
+                    -  In resting state, transcutaneous oxygen saturation ≤ 93%;
+
+                         -  Oxygenation index (PaO2 / FiO2) < 300MMHG;
+
+          4. Pulmonary imaging showed diffuse exudative lesions.
+
+        Exclusion Criteria:
+
+          1. Unable to obtain informed consent;
+
+          2. Patients with severe liver dysfunction (Child Pugh score ≥ C, or AST > 5 times of the
+             upper limit), severe renal dysfunction (estimated glomerular filtration rate ≤ 30ml /
+             min / 1.73 m2), or continuous renal replacement therapy, hemodialysis, peritoneal
+             dialysis;
+
+          3. Patients with hypertension and unsatisfactory control of antihypertensive drugs
+             (sitting systolic blood pressure > 160mmHg, or diastolic blood pressure > 100mmHg) had
+             a history of hypertension crisis or hypertensive encephalopathy;
+
+          4. Patients with heart disease or clinical symptoms that can not be well controlled, such
+             as NYHA class II or above of cardiac insufficiency, unstable angina, myocardial
+             infarction within one year, supraventricular or ventricular arrhythmias need treatment
+             or intervention;
+
+          5. Those with known hereditary bleeding tendency or coagulation dysfunction, those who
+             had received full dose anticoagulant or thrombolytic therapy in the first 10 days of
+             the group, or those who had taken nonsteroidal anti-inflammatory drugs with platelet
+             inhibition in the first 10 days of the group (except those who had preventive use of
+             low-dose aspirin ≤ 325mg / day);
+
+          6. In the first 6 months of the group, the patients who had thrombosis, such as ischemic
+             stroke, transient ischemic attack, deep vein thrombosis, pulmonary embolism and other
+             thrombotic diseases, and in the first 6 months of the group, the patients who had
+             serious angiopathy (including aneurysms or arterial thrombosis requiring surgical
+             treatment) were screened;
+
+          7. Patients with unhealed wounds, active gastric ulcer or fracture; patients with
+             gastrointestinal perforation, gastrointestinal fistula, abdominal abscess and internal
+             fistula in the first 6 months of the group; patients with major surgical history
+             (including thoracotomy biopsy), major trauma (such as fracture) or possible surgery in
+             the course of participating in the trial within 28 days before the group;
+
+          8. There were hemoptysis, gastrointestinal bleeding, central nervous system bleeding,
+             nose bleeding and other serious and active bleeding patients within one month before
+             admission;
+
+          9. There were malignant tumors in the past 5 years;
+
+         10. Those allergic to bevacizumab and its components;
+
+         11. Untreated active hepatitis patients and HIV positive patients;
+
+         12. Pregnant women, lactating women and planned pregnant women;
+
+         13. Have participated in other clinical trials or the researchers think it is not suitable
+             to participate in this study.
+      
+
+NCT04257656
+
+        Inclusion Criteria:
+
+          1. Age ≥18 years at time of signing Informed Consent Form
+
+          2. Laboratory (RT-PCR) confirmed infection with 2019-nCoV.
+
+          3. Lung involvement confirmed with chest imaging
+
+          4. Hospitalized with a SaO2/SPO2≤94% on room air or Pa02/Fi02 ratio <300mgHg
+
+          5. ≤12 days since illness onset
+
+          6. Willingness of study participant to accept randomization to any assigned treatment
+             arm.
+
+          7. Must agree not to enroll in another study of an investigational agent prior to
+             completion of Day 28 of study.
+
+        Exclusion Criteria:
+
+          1. Physician makes a decision that trial involvement is not in patients' best interest,
+             or any condition that does not allow the protocol to be followed safely.
+
+          2. Severe liver disease (e.g. Child Pugh score ≥ C, AST>5 times upper limit)
+
+          3. Pregnant or breastfeeding, or positive pregnancy test in a predose examination
+
+          4. Patients with known severe renal impairment (estimated glomerular filtration rate ≤30
+             mL/min/1.73 m2) or receiving continuous renal replacement therapy, hemodialysis,
+             peritoneal dialysis
+
+          5. Will be transferred to another hospital which is not the study site within 72 hours.
+
+          6. Receipt of any experimental treatment for 2019-nCoV (off-label, compassionate use, or
+             trial related) within the 30 days prior to the time of the screening evaluation.
+      
+
+NCT04279795
+
+        Inclusion Criteria:
+
+          1. Epidemiological history including resident of Hubei province, or travel history to
+             Hubei province or exposure to suspected patients in the past two weeks.
+
+          2. Symptoms like fever, fatigue, myalgia, headache, cough, sputum production, chest
+             tightness, dyspnea, etc.
+
+          3. White blood cells decreased or were normal, or lymphocytes decreased, and chest CT
+             images showed typical findings of viral pneumonia.
+
+          4. Detection of 2019 Novel Coronavirus nucleic acid is positive by local Center for
+             Disease Control and Prevention (CDC).
+
+        Exclusion Criteria:
+
+          1. Patients can not follow-up;
+
+          2. Investigator considering inappropriate.
+      
+
+NCT04318431
+
+        Inclusion Criteria:
+
+          -  Asymptomatic children:
+
+          -  Age between 6 months and 15 years
+
+          -  Carrying out a visit within the framework defined by the learned societies and
+             professional organisations representative of paediatrics in France, i.e. :
+
+          -  The consultation of the first month and all consultations involving compulsory
+             vaccinations (2, 4, 5, 11, 12, 16 months).
+
+          -  Consultations for acute pathologies, infectious or not.
+
+          -  Monitoring of chronic diseases that warrant clinical examination (the majority of
+             which can be carried out by telemedicine) or in the case of acute exacerbation.
+
+          -  In one of the participating outpatient centres
+
+          -  During the study period
+
+          -  With a clinical examination that does not reveal any progressive infectious pathology
+
+          -  Pauci-symptomatic children
+
+          -  Age between 6 months and 15 years,
+
+          -  Consultant at one of the participating outpatient centres
+
+          -  During the study period
+
+          -  And presenting with a mild respiratory infection:
+
+          -  Rhinopharyngitis,
+
+          -  Acute otitis media,
+
+          -  Angina,
+
+          -  Bronchitis
+
+          -  Acceptance to participate in the protocol by one of the holders of parental authority
+
+          -  Affiliated to a social security
+
+        Exclusion Criteria:
+
+          -  Refusal to participate in the study
+      
+
+NCT04311398
+
+        Inclusion Criteria:
+
+          -  Patients went to the fever clinic with respiratory infectious symptoms
+
+        Exclusion Criteria:
+
+          -  none
+      
+
+NCT04308187
+
+        Inclusion Criteria:
+
+          -  Anyone volunteer to participate
+
+        Exclusion Criteria:
+
+          -  Anyone non-voluntary to participate
+      
+
+NCT04307459
+
+        Inclusion Criteria:
+
+          -  Patients that can give written or oral informed consent
+
+          -  patients with microbiological diagnosis (i.e. rhinopharyngeal swab) of SARS-CoV2
+             infection
+
+        Exclusion Criteria:
+
+          -  severe cognitive impairment
+
+          -  absolute contraindication to non invasive ventilation or cpap therapy
+
+          -  rhinopharyngeal swab negative for SARS-CoV2
+      
+
+NCT04280913
+
+        Inclusion Criteria:
+
+          -  Hospitalized patients with COVID19
+
+        Exclusion Criteria:
+
+          -  Suspected patients with COVID19, not confirmed by the laboratory
+
+          -  Patients who are refused to receive medical treatments
+      
+
+NCT04312243
+
+        Inclusion Criteria:
+
+          1. Age ≥18 years
+
+          2. Negative SARS CoV-2 rt-PCR test at screening
+
+          3. Scheduled to work with SARS-CoV-2 infected patients
+
+        Exclusion Criteria:
+
+        1. Previous documented SARS-CoV-2 infections
+      
+
+NCT04310865
+
+        Inclusion Criteria:
+
+          1. Age ≥18 years at time of signing Informed Consent Form;
+
+          2. Those who meet the diagnosis of severe new coronavirus pneumonia with laboratory
+             confirmed infection with CoVID-19;
+
+          3. Lung involvement confirmed with chest imaging;
+
+          4. Hospitalized with a Pa02/Fi02 ratio ≤300mgHg;
+
+          5. 40%> lymphocyte percentage ≥5%;
+
+          6. No difficulty swallowing oral medications.
+
+        Exclusion Criteria:
+
+          1. Allergies, those who are known to be allergic to research drugs or drug excipients;
+
+          2. The patient weighs less than 40 kg;
+
+          3. Patients with diarrhea;
+
+          4. Shock;
+
+          5. Patients with respiratory failure at the time of enrollment who need invasive
+             mechanical ventilation;
+
+          6. The clinician judges that ICU admission is needed;
+
+          7. Patients who participated in other clinical trials within 1 month;
+
+          8. Known patients with impaired renal function (estimated creatinine clearance <60 mL /
+             min (male: Cr (ml / min) = (140-age) × body weight (kg) / 72 × blood creatinine
+             concentration (mg / dl); female: Cr (ml / min) = (140-age) × weight (kg) / 85 × blood
+             creatinine concentration (mg / dl));
+
+          9. During the screening or within 24 hours before screening, patients were found to have
+             any of the following laboratory parameter abnormalities (based on the local laboratory
+             reference range): ALT or AST level> 5 times the upper limit of normal range (ULN) or
+             ALT or AST level> 3 times ULN and total bilirubin levels> 2 times ULN;
+
+         10. Being pregnant or breastfeeding, or having a positive pregnancy test at the time of
+             pre-dose inspection, or planning to become pregnant within 3 months after study
+             treatment;
+
+         11. Will be transferred to another hospital which is not the study site within 72 hours.
+      
+
+NCT04292899
+
+        Key Inclusion Criteria:
+
+          -  Willing and able to provide written informed consent prior to performing study
+             procedures
+
+          -  Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV)-2 infection confirmed by
+             polymerase chain reaction (PCR) test ≤ 4 days before randomization
+
+          -  Currently hospitalized with fever defined as temperature ≥ 36.6 °C armpit, ≥ 37.2 °C
+             oral, or ≥ 37.8 °C rectal
+
+          -  Peripheral capillary oxygen saturation (SpO2) ≤ 94% on room air at screening
+
+          -  Radiographic evidence of pulmonary infiltrates
+
+        Key Exclusion Criteria:
+
+          -  Participation in any other clinical trial of an experimental treatment for COVID-19
+
+          -  Concurrent treatment with other agents with actual or possible direct acting antiviral
+             activity against SARS-CoV-2 is prohibited < 24 hours prior to study drug dosing
+
+          -  Evidence of multiorgan failure
+
+          -  Requiring mechanical ventilation at screening
+
+          -  Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit
+             of normal (ULN)
+
+          -  Creatinine clearance < 50 mL/min
+
+        Note: Other protocol defined Inclusion/Exclusion criteria may apply.
+      
+
+NCT04318418
+
+        Inclusion Criteria:
+
+        Patients hospitalized for COVID-19
+
+        Exclusion Criteria:
+
+        none
+      
+
+NCT04315896
+
+        Inclusion Criteria:
+
+          1. Signed informed consent
+
+          2. negative pregnancy test in women
+
+          3. COVID-19 confirmed by rtPCR in any respiratory sample.
+
+          4. Severe COVID-19 disease defined as any from the following:
+
+               1. Pulse oximetry less than 91% or a 3% drop from base pulse oximetry or need to
+                  increase supplementary oxygen in chronic hypoxia
+
+               2. Need for mechanical ventilation (invasive or non invasive )
+
+               3. Sepsis/septic shock.
+
+        Exclusion Criteria:
+
+          1. history of anaphylactic shock to hydroxychloroquine.
+
+          2. History of previous administration of chloroquine or hydroxychloroquine (within 1
+             month)
+
+          3. decision of attending physician by any reason.
+
+          4. History of chronic hepatic disease (Child-Pugh B or C)
+
+          5. History of Chronic renal disease (GFR less than 30)
+      
+
+NCT04276896
+
+        Inclusion Criteria:
+
+          -  Laboratory (RT-PCR) confirmed Covid-19 infection in throat swab and/or sputum and/or
+             lower respiratory tract samples;
+
+          -  The interval between the onset of symptoms and randomized is within 7 days. The onset
+             of symptoms is mainly based on fever. If there is no fever, cough or other related
+             symptoms can be used;
+
+          -  White blood cells ≥ 3,500 / μl, lymphocytes ≥ 750 / μl;
+
+          -  Human immunodeficiency virus (HIV), hepatitis B virus (HBV), hepatitis C virus (HCV)
+             or tuberculosis (TB) test is negative;
+
+          -  Sign the Informed Consent Form on a voluntary basis;
+
+        Exclusion Criteria:
+
+          -  Subject infected with HCV (HCV antibody positive), HBV (HBsAg positive), HIV (HIV
+             antibody positive), or HTLV (HTLV antibody positive).
+
+          -  Subject is albumin-intolerant.
+
+          -  Subject with life expectancy less than 4 weeks.
+
+          -  Subject participated in other investigational somatic cell therapies within past 30
+             days.
+
+          -  Subject with positive pregnancy test result.
+
+          -  Researchers consider unsuitable.
+      
+
+NCT04321928
+
+        The inclusion criteria are:
+
+          1. age over 60 years;
+
+          2. informed consent to participate.
+
+        The exclusion criteria are:
+
+          1. confirmed COVID-19 infection (active or recovered);
+
+          2. hospitalization at screening for eligibility;
+
+          3. someone was already enrolled in the study from the same community/household (to avoid
+             potential crosstalk between the study arms).
+      
+
+NCT04321096
+
+        Inclusion Criteria:
+
+          -  Documented COVID-19 infection as evidenced by positive PCR (or comparable clinical
+             assay) for SARS-CoV-2
+
+          -  Less than 48 hours since time of hospital admission OR if hospital-acquired COVID-19
+             is suspected, less than 48 hrs since onset of symptoms
+
+          -  Adolescents and adults age >=16 years
+
+          -  Subject or legally authorized representative able to give informed consent
+
+          -  Admitted to hospital
+
+        Exclusion Criteria:
+
+          -  Any condition that, in the Investigator's opinion, will prevent adequate compliance
+             with study therapy
+
+          -  The following laboratory values at baseline (Day 0):
+
+          -  Serum total bilirubin ≥3 ULN
+
+          -  Estimated glomerular filtration rate (eGFR) ≤30 mL/min (based on serum creatinine)
+
+          -  Known hypersensitivity to Camostat Mesilate
+
+          -  Women who are pregnant or breastfeeding
+      
+
+NCT04287686
+
+        Inclusion Criteria:
+
+          1. Laboratory diagnosis:
+
+               -  Respiratory specimen is positive for SARS-CoV-2 nucleic acid by RT-PCR; OR,
+
+               -  The viral gene sequencing of the respiratory specimen is highly homologous to
+                  known novel coronavirus.
+
+          2. Fever:
+
+             Axillary temperature >37.3℃
+
+          3. Respiratory variables (meets one of the following criteria):
+
+               -  Respiratory rate: RR ≥25 breaths/min
+
+               -  Oxygen saturation ≤93% at rest on room air
+
+               -  PaO2/FiO2 ≤300 mmHg（1 mmHg=0.133 KPa）
+
+               -  Pulmonary imaging showed that the lesions progressed more than 50% within 24-48
+                  hours, and the patients were managed as severe
+
+          4. HBsAg negative, or HBV DNA ≤10^4 copy/ml if HBsAg positive; anti-HCV negative; HIV
+             negative two weeks prior to signed Informed Consent Form (ICF)
+
+          5. Appropriate ethics approval and
+
+          6. ICF
+
+        Exclusion Criteria:
+
+          -  Age <18 years; Age >80 years
+
+          -  Pregnant or breast feeding woman or with positive pregnancy test result
+
+          -  P/F <100 mmHg
+
+          -  Moribund condition (death likely in days) or not expected to survive for >7 days
+
+          -  Refusal by attending MD
+
+          -  Not hemodynamically stable in the preceding 4 hours (MAP ≤65 mmHg, or SAP <90 mmHg,
+             DAP <60 mmHg, vasoactive agents are required)
+
+          -  Patient on invasive mechanical ventilation or ECMO
+
+          -  Patient in other therapeutic clinical trial within 30 days before ICF
+
+          -  Receive any other ACE inhibitors (ACEI), angiotensin-receptor blockers (ARB) treatment
+             within 7 days before ICF
+
+          -  Chronic immunosuppression: current autoimmune diseases or patients who received
+             immunotherapy within 30 days before ICF
+
+          -  Hematologic malignancy (lymphoma, leukemia, multiple myeloma)
+
+          -  Other patient characteristics (not thought to be related to underlying COVID-19) that
+             portend a very poor prognosis (e.g, severe liver failure, and ect)
+
+          -  Known allergy to study drug or its ingredients related to renin-angiotensin system
+             (RAS), or frequent and/or severe allergic reactions with multiple medications
+
+          -  Other uncontrolled diseases, as judged by investigators
+
+          -  Body weight ≥85 kg
+      
+
+NCT04317040
+
+        Inclusion Criteria:
+
+          1. Should be at least 18 years of age,
+
+          2. Male or female,
+
+          3. Diagnosed with COVID-19 and confirmed SARS-coV-2 viral infection.
+
+          4. Able to sign the consent form.
+
+          5. Severe COVID-19 (Appendix A), or NIAID 7-point ordinal score 3 to 4 (requiring
+             non-invasive ventilation or oxygen, a SpO2 </= 94% or tachypnea (respiratory rate >/=
+             24 breaths/min), Appendix B).
+
+          6. The absolute lymphocyte count is ≤ 0.8 × 10^9 / L (8x10^5 / mL, 800 / mm3).
+
+        Exclusion Criteria:
+
+          1. Patients with COVID 19 in critical condition or ARDS (Appendix A) or NIAID 7-point
+             ordinal score 2 (Hospitalized, on invasive mechanical ventilation or extracorporeal
+             membrane oxygenation (ECMO)).
+
+          2. Patients with bacterial / fungal infections.
+
+          3. Patients who are pregnant, breastfeeding, or have a positive pregnancy test result
+             before enrollment.
+
+          4. Severe liver damage (Child-Pugh score ≥ C, AST> 5 times the upper limit).
+
+          5. Patients with known severe renal impairment (creatinine clearance ≤ 30 mL / min) or
+             patients receiving continuous renal replacement therapy, hemodialysis, or peritoneal
+             dialysis.
+
+          6. Will be transferred to a non-study site hospital within 72 hours.
+
+          7. The investigator believes that participating in the trial is not in the best interests
+             of the patient, or the investigator considers unsuitable for enrollment (such as
+             unpredictable risks or subject compliance issues).
+      
+
+NCT04251767
+
+        Inclusion Criteria:
+
+          1. 14-70 years old
+
+          2. 2019 novel coronavirus pneumonia (severe type)
+
+          3. Subjects voluntarily participate in the clinical trial and sign the informed consent
+
+        Exclusion Criteria:
+
+          1. Disturbance of consciousness
+
+          2. Difficulty swallowing and frequent vomiting
+
+          3. Patients requiring blood transfusion
+
+          4. Pulmonary abscess, hepatitis, cirrhosis, tuberculosis, emphysema and pulmonary
+             infarction
+
+          5. Fungal and other identified pathogens infection
+
+          6. Heart failure existed before diagnosis of novel coronavirus infection
+
+          7. Liver function: alanine aminotransferase > 500 U/L
+
+          8. Patients requiring hemodialysis
+
+          9. Taking anticoagulant drugs due to cardiovascular and cerebrovascular diseases
+
+         10. Other conditions that the investigator considers ineligible for clinical trial
+      
+
+NCT04315870
+
+        Inclusion Criteria:
+
+          -  pregnant women with laboratory-confirmed 2019-n-CoV
+      
+
+NCT04264858
+
+        Inclusion Criteria:
+
+          1. Volunteers who have understood and signed the informed consent;
+
+          2. Age ≥18 years, gender unlimited;
+
+          3. Patients diagnosed with acute severe 2019-nCoV pneumonia:
+
+               1. Laboratory (RT-PCR) confirmed infection with 2019-nCoV.
+
+               2. Lung involvement confirmed with pulmonary CT scan.
+
+               3. At least one of the following conditions should be met: respiratory distress, RR
+                  ≥ 30 times/min; oxygen saturation ≤ 93% in resting state; PaO2/FiO2 ≤ 300mmHg;
+                  respiratory failure and mechanical ventilation are required; shock occurs; ICU
+                  monitoring and treatment is required in combination with other organ failure.
+
+        Exclusion Criteria:
+
+          1. Viral pneumonia with other viruses besides 2019-nCoV.
+
+          2. Patients are not suitable for immunoglobulin therapy.
+
+          3. Participation in other studies.
+
+          4. Other circumstances in which the investigator determined that the patient is not
+             suitable for the clinical trial.
+      
+
+NCT04274322
+
+        Inclusion Criteria:
+
+          -  Admitted to intensive care unit (ICU), Peking University Third Hospital since Feb 2020
+
+          -  Adult (aged over 18 years)
+
+          -  Anticipate a length of ICU stay (LOS) of more than 48 hours
+
+          -  Diagnosed as 2019 coronavirus disease (COVID-19)
+
+          -  With food intake difficulties (can't intake food by oneself)
+
+        Exclusion Criteria:
+
+          -  aged under 18 years
+
+          -  Actual ICU LOS of less than 48 hours
+
+          -  Using medications of IL-6 or IL-6R
+
+          -  Overdose
+
+          -  Written informed consent not obtained in the prospective cohort
+      
+
+NCT04252118
+
+        Inclusion Criteria:
+
+          1. Male or female, aged at 18 years (including) -70 years old
+
+          2. Laboratory confirmation of 2019-nCoV infection by reverse-transcription polymerase
+             chain reaction (RT-PCR) from any diagnostic sampling source; and
+
+          3. Pneumonia that is judged by chest radiograph or computed tomography.
+
+        Exclusion Criteria:
+
+          1. Pregnancy, lactation and those who are not pregnant but do not take effective
+             contraceptives measures;
+
+          2. Patients with malignant tumor, other serious systemic diseases and psychosis;
+
+          3. Patients who are participating in other clinical trials;
+
+          4. Inability to provide informed consent or to comply with test requirements.
+
+          5. Co-Infection of HIV, tuberculosis, influenza virus, adenovirus and other respiratory
+             infection virus.
+      
+
+NCT04256395
+
+        Inclusion Criteria:
+
+          -  people who lived in or out of China at present and threatened by the infection and
+             spread of COVID-19
+
+               -  without gender and age restriction
+
+               -  people who have concerns of his health
+
+               -  voluntary completion of the self-test and evaluation.
+
+        Exclusion Criteria:
+
+          -  people who are not internet accessible or can not use this Mobile Applet.
+
+          -  people who can not recognize the questionnaire.
+      
+
+NCT04280705
+
+        Inclusion Criteria:
+
+          1. Admitted to a hospital with symptoms suggestive of COVID-19 infection.
+
+          2. Subject (or legally authorized representative) provides written informed consent prior
+             to initiation of any study procedures.
+
+          3. Understands and agrees to comply with planned study procedures.
+
+          4. Agrees to the collection of oropharyngeal (OP) swabs.
+
+          5. Male or non-pregnant female adult > / = 18 years of age at time of enrollment.
+
+          6. Has laboratory-confirmed SARS-CoV-2 infection as determined by polymerase chain
+             reaction (PCR) or other commercial or public health assay in any specimen collected <
+             72 hours prior to randomization.
+
+             Note - 72 hours is not necessarily time from initial diagnosis. If > / = 72 hours
+             since positive PCR, the PCR may be repeated to assess eligibility.
+
+          7. Illness of any duration, and at least one of the following:
+
+               -  Radiographic infiltrates by imaging (chest x-ray, CT scan, etc.), OR
+
+               -  Clinical assessment (evidence of rales/crackles on exam) AND SpO2 < / = 94% on
+                  room air, OR
+
+               -  Requiring supplemental oxygen, OR
+
+               -  Requiring mechanical ventilation.
+
+          8. Women of childbearing potential must agree to either abstinence or use at least one
+             primary form of contraception not including hormonal contraception from the time of
+             screening through Day 29.
+
+          9. Agrees to not participate in another clinical trial for the treatment of COVID-19 or
+             SARS-CoV-2 through Day 29.
+
+        Exclusion Criteria:
+
+          1. Alanine Transaminase (ALT)/Aspartate Transaminase (AST) > 5 times the upper limit of
+             normal.
+
+          2. Estimated glomerular filtration rate (eGFR) < 50 or requiring dialysis.
+
+          3. Pregnancy or breast feeding.
+
+          4. Anticipated transfer to another hospital which is not a study site within 72 hours.
+
+          5. Allergy to any study medication.
+      
+
+NCT04299724
+
+        Inclusion Criteria:
+
+          -  Healthy and Covid-19-positive volunteers
+
+          -  The interval between the onset of symptoms and randomized is within 7 days in Covid-19
+             patients. The onset of symptoms is mainly based on fever. If there is no fever, cough
+             or other related symptoms can be used;
+
+          -  White blood cells ≥ 3,500/μl, lymphocytes ≥ 750/μl;
+
+          -  Human immunodeficiency virus (HIV), hepatitis B virus (HBV), hepatitis C virus (HCV)
+             or tuberculosis (TB) test negative;
+
+          -  Sign the Informed Consent voluntarily;
+
+        Exclusion Criteria:
+
+          -  Subject with active HCV, HBV or HIV infection.
+
+          -  Subject is albumin-intolerant.
+
+          -  Subject with life expectancy less than 4 weeks.
+
+          -  Subject participated in other investigational vaccine therapies within the past 60
+             days.
+
+          -  Subject with positive pregnancy test result.
+
+          -  Researchers consider unsuitable.
+      
+
+NCT04316377
+
+        Inclusion Criteria:
+
+          -  Hospitalised
+
+          -  Adults 18 year or older
+
+          -  Moderately severe disease (NEWS score ≤ 6)
+
+          -  SARS-CoV-2 positive nasopharyngeal swab
+
+          -  Signed informed consent must be obtained and documented according to ICH GCP, and
+             national/local regulations.
+
+        Exclusion Criteria:
+
+          -  Requiring ICU admission at screening
+
+          -  History of psoriasis
+
+          -  Tinnitus, reduced hearing
+
+          -  Visual impairment
+      
+
+NCT04318366
+
+        Inclusion Criteria:
+
+          -  Patients admitted to hospital with biological samples positive for SARS-CoV-2
+
+          -  Patients admitted to hospital with negative test but clinical and radiological
+             characteristics highly suggestive of SARS-CoV-2 disease
+
+          -  Patients discharged from emergency department with biological samples positive for
+             SARS-CoV-2
+
+        Exclusion Criteria:
+
+          -  None
+      
+
+NCT04275388
+
+        Inclusion Criteria:
+
+          1. Aged between 18 and 70 years, extremes included, male or female
+
+          2. Fever (armpit temperature ≥37.3 ° C, or mouth temperature ≥38.0 ° C, or anal or ear
+             temperature ≥38.6 ° C) ≤7 days according to the official guideline "Pneumonia
+             Diagnosis and Treatment Scheme for Novel Coronavirus Infection (Trial Version 5)"
+
+          3. Laboratory test (RT-PCR) confirms infection 2019-nCoV
+
+          4. No previous or experimental treatment for pneumonia associated with a novel
+             coronavirus infection. Patients who have been treated with proprietary Chinese
+             medicines or lopinavir / ritonavir tablets for less than 3 days can be enrolled
+
+          5. Informed Consent Form (ICF) signed voluntarily
+
+          6. Based on the investigator's judgment, the subject / legal guardian is considered
+             reliable and able to comply with this program, visit plan and medication arrangement
+
+        Exclusion Criteria:
+
+          1. Suffer from diseases that need to be distinguished from new coronavirus infection
+             pneumonia, such as tuberculosis, bacterial or viral pneumonia other than new
+             coronavirus pneumonia, hospital-acquired pneumonia, and other pathogenic
+             microorganisms pneumonia;
+
+          2. Patients with basic diseases such as primary immunodeficiency disease, acquired
+             immunodeficiency syndrome, congenital respiratory malformations, abnormal lung
+             development, aspiration pneumonia, lung malignant tumors, etc .;
+
+          3. Researchers have judged that previous or current diseases may affect patients'
+             participation in the trial or influence the outcome of the study, including: malignant
+             disease, autoimmune disease, liver and kidney disease, blood disease, neurological
+             disease, and endocrine Disease; currently suffering from diseases that seriously
+             affect the immune system, such as: human immunodeficiency virus (HIV) infection, or
+             the blood system, or splenectomy, organ transplantation, etc .;
+
+          4. Subjects with: asthma requiring daily treatment, any other chronic respiratory
+             disease, respiratory bacterial infections such as purulent tonsillitis, acute
+             tracheobronchitis, sinusitis, otitis media, and other respiratory tracts that affect
+             clinical trial evaluation Disease: Chest CT confirmed patients with basic lung
+             diseases such as severe interstitial lung disease and bronchiectasis;
+
+          5. Patients diagnosed with severe, critically recurrent coronavirus infection, pneumonia,
+             or need mechanical ventilation or need systemic antihormonal treatment;
+
+          6. Breastfeeding or pregnancy test result is positive during the screening period or
+             test;
+
+          7. The research drug Xiyanping injection or a drug with similar efficacy (see Prohibition
+             of Medication) has been used for more than 3 days during screening.
+
+          8. Allergic constitution (persons who are allergic to more than 2 kinds of substances),
+             people who are allergic to similar drugs in the past or those who are known to be
+             allergic to the ingredients and auxiliary materials in the test drugs;
+
+          9. Patients who have participated in other clinical trials in the past 3 months;
+
+         10. The investigator determines that it is not appropriate to participate in a clinical
+             trial.
+      
+
+NCT04259892
+
+        Inclusion Criteria:
+
+          -  High/moderate risk contact with a laboratory-confirmed 2019-nCoV case
+
+          -  Undergoing standard sanitary surveillance by Santé Publique France
+
+          -  Written informed consent for patients ≥ 18 years
+
+          -  Written informed consent of both parents for patients < 18 years
+
+        Exclusion Criteria:
+
+          -  Subject deprived of freedom
+
+          -  Subject under a legal protective measure
+      
+
+NCT04268537
+
+        Inclusion Criteria:
+
+          1. Adult SARI patients with 2019-ncov infection confirmed by PCR;
+
+          2. Absolute value of lymphocytes < 0. 6x 109/L;
+
+          3. Severe respiratory failure within 48 hours and requires admission to ICU. (severe
+             respiratory failure was defined as PaO2/FiO2 < 200 mmHg and was supported by positive
+             pressure mechanical ventilation (including non-invasive and invasive mechanical
+             ventilation, PEEP>=5cmH2O))
+
+        Exclusion Criteria:
+
+          1. Age < 18
+
+          2. Pregnant
+
+          3. Allergic to experimental drugs
+
+          4. The underlying disease is very serious and the expected survival time is less than 6
+             months (such as advanced malignant tumor);
+
+          5. COPD or end-stage lung disease requires home oxygen therapy
+
+          6. Expected survival time not exceeding 48 hours
+
+          7. Participated in other clinical intervention trials within the last 3 months
+
+          8. Autoimmune diseases
+
+          9. A history of organ, bone marrow or hematopoietic stem cell transplantation 10.
+             Received radiotherapy and chemotherapy for malignant tumor within 6 months
+
+        11.HIV infected patients or diagnosed with acquired immunodeficiency within the past year
+        (CD4 T cells <=200/mm3) 12. Patients receiving anti-hcv treatment 13.90 days of retinal
+        detachment or eye surgery 14. Permanent blindness in one eye 15. History of iritis,
+        endophthalmitis, scleral inflammation or retinitis 16. The competent physician considered
+        it inappropriate to participate in the study
+      
+
+NCT04320017
+
+        Inclusion Criteria:
+
+        - COVID-19 positive patients admitted in a ward identified by positive PCR on nasal swab
+        samples
+
+        Exclusion Criteria:
+
+        - Patients for which electrocardiogram or transthoracic echocardiography is not technically
+        feasible
+      
+
+NCT04244591
+
+        Inclusion Criteria:
+
+          -  Adult
+
+          -  PCR confirmed noval coronavirus infection
+
+          -  Symptoms developed more than 7 days
+
+          -  PaO2/FiO2 < 200 mmHg
+
+          -  Positive pressure ventilation (non-invasive or invasive) or high flow nasal cannula
+             (HFNC) higher than 45 L/min for less than 48 hours
+
+          -  Requiring ICU admission
+
+        Exclusion Criteria:
+
+          -  pregnancy;
+
+          -  patients currently taking corticosteroids (cumulative 400 mg prednisone or
+             equivalent);
+
+          -  Severe underlying disease, i.e. end stage of malignancy disease or end stage of
+             pulmonary disease;
+
+          -  Severe adverse events before ICU admission, i.e. cardiac arrest;
+
+          -  Underlying disease requiring corticosteroids;
+
+          -  Contraindication for corticosteroids;
+
+          -  Recruited in other clinical intervention trial
+      
+
+NCT04315480
+
+        Inclusion Criteria:
+
+          -  SARS-CoV2 Infection diagnosed by rt-PCR
+
+          -  CT-scan confirmed multifocal interstitial pneumonia
+
+          -  Need of oxygen therapy to maintain SO2>93%
+
+          -  Worsening of lung involvement, defined as (one of the following criteria):
+
+               -  Worsening of oxygen saturation >3 percentage points or decrease in PaO2 >10%,
+                  with stable FiO2 in the last 24h
+
+               -  Need of increase FiO2 in order to maintain a stable SO2 or new onset need of
+                  mechanical ventilation in the last 24h
+
+               -  Increase in number and/or extension of pulmonary areas of consolidation
+
+        Exclusion Criteria:
+
+          -  Age <18 ys and >90 ys
+
+          -  Severe heart failure
+
+          -  Bacterial Infection
+
+          -  Haematological neoplasm
+
+          -  Neutrophil count below 1000/mcl
+
+          -  Platelet count below 50000/mcl
+
+          -  ALT> x5UNL
+
+          -  Inability to give informed consent
+      
+
+NCT04264533
+
+        Inclusion Criteria:
+
+          1. ≥ 18 years old;
+
+          2. Diagnosed as serious or critical SARI (according to the 4th version of Diagnosis and
+             Clinical management of 2019-nCoV infected pneumonia);
+
+          3. Being treated in the ICU.
+
+        Exclusion Criteria:
+
+          1. Allergic to vitamin C;
+
+          2. Dyspnea due to cardiogenic pulmonary edema;
+
+          3. Pregnant or breastfeeding;
+
+          4. Expected life is less than 24 hours;
+
+          5. There is a state of tracheotomy or home oxygen therapy in the past;
+
+          6. Previously complicated with end-stage lung disease, end-stage malignancy,
+             glucose-6-phosphate dehydrogenase deficiency, diabetic ketoacidosis, and active kidney
+             stone disease;
+
+          7. The patient participates in another clinical trial at the same time.
+      
+
+NCT04260594
+
+        Inclusion Criteria:
+
+          1. Sign the informed consent form;
+
+          2. Age ≥18 years, regardless of gender;
+
+          3. Subjects with pneumonia diagnosed as 2019-nCoV infection; A) Detection of 2019-nCoV
+             nucleic acid positive by RT-PCR in respiratory tract or blood samples.
+
+             B) The virus gene sequence of respiratory tract or blood samples is highly homologous
+             to the known 2019-nCoV.
+
+          4. According to the standard of "pneumonia diagnosis and treatment Program of New
+             Coronavirus infection (trial Fifth Edition)" issued by National Health Commission of
+             the People's Republic of China, clinical classification: mild, ordinary subjects; A)
+             Mild type, the clinical symptoms were mild and no pneumonia was found in imaging.
+
+        B) Common type, With fever, respiratory tract and other symptoms, the manifestations of
+        pneumonia can be seen on imaging.
+
+        Exclusion Criteria:
+
+          1. Critical type:
+
+             If one of the following conditions is met:
+
+             A) Respiratory failure occurs and mechanical ventilation is needed; B) Shock occurred;
+             C) Patients with other organ failure need ICU monitoring treatment.
+
+          2. Severe type:
+
+             If one of the following conditions is met:
+
+             A) Respiratory distress, RR ≥ 30 beats / min; B) In resting state, finger oxygen
+             saturation (SaO2) ≤ 93%; C) Partial pressure of arterial oxygen (PaO2) / concentration
+             of oxygen inhaled (FiO2)≤300mmHg）
+
+          3. Those who have a history of allergy to this class of drugs and / or severe allergic
+             constitution;
+
+          4. The results of laboratory tests are abnormal:
+
+             A) Hematological dysfunction is defined as:
+
+             i) Platelet (PLT) count: ＜100 × 109 / L; ii) hemoglobin (Hb) level ＜90g/L.
+
+             B) abnormal liver function is defined as:
+
+             i) level of total bilirubin(TBil) : ＞2 times Upper Limits of Normal(ULN); ii) the
+             levels of aspartate aminotransferase (AST) and Alanine transaminase (ALT)：＞3 times of
+             ULN.
+
+             C) definition of renal dysfunction:
+
+             Serum creatinine＞1.5 times of ULN, or calculated creatinine clearance＜50ml / min;
+
+             D) definition of abnormal blood coagulation:
+
+             International normalized ratio(INR) ＞1.5 times of ULN, and the prothrombin time ((PT))
+             or activated partial thromboplastin time (aPTT) is 1.5 times of ULN, unless the
+             subject is receiving anticoagulant therapy.
+
+          5. Abidor was used before inclusion(Tablets, capsules, granules).
+
+          6. Women who are nursing or pregnant.
+
+          7. Serum or urine pregnancy tests were positive for women of child-bearing age.
+
+          8. Immunodeficient patient(Patients with malignant tumors, Organ or bone marrow
+             transplant, HIV patient, those who took immunosuppressive drugs within 3 months before
+             the screening test ).
+
+          9. With the following history of present illness:
+
+               1. Neurological and neurodevelopmental disorders, These include diseases of the
+                  brain, spinal cord, peripheral nerves and muscles(Such as cerebral palsy,
+                  epilepsy, stroke, mental retardation, moderate to severe developmental delay,
+                  muscular malnutrition or spinal cord injury ).
+
+               2. circulation system disease( congenital heart disease, Congestive heart failure or
+                  coronary artery disease).
+
+               3. Severe heart disease or a history of clinically significant arrhythmias that the
+                  researchers believe will affect participants' safety (According to the ECG or
+                  medical history).
+
+         10. Other patients considered ineligible for this study were considered ineligible by the
+             investigators
+      
+
+NCT04319731
+
+        Inclusion Criteria:
+
+          -  1. Age ≥18
+
+          -  2. Hospitalized and symptomatic (cough, fevers, SOB, or sputum production)
+
+          -  3. SARS CoV-2 laboratory positive obtained within 14 days of enrollment
+
+        Exclusion Criteria:
+
+          -  1. Home oxygen use
+      
+
+NCT04320615
+
+        Inclusion Criteria:
+
+          -  Hospitalized with COVID-19 pneumonia confirmed per WHO criteria (including a positive
+             PCR of any specimen; e.g., respiratory, blood, urine, stool, other bodily fluid) and
+             evidenced by chest X-ray or CT scan
+
+          -  SPO2 </=93% or PaO2/FiO2 <300 mmHg
+
+        Exclusion Criteria:
+
+          -  Known severe allergic reactions to TCZ or other monoclonal antibodies
+
+          -  Active tuberculosis (TB) infection
+
+          -  Suspected active bacterial, fungal, viral, or other infection (besides COVID-19)
+
+          -  In the opinion of the investigator, progression to death is imminent and inevitable
+             within the next 24 hours, irrespective of the provision of treatments
+
+          -  Have received oral anti-rejection or immunomodulatory drugs (including TCZ) with the
+             past 6 months
+
+          -  Participating in other drug clinical trials (participation in COVID-19 anti-viral
+             trials may be permitted if approved by Medical Monitor)
+
+          -  Pregnant or breastfeeding, or positive pregnancy test in a pre-dose examination
+
+          -  Treatment with an investigational drug within 5 half-lives or 30 days (whichever is
+             longer) of randomization (investigational COVID-19 antivirals may be permitted if
+             approved by Medial Monitor)
+
+          -  Any serious medical condition or abnormality of clinical laboratory tests that, in the
+             investigator's judgment, precludes the patient's safe participation in and completion
+             of the study
+      
+
+NCT04275947
+
+        Inclusion Criteria:
+
+          -  High risk of COVID-19
+
+          -  RT-PCR test result of SAR2-CoV-19
+
+        Exclusion Criteria:
+
+          -  Not available for RT-PCR test result of SAR2-CoV-19
+      
+
+NCT04270383
+
+        1. For the 2019-nCoV infection group
+
+             Inclusion Criteria:
+
+             Diagnosed with 2019-nCoV infection (with direct laboratory evidence).
+
+               1. Respiratory or blood samples tested positive for novel coronavirus nucleic acid
+                  with RT-PCR.
+
+               2. Gene sequencing of respiratory or blood samples show highly homologous with known
+                  novel coronaviruses.
+
+             Exclusion Criteria:
+
+             Subjects will be excluded if the children or their parents disagree to conduct this
+             study.
+
+          2. For the control group
+
+        Inclusion Criteria:
+
+          1. Diagnosed with pneumonia, and excepted of novel coronavirus infection.
+
+          2. The hospitalization time is the same as that of novel coronavirus pneumonia.
+
+        Exclusion Criteria:
+
+        Subject will be excluded if she or he has one of the following:
+
+          1. First diagnosis is not pneumonia.
+
+          2. Any one of the novel coronavirus laboratory test results show positive.
+
+          3. Children or their parents disagree to conduct this study.
+      
+
+NCT04261517
+
+        Inclusion Criteria:
+
+          -  The participants were diagnosed as pneumonia caused by 2019-nCoV, according to the
+             notice on printing and distributing the diagnosis and treatment plan of pneumonia with
+             new coronavirus infection (trial version 4 or update version) made by National Health
+             Commission of the People's Republic of China;
+
+          -  Participants aged over 18;
+
+          -  Written the informed consent.
+
+        Exclusion Criteria:
+
+          -  Hypersensitivity to chloroquine or hydroxychloroquine;
+
+          -  Women during pregnancy;
+
+          -  Severe heart, lung, kidney, brain, blood diseases or other important systemic
+             diseases;
+
+          -  Participants with retinal disease, hearing loss;
+
+          -  Participants with severe neurological and mental illness;
+
+          -  Subjects were considered to be unable to complete the study, or not suitable for the
+             study by researchers.
+
+        Exit criteria:
+
+          -  Subjects asked to withdraw the study
+
+          -  Subject will benefit if withdraw according to researchers' suggestions
+      
+
+NCT04320238
+
+        Inclusion Criteria:
+
+          -  Formally serving medical staff in Taihe Hospital;
+
+        Exclusion Criteria:
+
+          -  pregnant women; severe chronic diseases who are unable to participate in daily routine
+             work; fever (temperature≥37.3 ° ) and / or respiratory symptoms.
+      
+
+NCT04261270
+
+        Inclusion Criteria:
+
+          1. Age:18~55 years old, unlimited gender.
+
+          2. Laboratory (RT-PCR) confirmed infection with 2019-nCoV and accompanied with clinical
+             manifestations.
+
+          3. Patients with newly diagnosed respiratory discomfort who have been hospitalized (The
+             proper diagnosis time is less than 7 days).
+
+          4. Women who have no planned pregnancy in the next six months,and are willing to take
+             effective measures to prevent contraception from the first dose of study drug to 30
+             days after the last dose.
+
+          5. Agree not to participate in other clinical studies within 30 days from the first dose
+             of the study drug to the last dose.
+
+          6. Patients who voluntarily sign informed consent forms.
+
+        Exclusion Criteria:
+
+        1.2019-nCoV severe Pneumonia patients.
+
+        Meet the definition of severe pneumonia(Comply with any of the followings):
+
+          1. Respiratory distress ,RR≥30 bpm;
+
+          2. In a resting state:SPO2≤93%;
+
+          3. PaO2/ FiO2≤300mmHg.
+
+             2.2019-nCoV critical and severe Pneumonia patients.Comply with any of the
+             followings:Respiratory failure and need mechanical ventilation;Shock;Patients combined
+             with other organ failure need ICU monitoring and treatment.
+
+             3.Severe liver disease(such as:the ChildPugh score≥C;AST > 5 times the upper limit).
+
+             4.Patients who are allergic to the ingredients of ASC09/ritonavir compound tablets.
+
+             5.Patients with definite contraindications in ritonavir tablets.
+
+             6.Female subjects were positive for the pregnancy test during the screening period.
+
+             7.Researcher judges unsuitable for participation in this clinical trial(such as:during
+             the study patients may be transferred to hospital for treatment;patients with multiple
+             underlying diseases, etc)
+      
+
+NCT04307693
+
+        Inclusion Criteria:
+
+          -  confirmed mild COVID-19 (NEWS scoring system 0-4)
+
+        Exclusion Criteria:
+
+          -  unable to take oral medication
+
+          -  pregnancy or breast feeding
+
+          -  immunocompromised patients
+
+          -  creatinine clearance (CCL) < 30 mL/min
+
+          -  aspartate transaminase (AST) or alanine transaminase (ALT) > 5 times Upper limit of
+             normal (ULN)
+      
+
+NCT04320953
+
+        Inclusion Criteria:
+
+          -  Signed the informed consents before joining this study
+
+        Exclusion Criteria:
+
+          -  Dysphagia or symptoms of gastric outlet obstruction, suspected or known intestinal
+             stenosis, history of upper gastrointestinal surgery or abdominal surgery altering
+             gastrointestinal anatomy
+
+          -  Refused abdominal surgery to take out the capsule in case of capsule retention
+
+          -  Implanted pacemaker, except the pacemaker is compatible with MRI
+
+          -  Other implanted electromedical devices or magnetic metal foreign bodies
+
+          -  Pregnancy or suspected pregnancy
+      
+
+NCT04321278
+
+        Inclusion Criteria:
+
+          1. Males and females aged > 18 years;
+
+          2. Probable or confirmed infection by SARS-CoV2 presenting with one of the following:
+
+               -  Need for oxygen supplementation > 4L or,
+
+               -  Need for high oxygen flow nasal catheter, or
+
+               -  Need for non-invasive ventilation, or
+
+               -  Need for mechanical ventilation.
+
+        Exclusion Criteria:
+
+          1. Refusal to provide written informed consent (either the patient or a legal
+             representative);
+
+          2. Hypersensitivity to any of the drugs used in the study (Azithromycin or
+             Hydroxychloroquine);
+
+          3. Patients with long QT syndrome or severe ventricular arrhythmias;
+
+          4. QTc> = 480ms;
+
+          5. Patients without a therapeutic perspective or with a palliative care perspective;
+
+          6. Patients with liver disease or cirrhosis or abnormal liver enzyme tests above three
+             times the upper limit values (alanine aminotransferase -ALT and aspartate
+             aminotransferase - AST);
+
+          7. Renal dysfunction (estimated glomerular filtration rate [eGFR] <30 mL/min/1.73m2,
+             using the MDRD or CKD-EPI methods);
+
+          8. Patients with retinopathy or macular degeneration;
+
+          9. Patients with pancreatitis;
+
+         10. Patients using drugs that prolong the QT interval;
+
+         11. Patients with concomitant use of medications that alter the absorption or excretion of
+             azithromycin or hydroxychloroquine;
+
+         12. Breastfeeding women;
+
+         13. Patients using psychoactive drugs;
+
+         14. Pregnancy.
+      
+
+NCT04305457
+
+        Inclusion Criteria:
+
+          1. Laboratory confirmed COVID19 infection defined with a positive RT-PCR from any
+             specimen and/or detection of SARS-CoV-2 IgM/IgG antibodies.
+
+          2. Hospital admission with at least one of the following:
+
+               1. fever ≥ 36.6 °C from axillary site; or ≥ 37.2°C from oral site; or ≥ 37.6°C from
+                  tympanic or rectal site.
+
+               2. Respiratory rate ≥ 24 bpm
+
+               3. cough
+
+          3. Spontaneous breathing with or without hypoxia of any degree. Gas exchange and
+             ventilation maybe assisted by any continuous continuous airway pressure (CPAP), or any
+             system of Non Invasive Ventilation (NIV), with Positive End-Expiratory Pressure (PEEP)
+             ≤ 10 cmH2O.
+
+          4. ≤ 8 days since onset of the symptoms
+
+        Exclusion Criteria:
+
+          1. Tracheostomy
+
+          2. Therapy with high flow nasal cannula
+
+          3. Any clinical contraindications, as judged by the attending physician
+
+          4. Hospitalized and confirmed diagnosis of COVID-19 for more than 72 hours
+      
+
+NCT04313023
+
+        Inclusion Criteria:
+
+          -  1. Subjects must have documented exposure to COVID-19 and have a documented negative
+             test for the virus within 72 hours of the administration of study drug
+
+          -  2. Subjects must be free of clinical symptoms (fever, cough, shortness of breath) of a
+             potential COVID-19 infection
+
+          -  3. Subjects must be under quarantine in a controlled facility or hospital (home
+             quarantine is not sufficient)
+
+          -  4. Spirometry (forced expiratory volume in one second [FEV1] and forced vital capacity
+             [FVC]) ≥70% of predicted value
+
+          -  5. If female, must be either post-menopausal (one year or greater without menses),
+             surgically sterile, or, for female subjects of child-bearing potential who are capable
+             of conception must be: practicing two effective methods of birth control (acceptable
+             methods include intrauterine device, spermicide, barrier, male partner surgical
+             sterilization, and hormonal contraception) during the study and through 30 days after
+             completion of the study. Abstinence is not classified as an effective method of birth
+             control.
+
+          -  6. If female, must not be pregnant, plan to become pregnant, or nurse a child during
+             the study and through 30 days after completion of the study. A pregnancy test must be
+             negative at the Screening Visit, prior to dosing on Day 1.
+
+          -  7. If male, must be surgically sterile or willing to practice two effective methods of
+             birth control (acceptable methods include barrier, spermicide, or female partner
+             surgical sterilization) during the study and through 30 days after completion of the
+             study. Abstinence is not classified as an effective method of birth control.
+
+          -  8. Ability to understand and give informed consent.
+
+        Exclusion Criteria:
+
+          -  1. Documented infection with COVID-19
+
+          -  2. Clinical signs and symptoms consistent with COVID-19 infection (fever, cough,
+             shortness of breath) at the time of screening
+
+          -  3. Known history of chronic pulmonary disease (e.g., asthma [including atopic asthma,
+             exercise-induced asthma, or asthma triggered by respiratory infection], chronic
+             pulmonary disease, pulmonary fibrosis, COPD), pulmonary hypertension, or heart
+             failure.
+
+          -  4. Any condition which, in the opinion of the Principal Investigator, would prevent
+             full participation in this trial or would interfere with the evaluation of the trial
+             endpoints.
+
+          -  5. Previous exposure to PUL-042 Inhalation Solution
+      
+
+NCT04061382
+
+        Inclusion Criteria:
+
+          -  Parents/legal guardians or adult participant* is willing and able to give informed
+             consent for participation in the study.
+
+          -  Male or Female, aged 0 - 24 years inclusive.
+
+          -  Parents/legal guardians or adult participants are willing to allow their General
+             Practitioner or relevant NHS databases to be contacted for a full immunisation history
+
+        Exclusion Criteria:
+
+          -  If participants do not live in the postcode districts selected by PHE
+
+          -  Medically diagnosed bleeding disorder
+
+          -  Medically diagnosed platelet disorder
+
+          -  Anticoagulation medication
+
+          -  Pregnancy
+
+          -  If another member of their household is participating who is within 5 years of age of
+             the potential participants age
+      
+
+NCT04317092
+
+        Inclusion Criteria:
+
+          1. Any gender
+
+          2. No age limit
+
+          3. Informed consent for participation in the study
+
+          4. Virological diagnosis of Sars-CoV2 infection (PCR)
+
+          5. Hospitalized due to clinical/instrumental diagnosis of pneumonia
+
+          6. Oxygen saturation at rest in ambient air ≤93% (valid for not intubated patients and
+             for both phase 2 and observational cohort)
+
+          7. Intubated less than 24 hours before registration (eligible for phase 2 only -
+             criterium #6 does not apply in this case)
+
+          8. Intubated more than 24 hours before registration (eligible for observational cohort
+             only - criterium #6 does not apply in this case)
+
+          9. Patients already treated with tocilizumab before registration are eligible for
+             observational cohort only if one criterium among #6, #7, #8 is valid
+
+        Exclusion Criteria:
+
+          1. Known hypersensitivity to tocilizumab or its excipients
+
+          2. Patient being treated with immunomodulators or anti-rejection drugs
+
+          3. Known active infections or other clinical condition that controindicate tocilizumab
+             and cannot be treated or solved according to the judgement of the clinician
+
+          4. ALT / AST> 5 times the upper limit of the normality
+
+          5. Neutrophils <500 / mmc
+
+          6. Platelets <50.000 / mmc
+
+          7. Bowel diverticulitis or perforation
+      
+
+NCT04318015
+
+        Inclusion Criteria:
+
+          -  18 years old upon study start
+
+          -  Healthcare personnel exposed to patients with COVID-19 respiratory disease:
+             physicians, nurses, chemists, pharmacists, janitors, stretcher-bearer, administrative
+             and respiratory therapists.
+
+          -  Signed consent for randomization to any study arm.
+
+        Exclusion Criteria:
+
+          -  Known hypersensitivity to hydroxychloroquine manifested as anaphylaxis
+
+          -  Current treatment to chloroquine or hydroxychloroquine
+
+          -  Women with last menstruation date farther than a month without negative pregnancy
+             test.
+
+          -  Women with positive pregnancy test
+
+          -  Breastfeeding women
+
+          -  Chronic hepatic disease history (Child-Pugh B or C)
+
+          -  Chronic renal disease (GFR less or equal to 30)
+      
+
+NCT04319445
+
+        Inclusion Criteria:
+
+          -  Any person interested in participating in the mindfulness session will be eligible to
+             complete the pre/post surveys and participate in the mindfulness session.
+
+        Exclusion Criteria:
+
+          -  None
+      
+
+NCT04273529
+
+        Inclusion Criteria:
+
+          1. Age ≥18 years;
+
+          2. Laboratory (RT-PCR) diagnosis of common patients infected with COVID-19 (refer to the
+             fifth edition of the Chinese Guidelines for Diagnosis and Treatment);
+
+          3. chest imaging confirmed lung damage;
+
+          4. The diagnosis is less than or equal to 8 days;
+
+        Exclusion Criteria:
+
+          1. Severe liver disease (such as Child Pugh score ≥ C, AST> 5 times the upper limit);
+             severe renal dysfunction (the glomerulus is 30ml / min / 1.73m2 or less)
+
+          2. Positive pregnancy or breastfeeding or pregnancy test;
+
+          3. In the 30 days before the screening assessment, have taken any experimental treatment
+             drugs for COVID-19 (including off-label, informed consent use or trial-related);
+
+          4. Those with a history of thromboembolism, except for those caused by PICC.
+      
+
+NCT04312100
+
+        Inclusion Criteria:
+
+          -  Patients diagnosed with COVID-19
+
+               -  Aged between 18-75 years;
+
+                    -  Willing to sign the informed consent voluntarily.
+
+        Exclusion Criteria:
+
+          -  Patients with active tuberculosis, idiopathic pulmonary fibrosis, bronchial asthma,
+             bronchiectasis, pulmonary embolism, chronic respiratory failure or other serious
+             respiratory diseases; ② patients with serious cardiovascular and cerebrovascular
+             diseases (malignant arrhythmia, unstable angina, acute myocardial infarction, cardiac
+             function grade 3 or above, stroke, cerebral hemorrhage, etc.); ③ Patients with serious
+             hepatorenal diseases (serious liver diseases refer to cirrhosis, portal hypertension
+             and varicose bleeding, and serious kidney diseases include dialysis and kidney
+             transplantation); ④ tumor patients who have undergone resection, radiotherapy and
+             chemotherapy within 5 years; ⑤ patients who have difficulty in activity due to
+             neuromuscular diseases; ⑥ patients with serious arthritis; ⑦ patients with serious
+             peripheral vascular diseases; ⑧ Pregnant and lactating women; ⑨ with severe cognitive
+             and mental disorders; ⑩ the clinical researchers who were participating in other
+             interventions within one month before selection;
+      
+
+NCT04302688
+
+        Inclusion Criteria:
+
+          -  Patients with novel coronavirus pneumonia should be examined and diagnosed by CT and
+             swab test of viral nucleic acid.
+
+        Exclusion Criteria:
+
+          -  Patients who should have died during the course of the disease, but the cause of death
+             was unrelated to viral pneumonia.
+
+          -  Suspected patient review refers to the negative nucleic acid test.
+      
+
+NCT04275414
+
+        Inclusion Criteria:
+
+          1. Age 18 to 80.
+
+          2. Confirmed COVID-19 diagnosis(including the clinically confirmed cases in Hubei).
+
+          3. Accord with any of the following: ① Respiratory distress, RR ≥ 30 breaths/min; ② SpO2
+             ≤ 93% at rest; ③ Partial arterial oxygen pressure (PaO2) / Fraction of inspiration O2
+             (FiO2) ≤ 300mmHg (1mmHg = 0.133kPa).
+
+          4. Chest imaging confirms lung involvement and has inflammatory exudation or pleural
+             effusion.
+
+        Exclusion Criteria:
+
+          1. Cannot obtain informed consent.
+
+          2. Severe hepatic dysfunction (Child Pugh score ≥ C, or AST> 5 times the upper limit);
+             Severe renal dysfunction (estimated glomerular filtration rate ≤ 30mL / min / 1.73 m2)
+             or receive continuous renal replacement therapy, hemodialysis, or peritoneal dialysis.
+
+          3. Unsatisfactory controlled hypertension (seated systolic blood pressure> 160mmHg, or
+             diastolic blood pressure> 100mmHg); previous history of hypertension crisis or
+             hypertensive encephalopathy.
+
+          4. Poorly controlled heart diseases, such as NYHA class II and above cardiac
+             insufficiency, unstable angina pectoris, myocardial infarction within 1 year before
+             enrollment, supraventricular or ventricular arrhythmia need treatment or intervention.
+
+          5. Hereditary bleeding tendency or coagulopathy; received full-dose anticoagulant or
+             thrombolytic therapy within10 days before enrollment, or have taken non-steroidal
+             anti-inflammatory drugs with platelet suppression within 10 days before enrollment
+             (Except those who use small doses of aspirin ≤325mg / day for preventive use).
+
+          6. Thrombosis within 6 months before enrollment. And from those patients, screen who had
+             arterial / venous thromboembolic events, such as, ischemic stroke, transient ischemic
+             attack, deep venous thrombosis, pulmonary embolism, etc. within 1 year ahead of
+             enrollment. Severe vascular disease (including aneurysms or arterial thrombosis
+             requiring surgery) within 6 months before enrollment.
+
+          7. Unhealed wounds, active gastric ulcers or fractures. Gastrointestinal perforation,
+             gastrointestinal fistula, abdominal abscess, visceral fistula formation within 6
+             months before enrollment. Major surgery (including preoperative Chest biopsy) or major
+             trauma (such as a fracture) within 28 days before enrollment. May have surgery during
+             the trial.
+
+          8. Severe, active bleeding such as hemoptysis, gastrointestinal bleeding, central nervous
+             system bleeding, and nosebleeds within 1 month before enrollment.
+
+          9. Malignant tumors within 5 years before enrollment.
+
+         10. Allergic to bevacizumab or its components.
+
+         11. Untreated active hepatitis or HIV-positive patients.
+
+         12. Pregnant and lactating women and those planning to get pregnant.
+
+         13. Participated in other clinical trials, not considered suitable for this study by the
+             researchers.
+      
+
+NCT04312464
+
+        Inclusion Criteria:
+
+          -  (1) Age ≥18 years. (2) Laboratory (RT-PCR) confirmed infection with SARS-CoV-2. (3)
+             Lung involvement confirmed with chest imaging.
+
+        Exclusion Criteria:
+
+          -  No cTnI test on admission
+      
+
+NCT04310228
+
+        Inclusion Criteria:
+
+          1. Clinically diagnosed with Corona Virus Disease 2019
+
+          2. Increased interleukin-6
+
+          3. Sign the informed consent
+
+          4. Subjects who can take medicine orally
+
+          5. Agree to collect clinical samples
+
+          6. Female subjects of childbearing age are not pregnant and agree to take effective
+             contraception within 7 days of the last oral medication to ensure that they are not
+             pregnant within 3-6 months
+
+          7. Male patients agree to effective contraception within 7 days of last oral medication.
+
+        Exclusion Criteria:
+
+          1. Cases of severe vomiting that make it difficult to take the drug orally
+
+          2. Allergic to Favipiravir or tocilizumab
+
+          3. Pregnant and lactating women
+
+          4. Subjects received specific antiviral drugs such as lopinavir / ritonavir, ribavirin,
+             arbidol, chloroquine phosphate, hydroxychloroquine, and monoclonal antibodies within
+             one week before admission.
+
+          5. Cases of respiratory failure and requiring mechanical ventilation
+
+          6. Cases of shock
+
+          7. Combined organ failure requires ICU monitoring and treatment
+
+          8. Predicted clinically that there is no hope of survival, or cases of deep coma that do
+             not respond to supportive treatment measures within three hours of admission
+
+          9. Alanine aminotransferase / Aspartate aminotransferase> 5 times of upper limit of
+             normal
+
+         10. Neutrophils <0.5 × 10^9 / L, platelets less than 50 × 10^9 / L
+
+         11. Clear diagnosis of rheumatoid immunity, malignant tumors and other related diseases
+
+         12. Long-term oral anti-rejection drugs or immunomodulatory drugs
+
+         13. Allergic reactions to tocilizumab or any excipients
+
+         14. Patients with active hepatitis, tuberculosis, and definite bacterial and fungal
+             infections
+
+         15. Organ transplant patients
+
+         16. Patients with mental disorders
+      
+
+NCT04320472
+
+        Inclusion Criteria:
+
+          -  Critical care admission
+
+          -  Admission for/with acute encephalopathy defined as a rapidly developing (over less
+             than 4 weeks, but usually within hours to a few days) pathobiological process in the
+             brain; including delirium or subsyndromal (DSM V definition) or coma (Glasgow coma
+             scale score < 9)
+
+          -  Age ≥ 18 years
+
+        Exclusion Criteria:
+
+        - Opposition to study participation from the patient itself or patient surrogate
+      
+
+NCT04260308
+
+        Inclusion Criteria:
+
+          -  can use mobil phone or computer
+
+          -  volunteer to take part in the investigation
+
+        Exclusion Criteria:
+
+          -  can not use phone or computer
+
+          -  unwilling to take part in the investigation
+      
+
+NCT04313127
+
+        Inclusion Criteria:
+
+          -  Aged between 18 and 60 years.
+
+          -  Able to understand the content of informed consent and willing to sign the informed
+             consent
+
+          -  Able and willing to complete all the secluded study process during the whole 6 months
+             study follow-up period.
+
+          -  Negative in HIV diagnostic test.
+
+          -  Negative in serum antibodies (IgG and IgM) screening of COVID-19.
+
+          -  Normal in lung CT images (no imaging features of COVID-19
+
+          -  Axillary temperature ≤37.0°C.
+
+          -  The BMI index is 18.5-30.0.
+
+          -  Negative in Nasopharyngeal swabs / sputum and anal swabs through RT-PCR
+
+          -  Laboratory tests such as hematological examination and clinical biochemistry
+             examination are in the normal range or without meaning judged by clinical doctor.
+
+          -  General good health as established by medical history and physical examination.
+
+        Exclusion Criteria:
+
+          -  Family history of seizure, epilepsy, brain or mental disease
+
+          -  Subject allergic to any component of the investigational vaccine, or a more severe
+             allergic reaction and history of allergies in the past.
+
+          -  Woman who is pregnant, breast-feeding or positive in β-HCG (human chorionic
+             gonadotropin) pregnancy test (urine) on day of enrollment, or become pregnant during
+             the next 6 months
+
+          -  Any acute fever disease or infections.
+
+          -  History of SARS
+
+          -  Major congenital defects or not well-controlled chronic illness, such as asthma,
+             diabetes, or thyroid disease.
+
+          -  Serious cardiovascular diseases, such as arrhythmia, conduction block, myocardial
+             infarction, severe hypertension without controllable drugs, etc.
+
+          -  Hereditary angioneurotic edema or acquired angioneurotic edema
+
+          -  Urticaria in last one year
+
+          -  No spleen or functional spleen.
+
+          -  Platelet disorder or other bleeding disorder may cause injection contraindication
+
+          -  Faint at the sight of needles.
+
+          -  Prior administration of immunodepressant or corticosteroids, antianaphylaxis
+             treatment, cytotoxic treatment in last 6 months.
+
+          -  Prior administration of blood products in last 4 months
+
+          -  Prior administration of other research medicines in last 1 month
+
+          -  Prior administration of attenuated vaccine in last 1 month
+
+          -  Prior administration of inactivated vaccine in last 14 days
+
+          -  Current anti-tuberculosis prophylaxis or therapy
+
+          -  According to the judgement of investigator,various medical, psychological, social or
+             other conditions, those could affect the subjects to sign informed consent.
+      
+
+NCT04263402
+
+        Inclusion Criteria:
+
+        1.Meet the definition of severe pneumonia(Comply with any of the followings):
+
+          1. Shortness of breath,RR≥30 bpm;
+
+          2. In a resting state:SPO2≤93%;
+
+          3. PaO2/FiO2≤300mmHg.
+
+        2.2019-nCoV nucleic acid test was positive.
+
+        3.CT of the lung conformed to the manifestation of viral pneumonia.
+
+        Exclusion Criteria:
+
+          1. dying state (i.e. survival time is less than 24 hours);
+
+          2. progressive malignant tumor with life expectancy less than 6 months;
+
+          3. immunosuppressive status(patients using immunosuppressants or chemotherapeutic drugs)
+
+          4. underlying diseases requiring long-term glucocorticoid treatment in the past 6 months
+             or short-term glucocorticoid therapy in the past 4 weeks;
+
+          5. pregnancy
+
+          6. patients with glucocorticoid taboos
+      
+
+NCT04278963
+
+        Inclusion Criteria:
+
+          1. Age ≥18 years at time of signing Informed Consent Form.
+
+          2. Laboratory (RT-PCR) confirmed infection with CoVID-19.
+
+          3. Hospitalised with Fever(≥36.7℃ -axilla or oral temperature ≥ 38.0 ℃ or ≥38.6°C
+             tympanic or rectal) and cough;
+
+          4. No difficulty swallowing oral medications.
+
+          5. Must agree not to enroll in another study of an investigational agent prior to
+             completion of Day 28 of study.
+
+        Exclusion Criteria:
+
+          1. Allergies, known to be allergic to research drugs or drug excipients;
+
+          2. Patient weight is less than 40 kg;
+
+          3. Respiratory distress-RR≥30 / min on room air,or SPO2≤ 93%, or PaO2/FiO2 ≤300mmHg
+             (1mmHg = 0.133kPa)
+
+          4. Shock;
+
+          5. The clinician judges that ICU monitoring treatment is needed;
+
+          6. Patients who have participated in other clinical trials within 1 month;
+
+          7. Known patients with impaired renal function (estimated creatinine clearance <60 mL /
+             min (male: Cr (ml / min) = (140-age) × body weight (kg) / 72 × blood creatinine
+             concentration (mg / dl); female: Cr (ml / min) = (140-age) × weight (kg) / 85 × blood
+             creatinine concentration (mg / dl));
+
+          8. During the screening or within 24 hours before screening, patients were found to have
+             any of the following laboratory parameter abnormalities (based on local laboratory
+             reference range):-ALT or AST level> 5 times the upper limit of normal range (ULN)
+             or-ALT or AST > 3 times ULN and total bilirubin levels> 2 times ULN;
+
+          9. Being pregnant or breastfeeding, or having a positive pregnancy test at the time of
+             pre-dose inspection, or planning to become pregnant within 3 months of study
+             treatment.
+      
+
+NCT04321369
+
+        Inclusion Criteria:
+
+          -  Able to consent and agree to participate in the project after discussing the project
+
+          -  Coming to The Everett Clinic during the operational project duration
+
+          -  Evidence of upper respiratory symptoms suggesting higher risk of testing positive for
+             SARS-CoV-2 virus.
+
+        Exclusion Criteria:
+
+          -  Not able to demonstrate understanding of the study
+
+          -  Not willing to commit to having all four samples collected
+
+          -  Medical history evidencing any of the following
+
+               -  Active nosebleed in the past 24 hours
+
+               -  Nasal surgery in the past two weeks
+
+               -  Chemotherapy treatment with low platelet and low white blood cell counts
+
+               -  Acute facial trauma
+      
+
+NCT04295551
+
+        Inclusion Criteria:
+
+          1. Aged >=18 years;
+
+          2. Novel coronavirus pneumonia patients diagnosed by pathogenic testing;
+
+          3. The patient himself participated in the study voluntarily, agreed and signed the
+             informed consent.
+
+        Exclusion Criteria:
+
+          1. Meet the diagnostic criteria for severe new-type coronavirus infection pneumonia;
+
+          2. Severe primary diseases that affect survival, including: uncontrolled malignant
+             tumors, hematological diseases, and HIV that have not been metastasized in multiple
+             places;
+
+          3. Obstructive pneumonia, pulmonary interstitial fibrosis, alveolar proteinosis, and
+             allergic alveolitis caused by lung tumors;
+
+          4. Women who are breastfeeding or pregnant;
+
+          5. Those who are known to be allergic to the ingredients contained in the research
+             medication, or patients with allergies;
+
+          6. Those who have continued to use immunosuppressive agents or organ transplants in the
+             past 6 months;
+
+          7. Patients who have participated in other drug clinical trials within 3 months before
+             the screening test;
+
+          8. The investigator judges that he or she cannot complete or should not participate in
+             the study (expected death within 48 hours, and the patient refuses active treatment)
+      
+
+NCT04291053
+
+        Inclusion Criteria:
+
+          1. Aged between 18 and 75 years, extremes included, male or female
+
+          2. Patients diagnosed with mild or common type COVID-19, according to the official
+             guideline "Pneumonia Diagnosis and Treatment Scheme for Novel Coronavirus Infection
+             (Trial Version 6)"
+
+          3. patients can generally tolerable for treatment recommended by the official guideline
+             "Pneumonia Diagnosis and Treatment Scheme for Novel Coronavirus Infection (Trial
+             Version 6)"
+
+          4. Patients have not been accompanied by serious physical diseases of heart, lung, brain,
+             etc.,Eastern Cooperative Oncology Group score standard:0-1
+
+          5. Ability to understand and the willingness to sign a written informed consent document.
+
+        Exclusion Criteria:
+
+          1. Female subjects who are pregnant or breastfeeding.
+
+          2. patients who are allergic to this medicine
+
+          3. patients meet the contraindications of Huaier granule
+
+          4. Patients with diabetes
+
+          5. Patients have any condition that in the judgement of the Investigators would make the
+             subject inappropriate for entry into this study.
+
+          6. patients can't take drugs orally
+      
+
+NCT04281693
+
+        Inclusion Criteria:
+
+          -  Who agree to participate in the study and sign written informed consent
+
+        Exclusion Criteria:
+
+          -  Confirmed NCIP patients
+      
+
+NCT04320277
+
+        Inclusion Criteria:
+
+          -  All consecutive patients with mild to moderate COVID-19 infection
+
+          -  Age >18 years,
+
+          -  Clinical diagnosis of COVID19 infection
+
+          -  Patients should present fever, cough and myalgia and weakness and radiological
+             findings of pneumonia.
+
+          -  All patients should be willing and able to provide written informed consent prior to
+             performing study procedures.
+
+        Exclusion Criteria:
+
+          -  Age less than 18
+
+          -  History of thrombophlebitis.
+
+          -  Patient with latent tuberculosis infection (Quantiferon test).
+
+          -  Pregnancy and lactation.
+      
+
+NCT04320511
+
+        Inclusion criteria:
+
+          1. Adults >18 years of age
+
+          2. Informed consent
+
+          3. A confirmed diagnosis of SARS-CoV-2 with mild to moderate disease defined as oxygen >
+             90% on room air on or supplemental oxygen not more than 6L
+
+          4. Concomitant medications for the treatment are allowed
+
+        Exclusion criteria:
+
+          1. Patients <18 years
+
+          2. Pregnant females
+
+          3. Invasive ventilator support or non-invasive ventilator support including high flow
+             nasal cannula
+
+          4. COPD or Congestive Heart Failure patients requiring home oxygen
+
+          5. History of lung cancer and radiation to lung or had prior radiation to the chest
+      
+
+NCT04285190
+
+        Inclusion Criteria:
+
+          1. Adult male or female patients aged 18-85 years old;
+
+          2. The newly diagnosed COVID-19 patients who meet the diagnostic criteria set forth in
+             the "Guidance of Diagnosis and Treatment for Patients with Coronavirus Disease 2019
+             (COVID-19) (Procedural Version 5 Amendment)", issued by the National Health Commission
+             of the People's Republic of China on 8 February 2020;
+
+          3. Patients whose blood oxygen saturation is not less than 90%.
+
+          4. Patients who agree to participate in the study and voluntarily comply with the
+             relevant requirements of the study.
+
+        Exclusion Criteria:
+
+          1. Patients with other diseases that may affect, in the opinion of study researchers, the
+             implementation of the study or the observation of the efficacy data;
+
+          2. Patients with severe Coronavirus Disease 2019 (COVID-19), that is based on "Guidance
+             of Diagnosis and Treatment for Patients with Coronavirus Disease 2019 (COVID-19)
+             (Procedural Version 5 Amendment)" with respect to the criteria for clinical severity
+             classification;
+
+          3. Female patients with known pregnancy and in lactation at screening;
+
+          4. Patients with previous allergies to T89 or Radix Salvia Miltiorrhizae, Radix
+             Notoginseng and Borneol;
+
+          5. Any other condition that, in the opinion of the investigator, may affect the conduct
+             of the study, reduce compliance or increase the risk of patients.
+      
+
+NCT04302766
+
+        Inclusion Criteria:
+
+          -  DoD-affiliated personnel as defined in DoDI 6200.02, which includes
+             emergency-essential civilian employees and/or contractor personnel accompanying the
+             Armed Forces who are subject to the same health risk as military personnel
+
+          -  Have a laboratory-confirmed COVID-19 diagnosis with moderate to severe disease
+             presentation as determined by the principal investigator
+
+          -  Patient or legally authorized representative (LAR) provides written informed consent,
+             except as noted in 21 CFR 50.23
+
+          -  Understands and agrees to comply with planned study procedures
+
+          -  Available for clinical follow-up for duration of the treatment and follow-up period
+
+          -  Woman of childbearing potential must
+
+               -  Have a negative pregnancy test within 24 hours before starting treatment
+
+               -  Agree not to become pregnant during treatment and for 1 months after receiving
+                  remdesivir (Treatment will be a maximum of 10 doses given over a 10-day interval)
+
+               -  Use at least 2 reliable forms of effective contraception, including 1 barrier
+                  method, during treatment and for 1 month after the treatment period
+
+        Exclusion Criteria:
+
+          -  ALT/AST ≥ 5 times the upper limit of normal
+
+          -  Stage 4 severe kidney disease or requiring dialysis (i.e. eGFR <30)
+
+          -  Anticipated transfer to another hospital that is not a study site within 72 hours
+
+          -  Allergy to any components of the study medication [GS-5734, sulfobutylether
+             β-cyclodextrin sodium (SBECD) and hydrochloric acid and/or sodium hydroxide]
+
+          -  Concomitant antiviral therapy (lopinavir/ritonavir [Kaletra])
+
+          -  Pregnant or nursing
+      
+
+NCT04293692
+
+        Inclusion Criteria:
+
+          1. Male or female, 18 years old ≤ age ≤ 75years old;
+
+          2. CT image is characteristic of 2019 novel coronavirus pneumonia;
+
+          3. Laboratory confirmation of 2019-nCoV infection by reverse-transcription polymerase
+             chain reaction (RT-PCR);
+
+          4. In compliance with the 2019-nCoV pneumonia diagnosis standard (according to the novel
+             coronavirus infection pneumonia diagnosis and treatment program (Trial Implementation
+             Version 6) issued by the National Health and Medical Commission, and WHO 2019 new
+             coronavirus guidelines standards): (A) increased breathing rate (≥30 beats / min),
+             difficulty breathing, cyanosis of the lips; (B) in resting state, means oxygen
+             saturation ≤93%; (C) partial pressure of arterial oxygen (PaO2) / Fraction of inspired
+             oxygen (FiO2) ≤300 mmHg (1mmHg = 0.133kPa);
+
+        Exclusion Criteria:
+
+          1. Patients with severe allergies or allergies to stem cells;
+
+          2. Patients with serious basic diseases that affect survival, including: blood diseases,
+             cachexia, active bleeding, severe malnutrition, etc.;
+
+          3. Patients with pulmonary obstructive pneumonia, severe pulmonary interstitial fibrosis,
+             alveolar proteinosis, allergic alveolitis, and other known viral pneumonia or
+             bacterial pneumonia;
+
+          4. Continuous use of immunosuppressive agents or organ transplants in the past 6 months;
+
+          5. In vitro life support (ECMO, ECCO2R, RRT);
+
+          6. Expected deaths within 48 hours, uncontrolled infections;
+
+          7. Patients with malignant blood-borne diseases such as HIV or syphilis;
+
+          8. Patient with pregnancy, are planning to become pregnant or breastfeeding;
+
+          9. Patients with poor compliance and unable to complete the full study;
+
+         10. The investigator determines that there may be increased risk of the subject or other
+             conditions that interfere with the clinical trial and the judgment of the results
+             (such as excessive stress, sensitivity or cognitive impairment, etc.);
+
+         11. There are other situations that the researchers think are not suitable to participate
+             in this clinical study
+      
+
+NCT04308317
+
+        Inclusion Criteria:
+
+          -  Patients with mild and severe cases who have been diagnosed with new coronavirus
+             pneumonia according to the "Pneumonitis Diagnosis and Treatment -
+
+          -  Plan for New Coronavirus Infection"
+
+          -  Age 18 to 75 years;
+
+          -  Sign the informed consent voluntarily.
+
+        Exclusion Criteria:
+
+          -  With active tuberculosis, idiopathic pulmonary fibrosis, bronchial asthma,
+             bronchiectasis, pulmonary embolism, patients with chronic respiratory failure or other
+             severe respiratory disease;
+
+          -  According to the "pneumonia diagnosis and treatment program for new coronavirus
+             infection" (trial version 6), critically ill patients
+
+          -  With severe patients with disease of heart head blood-vessel, malignant arrhythmia,
+             unstable angina, acute myocardial infarction and death, cardiac function level 3 and
+             above, stroke, cerebral hemorrhage, etc.);
+
+          -  With severe liver and kidney diseases (severe liver disease refers to cirrhosis,
+             portal hypertension and varices bleeding, severe kidney disease including dialysis,
+             kidney transplantation);
+
+          -  Pregnant and lactating women;
+
+          -  Severe cognitive and mental disorders;
+
+          -  Clinical investigators who were participating in other interventions within 1 month
+             prior to inclusion
+      
+
+NCT04299152
+
+        Inclusion Criteria:
+
+          1. Adult patients (18 years)
+
+          2. Must have a clinical diagnosis of SARS-CoV-2, with at least one of clinical symptoms
+             (e.g., fever ≥38°C, fatigue, cough) and a positive result by the reverse-transcription
+             polymerase chain reaction (RT-PCR) testing
+
+          3. Patients must not have received any antiviral treatments known to affect SARS-CoV-2
+
+          4. Patients must agree that they are not permitted to use any other treatment to affect
+             SARS-CoV-2 during a period of 6 months after undergoing SCE therapy
+
+          5. Adequate venous access for apheresis
+
+          6. Ability to provide informed consent
+
+          7. For female patients only, willingness to use FDA-recommended birth control
+             (http://www.fda.gov/downloads/ForConsumers/ByAudience/ForWomen/FreePublications/UCM356
+             451.pdf) until 6 months post treatment.
+
+          8. Must agree to comply with all study requirements and be willing to complete all study
+             visits
+
+        Exclusion Criteria:
+
+          1. AST or ALT 2 > x upper limit of normal.
+
+          2. Abnormal bilirubin (total bilirubin > 1.2 mg/dL, direct bilirubin > 0.4 mg/dL)
+
+          3. Creatinine > 2.0 mg/dl.
+
+          4. Known coronary artery disease or EKG suggestive of coronary artery disease unless
+             cardiac clearance for apheresis is obtained from a cardiologist.
+
+          5. Known active infection such as Hepatitis B, Hepatitis C, or Human Immunodeficiency
+             Virus (HIV)
+
+          6. Pregnancy assessed by a positive serum pregnancy test or breastfeeding mothers
+
+          7. Use of immunosuppressive medication within one month of enrollment including but not
+             limited to cyclosporine, tacrolimus, sirolimus, and chemotherapy.
+
+          8. Anticoagulation other than ASA.
+
+          9. Hemoglobin < 10 g/dl or platelets < 100 k/ml
+
+         10. Is unable or unwilling to provide informed consent
+
+         11. Presence of any other physical or psychological medical condition that, in the opinion
+             of the investigator, would preclude participation
+      
+
+NCT04312997
+
+        Inclusion Criteria:
+
+          -  1. Subjects must have a documented positive test for the COVID-19 virus within 72
+             hours of the administration of study drug
+
+          -  2. Subjects who have no requirement for oxygen (Ordinal Scale for Clinical Improvement
+             score of 3 or less)
+
+          -  3. Subjects must be under observation or admitted to a controlled facility or hospital
+             (home quarantine is not sufficient)
+
+          -  4. Subjects must be receiving standard of care (SOC) for COVID-19
+
+          -  5. Subject's spirometry (forced expiratory volume in one second [FEV1] and forced
+             vital capacity [FVC]) must be ≥70% of predicted value
+
+          -  6. If female, must be either post-menopausal (one year or greater without menses),
+             surgically sterile, or, for female subjects of child-bearing potential who are capable
+             of conception must be: practicing two effective methods of birth control (acceptable
+             methods include intrauterine device, spermicide, barrier, male partner surgical
+             sterilization, and hormonal contraception) during the study and through 30 days after
+             completion of the study. Abstinence is not classified as an effective method of birth
+             control.
+
+          -  7. If female, must not be pregnant, plan to become pregnant, or nurse a child during
+             the study and through 30 days after completion of the study. A pregnancy test must be
+             negative at the Screening Visit, prior to dosing on Day 1.
+
+          -  8. If male, must be surgically sterile or willing to practice two effective methods of
+             birth control (acceptable methods include barrier, spermicide, or female partner
+             surgical sterilization) during the study and through 30 days after completion of the
+             study. Abstinence is not classified as an effective method of birth control.
+
+          -  9. Must have the ability to understand and give informed consent.
+
+        Exclusion Criteria:
+
+          -  1. No documented infection with SARS-CoV-2
+
+          -  2. Patients who are symptomatic and require oxygen (Ordinal Scale for Clinical
+             Improvement score >3) at the time of screening
+
+          -  3. Known history of chronic pulmonary disease (e.g., asthma [including atopic asthma,
+             exercise-induced asthma, or asthma triggered by respiratory infection], chronic
+             pulmonary disease, pulmonary fibrosis, COPD), pulmonary hypertension, or heart
+             failure.
+
+          -  4. Any condition which, in the opinion of the Principal Investigator, would prevent
+             full participation in this trial or would interfere with the evaluation of the trial
+             endpoints.
+
+          -  5. Previous exposure to PUL-042 Inhalation Solution
+      
+
+NCT04280588
+
+        Inclusion Criteria:
+
+          -  The patients who were diagnosed with the common type of NCP (including severe risk
+             factors) and severe cases of new coronavirus pneumonia;
+
+          -  Aged 18 to 85 years;
+
+          -  Patients or authorized family members volunteered to participate in this study and
+             signed informed consent.
+
+        Exclusion Criteria:
+
+          -  Patients with any history of bradyarrhythmia or atrioventricular blocks
+
+          -  Patients who are participating in other drug clinical trials;
+
+          -  Pregnant or lactating women;
+
+          -  ALT / AST> 5 ULN, neutrophils <0.5, platelets less than 50;
+
+          -  Definite diagnosis of rheumatic immune-related diseases;
+
+          -  Long-term oral anti-rejection or immunomodulatory drugs;
+
+          -  Patients with active pulmonary tuberculosis, with definite bacterial and fungal
+             infections.
+      
+
+NCT04321811
+
+        Inclusion Criteria:
+
+          -  People who are feeling sick and have tested positive for COVID-19
+
+          -  People who are feeling sick but have not tested positive for COVID-19
+
+          -  People who are not feeling sick but want to participate
+
+        Exclusion Criteria:
+
+        • People who are unwilling or unable to provide informed consent
+      
+
+NCT04304313
+
+        Inclusion Criteria:
+
+          1. Patients diagnosed as COVID-19:
+
+               1. mild patient: fever,respiratory and other symptoms, the manifestation of
+                  pneumonia can be seen on imaging.
+
+               2. severe patients: meet the definition of severe pneumonia(comply with any of the
+                  followings): Shortness of breath,RR≥30 bpm;In a resting
+                  state:SPO2≤93%;PaO2/FiO2≤300mmHg.
+
+          2. Age≥18 years old,unlimited gender.
+
+          3. Patients who cannot stop the following drugs during the trial:erythromycin or strong
+             inhibitors of CYP3A4 (such as saquinavir,ketoconazole,itraconazole),nonspecific
+             inhibitors of CYP (such as cimetidine),HIV protease inhibitors (such as ritonavir).
+
+          4. Willing to participate in this study,signed Informed Consent and willing to
+             participate in regular follow-up during the study.
+
+        Exclusion Criteria:
+
+          1. Suffer from severe cognitive impairment or mental illness.
+
+          2. Pregnant and lactating women.
+
+          3. Patients taking nitric oxide drugs and nitrates in any dosage form.
+
+          4. Patients with malignant tumors;AMI, stroke or life-threatening arrhythmias within 6
+             months;hereditary pigmented retinitis;heart failure or unstable angina pectoris of
+             coronary heart disease;patients with severe hypotension and hypertension.
+
+          5. Patients who are allergic to the study drug or the researcher believes it is not
+             appropriate.
+
+          6. Participate in other clinical studies at the same time.
+      
+
+NCT04321421
+
+        Inclusion Criteria:
+
+          -  age >=18 yrs
+
+          -  positive for reverse transcription polymerase chain reaction (RT-PCR) severe acute
+             respiratory syndrome (SARS)-CoV-2
+
+          -  Acute respiratory distress syndrome (ARDS) moderate to severe, according to Berlin
+             definition, lasting less than10 days
+
+          -  Polymerase chain reaction (PCR) increased by 3.5 with respect to baseline or >18 mg/dl
+
+          -  need for mechanical ventilation or continuous positive airway pressure (CPAP)
+
+          -  signed informed consent unless unfeasible for the critical condition
+
+        Exclusion Criteria:
+
+          -  Moderate to severe ARDS lasting more than 10 days
+
+          -  proven hypersensitivity or allergic reaction to hemoderivatives or immunoglobulins
+
+          -  consent denied
+      
+
+NCT04316299
+
+        Inclusion Criteria:
+
+          -  COVID-19 pneumonia patients diagnosed by WHO criteria
+
+        Exclusion Criteria:
+
+          -  Patients who were younger than 18 years,
+
+          -  Patients who had undergone renal replacement therapy (RRT) before admission,
+
+          -  Patients whose entire stay lasted for less than 48 hours.
+      
+
+NCT04315948
+
+        Inclusion Criteria:
+
+          -  Adult ≥18 years of age at time of enrolment.
+
+          -  Has laboratory-confirmed SARS-CoV-2 infection as determined by PCR, or other
+             commercial or public health assay in any specimen < 72 hours prior to randomization.
+
+          -  Hospitalized patients with illness of any duration, and at least one of the following:
+
+               -  Clinical assessment (evidence of rales/crackles on exam) AND SpO2 ≤ 94% on room
+                  air, OR
+
+               -  Acute respiratory failure requiring mechanical ventilation and/or supplemental
+                  oxygen.
+
+          -  Women of childbearing potential must agree to use contraception for the duration of
+             the study. Acceptable birth methods control are listed in section 7.3
+
+        Exclusion Criteria:
+
+          -  Refusal to participate expressed by patient or legally authorized representative if
+             they are present
+
+          -  Spontaneous blood ALT/AST levels > 5 times the upper limit of normal.
+
+          -  Stage 4 severe chronic kidney disease or requiring dialysis (i.e. eGFR < 30 mL/min)
+
+          -  Pregnancy or breast-feeding.
+
+          -  Anticipated transfer to another hospital, which is not a study site within 72 hours.
+
+          -  Patients previously treated with one of the antivirals evaluated in the trial (i.e.
+             remdesivir, interferon ß-1a, lopinavir/ritonavir, hydroxychloroquine) in the past 29
+             days
+
+          -  Contraindication to any study medication including allergy
+
+          -  Use of medications that are contraindicated with lopinavir/ritonavir i.e. drugs whose
+             metabolism is highly dependent on the isoform CYP3A with narrow therapeutic range
+             (e.g. amiodarone, colchicine, simvastatine).
+
+          -  Use of medications that are contraindicated with hydroxychloroquine: citalopram,
+             escitalopram, hydroxyzine, domperidone, pipéraquine.
+
+          -  Human immunodeficiency virus infection under highly active antiretroviral therapy
+             (HAART).
+
+          -  History of severe depression or attempted suicide or current suicidal ideation
+      
+
+NCT04288102
+
+        Inclusion Criteria:
+
+          1. Male or female, aged at 18 years (including) -75 years old
+
+          2. Laboratory confirmation of SARS-CoV-2 infection by reverse-transcription polymerase
+             chain reaction (RT-PCR) from any diagnostic sampling source
+
+          3. Pneumonia that is judged by computed tomography
+
+          4. In accordance with any one of the following : 1)dyspnea (RR ≥ 30 times / min),
+             2)finger oxygen saturation ≤ 93% in resting state, 3)arterial oxygen partial pressure
+             (PaO2) / oxygen absorption concentration (FiO2) ≤ 300MMHG, 4)pulmonary imaging shows
+             that the focus progress > 50% in 24-48 hours
+
+          5. Interstitial lung damage is judged by computed tomography.
+
+        Exclusion Criteria:
+
+          1. Pregnancy, lactation and those who are not pregnant but do not take effective
+             contraceptives measures;
+
+          2. Patients with malignant tumor, other serious systemic diseases and psychosis;
+
+          3. Patients who are participating in other clinical trials;
+
+          4. Inability to provide informed consent or to comply with test requirements.
+
+          5. Co-Infection of HIV, tuberculosis, influenza virus, adenovirus and other respiratory
+             infection virus.
+
+          6. Invasive ventilation
+
+          7. Shock
+
+          8. Combined with other organ failure( need organ support)
+
+          9. Interstitial lung damage caused by other reasons ( in 2 weeks)
+
+         10. The pulmonary imaging revealed the interstitial damage of lungs before the COVID-19
+             confirmed.
+      
+
+NCT04313322
+
+        Inclusion Criteria:
+
+        COVID-19 positive according to diagnosis and clinical management of COVID-19 criteria.
+
+        Exclusion Criteria:
+
+          -  Participants in other clinical trials
+
+          -  patients with malignant tumors
+
+          -  pregnant and lactating women
+
+          -  co-infection with other infectious viruses or bacteria
+
+          -  History of several allergies
+
+          -  Patients with history of pulmonary embolism
+
+          -  any liver or kidney diseases
+
+          -  HIV positive patients
+
+          -  Considered by researchers to be not suitable to participate in this clinical trial
+
+          -  Chronic heart failure with ejection fraction less than 30%.
+      
+
+NCT04254874
+
+        Inclusion Criteria:
+
+        1)2019-nCoV nucleic acid test was positive. 2)CT of the lung conformed to the manifestation
+        of viral pneumonia.
+
+        Exclusion Criteria:
+
+          1. Patients who meet any of the contraindications in the experimental drug labeling
+
+          2. Patients who do not want to participate in this clinical study
+      
+
+NCT04273763
+
+        Inclusion Criteria:
+
+          -  Aged between 18 and 80 years (Including 18and 80years, male or female).
+
+          -  One of them:
+
+               1. Laboratory (RT-PCR) and clinical symptoms confirmed case of novel coronavirus
+                  pneumonia (COVID-19).
+
+               2. Patients diagnosed clinically as suspected cases.
+
+          -  Ability to communicate well with researchers and sign the informed consent Form (ICF)
+             voluntarily.
+
+        Exclusion Criteria:
+
+          -  ALT≥5 times of ULN, level of total bilirubin≥3 times of ULN, or Cr≥1.5 times of ULN.
+
+          -  Patients with serious severe liver disease.
+
+          -  Excluded who diagnosed as pneumonia patients with novel coronavirus infection of
+             severe type and critical type. 【Diagnostic criteria reference the official guideline
+             "Pneumonia Diagnosis and Treatment Scheme for Novel Coronavirus Infection (Trial
+             Version 5) "】.
+
+          -  Patients with previous history of severe gastrointestinal diseases such as gastric
+             ulcers and bleeding.
+
+          -  Patients with lactose intolerance.
+
+          -  Patients who are allergic to the components of this medicine (Major components:
+             Bromhexine Hydrochloride; excipient: starch, lactose, magnesium stearate).
+
+          -  Positive serum pregnancy test result for women with childbearing potential at
+             screening or lactating women.
+
+          -  Other circumstances that the researcher considers inappropriate to participate in this
+             study.
+      
+
+NCT04255940
+
+        Inclusion Criteria:
+
+          -  Patients visiting emergency department.
+
+        Exclusion Criteria:
+
+        -
+      
+
+NCT04286503
+
+        Inclusion Criteria:
+
+          1. Subjects or their legal representatives have signed the informed consent form(ICF);
+             agree not to participate in other clinical studies within 30 days after the last
+             administration from the first administration of the study drug.
+
+          2. Subjects are aged ≥ 18 and ≤ 75;
+
+          3. Meet the diagnostic criteria for 2019-nCoV pneumonia (V5.0);
+
+          4. SOFA score: 1 ~ 13 points.
+
+          5. A retreated patient or the relapsed patient meets any of the following criteria:
+
+               -  Have fever again or aggravated clinical symptoms; ② 2019nCOVRNA in the throat
+                  swabs converts from negative to positive; ③ The clinical symptoms don't improve
+                  or 2019nCOVRNA continues to be positive; ④ The chest CT shows pneumonia or
+                  fibrosis progression.
+
+        Clinical stratification:
+
+          1. Mild type: clinical symptoms mild or asymptomatic, no pneumonia performance in CT, but
+             positive 2019-nCoV in throat swabs or gargle.
+
+          2. Ordinary type: fever, respiratory symptoms, etc., pneumonia performance visible in CT.
+
+          3. Severe type: meeting any of the following criteria:
+
+        (1) Respiratory distress, RR≥30 times/min; (2) Finger oxygen saturation ≤93% in rest state;
+        (3) Arterial partial pressure of oxygen (PaO2)/concentration of oxygen inhalation
+        (FiO2)≤300mmHg (1mmHg=0.133kPa).
+
+        4. Critical type: meeting any of the following criteria:(1)Respiratory failure occurs and
+        mechanical ventilation is required;(2)Patients go into shock;(3)ICU is needed for other
+        organ failure.
+
+        Exclusion Criteria:
+
+          1. Other viral pneumonia
+
+          2. Patients who have received tumor immunotherapy (such as PD-1/L1, CTLA4, etc.) in the
+             past 1 month, and inflammatory factor modulators such as Ulinastatin;
+
+          3. Patients who have taken anti-bacterial drugs such as macrolide in the past 1 week;
+
+          4. Patients who have received organ transplantation or surgery planning in the past 6
+             months;
+
+          5. Patients who can't take food or drugs due to coma or intestinal obstruction;
+
+          6. Patients who have severe underlying diseases that affects survival, including
+             uncontrolled malignant tumor with multiple metastases that cannot be resected, blood
+             diseases, dyscrasia, active bleeding, severe malnutrition, etc.
+
+          7. Women subjects that are pregnant or lactating, or subjects (including male subjects)
+             having a pregnancy plan (including plans for sperm donation or egg donation), or
+             subjects that may fail to take effective contraceptive measures within the next 6
+             months;
+
+          8. Patients with allergic constitution, or patients allergic to macrolides and
+             lopinavir/ritonavir tablets;
+
+          9. Patients with contraindications to lopinavir/ritonavir tablets who plan or are using
+             drugs that interact with the drug (including: drugs that are highly dependent on CYP3A
+             clearance and whose elevated plasma concentrations can be associated with severe
+             and/or life-threatening events [with a narrow therapeutic index], CYP3A inducer [see
+             instruction for details]) and cannot stop using or use other drugs instead;
+
+         10. Patients whose ALT/AST levels are 5 times higher than the normal upper limit and total
+             bilirubin is 3 times higher than the upper limit of normal, or patients with
+             child-Pugh grade C cirrhosis.
+
+         11. ECLS (ECMO, ECCO2R, RRT)
+
+         12. Critical patients with expected life＜48 hours
+
+         13. Patients who have participated in any other clinical study within 1 month;
+
+         14. The investigators conclude that the patients not suitable for the study.
+      
+
+NCT04316884
+
+        Inclusion Criteria:
+
+          -  Admitted to intensive care
+
+          -  suspected or verified COVID-19
+
+        Exclusion Criteria:
+
+          -  Pregnancy or breastfeeding
+
+          -  Preexisting end-stage kidney failure or dialysis
+
+          -  Under-age
+      
+
+NCT04255017
+
+        Inclusion Criteria:
+
+          1. 2019-nCoV nucleic acid test was positive.
+
+          2. CT of the lung conformed to the manifestation of viral pneumonia.
+
+        Exclusion Criteria:
+
+          1. Patients who meet any of the contraindications in the experimental drug labeling
+
+          2. Patients who do not want to participate in this clinical study
+      
+
+NCT04318301
+
+        Inclusion Criteria:
+
+          -  COVID-19 pneumonia patients diagnosed by WHO criteria
+
+        Exclusion Criteria:
+
+          -  Patients who were younger than 18 years.
+
+          -  Patients whose entire stay lasted for less than 48 hours.
+      
+
+NCT04306705
+
+        Inclusion Criteria:
+
+          1. Agrees to the collection of oropharyngeal or anal swabs and venous blood per protocol.
+
+          2. Male or non-pregnant female adult ≥18 years of age at time of enrollment.
+
+          3. Has laboratory-confirmed novel coronavirus infection as determined by polymerase chain
+             reaction (PCR), or other commercial or public health assay in oropharyngeal or anal
+             specimen within 72 hours prior to hospitalization.
+
+          4. Illness of any duration, and at least one of the following:
+
+               1. Radiographic infiltrates by imaging (chest x-ray, CT scan, etc.), OR
+
+               2. Clinical assessment (evidence of rales/crackles on physical examination) AND SpO2
+                  ≤93% on room air, OR
+
+               3. Requiring mechanical ventilation and/or supplemental oxygen, OR
+
+               4. Sustained fever in the past 24 hours and unresponsive to NSAID or steroid
+
+          5. Serum IL-6 ≥3 times the upper limit of normal
+
+        Exclusion Criteria:
+
+          1. Alanine transaminase/aspartate transaminase (ALT/AST) > 5 times the upper limit of
+             normal.
+
+          2. Stage 4 severe chronic kidney disease or requiring dialysis (i.e. estimated glomerular
+             filtration rate (eGFR) < 30 ml /min/1.73 m^2)
+
+          3. Hemoglobin<80 g/L
+
+          4. Leukocytes<2.0×10^9
+
+          5. Platelets<50×10^9
+
+          6. Pregnancy or breast feeding.
+
+          7. Anticipated transfer to another hospital which is not a study site within 72 hours.
+
+          8. Expected life span does not exceed 7 days.
+
+          9. Allergy to any study medication.
+      
+
+NCT04316728
+
+        Inclusion Criteria:
+
+          -  Adults healthcare workers (HCW) OR
+
+          -  Chronic patients with at least 2 chronic medical conditions
+
+        Exclusion Criteria:
+
+          -  People that have been in contact with people positive for COVID-19 in the previous 14
+             days
+
+          -  People with body temperature >37.5°C
+
+          -  People with Dry cough
+
+          -  People with Respiratory distress (Respiratory Rate >25/min or O2 Saturation <92%)
+      
+
+NCT04285801
+
+        Inclusion Criteria:
+
+          -  admission to ICU
+
+          -  adult (≥18 years old)
+
+          -  confirmed case of 2019-nCov infection by 2019-nCov RNA by reverse transcription
+             polymerase chain reaction , isolation in cell culture of 2019-nCov from a clinical
+             specimen or serum antibody to 2019-nCov
+
+        Exclusion Criteria:
+
+        - none
+      
+
+NCT04318314
+
+        Inclusion Criteria:
+
+          -  healthy asymptomatic healthcare workers attending hospital (place of work)
+
+        Exclusion Criteria:
+
+          -  SARS-CoV-2 positive or symptomatic healthcare workers
+      
+
+NCT04288713
+
+        Inclusion Criteria:
+
+          -  COVID-19 positive patients over the age of 18.
+
+        Exclusion Criteria:
+
+          -  Patients who are currently intubated.
+      
+
+NCT04311697
+
+        Inclusion Criteria:
+
+          -  ARDS associated with COVID-19 infection
+
+          -  Medical necessity for endotracheal intubation and mechanical ventilation
+
+          -  Physician determination that patient is on maximal conventional medical therapy
+
+        Exclusion Criteria:
+
+          -  existing evidence of end-organ (renal, cardiac, hepatic, gastrointestinal failure)
+      
+
+

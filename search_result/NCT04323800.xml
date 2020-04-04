@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="140">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04323800</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00245634</org_study_id>
+    <nct_id>NCT04323800</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety Human Coronavirus Immune Plasma (HCIP) vs. Control (SARS-CoV-2 Non-immune Plasma) Among Adults Exposed to COVID-19</brief_title>
+  <acronym>CSSC-001</acronym>
+  <official_title>Convalescent Plasma to Stem Coronavirus: A Randomized, Blinded Phase 2 Study Comparing the Efficacy and Safety Human Coronavirus Immune Plasma (HCIP) vs. Control (SARS-CoV-2 Non-immune Plasma) Among Adults Exposed to COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evaluate the efficacy of treatment with high-titer Anti- SARS-CoV-2 plasma versus control
+      (SARS-CoV-2 non-immune plasma) in subjects exposed to Coronavirus disease (COVID-19) at day
+      28.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2020</start_date>
+  <completion_date type="Anticipated">January 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>1:1 ratio</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cumulative incidence of composite outcome of disease severity</measure>
+    <time_frame>Day 28</time_frame>
+    <description>The cumulative incidence of composite outcome of disease severity will be used in assessing the efficacy of treatment with high-titer Anti- SARS-CoV-2 plasma versus control (SARS-CoV-2 non-immune plasma) in subjects exposed to COVID-19. This will be determined with the presence or occurrence of at least one of the following:
+Death
+Requiring mechanical ventilation and/or in ICU
+non-ICU hospitalization, requiring supplemental oxygen;
+non-ICU hospitalization, not requiring supplemental oxygen;
+Not hospitalized, but with clinical and laboratory evidence of COVID-19 infection
+Not hospitalized, no clinical evidence of COVID-19 infection, but with positive PCR for SARS-CoV-2</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Anti-SARS-CoV-2 titers</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Compare the anti-SARS-CoV-2 convalescent plasma and control (SARS-CoV-2 non-immune plasma) groups anti-SARS-CoV-2 titers at day 0 (baseline).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-SARS-CoV-2 titers</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Compare the anti-SARS-CoV-2 convalescent plasma and control (SARS-CoV-2 non-immune plasma) groups anti-SARS-CoV-2 titers at day 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-SARS-CoV-2 titers</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Compare the anti-SARS-CoV-2 convalescent plasma and control (SARS-CoV-2 non-immune plasma) groups anti-SARS-CoV-2 titers at day 3.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-SARS-CoV-2 titers</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Compare the anti-SARS-CoV-2 convalescent plasma and control (SARS-CoV-2 non-immune plasma) groups anti-SARS-CoV-2 titers at day 7.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-SARS-CoV-2 titers</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Compare the anti-SARS-CoV-2 convalescent plasma and control (SARS-CoV-2 non-immune plasma) groups anti-SARS-CoV-2 titers at day 14.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-SARS-CoV-2 titers</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Compare the anti-SARS-CoV-2 convalescent plasma and control (SARS-CoV-2 non-immune plasma) groups anti-SARS-CoV-2 titers at day 90.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of SARS-CoV-2 PCR positivity</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>Compare the rates of SARS-CoV-2 PCR positivity (RT-PCR) amongst the anti-SARS-CoV-2 convalescent plasma and control (SARS-CoV-2 non-immune plasma) groups at days 0, 7, 14 and 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of SARS-CoV-2 PCR positivity</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>Compare the duration (days) of SARS-CoV-2 PCR positivity (RT-PCR) amongst the anti-SARS-CoV-2 convalescent plasma and control (SARS-CoV-2 non-immune plasma) groups at days 0, 7, 14 and 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak quantity levels of SARS-CoV-2 RNA</measure>
+    <time_frame>Up to day 14</time_frame>
+    <description>Compare the peak quantity levels of SARS-CoV-2 RNA amongst the anti-SARS-CoV-2 convalescent plasma and control (SARS-CoV-2 non-immune plasma) groups at days 0, 7, 14 days.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Coronavirus</condition>
+  <condition>Convalescence</condition>
+  <arm_group>
+    <arm_group_label>High titer anti-SARS-CoV-2 plasma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with High titer anti-SARS-CoV-2 plasma.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 non-immune plasma</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants with SARS-CoV-2 non-immune plasma.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Anti- SARS-CoV-2 Plasma</intervention_name>
+    <description>SARS-CoV-2 convalescent plasma (1 unit; ~200-250 mL collected by pheresis from a volunteer who recovered from COVID-19 disease and was found to have a titer of neutralizing antibody &gt;1:64)</description>
+    <arm_group_label>High titer anti-SARS-CoV-2 plasma</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 non-immune Plasma</intervention_name>
+    <description>Standard plasma collected prior to December 2019</description>
+    <arm_group_label>SARS-CoV-2 non-immune plasma</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects must be 18 years of age or older
+
+          -  Close contact* exposure to person with COVID-19 within 96 hours of enrollment (and 120
+             hours of receipt of plasma)
+
+          -  If female must not be pregnant and/or breastfeeding. Women of childbearing potential
+             and men, must be willing to practice an effective contraceptive method or remain
+             abstinent during the study period.
+
+             *Close contact* is defined by the Centers for Disease Control and Prevention (CDC) as:
+
+             a) being within approximately 6 feet (2 meters) of a COVID-19 case for a prolonged
+             period of time (without PPE); close contact can occur while caring for, living with,
+             visiting, or sharing a healthcare waiting area or room with a COVID-19 case
+
+          -  or -
+
+             b) having direct contact with infectious secretions of a COVID-19 case (e.g., being
+             coughed on) without PPE
+
+        Exclusion Criteria:
+
+          -  Receipt any blood product in past 120 days
+
+          -  Psychiatric or cognitive illness or recreational drug/alcohol use that in the opinion
+             of the principal investigator, would affect subject safety and/or compliance
+
+          -  Symptoms consistent with COVID-19 infection (fevers, acute onset cough, shortness of
+             breath) at time of screening
+
+          -  Nucleic acid testing evidence of COVID-19 infection at time of screening
+
+          -  History of prior reactions to transfusion blood products
+
+          -  Inability to complete therapy with the study product within 24 hours after enrollment
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Darin Ostrander, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Darin Ostrander, PhD</last_name>
+    <phone>410-614-6702</phone>
+    <email>TOID_CRC@jhmi.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Obi Ezennia, MPH</last_name>
+    <phone>410-614-6702</phone>
+    <email>TOID_CRC@jhmi.edu</email>
+  </overall_contact_backup>
+  <verification_date>March 2020</verification_date>
+  <study_first_submitted>March 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 27, 2020</study_first_posted>
+  <last_update_submitted>March 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Convalescence</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Sharing is governed by Johns Hopkins University Institutional Guidelines</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

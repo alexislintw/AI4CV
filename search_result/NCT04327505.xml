@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="174">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04327505</url>
+  </required_header>
+  <id_info>
+    <org_study_id>K-2020-2611</org_study_id>
+    <secondary_id>2020-001349-37</secondary_id>
+    <secondary_id>4-1199/2020</secondary_id>
+    <nct_id>NCT04327505</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of Hyperbaric Oxygen for ARDS in Patients With COVID-19</brief_title>
+  <acronym>COVID-19-HBO</acronym>
+  <official_title>Safety and Efficacy of Hyperbaric Oxygen for Improvement of Acute Respiratory Distress Syndrome in Adult Patients With COVID-19; a Randomized, Controlled, Open Label, Multicentre Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karolinska University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, San Diego</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Blekinge County Council Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Karolinska University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We hypothesize that hyperbaric oxygen (HBO) is safe for patients with COVID-19 and that HBO
+      reduces the inflammatory reaction in Acute Respiratory Distress Syndrome (ARDS) associated
+      with COVID-19.
+
+      Also known as SARS-CoV-2, COVID-19 is declared a pandemic by World Health Organization (WHO).
+      No specific treatment has been successful as of March 2020. Mortality rates in patients that
+      develop ARDS is extremely high, 61.5-90%, almost double the mortality of ARDS of any cause.
+      ARDS associated with COVID-19 is associated with pulmonary edema, rapidly progressing
+      respiratory failure and fibrosis. The mechanism behind the rapid progress is still an enigma
+      but theories have evolved around severe inflammatory involvement with a cytokine storm.
+      Macrophage activation is involved in the early phase of ARDS and cytokine modulators have
+      been tried in experimental settings without proven clinical benefits. HBO significantly
+      reduces inflammatory cytokines and and oedema in other clinical settings. HBO has been used
+      for almost a century, nowadays mainly used for its anti-inflammatory effects. Several
+      randomized clinical trials show beneficial effects in variety of inflammatory diseases
+      including diabetic foot ulcers and radiation injury. HBO is generally regarded as safe with
+      very few adverse events and extensive experimental and clinical evidence suggest that HBO is
+      a promising drug to ameliorate ARDS associated with COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 also known as CoV-2 is declared a pandemic by WHO. More than 400 articles have been
+      published and more than 160 clinical trials are registered but no specific treatment has been
+      successful as of March 2020. Antiviral drugs Lopinavir-Ritonavir did not show any significant
+      benefit compared to standard care in a Chinese randomized controlled study with 199 patients.
+      Even though the overall mortality is low (0.2-7.2% the figures from critical care are
+      fearsome. Mortality rates have been reported as high as 90% in patients developing Acute
+      Respiratory Distress Syndrome (ARDS) in early reports from the Wuhan province and more recent
+      reports has reported overall 28-d mortality rates of 61,5% in ICU patients with acute
+      respiratory illness (ALI), almost double the mortality of ARDS of any cause. ARDS associated
+      with COVID-19 differs from other described ARDS with rapidly progressing respiratory failure
+      and fibrosis. The mechanism behind the rapid progress is still an enigma but theories have
+      evolved around severe inflammatory involvement with a cytokine storm. Macrophage activation
+      is involved in the early phase of ARDS and cytokine modulators such as Interleukin-6 (IL-6)
+      inhibitors have been tried in experimental settings but no proper clinical trials have proven
+      positive outcome. Hyperbaric oxygen (HBO) significantly reduces inflammatory cytokines
+      including IL-1β, IL-6 and TNF-α through several transcription factors regulating
+      inflammation, including Hypoxia Inducible Factor 1 (HIF-1), Nrf2 and NFkB. Hyperbaric oxygen
+      (HBO) has been used for almost a century, initially for decompression sickness, but it
+      nowadays mainly used for its anti-inflammatory effects. Several randomized clinical trials
+      have been conducted on humans for a variety of inflammatory diseases including diabetic foot
+      ulcers and radiation injury. HBO is generally regarded as safe with very few adverse events.
+      The broad and physiological anti-inflammatory effects of HBO shown in extensive experimental
+      and clinical evidence suggest that HBO is a promising drug to ameliorate ARDS associated with
+      COVID-19.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 25, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized controlled, open label, multi-centre clinical trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PO2/FiO2 (Safety)</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Oxygen requirement (Arterial bloodgas (pO2) and recorded Fraction inspired oxygen within 1 hour before and after HBO and 6 hours after each HBO treatment)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PO2/FiO2 (Efficacy)</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Oxygen requirement (Arterial bloodgas (pO2) and recorded Fraction inspired oxygen) At baseline, daily for 7 days, Day 14 and Day 30 (or last day in hospital if patient is discharged earlier, or at withdrawal) irrespective of HBO treatments.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Early Warning Score (NEWS) (Safety)</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>NEWS within 1 hour before and after and 6h after HBO</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Early Warning Score (NEWS) (Efficacy)</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Mean NEWS at baseline, daily for 7 days, Day 14 and Day 30 (or last day in hospital if patient is discharged earlier, or at withdrawal) irrespective of HBO treatments.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological response (Efficacy)</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Measurement of clinically available markers; Baseline, daily for 7 days, Day 14, Day 30 or last day in ICU if patient have left ICU earlier, or at withdrawal)
+Full Blood cell count including WBC count + differentiation (number/ml)
+C-Reactive protein
+Procalcitonin
+Cytokines including but not limited to IL-6</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mechanical ventilation (Efficacy)</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Days free of invasive mechanical ventilation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SAE</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Serious Adverse Events (number of events)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serious ADR</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Serious Adverse Drug Reaction (number of events)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AE</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Adverse Event (number of events )</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen dose</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Mean oxygen dose/day including HBO and cumulative potential oxygen toxicity calculated as Oxygen Tolerance Units (OTU)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary CT (low-dose CT)</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Changes in Pulmonary CT (low-dose CT), within before and after HBO and Day 0,7,14 and 28/30 (in selected patients if clinically indicated)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chest X-ray</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Changes on Chest X-ray, before and after HBO and Day 0,7,14 and 28/30 (in selected patients if clinically indicated)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chest ultrasound</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Changes in Chest ultrasound (Atelectasis/b-lines), before and after HBO, Day 0,7,14 and 28/30 (in selected patients when available)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Secondary infections</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Secondary infections (VAP, CLABSI, other) (number of events)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>30-day all-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU free days</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Time not admitted to ICU during the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU mortality</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Mortality of any cause in ICU (% of patients admitted to ICU)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital mortality</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Mortality of any cause in Hospital (% of patients admitted to Hospital)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Micro RNA plasma (Biomarker)</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Change in expression of Micro RNA in plasma (qPCR) Baseline, Day 3, Day 5, Day 7, Day 14, Day 30. First 20 patients.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MicroRNA/RNA PBMC (Explanatory)</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Change in gene expression and Micro RNA interactions in Peripheral Blood Mononuclear Cells (qPRC and Micro array) Baseline, Day 3, Day 5, Day 7, Day 14, Day 30. First 20 patients.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunological response (Explanatory)</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Immunological response, Baseline, Day 3, Day 5, Day 7. In first 20 patients Cytokines extended including (IL-1β, IL-2, IL-6, IL33 and TNFα) Lymphocyte profile Flowcytometry with identification of monocyte/lymphocyte sub sets including but not limited to CD3+/CD4+/CD8+ Monocyte proliferation markers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral load</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Viral load (quantitative PCR) (Baseline, Day 7, Day 14, Day 30)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Staff safety</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>SAE or AE in staff associated with treatment of patient</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>HBO Feasibility</measure>
+    <time_frame>Through study completion 30 days</time_frame>
+    <description>Number of HBO treatments given/planned first 10 days
+Received HBO treatment within 24h of enrolment (Yes/No)</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Acute Lung Injury/Acute Respiratory Distress Syndrome (ARDS)</condition>
+  <condition>Cytokine Storm</condition>
+  <condition>Infection Viral</condition>
+  <arm_group>
+    <arm_group_label>Hyperbaric oxygen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Hyperbaric oxygen 2.4 Bar for 30 minutes (with 5 min compression time and 5 minutes decompression time, according to local routines)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hyperbaric oxygen</intervention_name>
+    <description>2.4 Bar (2.4 ATA), 30 min (excluding compression/recompression)</description>
+    <arm_group_label>Hyperbaric oxygen</arm_group_label>
+    <other_name>HBO</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Aged 18-90 years
+
+          2. The patient is likely to fulfill the ARDS criteria (Berlin definition) and need
+             intubation, ventilator-assisted or ECMO-assisted treatment within 7 days of admission
+             to hospital
+
+          3. Suspected or verified COVID-19 infection
+
+          4. At least one risk factor for increased mortality in COVID-19: currently published e.g.
+             Smoking, Hypertension, Diabetes, Cardiovascular disease
+
+          5. Documented informed consent according to ICH-GCP and national regulations
+
+        Exclusion Criteria:
+
+          1. ARDS caused by other viral infections (negative SARS-CoV-2)
+
+          2. ARDS caused by other non-viral infections or trauma
+
+          3. Known pregnancy or positive pregnancy test in women
+
+          4. Patients with previous lung fibrosis
+
+          5. CT- or Spirometry-verified severe COPD with Emphysema
+
+          6. Contraindication for HBO according to local guidelines
+
+          7. Do Not Resuscitate (DNR) or other restrictions in escalation of level of care
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Adults, all genders</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anders Kjellberg, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Karolinska University Hospital (and karolinska Insitutet)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anders Kjellberg, MD</last_name>
+    <phone>+46812375212</phone>
+    <email>anders.kjellberg@ki.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Peter Lindholm, MD, PhD</last_name>
+    <email>peter.lindholm@ki.se</email>
+  </overall_contact_backup>
+  <verification_date>March 2020</verification_date>
+  <study_first_submitted>March 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2020</study_first_posted>
+  <last_update_submitted>March 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>March 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska University Hospital</investigator_affiliation>
+    <investigator_full_name>Anders Kjellberg, MD</investigator_full_name>
+    <investigator_title>ICU Consultant, head of hyperbaric medicine</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Hyperbaric oxygen</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

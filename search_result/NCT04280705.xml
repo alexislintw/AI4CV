@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="187">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04280705</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-0006</org_study_id>
+    <nct_id>NCT04280705</nct_id>
+  </id_info>
+  <brief_title>Adaptive COVID-19 Treatment Trial (ACTT)</brief_title>
+  <official_title>A Multicenter, Adaptive, Randomized Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for the Treatment of COVID-19 in Hospitalized Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is an adaptive, randomized, double-blind, placebo-controlled trial to evaluate the
+      safety and efficacy of novel therapeutic agents in hospitalized adults diagnosed with
+      COVID-19. The study is a multicenter trial that will be conducted in up to approximately 75
+      sites globally. The study will compare different investigational therapeutic agents to a
+      control arm. There will be interim monitoring to introduce new arms and allow early stopping
+      for futility, efficacy, or safety. If one therapy proves to be efficacious, then this
+      treatment may become the control arm for comparison(s) with new experimental treatment(s).
+      Any such change would be accompanied by an updated sample size. Because background standards
+      of supportive care may evolve/improve over time as more is learned about successful
+      management of COVID-19, comparisons of safety and efficacy will be based on data from
+      concurrently randomized subjects. An independent data and safety monitoring board (DSMB) will
+      actively monitor interim data to make recommendations about early study closure or changes to
+      study arms. Subjects will be assessed daily while hospitalized. Discharged subjects will be
+      asked to attend study visits at Days 15 and 29. All subjects will undergo a series of
+      efficacy, safety, and laboratory assessments. The primary objective of the study is to
+      evaluate the clinical efficacy of different investigational therapeutics relative to the
+      control arm in adults hospitalized with COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is an adaptive, randomized, double-blind, placebo-controlled trial to evaluate the
+      safety and efficacy of novel therapeutic agents in hospitalized adults diagnosed with
+      COVID-19. The study is a multicenter trial that will be conducted in up to approximately 75
+      sites globally. The study will compare different investigational therapeutic agents to a
+      control arm. There will be interim monitoring to introduce new arms and allow early stopping
+      for futility, efficacy, or safety. If one therapy proves to be efficacious, then this
+      treatment may become the control arm for comparison(s) with new experimental treatment(s).
+      Any such change would be accompanied by an updated sample size. Because background standards
+      of supportive care may evolve/improve over time as more is learned about successful
+      management of COVID-19, comparisons of safety and efficacy will be based on data from
+      concurrently randomized subjects. An independent data and safety monitoring board (DSMB) will
+      actively monitor interim data to make recommendations about early study closure or changes to
+      study arms. The initial sample size is calculated to be approximately 440 subjects, and if
+      any additional therapeutic arms are added, the sample size will be recalculated. Subjects
+      will be assessed daily while hospitalized. Discharged subjects will be asked to attend study
+      visits at Days 15 and 29. All subjects will undergo a series of efficacy, safety, and
+      laboratory assessments. The primary objective of the study is to evaluate the clinical
+      efficacy of different investigational therapeutics relative to the control arm in adults
+      hospitalized with COVID-19. The secondary objectives of the study are to 1) evaluate the
+      clinical efficacy of different investigational therapeutics as compared to the control arm as
+      assessed by clinical severity, hospitalization, and mortality, and 2) evaluate the safety of
+      different investigational therapeutics as compared to the control arm.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 21, 2020</start_date>
+  <completion_date type="Anticipated">April 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of subjects reporting each severity rating on an 8-point ordinal scale</measure>
+    <time_frame>Day 15</time_frame>
+    <description>The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in alanine transaminase (ALT)</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in aspartate transaminase (AST)</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in creatinine</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in glucose</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in hemoglobin</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in platelets</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in prothrombin time (PT)</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in total bilirubin</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in white blood cell count with differential</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in National Early Warning Score (NEWS) from baseline</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>The NEW score has demonstrated an ability to discriminate patients at risk of poor outcomes. This score is based on 7 clinical parameters (respiration rate, oxygen saturation, any supplemental oxygen, temperature, systolic blood pressure, heart rate, level of consciousness). The NEW Score is being used as an efficacy measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical status using ordinal scale</measure>
+    <time_frame>Day 3 through Day 29</time_frame>
+    <description>The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of Grade 3 and 4 adverse events (AEs)</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Grade 3 AEs are defined as events that interrupt usual activities of daily living, or significantly affects clinical status, or may require intensive therapeutic intervention. Severe events are usually incapacitating.
+Grade 4 AEs are defined as events that are potentially life threatening.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of serious adverse events (SAEs)</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>An SAE is defined as an AE or suspected adverse reaction is considered serious is, in the view of either the investigator or the sponsor, if results in death, a life-threatening AE, inpatient hospitalization or prolongation of existing hospitalization, a persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions, or a congenital anomaly/birth defect.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discontinuation or temporary suspension of infusions</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>For any reason.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Measured in days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of new non-invasive ventilation or high flow oxygen use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of new oxygen use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of new ventilator or extracorporeal membrane oxygenation (ECMO) use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of new non-invasive ventilation or high flow oxygen use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of new oxygen use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of new ventilator or extracorporeal membrane oxygenation (ECMO) use</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in the ordinal scale</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of non-invasive ventilation/high flow oxygen free days</measure>
+    <time_frame>Day 1 to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of oxygenation free days</measure>
+    <time_frame>Day 1 to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subject 14-day mortality</measure>
+    <time_frame>Day 1 through Day 15</time_frame>
+    <description>Date and cause of death (if applicable).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subject 28-day mortality</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Date and cause of death (if applicable).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to an improvement of one category using an ordinal scale</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to an improvement of two categories using an ordinal scale</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to discharge or to a National Early Warning Score (NEWS) of &lt;/= 2 and maintained for 24 hours, whichever occurs first</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>The NEW score has demonstrated an ability to discriminate patients at risk of poor outcomes. This score is based on 7 clinical parameters (respiration rate, oxygen saturation, any supplemental oxygen, temperature, systolic blood pressure, heart rate, level of consciousness). The NEW Score is being used as an efficacy measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator/extracorporeal membrane oxygenation (ECMO) free days</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">440</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>200 mg of Remdesivir placebo administered intravenously on Day 1, followed by a 100 mg once-daily maintenance dose of Remdesivir placebo for the duration of the hospitalization up to a 10 days total course. n=220.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Remdesivir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>200 mg of Remdesivir administered intravenously on Day 1, followed by a 100 mg once-daily maintenance dose of Remdesivir for the duration of the hospitalization up to a 10 days total course. n=220.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>The supplied matching placebo lyophilized formulation is identical in physical appearance to the active lyophilized formulation and contains the same inactive ingredients.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>Drug Remdesivir is a single diastereomer monophosphoramidate prodrug designed for the intracellular delivery of a modified adenine nucleoside analog GS-441524. In addition to the active ingredient, the lyophilized formulation of Remdesivir contains the following inactive ingredients: water for injection, sulfobutylether beta-cyclodextrin sodium (SBECD), and hydrochloric acid and/or sodium hydroxide.</description>
+    <arm_group_label>Remdesivir</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Admitted to a hospital with symptoms suggestive of COVID-19 infection.
+
+          2. Subject (or legally authorized representative) provides written informed consent prior
+             to initiation of any study procedures.
+
+          3. Understands and agrees to comply with planned study procedures.
+
+          4. Agrees to the collection of oropharyngeal (OP) swabs.
+
+          5. Male or non-pregnant female adult &gt; / = 18 years of age at time of enrollment.
+
+          6. Has laboratory-confirmed SARS-CoV-2 infection as determined by polymerase chain
+             reaction (PCR) or other commercial or public health assay in any specimen collected &lt;
+             72 hours prior to randomization.
+
+             Note - 72 hours is not necessarily time from initial diagnosis. If &gt; / = 72 hours
+             since positive PCR, the PCR may be repeated to assess eligibility.
+
+          7. Illness of any duration, and at least one of the following:
+
+               -  Radiographic infiltrates by imaging (chest x-ray, CT scan, etc.), OR
+
+               -  Clinical assessment (evidence of rales/crackles on exam) AND SpO2 &lt; / = 94% on
+                  room air, OR
+
+               -  Requiring supplemental oxygen, OR
+
+               -  Requiring mechanical ventilation.
+
+          8. Women of childbearing potential must agree to either abstinence or use at least one
+             primary form of contraception not including hormonal contraception from the time of
+             screening through Day 29.
+
+          9. Agrees to not participate in another clinical trial for the treatment of COVID-19 or
+             SARS-CoV-2 through Day 29.
+
+        Exclusion Criteria:
+
+          1. Alanine Transaminase (ALT)/Aspartate Transaminase (AST) &gt; 5 times the upper limit of
+             normal.
+
+          2. Estimated glomerular filtration rate (eGFR) &lt; 50 or requiring dialysis.
+
+          3. Pregnancy or breast feeding.
+
+          4. Anticipated transfer to another hospital which is not a study site within 72 hours.
+
+          5. Allergy to any study medication.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>20-0006 Central Contact</last_name>
+    <phone>13017617948</phone>
+    <email>DMIDClinicalTrials@niaid.nih.gov</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham School of Medicine - Infectious Disease</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Diego Health - Jacobs Medical Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>29037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Los Angeles Medical Center - Westwood Clinic</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Irvine Medical Center - Infectious Disease</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868-3298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>VA Palo Alto Health Care System - Infectious Diseases</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304-1207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University - Stanford Hospital and Clinics - Pediatrics - Infectious Diseases</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304-1503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Davis Medical Center - Internal Medicine - Infectious Disease</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817-1460</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Naval Medical Center San Diego - Infectious Disease Clinic</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92314</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Francisco - Zuckerberg San Francisco General Hospital - Division of Human Immunodeficiency Virus, Infectious Disease, and Global Medicine</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110-2859</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Denver Health Division of Hospital Medicine - Main Campus</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Emory Vaccine Center - The Hope Clinic</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030-1705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern Hospital - Infectious Disease</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611-2908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Illinois at Chicago College of Medicine - Division of Infectious Diseases</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland School of Medicine - Center for Vaccine Development - Baltimore</name>
+      <address>
+        <city>Annapolis</city>
+        <state>Maryland</state>
+        <zip>21401-1527</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hospital - Medicine - Infectious Diseases</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287-0005</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Institutes of Health - Clinical Center, National Institute of Allergy and Infectious Diseases Laboratory Of Immunoregulation, Clinical Research Section</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892-1504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Walter Reed Army Institute of Research - Clinical Trials Center</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20910-7500</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital - Infectious Diseases</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114-2621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Minnesota Medical Center, Fairview - Infectious Diseases and International Medicine</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455-0341</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Louis University - Center for Vaccine Development</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63104-1015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nebraska Medical Center - Infectious Diseases</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198-5400</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Medical Center - Infectious Diseases</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467-2401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>New York University School of Medicine - Langone Medical Center - Microbiology - Parasitology</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016-6402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester Medical Center - Vaccine Research Unit</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Human Vaccine Institute - Duke Vaccine and Trials Unit</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital of the University of Pennsylvania - Infectious Diseases</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104-4238</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center - Infectious Diseases</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232-0011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Brooke Army Medical Center</name>
+      <address>
+        <city>Fort Sam Houston</city>
+        <state>Texas</state>
+        <zip>78234</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Medical Branch - Division of Infectious Disease</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555-0435</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine - Molecular Virology and Microbiology</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030-3411</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center at San Antonio - Infectious Diseases</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229-3901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Naval Medical Center Portsmouth - Infectious Disease Division</name>
+      <address>
+        <city>Portsmouth</city>
+        <state>Virginia</state>
+        <zip>23708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>EvergreenHealth Infectious Disease Service</name>
+      <address>
+        <city>Kirkland</city>
+        <state>Washington</state>
+        <zip>98034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Washington - Virology Research Clinic</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104-2433</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Sacred Heart Medical Center</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Madigan Army Medical Center - Infectious Disease Clinic</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98431</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Center for Global Health and Medicine Hospital - Disease Control and Prevention Center</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>162-8655</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Bundang Hospital - Division of Infectious Diseases</name>
+      <address>
+        <city>Bundang-gu Seongnam-si</city>
+        <state>Gyeonggi-do</state>
+        <zip>13620</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <state>Jongno-gu</state>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Centre for Infectious Diseases (NCID)</name>
+      <address>
+        <city>Singapore</city>
+        <zip>308442</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Singapore</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 20, 2020</verification_date>
+  <study_first_submitted>February 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>February 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2020</study_first_posted>
+  <last_update_submitted>March 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Adaptive</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Efficacy</keyword>
+  <keyword>Multicenter</keyword>
+  <keyword>novel coronavirus</keyword>
+  <keyword>Safety</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="138">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04324606</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COV001</org_study_id>
+    <nct_id>NCT04324606</nct_id>
+  </id_info>
+  <brief_title>A Study of a Candidate COVID-19 Vaccine (COV001)</brief_title>
+  <official_title>A Phase I/II Study to Determine Efficacy, Safety and Immunogenicity of the Candidate Coronavirus Disease (COVID-19) Vaccine ChAdOx1 nCoV-19 in UK Healthy Adult Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Oxford</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Oxford</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A phase I/II single-blinded, randomised, placebo controlled, multi-centre study to determine
+      efficacy, safety and immunogenicity of the candidate Coronavirus Disease (COVID-19) vaccine
+      ChAdOx1 nCoV-19 in UK healthy adult volunteers aged 18-55 years. The vaccine will be
+      administered intramuscularly (IM).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There will be 5 study groups and it is anticipated that a total of 510 volunteers will be
+      enrolled. Volunteers will participate in the study for approximately 6 months, with the
+      option to come for an additional follow up visit at Day 364.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assess efficacy of the candidate ChAdOx1 nCoV-19 against COVID-19: Number of virologically confirmed (PCR positive) symptomatic cases</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of virologically confirmed (PCR positive) symptomatic cases of COVID-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess the safety of the candidate vaccine ChAdOx1 nCoV: Occurrence of serious adverse events (SAEs)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Occurrence of serious adverse events (SAEs) throughout the study duration</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assess the safety, tolerability and reactogenicity profile of the candidate vaccine ChAdOx1 nCoV: Occurrence of solicited local reactogenicity signs and symptoms</measure>
+    <time_frame>7 days following vaccination</time_frame>
+    <description>Occurrence of solicited local reactogenicity signs and symptoms for 7 days following vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the safety, tolerability and reactogenicity profile of the candidate vaccine ChAdOx1 nCoV: Occurrence of solicited systemic reactogenicity signs and symptoms</measure>
+    <time_frame>7 days following vaccination</time_frame>
+    <description>Occurrence of solicited systemic reactogenicity signs and symptoms for 7 days following vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the safety, tolerability and reactogenicity profile of the candidate vaccine ChAdOx1 nCoV: Occurrence of unsolicited adverse events (AEs)</measure>
+    <time_frame>28 days following vaccination</time_frame>
+    <description>Occurrence of unsolicited adverse events (AEs) for 28 days following vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the safety, tolerability and reactogenicity profile of the candidate vaccine ChAdOx1 nCoV through standard blood tests</measure>
+    <time_frame>6 months</time_frame>
+    <description>Change from baseline for safety laboratory measures (haematology and biochemistry blood results)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the safety, tolerability and reactogenicity profile of the candidate vaccine ChAdOx1 nCoV by measuring the number of disease enhancement episodes</measure>
+    <time_frame>6 months</time_frame>
+    <description>Occurrence of disease enhancement episodes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess efficacy of the candidate ChAdOx1 nCoV-19 against severe and non-severe COVID-19</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of deaths associated with COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess efficacy of the candidate ChAdOx1 nCoV-19 against severe and non-severe COVID-19</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of hospital admissions associated with COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess efficacy of the candidate ChAdOx1 nCoV-19 against severe and non-severe COVID-19</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of intensive care unit admissions associated with COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess efficacy of the candidate ChAdOx1 nCoV-19 against severe and non-severe COVID-19 by measuring seroconversion rates</measure>
+    <time_frame>6 months</time_frame>
+    <description>Proportion of people who become seropositive for non-Spike SARS-CoV-2 antigens during the study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess cellular and humoral immunogenicity of ChAdOx1 nCoV-19 through ELISpot assays</measure>
+    <time_frame>6 months</time_frame>
+    <description>Interferon-gamma (IFN-γ) enzyme-linked immunospot (ELISpot) responses to SARS-CoV-2 spike protein</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess cellular and humoral immunogenicity of ChAdOx1 nCoV-19</measure>
+    <time_frame>6 months</time_frame>
+    <description>Enzyme-linked immunosorbent assay (ELISA) to quantify antibodies against SARS-CoV-2 spike protein (seroconversion rates)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Assess cellular and humoral immunogenicity of ChAdOx1 nCoV-19 through Virus neutralising antibody assays</measure>
+    <time_frame>6 months</time_frame>
+    <description>Virus neutralising antibody (NAb) assays against live and/or pseudotype SARS-CoV-2 virus</description>
+  </other_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">510</enrollment>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>Group 1a</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Volunteers will receive a single dose of 5x10^10vp ChAdOx1 nCoV-19. Volunteers will be blinded and will not know if they have received the IMP or the placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 1b</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Volunteers will receive a single injection of saline intramuscularly. Volunteers will be blinded and will not know if they have received the IMP or the placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2a</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Volunteers will receive a single dose of 5x10^10vp ChAdOx1 nCoV-19. Volunteers will be blinded and will not know if they have received the IMP or the placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2b</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Volunteers will receive a single injection of saline intramuscularly. Volunteers will be blinded and will not know if they have received the IMP or the placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Volunteers will receive two doses of 5x10^10vp ChAdOx1 nCoV-19 at week 0 and week 4.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ChAdOx1 nCoV-19</intervention_name>
+    <description>5x10^10vp of ChAdOx1 nCoV-19</description>
+    <arm_group_label>Group 1a</arm_group_label>
+    <arm_group_label>Group 2a</arm_group_label>
+    <arm_group_label>Group 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Saline Placebo</intervention_name>
+    <description>Saline injection delivered intramuscularly</description>
+    <arm_group_label>Group 1b</arm_group_label>
+    <arm_group_label>Group 2b</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Healthy adults aged 18-55 years.
+
+          -  Able and willing (in the Investigator's opinion) to comply with all study
+             requirements.
+
+          -  Willing to allow the investigators to discuss the volunteer's medical history with
+             their General Practitioner and access all medical records when relevant to study
+             procedures.
+
+          -  For females only, willingness to practice continuous effective contraception (see
+             below) during the study and a negative pregnancy test on the day(s) of screening and
+             vaccination.
+
+          -  Agreement to refrain from blood donation during the course of the study.
+
+          -  Provide written informed consent.
+
+        Exclusion Criteria:
+
+          -  Prior receipt of any vaccines (licensed or investigational) ≤30 days before enrolment
+
+          -  Planned receipt of any vaccine other than the study intervention within 30 days before
+             and after each study vaccination .
+
+          -  Prior receipt of an investigational or licensed vaccine likely to impact on
+             interpretation of the trial data (e.g. Adenovirus vectored vaccines, any coronavirus
+             vaccines).
+
+          -  Administration of immunoglobulins and/or any blood products within the three months
+             preceding the planned administration of the vaccine candidate.
+
+          -  Any confirmed or suspected immunosuppressive or immunodeficient state, including HIV
+             infection; asplenia; recurrent severe infections and chronic use (more than 14 days)
+             immunosuppressant medication within the past 6 months (inhaled and topical steroids
+             are allowed).
+
+          -  History of allergic disease or reactions likely to be exacerbated by any component of
+             the vaccine.
+
+          -  Any history of hereditary angioedema or idiopathic angioedema.
+
+          -  Any history of anaphylaxis in relation to vaccination.
+
+          -  Pregnancy, lactation or willingness/intention to become pregnant during the study.
+
+          -  History of cancer (except basal cell carcinoma of the skin and cervical carcinoma in
+             situ).
+
+          -  History of serious psychiatric condition likely to affect participation in the study.
+
+          -  Bleeding disorder (e.g. factor deficiency, coagulopathy or platelet disorder), or
+             prior history of significant bleeding or bruising following IM injections or
+             venepuncture.
+
+          -  Any other serious chronic illness requiring hospital specialist supervision.
+
+          -  Suspected or known current alcohol abuse as defined by an alcohol intake of greater
+             than 42 units every week.
+
+          -  Suspected or known injecting drug abuse in the 5 years preceding enrolment.
+
+          -  Any clinically significant abnormal finding on screening biochemistry, haematology
+             blood tests or urinalysis.
+
+          -  Any other significant disease, disorder or finding which may significantly increase
+             the risk to the volunteer because of participation in the study, affect the ability of
+             the volunteer to participate in the study or impair interpretation of the study data.
+
+          -  History of laboratory confirmed COVID-19.
+
+          -  New onset of fever and a cough or shortness of breath in the 30 days preceding
+             screening and/or enrolment
+
+        Re-Vaccination Exclusion Criteria
+
+          -  Anaphylactic reaction following administration of vaccine
+
+          -  Pregnancy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew Pollard, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Oxford</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Volunteer Recruitment Co-ordinator</last_name>
+    <phone>01865 611424</phone>
+    <email>vaccinetrials@ndm.ox.ac.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>NIHR WTCRF, University Hospital Southampton NHS Foundation Trust</name>
+      <address>
+        <city>Southampton</city>
+        <state>Hampshire</state>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Imperial College Healthcare NHS Trust</name>
+      <address>
+        <city>London</city>
+        <zip>W2 1NY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CCVTM, University of Oxford, Churchill Hospital</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7LE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>John Radcliffe Hospital</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 9DU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2020</verification_date>
+  <study_first_submitted>March 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 27, 2020</study_first_posted>
+  <last_update_submitted>March 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19, Vaccine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
