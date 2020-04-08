@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="142">
+<clinical_study rank="181">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04332666</url>
   </required_header>
@@ -345,8 +345,13 @@
     <intervention_type>Drug</intervention_type>
     <intervention_name>Angiotensin 1-7</intervention_name>
     <description>endogenous peptide dilution: angiotensin-(1-7) 0.5 mg / L NaCl 0.9%</description>
-    <arm_group_label>Placebo</arm_group_label>
     <arm_group_label>Study drug</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebos</intervention_name>
+    <description>infusion of NaCl 0.9% without diluted peptide in it</description>
+    <arm_group_label>Placebo</arm_group_label>
   </intervention>
   <eligibility>
     <criteria>
@@ -406,10 +411,10 @@
   <verification_date>March 2020</verification_date>
   <study_first_submitted>March 27, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 3, 2020</study_first_posted>
+  <study_first_posted type="Actual">April 3, 2020</study_first_posted>
   <last_update_submitted>April 2, 2020</last_update_submitted>
   <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 3, 2020</last_update_posted>
+  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

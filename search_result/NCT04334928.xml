@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="184">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04334928</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PrEP COVID-19</org_study_id>
+    <nct_id>NCT04334928</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial for the Prevention of SARS-CoV-2 Infection (COVID-19) in Healthcare Personnel (EPICOS)</brief_title>
+  <acronym>EPICOS</acronym>
+  <official_title>Prevention of SARS-CoV-2 (COVID-19) Through Pre-Exposure Prophylaxis With Tenofovir Disoproxil Fumarate/Emtricitabine and Hydroxychloroquine in Healthcare Personnel: Randomized Clinical Trial Controlled With Placebo</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Plan Nacional sobre el Sida (PNS)</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Effice Servicios Para la Investigacion S.L.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Plan Nacional sobre el Sida (PNS)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Healthcare workers are particularly at risk of SARS-CoV-2. This study aims to assess the
+      efficacy of a daily single dose of tenofovir disoproxil fumarate (TDF) (245 mg)/
+      Emtricitabine (FTC) (200 mg), a daily single dose of hydroxychloroquine (HC) (200 mg), a
+      daily single dose of TDF (245 mg)/FTC (200 mg) plus HC (200 mg) versus placebo, during 12
+      weeks in: (1) reducing the incidence of symptomatic disease and (2) reducing clinical
+      severity COVID-19 among hospital healthcare workers aged 18 to 65 years in public and private
+      hospitals in Spain.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Healthcare workers are particularly at risk of SARS-CoV-2. In the absence of a vaccine, other
+      strategies aiming to reduce the development of COVID-19 in the population, more specifically
+      in healthcare workers is being sought. Administration of effective drugs to people at risk of
+      developing an infectious disease is well accepted and is part of clinical practice. To date
+      there are few on-going randomized clinical trial on Pre-exposure prophylaxis (PrEP)
+      evaluating chloroquine and hydroxychloroquine efficacy for health care workers and other
+      groups at high risk. Existing recent and scarce literature shows that RNA synthesis
+      nucleos(t)ide analogue inhibitors, acting as viral RNA chain terminators, like TDF, abacavir
+      or lamivudine, amongst others, could have an effect against SARS-CoV-2 infection. Worldwide,
+      there is broad evidence of the use, safety and tolerability of hydroxychloroquine (200 mg)
+      and TDF/FTC (245 mg/200 mg). This study aims to assess the efficacy of a daily single dose of
+      TDF (245 mg)/FTC (200 mg), a daily single dose of HC (200 mg), a daily single dose of TDF
+      (245 mg)/FTC (200 mg) plus HC (200 mg) versus placebo, during 12 weeks in: (1) reducing the
+      incidence of symptomatic disease and (2) reducing clinical severity COVID-19 among hospital
+      healthcare workers aged 18 to 65 years in public and private hospitals in Spain. Sample size
+      calculations are based on the primary outcome; number of symptomatic confirmed infections by
+      SARS-CoV-2. Briefly, 4.000 participants will be assigned to one of the 4 groups, through
+      1:1:1:1 randomization. Duration of prophylactic treatment will be 12 weeks from early April
+      2020 till early July 2020. Follow up of participants will continue up to 4 weeks after last
+      dose of treatment. All participants will be assessed on a monthly basis. Interim analyses
+      will be performed on monthly bases.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">April 1, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Randomised double-blind clinical trial</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of confirmed symptomatic infections of SARS-CoV-2 (COVID-19)</measure>
+    <time_frame>12 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Severity of disease in confirmed infected participants of SARS-CoV-2 (COVID-19)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>assessed by:
+No symptoms
+Mild symptoms: general malaise, fever, cough, myalgia, asthenia.
+Moderate symptoms: mild symptoms plus shortness of breath,
+Severe symptoms: mild symptoms plus respiratory insufficiency that requires admission in intensive care unit and mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of symptoms in confirmed infected participants of SARS-CoV-2 (COVID-19) measured in days</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">4000</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <arm_group>
+    <arm_group_label>Emtricitabine/Tenofovir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Tenofovir Disoproxil Fumarate 245 mg/Emtricitabine 200 mg + Placebo of Hydroxychloroquine 200 mg
+Strength: 200 mg/245 mg tablets
+Dose: one tablet once a day (both at dinner)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hydroxychloroquine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Hydroxychloroquine 200 mg + Placebo of Tenofovir Disoproxil Fumarate 245 mg/Emtricitabine 200 mg
+Strength: 200 mg tablets
+Dose: one tablet once a day (both at dinner)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Emtricitabine/Tenofovir+Hydroxychloroquine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Tenofovir Disoproxil Fumarate 245 mg/Emtricitabine 200 mg + Hydroxychloroquine 200 mg
+Strength FTC/TDF:200 mg/245 mg tablets
+Strength HC: 200 mg tablets
+Dose: one tablet FTC/TDF plus one tablet HC once a day (at dinner)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo of Tenofovir Disoproxil Fumarate 245 mg/Emtricitabine 200 mg + Placebo of Hydroxychloroquine 200 mg
+Placebo tablets with similar appearance to study drugs.
+Dose: one tablet once a day (both at dinner)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Emtricitabine/tenofovir disoproxil</intervention_name>
+    <description>Emtricitabine/tenofovir disoproxil, 200 mg/245 mg tablets. A dose of one tablet once a day will be administered.</description>
+    <arm_group_label>Emtricitabine/Tenofovir</arm_group_label>
+    <arm_group_label>Emtricitabine/Tenofovir+Hydroxychloroquine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine</intervention_name>
+    <description>Hydroxychloroquine, 200 mg tablets. A dose of one tablet once a day will be administered.</description>
+    <arm_group_label>Emtricitabine/Tenofovir+Hydroxychloroquine</arm_group_label>
+    <arm_group_label>Hydroxychloroquine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo: Emtricitabine/tenofovir disoproxil Placebo</intervention_name>
+    <description>Placebo: Tablets similar in appearance to Emtricitabine/tenofovir disoproxil</description>
+    <arm_group_label>Hydroxychloroquine</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo: Hydroxychloroquine</intervention_name>
+    <description>Placebo: Tablets similar in appearance to Hydroxychloroquine</description>
+    <arm_group_label>Emtricitabine/Tenofovir</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Participants that, after receiving appropriate information on the study design,
+             objectives, possible risks and acknowledging they have the right to withdraw from the
+             study consent at any time, sing the informed consent for participation in the study.
+
+          -  Male or female aged 18-65 years.
+
+          -  Health care workers in public or private hospitals in Spain in areas of risk of
+             SARS-CoV-2 transmission.
+
+          -  No previous diagnosis of SARS-CoV-2 (COVID-19) infection plus no symptoms compatible
+             with SARS-CoV-2 (COVID-19) since 1st of March 2020 until the date of enrolment in the
+             study.
+
+          -  Understanding of the aim of the study and, therefore, acknowledging they have not been
+             on any drug aiming at pre exposure prophylaxis against SARS-CoV-2 (COVID-19) since 1st
+             of March 2020. This also includes PrEP for HIV.
+
+          -  Negative pregnancy test during the previous 7 days to start treatments or more than 2
+             years after menopause.
+
+          -  Women of reproductive age and their partners should commit to use and highly effective
+             contraceptive method ( double barrier, hormonal contraception), during the study
+             period and until 6 months after the last dose of treatment.
+
+        Exclusion Criteria:
+
+          -  HIV infection
+
+          -  Active hepatitis B infection.
+
+          -  Renal failure with estimated glomerular filtration rate (GFR) &lt; 60 ml/min) and
+             patients on Hemodialysis.
+
+          -  Osteoporosis
+
+          -  Myasthenia gravis
+
+          -  Pre-existent maculopathy.
+
+          -  Retinitis pigmentosa
+
+          -  Bradycardia &lt; 50bpm
+
+          -  Weight &lt; 40kg
+
+          -  Participant with any immunosuppressive condition or hematological disease
+
+          -  Treatment with drugs that may prolong QT in the last month before randomization for
+             more than 7 days including: azithromycin, chlorpromazine, cisapride, clarithromycin,
+             domperidone, droperidol, erythromycin, halofantrine, haloperidol, lumefantrine,
+             mefloquine, methadone, pentamidine, procainamide, quinidine, quinine, sotalol,
+             sparfloxacin, thioridazine, amiodarone.
+
+          -  Breastfeeding
+
+          -  Known allergy to any of the medication used in this trial
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rosa Polo, MD,PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Plan Nacional sobre el Sida (PNS)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Miguel Hernán, MD,PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Harvard School of Public Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital Universitario Ramón y Cajal</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 6, 2020</study_first_posted>
+  <last_update_submitted>April 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tenofovir</mesh_term>
+    <mesh_term>Emtricitabine</mesh_term>
+    <mesh_term>Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination</mesh_term>
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

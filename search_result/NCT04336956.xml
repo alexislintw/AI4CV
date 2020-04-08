@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="60">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04336956</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PANDOR</org_study_id>
+    <nct_id>NCT04336956</nct_id>
+  </id_info>
+  <brief_title>Covid-19 Pediatric Observatory</brief_title>
+  <acronym>PANDOR</acronym>
+  <official_title>Covid-19 Pediatric Observatory</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Intercommunal Creteil</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ACTIV</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>GPIP</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Société Française de Pédiatrie</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>GFRUP</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Centre Hospitalier Intercommunal Creteil</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In early December 2019, cases of pneumonia of unknown origin were reported in Wuhan, Hubei
+      Province in the People's Republic of China. The disease spreads rapidly and the number of
+      sick people is increasing. On January 3, 2020 a new virus of the coronavirus family is
+      identified in samples of bronchoalveolar lavage fluid from a patient in Wuhan and
+      subsequently confirmed as the cause of these pneumonias. On 7 January 2020, the World Health
+      Organization (WHO) designated it as the new coronavirus 2019 (i.e. 2019-nCoV). On 11 February
+      2020, the WHO designated the disease associated with 2019-nCoV as coronavirus 2019 disease
+      (COVID-19). On 12 March, WHO announced that the COVID-19 outbreak is a pandemic.
+
+      As of March 24, 2020, more than 375,000 cases of COVID-19 had been diagnosed with more than
+      16,000 deaths attributed to this virus. (Ref WHO
+      https://www.who.int/emergencies/diseases/novel-coronavirus-2019 ).
+
+      In France, the number of cases rose from 105 cases at the end of February to 19615 confirmed
+      cases on March 24. (Source Public Health France). Most of the cases are adults. However,
+      children are not completely spared and serious cases have been described. These severe cases
+      can be respiratory or extra-respiratory (e.g. myocarditis). We also know that pediatric and
+      adult cases differ in terms of clinical, biological and imaging findings, particularly chest
+      CT scans. However, the description of paediatric pictures, especially severe forms and the
+      involvement of children suffering from co-morbidities, remains poorly reported. Finally, the
+      risk factors for serious cases in children remain largely unknown.
+
+      This observatory aim to describe the clinical phenotypes of hospitalized pediatric patients
+      with Covid19 in France, according to age groups.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>6 Months</target_duration>
+  <primary_outcome>
+    <measure>Percentage of children with severe or critical form.</measure>
+    <time_frame>Day 14</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of children requiring intensive care support</measure>
+    <time_frame>at admission</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of children requiring intensive care support</measure>
+    <time_frame>at day 14</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical symptoms of children</measure>
+    <time_frame>at admission</time_frame>
+    <description>requiring intensive care support or not</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical symptoms of children</measure>
+    <time_frame>day 14</time_frame>
+    <description>requiring intensive care support or not</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biological results of children</measure>
+    <time_frame>at admission</time_frame>
+    <description>requiring intensive care support or not</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biological results of children</measure>
+    <time_frame>day 14</time_frame>
+    <description>requiring intensive care support or not</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CT chest of children</measure>
+    <time_frame>at admission</time_frame>
+    <description>requiring intensive care support or not</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary echography</measure>
+    <time_frame>Day 14</time_frame>
+    <description>requiring intensive care support or not</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>nasopharynx SARScov2 PCR</measure>
+    <time_frame>at admission</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>nasopharynx sarscov2 load</measure>
+    <time_frame>at day 7</time_frame>
+    <description>if available</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>nasopharynx multiplex PCR</measure>
+    <time_frame>at admission</time_frame>
+    <description>if available</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>number of hospital days</measure>
+    <time_frame>up to 6 months</time_frame>
+    <description>days</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>hospitalized children with Covid19</arm_group_label>
+    <description>- Children &lt; 18 years old Patients under 18 years old, admitted in French pediatric wards with a confirmed COVID-19 infection on Nasal and pharyngeal swab specimens or blood samples tested positive for 2019-nCoV nucleic acid using real-time reverse-transcriptase polymerase-chain-reaction (RT- PCR) assay; or on typical chest CT signs</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>hospitalized children with Covid19</intervention_name>
+    <description>All patients under 18 years hospitalized with a covid19 diagnosis</description>
+    <arm_group_label>hospitalized children with Covid19</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        children hospitalized with covid19
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Children &lt; 18 years old
+
+          -  Admitted in French pediatric wards
+
+          -  With a confirmed COVID-19 infection. ( on Nasal and pharyngeal swab specimens or blood
+             samples tested positive for 2019-nCoV nucleic acid using real-time
+             reverse-transcriptase polymerase-chain-reaction (RT- PCR) assay; or on typical chest
+             CT signs
+
+        Exclusion Criteria:
+
+          -  Expressed refusal to participate
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Corinne Levy, MD</last_name>
+    <phone>148850404</phone>
+    <phone_ext>0033</phone_ext>
+    <email>corinne.levy@activ-france.fr</email>
+  </overall_contact>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>March 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 7, 2020</study_first_posted>
+  <last_update_submitted>April 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>children</keyword>
+  <keyword>pediatric department</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

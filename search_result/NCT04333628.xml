@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="78">
+<clinical_study rank="37">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04333628</url>
   </required_header>
@@ -27,19 +27,19 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      19 COVID is a deadly viral disease that has been spreading around the world for several
-      months, and is caused by a CORONA family virus (COVID-19). Following IN-VITRO evidence of the
-      antiviral effect of CHLOROQUINE in CORONA viruses, this drug has been used empirically for
-      COVID-19 patients and is currently recommended in Israel for the treatment of intermediate
-      and severity disease.
+      19 COVID (Coronavirus disease 2019 ) is a deadly viral disease that has been spreading around
+      the world for several months, and is caused by a CORONA family virus (COVID-19). Following
+      IN-VITRO evidence of the antiviral effect of CHLOROQUINE in CORONA viruses, this drug has
+      been used empirically for COVID-19 patients and is currently recommended in Israel for the
+      treatment of intermediate and severity disease.
 
       The mechanism of action of chloroquine is in part by inhibiting the virus distribution, and
       changing the intracellular acidity, the virus distribution site. The intracellular
-      chloroquine concentration is determined by a pump called PGP that removes the drug from the
-      cell and is activated by the drug. In the treatment of malaria, the benefit of low dosage of
-      the drug has been shown to be effective due to the fact that the intracellular concentration
-      of the drug is probably higher, and therefore the logic to examine this issue in COVID-19
-      treatment.
+      chloroquine concentration is determined by a pump called PGP (permeability glycoprotein) that
+      removes the drug from the cell and is activated by the drug. In the treatment of malaria, the
+      benefit of low dosage of the drug has been shown to be effective due to the fact that the
+      intracellular concentration of the drug is probably higher, and therefore the logic to
+      examine this issue in COVID-19 treatment.
 
       The purpose of this study is to test whether a low dose of Chloroquine will reduce the
       duration of the viral shedding and prevent the disease from worsening.
@@ -50,7 +50,7 @@
       19 COVID is a deadly viral disease that has been spreading around the world for several
       months, and is caused by a CORONA family virus (COVID-19). This virus family causes upper
       respiratory tract disease and sometimes severe and fatal lung disease, as in the past:
-      SARS-CoV and -MERS-CoV.
+      SARS-CoV (severe acute respiratory syndrome) and -MERS-CoV.
 
       Since the outbreak of the pandemic there has been a constant search for effective drug
       treatment for the disease. Following IN-VITRO evidence of the antiviral effect of CHLOROQUINE
@@ -75,21 +75,21 @@
       disease, and the time when the person is in isolation and cannot return to his normal life.
 
       The trial will be conducted in two stages, first in patients with mild-grade symptomatology
-      disease , and then, depending on the results of the first phase, we will condider chloroquine
-      therapy in asymptomatic patients (carriers only) to reduce the duration of viral shedding and
-      prevent the onset of symptomatic disease. (Chloroquine dosage at this stage will be
-      determined by the results of the first stage) In the first stage, patients will be recruited
-      at a slight level and will compare two doses of chloroquine (low and normal) with stadard of
-      care.
+      disease , and then, depending on the results of the first phase, Investigator's will consider
+      chloroquine therapy in asymptomatic patients (carriers only) to reduce the duration of viral
+      shedding and prevent the onset of symptomatic disease. (Chloroquine dosage at this stage will
+      be determined by the results of the first stage) In the first stage, patients will be
+      recruited at a slight level and will compare two doses of chloroquine (low and normal) with
+      standard of care.
 
-      In the second stage, we plan to examine asymptomatic carriers. Progress between Phase 1 and
-      Phase 2 of the experiment will be contingent upon receiving a renewed approval from the
-      Helsinki Committee, based on an interim report to be submitted.
+      In the second stage, Investigator's plan to examine asymptomatic carriers. Progress between
+      Phase 1 and Phase 2 of the experiment will be contingent upon receiving a renewed approval
+      from the Helsinki Committee, based on an interim report to be submitted.
 
       For the first study, patients diagnosed with COVID-19 patients will be recruited in a mild
       condition, with no background disease or drug therapy that endangers them with the side
-      effects of chloroquine. We will monitor patients' clinical status and periodic PCR results
-      from nasal and pharyngeal surfaces.
+      effects of chloroquine. will monitor patients' will be monitor for clinical status and
+      periodic PCR (polymerase chain reaction ) results from nasal and pharyngeal surfaces.
     </textblock>
   </detailed_description>
   <overall_status>Not yet recruiting</overall_status>
@@ -108,19 +108,18 @@ We will monitor patients' clinical status and periodic PCR (Polymerase Chain Rea
     <masking>None (Open Label)</masking>
   </study_design_info>
   <primary_outcome>
-    <measure>Reducing virus duration (viral shedding)</measure>
+    <measure>change in virus duration (viral shedding)</measure>
     <time_frame>23 days</time_frame>
-    <description>reduce the extent and duration of virus shedding.</description>
+    <description>change in the extent and duration of virus shedding.</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Reducing the number of patients going from asymptomatic to moderately disease</measure>
+    <measure>change in the number of patients going from asymptomatic to moderately disease</measure>
     <time_frame>1 month</time_frame>
-    <description>Reducing the number of patients going from asymptomatic to moderately disease</description>
+    <description>change in the number of patients going from asymptomatic to moderately disease</description>
   </primary_outcome>
   <number_of_arms>3</number_of_arms>
   <enrollment type="Anticipated">210</enrollment>
   <condition>COVID-19</condition>
-  <condition>Plaquenil</condition>
   <arm_group>
     <arm_group_label>low dose chloroquine</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
@@ -164,13 +163,13 @@ We will monitor patients' clinical status and periodic PCR (Polymerase Chain Rea
 
           -  chronic lung disease with chronic hypoxia
 
-          -  Sleep apnea requiring BIPAP / CPAP
+          -  Sleep apnea requiring BIPAP / continuous positive airway pressure
 
           -  Retinal disease
 
           -  Porphyria
 
-          -  Myastania gravis
+          -  Myastenia gravis
 
           -  immunodeficiency disorders
 
@@ -197,6 +196,11 @@ We will monitor patients' clinical status and periodic PCR (Polymerase Chain Rea
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
+  <overall_official>
+    <last_name>Lee Goldstein, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>HaEmek Medical Center, Israel</affiliation>
+  </overall_official>
   <overall_contact>
     <last_name>Lee Goldstein, MD</last_name>
     <phone>972-4-6494143</phone>
@@ -209,10 +213,10 @@ We will monitor patients' clinical status and periodic PCR (Polymerase Chain Rea
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 3, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 3, 2020</study_first_posted>
+  <last_update_submitted>April 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

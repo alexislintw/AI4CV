@@ -3,7 +3,7 @@
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04333407</url>
   </required_header>
@@ -69,22 +69,22 @@
     <masking>None (Open Label)</masking>
   </study_design_info>
   <primary_outcome>
-    <measure>Primary Efficacy Outcome</measure>
+    <measure>All-cause mortality at 30 days after admission</measure>
     <time_frame>at 30 days after admission</time_frame>
     <description>All-cause mortality</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>Secondary Efficacy Outcome 1</measure>
+    <measure>Absolute change in serum troponin from admission to peak value</measure>
     <time_frame>within 7 days and within 30 days of admission</time_frame>
     <description>Absolute change in serum troponin from admission (or from suspicion/diagnosis of Covid-19 if already an inpatient) measurement to peak value (measured using high sensitivity troponin assay). (Phase I interim analysis)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Secondary Efficacy Outcome 2</measure>
+    <measure>Discharge Rate</measure>
     <time_frame>at 7 days and 30 days after admission</time_frame>
     <description>Discharge Rate: Proportion of patients discharged (or documented as medically fit for discharge)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Secondary Efficacy Outcome 3</measure>
+    <measure>Intubation Rate</measure>
     <time_frame>at 7 days and at 30 days after admission</time_frame>
     <description>Intubation Rate: Proportion of patients who have been intubated for mechanical ventilation</description>
   </secondary_outcome>
@@ -182,10 +182,10 @@ If patient on DOAC then change to rivaroxaban 2.5mg unless contraindicated</desc
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 1, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 1, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 1, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 3, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 3, 2020</study_first_posted>
+  <last_update_submitted>April 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

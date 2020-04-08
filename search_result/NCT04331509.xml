@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="2">
+<clinical_study rank="3">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04331509</url>
   </required_header>
@@ -107,77 +107,77 @@
   <primary_outcome>
     <measure>Physical health symptoms</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported as physically healthy</description>
+    <description>Self reported as physically healthy (tick box)</description>
   </primary_outcome>
   <primary_outcome>
     <measure>Lack of physical health symptoms</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported as physically not feeling healthy</description>
+    <description>Self reported as physically not feeling healthy (tick box)</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Fever</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported remperature</description>
+    <description>Self reported remperature (Degrees Celsius)</description>
   </secondary_outcome>
   <other_outcome>
     <measure>Cough</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported cough</description>
+    <description>Self reported cough (drop down menu; yes/no)</description>
   </other_outcome>
   <other_outcome>
     <measure>Fatigue</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported fatigue</description>
+    <description>Self reported fatigue (drop down menu; yes/no)</description>
   </other_outcome>
   <other_outcome>
     <measure>Headache</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported headache</description>
+    <description>Self reported headache (drop down menu; yes/no)</description>
   </other_outcome>
   <other_outcome>
     <measure>Shortness of breath</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported shortness of breath</description>
+    <description>Self reported shortness of breath (drop down menu; yes/no)</description>
   </other_outcome>
   <other_outcome>
     <measure>Sore throat</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported sore throat</description>
+    <description>Self reported sore throat (drop down menu; yes/no)</description>
   </other_outcome>
   <other_outcome>
     <measure>Loss of smell/ taste</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported loss of smell/ taste</description>
+    <description>Self reported loss of smell/ taste (drop down menu; yes/no)</description>
   </other_outcome>
   <other_outcome>
     <measure>Hoarse voice</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported hoarse voice</description>
+    <description>Self reported hoarse voice (drop down menu; yes/no)</description>
   </other_outcome>
   <other_outcome>
     <measure>Chest pain or tightness</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported chest pain or tightness</description>
+    <description>Self reported chest pain or tightness (drop down menu; yes/no)</description>
   </other_outcome>
   <other_outcome>
     <measure>Abdominal pain</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported abdominal pain</description>
+    <description>Self reported abdominal pain (drop down menu; yes/no)</description>
   </other_outcome>
   <other_outcome>
     <measure>Diarrhoea</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported diarrhoea</description>
+    <description>Self reported diarrhoea (drop down menu; yes/no)</description>
   </other_outcome>
   <other_outcome>
     <measure>Confusion</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported confusion</description>
+    <description>Self reported confusion (drop down menu; yes/no)</description>
   </other_outcome>
   <other_outcome>
     <measure>Skipping meals</measure>
     <time_frame>1 day</time_frame>
-    <description>Self reported skipping meals</description>
+    <description>Self reported skipping meals (drop down menu; yes/no)</description>
   </other_outcome>
   <number_of_groups>1</number_of_groups>
   <enrollment type="Anticipated">10000000</enrollment>
@@ -276,9 +276,9 @@
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>March 31, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 2, 2020</study_first_posted>
-  <last_update_submitted>March 31, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 31, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 2, 2020</last_update_posted>
+  <last_update_submitted>April 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

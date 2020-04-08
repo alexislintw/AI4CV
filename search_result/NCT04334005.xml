@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="71">
+<clinical_study rank="88">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04334005</url>
   </required_header>
@@ -99,6 +99,7 @@
   <secondary_outcome>
     <measure>Subjective perception of recovery</measure>
     <time_frame>Through study completion, an average of 10 weeks</time_frame>
+    <description>It will be measure by questionnaire</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">200</enrollment>
@@ -188,10 +189,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>March 29, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 3, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 3, 2020</study_first_posted>
+  <last_update_submitted>April 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Universidad de Granada</investigator_affiliation>

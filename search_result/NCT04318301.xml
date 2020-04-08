@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="64">
+<clinical_study rank="77">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04318301</url>
   </required_header>
   <id_info>
-    <org_study_id>Zhenhuazen2018</org_study_id>
+    <org_study_id>HT-COVID19</org_study_id>
     <nct_id>NCT04318301</nct_id>
   </id_info>
   <brief_title>Hypertension in Patients Hospitalized With COVID-19</brief_title>
@@ -172,13 +172,13 @@
     <citation>Turner AJ, Hiscox JA, Hooper NM. ACE2: from vasopeptidase to SARS virus receptor. Trends Pharmacol Sci. 2004 Jun;25(6):291-4. Review.</citation>
     <PMID>15165741</PMID>
   </reference>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 20, 2020</study_first_submitted>
   <study_first_submitted_qc>March 20, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 23, 2020</study_first_posted>
-  <last_update_submitted>March 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 24, 2020</last_update_posted>
+  <last_update_submitted>April 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>Nanfang Hospital of Southern Medical University</investigator_affiliation>

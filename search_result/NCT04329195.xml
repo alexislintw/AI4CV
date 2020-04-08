@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="171">
+<clinical_study rank="214">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04329195</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>APHP200409</org_study_id>
     <nct_id>NCT04329195</nct_id>
   </id_info>
-  <brief_title>ACE Inhibitors or ARBs Discontinuation in Context of SARS-CoV-2 Pandemia</brief_title>
+  <brief_title>ACE Inhibitors or ARBs Discontinuation in Context of SARS-CoV-2 Pandemic</brief_title>
   <acronym>ACORES-2</acronym>
   <official_title>ACE Inhibitors or ARBs Discontinuation for Clinical Outcome Risk Reduction in Patients Hospitalized for the Endemic Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV-2) Infection: the Randomized ACORES-2 Study</official_title>
   <sponsors>
@@ -48,7 +48,7 @@
     </textblock>
   </brief_summary>
   <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">March 2020</start_date>
+  <start_date type="Anticipated">April 2020</start_date>
   <completion_date type="Anticipated">May 2020</completion_date>
   <primary_completion_date type="Anticipated">May 2020</primary_completion_date>
   <phase>Phase 3</phase>
@@ -194,13 +194,13 @@
     <phone>+33 1 42 16 30 74</phone>
     <email>mathieu.kerneis@aphp.fr</email>
   </overall_contact_backup>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 28, 2020</study_first_submitted>
   <study_first_submitted_qc>March 28, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 1, 2020</study_first_posted>
-  <last_update_submitted>March 28, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 28, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 1, 2020</last_update_posted>
+  <last_update_submitted>April 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

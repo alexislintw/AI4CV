@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="28">
+<clinical_study rank="34">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04329923</url>
   </required_header>
@@ -38,7 +38,7 @@
     </textblock>
   </brief_summary>
   <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 6, 2020</start_date>
+  <start_date type="Anticipated">April 8, 2020</start_date>
   <completion_date type="Anticipated">December 1, 2021</completion_date>
   <primary_completion_date type="Anticipated">April 1, 2021</primary_completion_date>
   <phase>Phase 2</phase>
@@ -123,7 +123,7 @@
   <arm_group>
     <arm_group_label>Cohort 1 Placebo</arm_group_label>
     <arm_group_type>Placebo Comparator</arm_group_type>
-    <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with placebo twice a day for up to 14 days</description>
+    <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with placebo twice a day for up to 14 days. Crossover is allowed if symptoms worsen after 7 days of treatment.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Cohort 2 HCQ high dose</arm_group_label>
@@ -143,7 +143,7 @@
   <arm_group>
     <arm_group_label>Cohort 3 Placebo</arm_group_label>
     <arm_group_type>Placebo Comparator</arm_group_type>
-    <description>Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with placebo for 2 months</description>
+    <description>Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with placebo for 2 month. Crossover is allowed if subject becomes SARS-CoV2 positive.</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
@@ -189,17 +189,18 @@
 
           -  Subjects meeting the following criteria by Sub-Study
 
-        Cohort 1:
+        Sub-Study 1:
 
           -  Age ≥40 years since the risk of prolonged disease that progresses to severe COVID-19
              disease increases with age.
 
           -  PCR-positive for the SARS-CoV2 virus
 
-          -  At least one symptom of COVID-19 (T&gt; 100.5º F, cough, headache, fatigue, shortness of
-             breath, diarrhea, smell disturbance)
+          -  (Fever, and cough, or Fever and shortness of breath,
 
           -  ≤4 days since the first symptoms of COVID-19 and date of testing
+
+          -  Not taking azithromycin
 
           -  Not requiring hospitalization and is sent home for quarantine.
 
@@ -217,23 +218,24 @@
           -  Must be willing to report the observed symptoms and development of COVID-19 in the
              co-inhabitants of the residence at which the quarantine will be served.
 
-        Cohort 2 Hospitalized non-ICU patients.
+        Sub-Study 2 Hospitalized non-ICU service patients.
 
           -  PCR-positive for SARS-CoV-2
 
-          -  Patients admitted to a floorbed at Hospital of the University of Pennsylvania or Penn
-             Presbytarian.
+          -  Patients admitted to a floor bed at Hospital of the University of Pennsylvania or Penn
+             Presbyterian.
 
           -  One or more of the following risk factors for progression to severe disease including:
              immunocompromising conditions, structural lung disease, hypertension, coronary artery
-             disease, diabetes, age &gt; 60, ferritin &gt; 850, CRP &gt; 6, D-dimer &gt; 1000
-
-        Cohort 3 Health Care Worker Prevention
+             disease, diabetes, age &gt; 60, ferritin &gt; 850, CRP &gt; 6, D-dimer &gt; 1000 Sub-Study 3
+             Health Care Worker Prevention
 
           -  Emergency Medicine or Infectious Disease Team physician or nurse at HUP or PPMC
 
           -  ≥20 hours per week of clinical work scheduled in the coming 2 months during the
              COVID-19 pandemic
+
+          -  No fever, cough, or shortness of breath in the past 2 weeks
 
           -  Willing to report compliance with HCQ in the form of a diary
 
@@ -241,21 +243,24 @@
              clinically significant gastrointestinal abnormalities that may alter absorption such
              as malabsorption syndrome or major resection of the stomach or bowels.
 
-        Exclusion Criteria:
-
-          -  &lt;18 years of age
+        Exclusion Criteria &lt;18 years of age
 
           -  Prisoners or other detained persons
 
-          -  Allergy to hydroxychloroquine
-
-          -  Pregnant or lactating or positive pregnancy test during pre-medication examination
+          -  Allergy to hydroxychloroquine Pregnant or lactating or positive pregnancy test
 
           -  Receiving any treatment drug for 2019-ncov within 14 days prior to screening
              evaluation (off label, compassionate use or trial related).
 
+          -  Co-enrollment onto another COVID-19 study is not allowed unless there is approval by
+             the Medical Monitor in consultation with the PI and EM and ID sub-I leaders.
+
           -  Known history of retinal disease including but not limited to age related macular
              degeneration.
+
+          -  Taking any of the following medications that prolong Qtc:
+
+        Chlorpromazine.Haloperidol, Droperidol, Quetiapine, Olanzapine. Amisulpride. Thioridazine
 
           -  History of interstitial lung disease or chronic pneumonitis unrelated COVID-19.
 
@@ -297,14 +302,14 @@
     <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
   </eligibility>
   <overall_official>
-    <last_name>Ravi Amaravadi</last_name>
+    <last_name>Ravi Amaravadi, MD</last_name>
     <role>Principal Investigator</role>
     <affiliation>University of Pennsylvania</affiliation>
   </overall_official>
   <overall_contact>
-    <last_name>Ravi Amaravadi, MD</last_name>
-    <phone>2157965159</phone>
-    <email>ravi.amaravadi@pennmedicine.upenn.edu</email>
+    <last_name>Amelia Anderson</last_name>
+    <phone>215-509-5690</phone>
+    <email>amelia.anderson@pennmedicine.upenn.edu</email>
   </overall_contact>
   <location>
     <facility>
@@ -317,9 +322,9 @@
       </address>
     </facility>
     <contact>
-      <last_name>Ravi Amaravadi, MD</last_name>
-      <phone>215-796-5159</phone>
-      <email>ravi.amaravadi@pennmedicine.upenn.edu</email>
+      <last_name>Amelia Anderson</last_name>
+      <phone>215-509-5690</phone>
+      <email>amelia.anderson@pennmedicine.upenn.edu</email>
     </contact>
     <investigator>
       <last_name>Ravi Amaravadi, MD</last_name>
@@ -329,13 +334,13 @@
   <location_countries>
     <country>United States</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 30, 2020</study_first_submitted>
   <study_first_submitted_qc>March 30, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 1, 2020</study_first_posted>
-  <last_update_submitted>March 30, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 30, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 1, 2020</last_update_posted>
+  <last_update_submitted>April 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>University of Pennsylvania</investigator_affiliation>

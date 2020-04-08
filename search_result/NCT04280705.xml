@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="187">
+<clinical_study rank="232">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04280705</url>
   </required_header>
@@ -407,7 +407,7 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -423,6 +423,30 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
   </location>
   <location>
     <facility>
+      <name>Cedars Sinai Medical Center</name>
+      <address>
+        <city>West Hollywood</city>
+        <state>California</state>
+        <zip>90048-1804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Regional Veteran Affairs Medical Center - Department of Infectious Diseases</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Denver Health Division of Hospital Medicine - Main Campus</name>
       <address>
         <city>Denver</city>
@@ -432,6 +456,18 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
       </address>
     </facility>
     <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Florida Health Sciences Center, College of Public Health- Epidemiology</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32610-3003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -467,6 +503,18 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
         <country>United States</country>
       </address>
     </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southeast Louisiana Veterans Health Care System (SLVHCS) - Section of Infectious Diseases</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
     <status>Not yet recruiting</status>
   </location>
   <location>
@@ -479,7 +527,7 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -491,7 +539,7 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -515,7 +563,7 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -524,6 +572,18 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
         <city>Boston</city>
         <state>Massachusetts</state>
         <zip>02114-2621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Massachusetts Medical School - Infectious Diseases and Immunology</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655-0002</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -587,7 +647,7 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -595,11 +655,11 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
       <address>
         <city>Rochester</city>
         <state>New York</state>
-        <zip>14642</zip>
+        <zip>14642-0001</zip>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -615,6 +675,18 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
   </location>
   <location>
     <facility>
+      <name>Penn State Health Milton S. Hershey Medical Center - Division of Infectious Diseases</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Hospital of the University of Pennsylvania - Infectious Diseases</name>
       <address>
         <city>Philadelphia</city>
@@ -624,6 +696,18 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
       </address>
     </facility>
     <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania Perelman School of Medicine - Penn Institute for Immunology</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104-4863</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -647,7 +731,7 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -683,7 +767,19 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia - Acute Care Surgery</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908-0816</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -695,7 +791,7 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -743,6 +839,40 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
         <country>United States</country>
       </address>
     </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Copenhagen - Centre of Excellence for Health, Immunity and Infections (CHIP) - Department of Infectious Diseases</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Bonn, Medizinische Klinik I - Bereich Infektiologie/HIV der Medizinischen Klinik</name>
+      <address>
+        <city>Bonn</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>53127</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Frankfurt -Medizinische Klinik II - Infektiologie</name>
+      <address>
+        <city>Frankfurt</city>
+        <zip>60590</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
     <status>Not yet recruiting</status>
   </location>
   <location>
@@ -782,6 +912,17 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
   </location>
   <location>
     <facility>
+      <name>Instituto Nacional de Enfermedades Respiratorias (INER) - Ismael Cosío Villegas</name>
+      <address>
+        <city>Mexico City</city>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>National Centre for Infectious Diseases (NCID)</name>
       <address>
         <city>Singapore</city>
@@ -791,19 +932,47 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
     </facility>
     <status>Recruiting</status>
   </location>
+  <location>
+    <facility>
+      <name>Saint Thomas' Hospital - Directorate of Infection</name>
+      <address>
+        <city>London</city>
+        <state>London, City Of</state>
+        <zip>SE1 7EH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Victoria Infirmary - Department of Infectious Diseases</name>
+      <address>
+        <city>Level 6, Ward 19</city>
+        <state>Newcastle Upon Tyne</state>
+        <zip>NE1 4LP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
   <location_countries>
+    <country>Denmark</country>
+    <country>Germany</country>
     <country>Japan</country>
     <country>Korea, Republic of</country>
+    <country>Mexico</country>
     <country>Singapore</country>
+    <country>United Kingdom</country>
     <country>United States</country>
   </location_countries>
   <verification_date>March 20, 2020</verification_date>
   <study_first_submitted>February 20, 2020</study_first_submitted>
   <study_first_submitted_qc>February 20, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">February 21, 2020</study_first_posted>
-  <last_update_submitted>March 26, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 26, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 27, 2020</last_update_posted>
+  <last_update_submitted>April 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

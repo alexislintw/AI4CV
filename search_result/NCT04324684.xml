@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="246">
+<clinical_study rank="303">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04324684</url>
   </required_header>
@@ -298,7 +298,7 @@ Chronic obstructive lung disease</description>
       <phone>+390630154395</phone>
     </contact_backup>
     <investigator>
-      <last_name>Massimo Montalto, MD</last_name>
+      <last_name>Antonio Gasbarrini, MD</last_name>
       <role>Sub-Investigator</role>
     </investigator>
     <investigator>
@@ -307,6 +307,14 @@ Chronic obstructive lung disease</description>
     </investigator>
     <investigator>
       <last_name>Gian Ludovico Rapaccini, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Francesco Franceschi, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Massimo Montalto, MD</last_name>
       <role>Sub-Investigator</role>
     </investigator>
     <investigator>
@@ -335,13 +343,13 @@ Chronic obstructive lung disease</description>
     <citation>Qu D, Liu J, Lau CW, Huang Y. IL-6 in diabetes and cardiovascular complications. Br J Pharmacol. 2014 Aug;171(15):3595-603. doi: 10.1111/bph.12713. Review.</citation>
     <PMID>24697653</PMID>
   </reference>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 25, 2020</study_first_submitted>
   <study_first_submitted_qc>March 25, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>March 31, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 31, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 2, 2020</last_update_posted>
+  <last_update_submitted>April 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Catholic University of the Sacred Heart</investigator_affiliation>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="72">
+<clinical_study rank="89">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04288102</url>
   </required_header>
@@ -12,16 +12,12 @@
     <nct_id>NCT04288102</nct_id>
   </id_info>
   <brief_title>Treatment With Mesenchymal Stem Cells for Severe Corona Virus Disease 2019(COVID-19)</brief_title>
-  <official_title>Prospective, Randomized, Multi-center Phase 2 Clinical Trial of Mesenchymal Stem Cell(MSC) for the Treatment of Severe Corona Virus Disease 2019(COVID-19)</official_title>
+  <official_title>A Multicenter, Randomized, Double-blind, Placebo-controlled Study Evaluating the Efficacy and Safety of Human Mesenchymal Stem Cells in Combination With Standard Therapy in the Treatment of COVID-19 Patients With Severe Convalescence</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Beijing 302 Hospital</agency>
       <agency_class>Other</agency_class>
     </lead_sponsor>
-    <collaborator>
-      <agency>VCANBIO CELL &amp; GENE ENGINEERING CORP.,LTD, China</agency>
-      <agency_class>Other</agency_class>
-    </collaborator>
     <collaborator>
       <agency>Wuhan Huoshenshan Hospital, Wuhan, China</agency>
       <agency_class>Other</agency_class>
@@ -31,28 +27,17 @@
       <agency_class>Other</agency_class>
     </collaborator>
     <collaborator>
-      <agency>Shenzhen Third People's Hospital</agency>
+      <agency>General Hospital of Central Theater Command, Wuhan, China</agency>
       <agency_class>Other</agency_class>
     </collaborator>
     <collaborator>
-      <agency>Fifth Affiliated Hospital, Sun Yat-Sen University</agency>
-      <agency_class>Other</agency_class>
-    </collaborator>
-    <collaborator>
-      <agency>Wuhan Union Hospital, China</agency>
-      <agency_class>Other</agency_class>
-    </collaborator>
-    <collaborator>
-      <agency>West China Hospital</agency>
-      <agency_class>Other</agency_class>
-    </collaborator>
-    <collaborator>
-      <agency>Tianjin Haihe Hospital</agency>
+      <agency>VCANBIO CELL &amp; GENE ENGINEERING CORP.,LTD, China</agency>
       <agency_class>Other</agency_class>
     </collaborator>
   </sponsors>
   <source>Beijing 302 Hospital</source>
   <oversight_info>
+    <has_dmc>Yes</has_dmc>
     <is_fda_regulated_drug>No</is_fda_regulated_drug>
     <is_fda_regulated_device>No</is_fda_regulated_device>
   </oversight_info>
@@ -88,32 +73,34 @@
       influenza virus in animal model . MSCs has been shown to reduce nonproductive inflammation
       and affect tissue regeneration and is being evaluated in patients with ARDS. Our phase I
       preliminary data of parallel assignment study(NCT04252118) showed that three doses of MSCs
-      was safe in patients with COVID-19. Randomized control trial are needed to assess efficacy
-      and safety.
+      was safe in patients with COVID-19. Randomized control trial is needed to assess efficacy and
+      safety.
 
       The investigators will do a prospective, double-blind, multicentre, randomised trial to
       assess treatment with three intravenous doses of MSCs compared with placebo. 90 severe
-      COVID-19 patients will be recruited in China. 60 patients receive i.v. transfusion 3 times of
-      MSCs（ 4.0*10E7 cells per time), as the treated group, all of them receive the conventional
-      treatment. In addition, the 30 patients receive placebo and conventional treatment were used
-      as control.
+      COVID-19 patients will be recruited in China. 60 patients will receive i.v. transfusion 3
+      times of MSCs（ 4.0*10E7 cells per time) and the conventional treatment as the treated group.
+      In addition, the 30 patients will receive placebo and conventional treatment as control
+      group.
 
-      Size of lesion area and severity of pulmonary fibrosis by chest CT, proportion of patients in
-      each classification of clinical critical treatment index, oxygen saturation, oxygenation
-      index, duration of oxygen therapy, side effects, immunological characteristics (immune cells,
-      inflammatory factors, etc.) will be evaluated during the 90 days follow up.
+      Size of lesion area and severity of pulmonary fibrosis by chest CT,mMRC (Modified Medical
+      Research Council) dyspnea scale, 6-minute walk test, maximum vital capacity (VCmax),
+      Diffusing Capacity (DLCO), oxygen saturation, oxygenation index, duration of oxygen therapy,
+      side effects, immunological characteristics (immune cells, inflammatory factors, etc.) will
+      be evaluated during the 90 days follow up.
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
   <start_date type="Actual">March 5, 2020</start_date>
-  <completion_date type="Anticipated">December 31, 2021</completion_date>
-  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
-  <phase>Phase 1/Phase 2</phase>
+  <completion_date type="Anticipated">July 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">July 15, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
     <allocation>Randomized</allocation>
     <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, double-blind, placebo-controlled study</intervention_model_description>
     <primary_purpose>Treatment</primary_purpose>
     <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
   </study_design_info>
@@ -123,7 +110,7 @@
     <description>Evaluation of Pneumonia Improvement</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>Proportion of patients in each classification of clinical critical treatment index</measure>
+    <measure>mMRC (Modified Medical Research Council) dyspnea scale</measure>
     <time_frame>Baseline , Day 7, Day 14, Day 28, Day 90</time_frame>
     <description>Evaluation of Pneumonia Improvement
 No limitation of activities, discharged from hospital =Score 1; Hospitalized, no oxygen therapy=Score 2; Oxygen by mask or nasal prongs-Score 3; Non-invasive ventilation or high-flow oxygen=Score 4; Mechanical ventilation or ECMO=Score 5; Death=Score 6.</description>
@@ -157,6 +144,21 @@ No limitation of activities, discharged from hospital =Score 1; Hospitalized, no
     <measure>Side effects in the MSCs treatment group</measure>
     <time_frame>Baseline , Day 3, Day 6，Day 10, Day 14, Day 21, Day 28, Day 90</time_frame>
     <description>Proportion of participants with treatment-related adverse events as assessed by CTCAE v4.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>6-minute walk test</measure>
+    <time_frame>Baseline, Day 10, Day 14, Day 21, Day 28, Day 90</time_frame>
+    <description>Evaluation of Pneumonia Improvement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum vital capacity (VCmax)</measure>
+    <time_frame>Baseline, Day 10, Day 14, Day 21, Day 28, Day 90</time_frame>
+    <description>Evaluation of Pneumonia Improvement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diffusing Capacity (DLCO)</measure>
+    <time_frame>Baseline, Day 10, Day 14, Day 21, Day 28, Day 90</time_frame>
+    <description>Evaluation of Pneumonia Improvement</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">90</enrollment>
@@ -282,13 +284,13 @@ No limitation of activities, discharged from hospital =Score 1; Hospitalized, no
   <location_countries>
     <country>China</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>February 24, 2020</study_first_submitted>
   <study_first_submitted_qc>February 25, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">February 28, 2020</study_first_posted>
-  <last_update_submitted>March 19, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 19, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 23, 2020</last_update_posted>
+  <last_update_submitted>April 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Beijing 302 Hospital</investigator_affiliation>

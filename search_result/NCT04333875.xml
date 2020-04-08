@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="296">
+<clinical_study rank="356">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04333875</url>
   </required_header>
@@ -80,21 +80,6 @@
       previous 3 months or clinical symptoms on minimal exertion (NYHA III) will be allocated to
       TAVR or SAVR. All other patients with severe aortic stenosis defined by an AVA &lt;1.0 cm2 will
       be scheduled for a deferred intervention.
-
-      References
-
-        1. Global Burden of Disease Study 2017, www.healthdata.org/gbd-results-tool, accessed March
-           25, 2020
-
-        2. Leon, M.B., et al., Transcatheter aortic-valve implantation for aortic stenosis in
-           patients who cannot undergo surgery. N Engl J Med, 2010. 363(17): p. 1597-607.
-
-        3. Wenaweser, P., et al., Clinical outcomes of patients with severe aortic stenosis at
-           increased surgical risk according to treatment modality. J Am Coll Cardiol, 2011.
-           58(21): p. 2151-62.
-
-        4. Zhou, F., et al., Clinical course and risk factors for mortality of adult inpatients
-           with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet, 2020.
     </textblock>
   </brief_summary>
   <overall_status>Recruiting</overall_status>
@@ -191,13 +176,29 @@
   <location_countries>
     <country>Switzerland</country>
   </location_countries>
+  <results_reference>
+    <citation>Yadgir S, Johnson CO, Aboyans V, Adebayo OM, Adedoyin RA, Afarideh M, Alahdab F, Alashi A, Alipour V, Arabloo J, Azari S, Barthelemy CM, Benziger CP, Berman AE, Bijani A, Carrero JJ, Carvalho F, Daryani A, Durães AR, Esteghamati A, Farid TA, Farzadfar F, Fernandes E, Filip I, Gad MM, Hamidi S, Hay SI, Ilesanmi OS, Irvani SSN, Jürisson M, Kasaeian A, Kengne AP, Khan AR, Kisa A, Kisa S, Kolte D, Manafi N, Manafi A, Mensah GA, Mirrakhimov EM, Mohammad Y, Mokdad AH, Negoi RI, Nguyen HLT, Nguyen TH, Nixon MR, Otto CM, Patel S, Pilgrim T, Radfar A, Rawaf DL, Rawaf S, Rawasia WF, Rezapour A, Roever L, Saad AM, Saadatagah S, Senthilkumaran S, Sliwa K, Tesfay BE, Tran BX, Ullah I, Vaduganathan M, Vasankari TJ, Wolfe CDA, Yonemoto N, Roth GA. Global, Regional, and National Burden of Calcific Aortic Valve and Degenerative Mitral Valve Diseases, 1990-2017. Circulation. 2020 Mar 29. doi: 10.1161/CIRCULATIONAHA.119.043391. [Epub ahead of print]</citation>
+    <PMID>32223336</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Leon MB, Smith CR, Mack M, Miller DC, Moses JW, Svensson LG, Tuzcu EM, Webb JG, Fontana GP, Makkar RR, Brown DL, Block PC, Guyton RA, Pichard AD, Bavaria JE, Herrmann HC, Douglas PS, Petersen JL, Akin JJ, Anderson WN, Wang D, Pocock S; PARTNER Trial Investigators. Transcatheter aortic-valve implantation for aortic stenosis in patients who cannot undergo surgery. N Engl J Med. 2010 Oct 21;363(17):1597-607. doi: 10.1056/NEJMoa1008232. Epub 2010 Sep 22.</citation>
+    <PMID>20961243</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wenaweser P, Pilgrim T, Kadner A, Huber C, Stortecky S, Buellesfeld L, Khattab AA, Meuli F, Roth N, Eberle B, Erdös G, Brinks H, Kalesan B, Meier B, Jüni P, Carrel T, Windecker S. Clinical outcomes of patients with severe aortic stenosis at increased surgical risk according to treatment modality. J Am Coll Cardiol. 2011 Nov 15;58(21):2151-62. doi: 10.1016/j.jacc.2011.05.063.</citation>
+    <PMID>22078420</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 11. pii: S0140-6736(20)30566-3. doi: 10.1016/S0140-6736(20)30566-3. [Epub ahead of print] Erratum in: Lancet. 2020 Mar 12;:.</citation>
+    <PMID>32171076</PMID>
+  </results_reference>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 1, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 1, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 1, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 3, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 3, 2020</study_first_posted>
+  <last_update_submitted>April 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

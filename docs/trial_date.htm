@@ -18,12 +18,11 @@
 		    arrData = $.csv.toArrays(response);
 		    
 		    var data = new google.visualization.DataTable();
-            data.addColumn('date', 'Date');
+            data.addColumn('string', 'Date');
             data.addColumn('number', 'Trials');
 
 		    for (var i=0; i<arrData.length; i++) {
-		      var arrDate = arrData[i][0].split('-');
-		      var d = new Date(arrDate[0],arrDate[1]-1,arrDate[2]);
+		      var d = arrData[i][0];
 		      var n = parseInt(arrData[i][1]);
               data.addRow([d,n]);
             }

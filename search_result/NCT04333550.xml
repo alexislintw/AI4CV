@@ -3,7 +3,7 @@
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04333550</url>
   </required_header>
@@ -91,7 +91,7 @@
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Deferoxamine</intervention_name>
-    <description>Daily intravenous (IV) dose of Deferoxamine for 3 to 5 days</description>
+    <description>Intravenous infusion of Deferoxamine</description>
     <arm_group_label>Experimental: Desferal addition to standard treatment</arm_group_label>
     <arm_group_label>Experimental: standard treatment</arm_group_label>
   </intervention>
@@ -100,15 +100,11 @@
       <textblock>
         Inclusion Criteria:
 
-        Male or Female Age between 3 and 99 years, Patients with mild, moderate or severe COVID-19
-        pneumonia based on clinical evaluation
-
-        ,
+        Clinical diagnosis of COVID-19 Disease,
 
         Exclusion Criteria:
 
-        Patients with previous history of allergy to Deferoxamin Pregnant patient Patients with
-        kidney dysfunction (blood creatinine&gt;2) co-existence of bacterial pneumonia consent denied
+        Previous history of allergy to Deferoxamin, Pregnancy, kidney dysfunction,
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -228,10 +224,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 1, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 1, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 1, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 3, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 3, 2020</study_first_posted>
+  <last_update_submitted>April 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Kermanshah University of Medical Sciences</investigator_affiliation>

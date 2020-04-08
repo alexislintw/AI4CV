@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="290">
+<clinical_study rank="350">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04328467</url>
   </required_header>
@@ -153,11 +153,11 @@
 
           -  Active COVID-19 disease
 
-          -  Confirmed prior COVID-19 disease
+          -  Prior COVID-19 disease
 
           -  Current fever, cough, shortness of breath
 
-          -  Contraindication or allergy to chloroquine or hydroxychloroquine
+          -  Allergy to chloroquine or hydroxychloroquine
 
           -  Prior retinal eye disease
 
@@ -167,11 +167,13 @@
 
           -  Weight &lt;40 kg
 
-          -  Current use of hydroxychloroquine or cardiac medicines of flecainide, amiodarone,
-             digoxin, procainamide, or propafenone
+          -  Prolonged QT syndrome
+
+          -  Current use of hydroxychloroquine, chloroquine, or cardiac medicines of flecainide,
+             amiodarone, digoxin, procainamide, or propafenone
 
           -  Current use of medications with known significant drug-drug interactions: artemether,
-             lumefantrine, mefloquine, tamoxifen or methotrexate.
+             lumefantrine, mefloquine, tamoxifen, or methotrexate.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -215,9 +217,9 @@
   <study_first_submitted>March 27, 2020</study_first_submitted>
   <study_first_submitted_qc>March 30, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 31, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 3, 2020</last_update_posted>
+  <last_update_submitted>April 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="138">
+<clinical_study rank="175">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04324606</url>
   </required_header>
@@ -41,7 +41,7 @@
     </textblock>
   </detailed_description>
   <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">March 2020</start_date>
+  <start_date type="Anticipated">April 2020</start_date>
   <completion_date type="Anticipated">May 2021</completion_date>
   <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
   <phase>Phase 1/Phase 2</phase>
@@ -134,7 +134,7 @@
   <arm_group>
     <arm_group_label>Group 1b</arm_group_label>
     <arm_group_type>Placebo Comparator</arm_group_type>
-    <description>Volunteers will receive a single injection of saline intramuscularly. Volunteers will be blinded and will not know if they have received the IMP or the placebo.</description>
+    <description>Volunteers will receive a standard single dose of MenACWY vaccine delivered intramuscularly. Volunteers will be blinded and will not know if they have received the IMP or the placebo.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Group 2a</arm_group_label>
@@ -144,7 +144,7 @@
   <arm_group>
     <arm_group_label>Group 2b</arm_group_label>
     <arm_group_type>Placebo Comparator</arm_group_type>
-    <description>Volunteers will receive a single injection of saline intramuscularly. Volunteers will be blinded and will not know if they have received the IMP or the placebo.</description>
+    <description>Volunteers will receive a standard single dose of MenACWY vaccine delivered intramuscularly. Volunteers will be blinded and will not know if they have received the IMP or the placebo.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Group 3</arm_group_label>
@@ -160,9 +160,9 @@
     <arm_group_label>Group 3</arm_group_label>
   </intervention>
   <intervention>
-    <intervention_type>Other</intervention_type>
-    <intervention_name>Saline Placebo</intervention_name>
-    <description>Saline injection delivered intramuscularly</description>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MenACWY Placebo</intervention_name>
+    <description>Standard single dose of MenACWY vaccine delivered intramuscularly</description>
     <arm_group_label>Group 1b</arm_group_label>
     <arm_group_label>Group 2b</arm_group_label>
   </intervention>
@@ -190,6 +190,8 @@
 
         Exclusion Criteria:
 
+        The volunteer may not enter the study if any of the following apply:
+
           -  Prior receipt of any vaccines (licensed or investigational) ≤30 days before enrolment
 
           -  Planned receipt of any vaccine other than the study intervention within 30 days before
@@ -204,11 +206,10 @@
 
           -  Any confirmed or suspected immunosuppressive or immunodeficient state, including HIV
              infection; asplenia; recurrent severe infections and chronic use (more than 14 days)
-             immunosuppressant medication within the past 6 months (inhaled and topical steroids
-             are allowed).
+             immunosuppressant medication within the past 6 months (topical steroids are allowed).
 
           -  History of allergic disease or reactions likely to be exacerbated by any component of
-             the vaccine.
+             the ChAdOx1 nCoV-19 or MenACWY vaccines.
 
           -  Any history of hereditary angioedema or idiopathic angioedema.
 
@@ -227,6 +228,13 @@
 
           -  Any other serious chronic illness requiring hospital specialist supervision.
 
+          -  Chronic respiratory diseases, including mild asthma
+
+          -  Chronic cardiovascular disease, gastrointestinal disease, liver disease, renal
+             disease, endocrine disorder and neurological illness
+
+          -  Seriously overweight (BMI≥40 Kg/m2)
+
           -  Suspected or known current alcohol abuse as defined by an alcohol intake of greater
              than 42 units every week.
 
@@ -241,8 +249,13 @@
 
           -  History of laboratory confirmed COVID-19.
 
-          -  New onset of fever and a cough or shortness of breath in the 30 days preceding
+          -  New onset of fever or a cough or shortness of breath in the 60 days preceding
              screening and/or enrolment
+
+          -  Travel history to China since January 2020
+
+          -  Living in the same household as any vulnerable groups at risk of severe COVID-19
+             disease
 
         Re-Vaccination Exclusion Criteria
 
@@ -314,9 +327,9 @@
   <study_first_submitted>March 20, 2020</study_first_submitted>
   <study_first_submitted_qc>March 26, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>March 26, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 26, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 27, 2020</last_update_posted>
+  <last_update_submitted>April 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="8">
+<clinical_study rank="10">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04333420</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>IFX-1-P2.9</org_study_id>
     <nct_id>NCT04333420</nct_id>
   </id_info>
-  <brief_title>OPEN LABEL, RANDOMIZED PHASE II/III STUDY OF IFX-1 IN PATIENTS WITH SEVERE COVID-19 PNEUMONIA</brief_title>
+  <brief_title>Open-label, Randomized Study of IFX-1 in Patients With Severe COVID-19 Pneumonia</brief_title>
   <acronym>PANAMO</acronym>
-  <official_title>A PRAGMATIC ADAPTIVE OPEN LABEL, RANDOMIZED PHASE II/III MULTICENTER STUDY OF IFX-1 IN PATIENTS WITH SEVERE COVID-19 PNEUMONIA</official_title>
+  <official_title>A Pragmatic Adaptive Open Label, Randomized Phase II/III Multicenter Study of IFX-1 in Patients With Severe COVID-19 Pneumonia</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>InflaRx GmbH</agency>
@@ -62,24 +62,24 @@
   <enrollment type="Anticipated">130</enrollment>
   <condition>COVID-19 Pneumonia</condition>
   <arm_group>
-    <arm_group_label>Arm A</arm_group_label>
+    <arm_group_label>Arm A: BSC + IFX-1</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
   </arm_group>
   <arm_group>
-    <arm_group_label>Arm B</arm_group_label>
+    <arm_group_label>Arm B : BSC only</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Best supportive Care (BSC) + IFX-1</intervention_name>
     <description>Best supportive care [BSC] + IFX-1</description>
-    <arm_group_label>Arm A</arm_group_label>
+    <arm_group_label>Arm A: BSC + IFX-1</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Best supportive care only</intervention_name>
     <description>Best supportive care only</description>
-    <arm_group_label>Arm B</arm_group_label>
+    <arm_group_label>Arm B : BSC only</arm_group_label>
   </intervention>
   <eligibility>
     <criteria>
@@ -144,10 +144,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 1, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 1, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 1, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 3, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 3, 2020</study_first_posted>
+  <last_update_submitted>April 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

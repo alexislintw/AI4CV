@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="250">
+<clinical_study rank="308">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04322123</url>
   </required_header>
@@ -38,7 +38,7 @@
   </sponsors>
   <source>Hospital do Coracao</source>
   <oversight_info>
-    <has_dmc>No</has_dmc>
+    <has_dmc>Yes</has_dmc>
     <is_fda_regulated_drug>No</is_fda_regulated_drug>
     <is_fda_regulated_device>No</is_fda_regulated_device>
   </oversight_info>
@@ -55,7 +55,7 @@
       endpoint of status at 15 days will be the primary endpoint.
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
+  <overall_status>Recruiting</overall_status>
   <start_date type="Anticipated">April 6, 2020</start_date>
   <completion_date type="Anticipated">August 30, 2020</completion_date>
   <primary_completion_date type="Anticipated">August 30, 2020</primary_completion_date>
@@ -126,6 +126,16 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
     <time_frame>15 days after randomization</time_frame>
     <description>Occurrence of renal dysfunction, defined as an increase in creatinine above 1.5 times the baseline value</description>
   </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence of virus at day 10 in subset of 180 patients</measure>
+    <time_frame>10 days after randomization</time_frame>
+    <description>Positive PCR for Sars-Cov-2 at 10 days after enrollment</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Safety outcome on QTc</measure>
+    <time_frame>At day 3 and 7 after enrollment</time_frame>
+    <description>QTc interval value</description>
+  </other_outcome>
   <number_of_arms>3</number_of_arms>
   <enrollment type="Anticipated">630</enrollment>
   <condition>Coronavirus Infections</condition>
@@ -184,20 +194,15 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
   <overall_official>
-    <last_name>Fernando Zampieri, PhD</last_name>
+    <last_name>Alexandre Biasi, PhD</last_name>
     <role>Principal Investigator</role>
     <affiliation>Hospital do Coração</affiliation>
   </overall_official>
   <overall_contact>
-    <last_name>Fernando Zampieri, PhD</last_name>
-    <phone>+55 11 97093-1539</phone>
-    <email>fzampieri@hcor.com.br</email>
-  </overall_contact>
-  <overall_contact_backup>
     <last_name>Alexandre Biasi, PhD</last_name>
     <phone>+55 11 99882-9343</phone>
     <email>abiasi@hcor.com.br</email>
-  </overall_contact_backup>
+  </overall_contact>
   <location>
     <facility>
       <name>Hospital Geral Clériston Andrade</name>
@@ -207,6 +212,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Lúcio Oliveira Junior</last_name>
       <email>luciocouto@hotmail.com</email>
@@ -221,6 +227,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Marco Antonio Guedes</last_name>
     </contact>
@@ -234,6 +241,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Miqueias Silva</last_name>
     </contact>
@@ -247,6 +255,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>José Andrade Neto</last_name>
     </contact>
@@ -260,6 +269,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Rodrigo Biondi</last_name>
       <email>rodrigobiondi.md@gmail.com ;</email>
@@ -274,6 +284,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Rodrigo Biondi</last_name>
       <email>rodrigobiondi.md@gmail.com ;</email>
@@ -288,6 +299,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Rodrigo Cruvinel</last_name>
     </contact>
@@ -301,6 +313,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Hugo Urbano</last_name>
     </contact>
@@ -314,6 +327,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Jorge Luiz Paranhos</last_name>
     </contact>
@@ -327,6 +341,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Cintia Grion</last_name>
     </contact>
@@ -340,6 +355,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Cassia Righy</last_name>
     </contact>
@@ -353,6 +369,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Emerson Silva</last_name>
     </contact>
@@ -366,6 +383,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Thiago Lisboa</last_name>
     </contact>
@@ -379,6 +397,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Eraldo Lucio</last_name>
     </contact>
@@ -392,6 +411,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <contact>
       <last_name>Felipe Dal Pizzol</last_name>
     </contact>
@@ -405,6 +425,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Israel Maia</last_name>
       <email>israels.maia@gmail.com</email>
@@ -419,6 +440,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Israel Maia, PhD</last_name>
       <email>israels.maia@gmail.com ;</email>
@@ -433,6 +455,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Glauco Westphal</last_name>
     </contact>
@@ -446,35 +469,9 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Cristina Amendola</last_name>
-    </contact>
-  </location>
-  <location>
-    <facility>
-      <name>Faculdade de Medicina de São José do Rio Preto</name>
-      <address>
-        <city>São José do Rio Preto</city>
-        <state>SP</state>
-        <country>Brazil</country>
-      </address>
-    </facility>
-    <contact>
-      <last_name>Neymar Oliveira</last_name>
-    </contact>
-  </location>
-  <location>
-    <facility>
-      <name>AC Camargo Cancer Center - Fundação Antonio Prudente</name>
-      <address>
-        <city>São Paulo</city>
-        <state>SP</state>
-        <country>Brazil</country>
-      </address>
-    </facility>
-    <contact>
-      <last_name>Antônio Paulo Nassar</last_name>
-      <email>paulo_nassar@yahoo.com.br</email>
     </contact>
   </location>
   <location>
@@ -486,6 +483,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Luiz Dalfior Junior</last_name>
     </contact>
@@ -499,6 +497,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <contact>
       <last_name>Otavio Berwanger</last_name>
     </contact>
@@ -512,6 +511,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <contact>
       <last_name>Viviane Veiga</last_name>
       <email>dveiga@uol.com.br;</email>
@@ -526,22 +526,9 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <contact>
       <last_name>Fernando Ramos</last_name>
-    </contact>
-  </location>
-  <location>
-    <facility>
-      <name>Hospital da Luz - Amico Saúde LTDA</name>
-      <address>
-        <city>São Paulo</city>
-        <state>SP</state>
-        <country>Brazil</country>
-      </address>
-    </facility>
-    <contact>
-      <last_name>Fábio Lacerda</last_name>
-      <email>lacerdafh@gmail.com;</email>
     </contact>
   </location>
   <location>
@@ -553,6 +540,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Niklas Soderberg</last_name>
     </contact>
@@ -566,6 +554,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>João Manoel Silva Junior</last_name>
     </contact>
@@ -579,6 +568,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Flavia Machado</last_name>
       <email>frmachado@unifesp.br;</email>
@@ -593,6 +583,7 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Luciazo Azevedo</last_name>
     </contact>
@@ -606,34 +597,21 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Flávio Freitas</last_name>
-    </contact>
-  </location>
-  <location>
-    <facility>
-      <name>Hospital das Clínicas da Faculdade de Medicina da USP - Ribeirão Preto</name>
-      <address>
-        <city>Ribeirão Preto</city>
-        <state>São Paulo</state>
-        <country>Brazil</country>
-      </address>
-    </facility>
-    <contact>
-      <last_name>Wilson José Lovato, PhD</last_name>
-      <email>wjlovato@gmail.com;</email>
     </contact>
   </location>
   <location_countries>
     <country>Brazil</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 24, 2020</study_first_submitted>
   <study_first_submitted_qc>March 24, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 26, 2020</study_first_posted>
-  <last_update_submitted>March 24, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 24, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 26, 2020</last_update_posted>
+  <last_update_submitted>April 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

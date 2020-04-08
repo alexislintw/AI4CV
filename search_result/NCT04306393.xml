@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="243">
+<clinical_study rank="300">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04306393</url>
   </required_header>
@@ -176,27 +176,14 @@ Weaning criteria: maintenance of a PaO2/FiO2 ratio &gt;/= 300 for at least 24 ho
   <eligibility>
     <criteria>
       <textblock>
-        Inclusion Criteria:
+        Inclusion criteria: (1) Adult patients, &gt;/= 18 year-old; (2) Patients admitted to the ICU;
+        (3) Patients who are intubated and mechanically ventilated; (4) Confirmed diagnosis of
+        SARS-CoV2 by positive rt-PCR.
 
-          -  &gt;/= 18 years old
-
-          -  ICU admission
-
-          -  Intubation and mechanical ventilation
-
-          -  Positivity of 2019-nCoV rt-PCR
-
-          -  PaO2/FiO2 ratio &lt; 300 mmHg
-
-        Exclusion Criteria:
-
-          -  patients intubated for 72 hours or more from initiation of the treatment gas
-
-          -  physician being contrary to the involvement as participating in the trial is not in
-             the patient's best interest, or any condition that does not allow the protocol to be
-             followed safely
-
-          -  pregnancy
+        Exclusion criteria: (1) Patients intubated for more than 72 hours from initiation of the
+        treatment gas; (2) Subjects enrolled in another interventional research study; (3)
+        Physician of record opposed to enrolling the patient due to perceived safety concerns; or
+        any condition that does not allow the protocol to be followed safely.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -221,6 +208,30 @@ Weaning criteria: maintenance of a PaO2/FiO2 ratio &gt;/= 300 for at least 24 ho
   </overall_contact_backup>
   <location>
     <facility>
+      <name>University of Alabama</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Louisiana State University Health Shreveport</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Massachusetts General Hospital</name>
       <address>
         <city>Boston</city>
@@ -237,13 +248,13 @@ Weaning criteria: maintenance of a PaO2/FiO2 ratio &gt;/= 300 for at least 24 ho
   <location_countries>
     <country>United States</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 10, 2020</study_first_submitted>
   <study_first_submitted_qc>March 10, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 12, 2020</study_first_posted>
-  <last_update_submitted>March 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 24, 2020</last_update_posted>
+  <last_update_submitted>April 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="133">
+<clinical_study rank="169">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04332991</url>
   </required_header>
@@ -55,8 +55,8 @@
       .
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 2, 2020</start_date>
   <completion_date type="Anticipated">July 2021</completion_date>
   <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
   <phase>Phase 3</phase>
@@ -311,6 +311,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -322,6 +323,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -333,6 +335,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -344,6 +347,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -355,6 +359,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -366,6 +371,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -377,6 +383,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -388,6 +395,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -399,6 +407,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -410,6 +419,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -421,6 +431,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -432,6 +443,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -443,6 +455,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -454,6 +467,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -465,6 +479,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -476,6 +491,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -487,6 +503,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -498,6 +515,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -509,6 +527,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -520,6 +539,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -531,6 +551,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -542,6 +563,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -553,6 +575,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -564,6 +587,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -575,6 +599,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -586,6 +611,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -597,6 +623,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -608,6 +635,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -619,6 +647,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -630,6 +659,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -641,6 +671,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -652,6 +683,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -663,6 +695,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -674,6 +707,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -685,6 +719,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -696,6 +731,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -707,6 +743,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -718,6 +755,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -729,6 +767,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -740,6 +779,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -751,6 +791,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -762,6 +803,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -773,6 +815,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -784,6 +827,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location_countries>
     <country>United States</country>
@@ -792,13 +836,13 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
     <url>http://petalnet.org</url>
     <description>Website for the PETAL Network</description>
   </link>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>March 31, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 3, 2020</study_first_posted>
-  <last_update_submitted>March 31, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 31, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 3, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 3, 2020</study_first_posted>
+  <last_update_submitted>April 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>

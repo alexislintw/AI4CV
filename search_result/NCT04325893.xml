@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="228">
+<clinical_study rank="274">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04325893</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>49RC20_0071</org_study_id>
     <nct_id>NCT04325893</nct_id>
   </id_info>
-  <brief_title>Hydroxychloroquine Versus Placebo in Patients Presenting COVID-19 Infection and at Risk of Secondary Complication: a Prospective, Multicentre, Randomised, Double-blind Study</brief_title>
+  <brief_title>Hydroxychloroquine Versus Placebo in COVID-19 Patients at Risk for Severe Disease</brief_title>
   <acronym>HYCOVID</acronym>
   <official_title>Hydroxychloroquine Versus Placebo in Patients Presenting COVID-19 Infection and at Risk of Secondary Complication: a Prospective, Multicentre, Randomised, Double-blind Study</official_title>
   <sponsors>
@@ -27,32 +27,29 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      A new human coronavirus that is transmitted through respiratory droplets, SARS-CoV-2, emerged
-      in China in December 2019 and has spread rapidly. COVID-19, the disease caused by this virus,
-      has a very polymorphous clinical presentation, which ranges from isolated attacks on the
-      upper respiratory tract to acute respiratory distress syndrome. It may appear serious
-      straightaway or may develop in two stages, with a worsening condition 7 to 10 days after the
-      initial clinical signs, potentially linked to a cytokine storm in the immune system and
-      accompanied by a high risk of thrombosis. The global mortality rate of COVID-19 is understood
-      to be between 3% and 4%, with the more severe forms being more frequent among older age
-      groups. Treatment is largely symptomatic as no antiviral treatment to date has shown to be of
-      clinical benefit to this illness. Hydroxychloroquine is a derivative of chloroquine, which is
-      commonly used to treat some autoimmune diseases, such as systemic lupus erythematosus. It is
-      active in vitro in cell models of infection by multiple viruses, such as HIV, hepatitis C and
-      SARS-CoV. However, its use in viral infections among humans has not been demonstrated.
+      A new human coronavirus responsible for pneumonia, SARS-CoV-2, emerged in China in December
+      2019 and has spread rapidly. COVID-19, the disease caused by this virus, has a very
+      polymorphous clinical presentation, which ranges from upper respiratory tract infections to
+      acute respiratory distress syndrome. It may appear serious straightaway or may evolve in two
+      stages, with a worsening 7 to 10 days after the first clinical signs, potentially linked to a
+      cytokine storm and accompanied by a high risk of thrombosis. The global mortality rate of
+      COVID-19 is between 3% and 4%, with severe forms being more frequent among older patients.
+      Management is symptomatic as no antiviral treatment has demonstrated any clinical benefit in
+      this condition. Hydroxychloroquine is a derivative of chloroquine commonly used in some
+      autoimmune diseases, such as systemic lupus erythematosus. It is active in vitro in cellular
+      models of infection by many viruses such as HIV, hepatitis C or SARS-CoV. However, its
+      interest in viral infections in humans has not been demonstrated.
 
-      Very recently, a non-controlled preliminary study looked into the effectiveness of
-      hydroxychloroquine on the viral excretion of subjects affected by COVID-19. Among 20 patients
-      treated with hydroxychloroquine in doses of 600 mg per day, the percentage of viral findings
-      of positive SARS-CoV-2 in the nasopharynx using RT-PCR went from 100% on inclusion (start of
-      treatment) to 43% six days later. In comparison, among the 16 patients who were not treated,
-      90% had a positive RT-PCR six days after inclusion. Furthermore, hydroxychloroquine has
-      immunomodulating and anti-inflammatory properties, which could theoretically prevent or limit
-      secondary complications.
+      Very recently, a preliminary uncontrolled study evaluated the effect of hydroxychloroquine on
+      viral shedding in subjects with COVID-19. Among 20 patients treated with hydroxychloroquine
+      at a dose of 600 mg per day, the percentage of patients with detectable SARS-CoV-2 RNA in the
+      nasopharynx decreased from 100% at inclusion (start of treatment) to 43% six days later. In
+      comparison, 15 of 16 untreated patients had a positive RT-PCR six days after inclusion.
+      Furthermore, hydroxychloroquine has immunomodulating and anti-inflammatory properties, which
+      could theoretically prevent or limit secondary worsening.
 
       The research hypothesis is that treatment with hydroxychloroquine improves prognosis and
-      reduces the risk of death or using an invasive artificial ventilator on patients suffering
-      from COVID-19.
+      reduces the risk of death or use for invasive ventilation in patients with COVID-19.
     </textblock>
   </brief_summary>
   <overall_status>Not yet recruiting</overall_status>
@@ -69,20 +66,22 @@
     <masking>Double (Participant, Investigator)</masking>
   </study_design_info>
   <primary_outcome>
-    <measure>Death, regardless of cause, or the use of intubation and invasive ventilation in the 14 days (day 14) following inclusion and the start of treatment (day 0)</measure>
+    <measure>Death from any cause, or the need for intubation and mechanical ventilation during the 14 days following inclusion and start of treatment.</measure>
     <time_frame>Day 14</time_frame>
   </primary_outcome>
   <secondary_outcome>
-    <measure>Death, regardless of cause, or the use of intubation and invasive ventilation at day 28.</measure>
+    <measure>Death from any cause, or the need for intubation and mechanical ventilation during the 28 days following inclusion and start of treatment.</measure>
     <time_frame>Day 28</time_frame>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Clinical development on the OSCI scale for COVID-19 by the WHO between day 0-day 14</measure>
+    <measure>Clinical evolution on the WHO Ordinal Scale for Clinical Improvement for COVID-19 between day 0 and day 14</measure>
     <time_frame>Day 14</time_frame>
+    <description>WHO Ordinal Scale for Clinical Improvement ranges from 0 to 8, higher score meaning poorer outcome</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Clinical development on the OSCI scale for COVID-19 by the WHO between day 0-day 28</measure>
+    <measure>Clinical evolution on the WHO Ordinal Scale for Clinical Improvement for COVID-19 between day 0 and day 28.</measure>
     <time_frame>Day 28</time_frame>
+    <description>WHO Ordinal Scale for Clinical Improvement ranges from 0 to 8, higher score meaning poorer outcome</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>All-cause mortality at day 14</measure>
@@ -93,16 +92,32 @@
     <time_frame>Day 28</time_frame>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Rate of RT-PCR positive for SARS-CoV-2 with nasopharynx samples at day 5</measure>
+    <measure>Rate of positive SARS-CoV-2 RT-PCR on nasopharyngeal samples at day 5</measure>
     <time_frame>Day 5</time_frame>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Rate of RT-PCR positive for SARS-CoV-2 with nasopharynx samples at day 10</measure>
+    <measure>Rate of positive SARS-CoV-2 RT-PCR on nasopharyngeal samples at day 10</measure>
     <time_frame>Day 10</time_frame>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Rate of thrombo-phlebitis or symptomatic arterial occurrences at day 28</measure>
+    <measure>The rate of venous thromboembolic events at day 28, documented and confirmed by an adjudication committee.</measure>
     <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality at day 28 in patients aged 75 and older</measure>
+    <time_frame>day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical evolution on the WHO OSCI scale for COVID-19 between day 0 and day 28 for patients aged 75 or older</measure>
+    <time_frame>day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of severe adverse events at day 28</measure>
+    <time_frame>day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality at day 14 in patients aged 75 and older</measure>
+    <time_frame>day 14</time_frame>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">1300</enrollment>
@@ -132,11 +147,9 @@
       <textblock>
         Inclusion Criteria:
 
-          -  Adult patient
-
-          -  Infection with COVID-19 confirmed by RT-PCR SARS-CoV-2 or, failing that, by thoracic
-             scans suggesting viral pneumonia of peripheral predominance in a clinically
-             significant context.
+          -  Infection with COVID-19 diagnosed by positive RT-PCR SARS-CoV-2 or, if not performed,
+             by thorax CT-scan suggesting viral pneumonia of peripheral predominance in a
+             clinically significant context.
 
           -  Diagnosed within the previous 48 hours.
 
@@ -144,18 +157,20 @@
 
           -  age ≥75 years old
 
-          -  oxygen dependant with peripheral capillary oxygen saturation (SpO2) ≤ 94% in ambient
-             air, or a partial oxygen pressure ratio (PaO2) to oxygen fraction of inspired air
-             (FiO2) ≤ 300 mmHg.
+          -  Peripheral oxygen saturation (SpO2) ≤ 94% while breathing ambient air, or a partial
+             oxygen pressure (PaO2) to fraction of inspired oxygen (FiO2) ratio ≤ 300 mmHg.
 
-        Patients affiliated with or benefitting from a social security scheme
+          -  Patients affiliated with or benefitting from a social security scheme
 
-        - Written and signed consent of the patient or a relative or, if not possible, emergency
-        inclusion procedure
+          -  Written and signed consent of the patient or a relative or, if not possible, emergency
+             inclusion procedure
 
-        Exclusion Criteria:
+          -  Electrocardiogram showing absence of QT prolongation greater than 440 ms in men and
+             460 ms in women.
 
-          -  RT-PCR SARS-CoV-2 negative
+        Exclusion criteria
+
+          -  Negative RT-PCR SARS-CoV-2
 
           -  Peripheral capillary oxygen saturation less than or equal to 94% (SpO2≤94%) despite
              oxygen therapy greater than or equal to 3 L/min (≥ 3 L/min)
@@ -171,16 +186,10 @@
           -  Absolute contraindication to treatment with hydroxychloroquine (known
              hypersensitivity, concomitant treatment with risk of torsades de pointe)
 
-          -  ECG in at-risk patients showing corrected QT prolongation greater than 440 ms in men
-             and 460 ms in women.
+          -  Electrocardiogram showing corrected QT prolongation greater than 440 ms in men and 460
+             ms in women.
 
           -  Pregnant, lactating or parturient women
-
-          -  Individuals in detention through judicial or administrative decision
-
-          -  Individuals who are the subject of compulsory psychiatric treatment
-
-          -  Individuals who are subject to legal protection measures
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -200,13 +209,449 @@
     <phone_ext>+33</phone_ext>
     <email>begable@chu-angers.fr</email>
   </overall_contact_backup>
-  <verification_date>March 2020</verification_date>
+  <location>
+    <facility>
+      <name>CH Agen</name>
+      <address>
+        <city>Agen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Patrick Rispal, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Amiens</name>
+      <address>
+        <city>Amiens</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean-Philippe Lanoix, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Avicenne</name>
+      <address>
+        <city>Bobigny</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Robin Dhote, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Brest</name>
+      <address>
+        <city>Brest</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Séverine Ansart, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Caen</name>
+      <address>
+        <city>Caen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Aurélie Baldolli, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Cherbroug</name>
+      <address>
+        <city>Cherbourg</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>François Laterza, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Cholet</name>
+      <address>
+        <city>Cholet</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Roxane Courtois, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Colmar</name>
+      <address>
+        <city>Colmar</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Martin Martinot, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Henri Mondor</name>
+      <address>
+        <city>Créteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Raphaël Lepeule, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Dijon</name>
+      <address>
+        <city>Dijon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lionel Piroth, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHD Vendée</name>
+      <address>
+        <city>La Roche-sur-Yon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Thomas Guimard, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Laval</name>
+      <address>
+        <city>Laval</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Rémi VATAN, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Le Mans</name>
+      <address>
+        <city>Le Mans</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean-Baptiste LAINE</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Limoges</name>
+      <address>
+        <city>Limoges</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean-François Faucher, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Lorient</name>
+      <address>
+        <city>Lorient</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Aurélien Lorleac'h, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Melun</name>
+      <address>
+        <city>Melun</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sylvain Diamantis, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Nantes</name>
+      <address>
+        <city>Nantes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Philippe RAFFI, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Privé du Confluent</name>
+      <address>
+        <city>Nantes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olivier Grossi, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Niort</name>
+      <address>
+        <city>Niort</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Simon Sunder, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHR Orléans</name>
+      <address>
+        <city>Orléans</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Philippe Prazuck, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Saint-Antoine</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Karine Lacombe, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>La Pitié-Salpétrière</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Valérie Pourcher, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Poitiers</name>
+      <address>
+        <city>Poitiers</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Blandine Rammaert, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Pointoise</name>
+      <address>
+        <city>Pontoise</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Edouard Devaud, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Quimper</name>
+      <address>
+        <city>Quimper</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean-Philippe Talarmin, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Saint-Brieuc</name>
+      <address>
+        <city>Saint-Brieuc</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Rodolphe Buzele, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Saint-Nazaire</name>
+      <address>
+        <city>Saint-Nazaire</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Julia Brochard, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Saint-Etienne</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Elisabeth Bothelo-Nevers, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Toulouse</name>
+      <address>
+        <city>Toulouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Guillaume Martin-Blondel, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Tourcoing</name>
+      <address>
+        <city>Tourcoing</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olivier Robineau, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Tours</name>
+      <address>
+        <city>Tours</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Bernard Louis, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Valenciennes</name>
+      <address>
+        <city>Valenciennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alina Tone, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Tessier Valenciennes</name>
+      <address>
+        <city>Valenciennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Thomas Gey, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Vannes</name>
+      <address>
+        <city>Vannes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Marie Gousseff, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Versailles</name>
+      <address>
+        <city>Versailles</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Emma D'Anglejean, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Princesse Grace</name>
+      <address>
+        <city>Monaco</city>
+        <country>Monaco</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yann-Erick Claessens, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>Monaco</country>
+  </location_countries>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 25, 2020</study_first_submitted>
   <study_first_submitted_qc>March 27, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 30, 2020</study_first_posted>
-  <last_update_submitted>March 27, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 27, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 30, 2020</last_update_posted>
+  <last_update_submitted>April 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

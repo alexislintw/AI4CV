@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="128">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04334460</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B-2660-204</org_study_id>
+    <nct_id>NCT04334460</nct_id>
+  </id_info>
+  <brief_title>Safety and Antiviral Activity of BLD-2660 in COVID-19 Hospitalized Subjects</brief_title>
+  <official_title>Phase 2, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Safety and Antiviral Activity of BLD-2660 in Hospitalized Subjects With Recently Diagnosed COVID-19 Compared to Standard of Care Treatment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Blade Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Blade Therapeutics</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1,
+      2, and 9 that is selective over the cathepsins as well as other protease families, displays
+      good metabolic stability and permeability, oral bioavailability and low cytochrome P450 (CYP)
+      inhibition. It is under development for the treatment of coronavirus disease-19 (COVID-19)
+      resulting from infection with Severe Acute Respiratory Syndrome Coronavirus 2 (SARSCoV2),
+      where there is significant unmet medical need.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Calpains are a class of non-lysosomal cysteine proteases involved in diverse cellular
+      processes. Several independent publications indicate that specific host cellular proteases
+      called dimeric calpains are essential for the replication of multiple RNA viruses including
+      Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV)-1. In 2004, Barnard and colleagues
+      described that the inhibition of calpains 1 and 2 by distinct calpain inhibitors, MDL 28170
+      and SJA 6017, resulted in anti-SARS-CoV activity by reducing infectious virus particle
+      replication and hence production (Barnard, 2004). This observation was reproduced with MDL
+      28170, which showed a &gt;7-log reduction in SARS-CoV replication in cell culture systems
+      (Schneider, 2012). The anti-viral activity of the compound was confirmed to be due to
+      inhibition of m calpain by utilizing a small interfering RNA (siRNA) approach to selectively
+      silence expression of this dimeric calpain isoform. This confirmed the specific requirement
+      for dimeric m calpain activity during SARS-CoV replication in vitro (Schneider, 2012). MDL
+      28170 is a nonclinical tool calpain inhibitor compound with known off-target liabilities that
+      has not been evaluated in nonclinical or clinical safety studies.
+
+      It has been shown that the receptor for SARS-CoV-1 and -2 entry into the cell is
+      angiotensin-converting enzyme 2 (ACE-2) (Kuba, 2010). ACE-2 and the dimeric calpains (data on
+      file) are co-expressed in respiratory epithelial cells, the site of both viral entry and
+      predominant early lung injury in COVID-19.
+
+      In addition to the potential for anti-viral activity by calpain inhibition, nonclinical
+      animal bleomycin lung injury models demonstrated that BLD-2660 normalized tissue IL-6 levels,
+      a proinflammatory cytokine demonstrated to be elevated in COVID-19 patients and is implicated
+      in disease pathogenesis. This pro-inflammatory cytokine has been shown to contribute to lung
+      damage during SARS-CoV infection and the virus itself is capable of directly inducing its
+      expression (Bozym, 2011; Yoon, 2008). Thus BLD-2660 could potentially reduce both viral
+      replication and the nonproductive host-response to infection, both contributors to morbidity
+      and mortality in COVID-19.
+
+      BLD2660, has shown greater selectivity for calpain inhibition than MDL 28170, the prototypic
+      calpain inhibitor utilized to effectively inhibit SARS-CoV replication. BLD-2660 lacks
+      cross-reactivity with other cysteine proteases such as cathepsins. The safety and
+      tolerability of BLD-2660 has been demonstrated in the recently completed Phase 1 single
+      ascending dose (SAD)/multiple ascending dose (MAD) B-2660-101 study.
+
+      This study will evaluate BLD-2660 as an add-on therapy to standard of care (SOC) in
+      hospitalized subjects with recent diagnosis of COVID-19.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2020</start_date>
+  <completion_date type="Anticipated">September 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Antiviral Activity</measure>
+    <time_frame>Course of study; 21 days</time_frame>
+    <description>To evaluate antiviral activity of BLD2660 in hospitalized adults with recently diagnosed SARS-CoV-2 infection. Measured by quantity of remaining viral RNA of SARS-CoV-2 qPCR Assay and proportion of subjects who are SARS-CoV-2-free by Day 10/End of treatment (EOT) or hospital discharge, whichever is sooner</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Improvement of oxygenation</measure>
+    <time_frame>10 days</time_frame>
+    <description>To evaluate improvement in oxygenation in hospitalized adults with COVID-19 treated with BLD-2660. Measured by change from baseline to Day 10 or hospital discharge, if sooner, in the ratio of peripheral hemoglobin oxygen saturation to fraction of inspired oxygen (SpO2/FiO2)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety &amp; Tolerability: incidence of TEAEs and serious adverse events (SAEs)</measure>
+    <time_frame>Course of study; 21 days</time_frame>
+    <description>To evaluate the safety and tolerability of BLD-2660 in the same population. Measured by incidence of TEAEs and serious adverse events (SAEs)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Time to hospital discharge</measure>
+    <time_frame>Course of study; 21 days</time_frame>
+    <description>To evaluate intervention's effects on length of hospital stay.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Resolution of Fever</measure>
+    <time_frame>Course of study; 21 days</time_frame>
+    <description>Proportion of subjects with resolution of fever below entry criteria for 24 hours (as defined in Section 5.1.1) by Day 10 in subjects with fever at baseline</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Oxygen Supplementation-Free Days</measure>
+    <time_frame>Course of Study; 21 days</time_frame>
+    <description>Number of continuous O2 supplementation free days during the 10-day,14-day and 21-day study periods following enrollment</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in IL-6</measure>
+    <time_frame>Course of study; 21 days</time_frame>
+    <description>Change from baseline to Days 10, 14 and 21 in IL-6, measured by quantitative assay.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Sars-CoV2</condition>
+  <arm_group>
+    <arm_group_label>Active Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BLD-2660</intervention_name>
+    <description>BLD-2660 is a novel, synthetic, orally active, small molecule inhibitor of calpain (CAPN) 1, 2, and 9.</description>
+    <arm_group_label>Active Group</arm_group_label>
+    <arm_group_label>Placebo Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        - Age:
+
+        At least 18 years of age at the time of signing the ICF.
+
+        - Type of Subject and Disease Characteristics:
+
+        Documented or confirmed SARS-CoV-2 infection by PCR test nasopharyngeal swab ≤ 2 days
+        before randomization.
+
+        Hospitalized for COVID-19.
+
+        Diagnosed with COVID-19 as defined by having at least 2 of the following signs or symptoms
+        within the past 2 days:
+
+        Fever defined as a body temperature of ≥ 38.0 °C oral, or ≥ 38.3 °C rectal, forehead or
+        aural (axillary temperatures are not allowable);
+
+        Cough;
+
+        Fatigue;
+
+        Shortness of breath.
+
+        Radiographic evidence (chest x-ray or CT scan) of one the following:
+
+        Ground-glass opacities, or
+
+        Local or bilateral patchy infiltrates, or
+
+        Interstitial pulmonary infiltrates.
+
+        - Sex:
+
+        Male and/or female subjects.
+
+        Contraception use by men or women should be consistent with local regulations regarding the
+        methods of contraception for those participating in clinical studies.
+
+        All subjects (male or female) who are of childbearing potential must agree to use highly
+        effective contraception during the study. Female subjects and male partners of female
+        subjects must continue to use highly effective contraception for 30 days after the last
+        dose of study drug. Female subjects should not donate oocytes during this time. Male
+        subjects and female partners of male subjects must continue to use highly effective
+        contraception for 90 days. Male subjects must agree not to donate sperm during this time.
+
+        Note: Abstinence is acceptable if this is the usual lifestyle and preferred contraception
+        for the subject.
+
+        Note: Ethinyl estradiol is the primary estrogen used in hormonal contraceptives. The
+        progestin component consists of norethindrone, levonorgestrel, norgestrel, norethindrone
+        acetate, ethynodiol diacetate, norgestimate, desogestrel, and drospirenone. As BLD-2660 is
+        a weak CYP3A4 inducer, exposure to both the estrogen and progestin components in hormonal
+        contraceptives may be decreased, resulting in an increased risk of pregnancy. As such, it
+        is recommended that subjects who are on hormonal contraceptives for birth control should
+        use an alternate means of contraception (condoms, diaphragms, intrauterine device (IUD),
+        other barrier methods, sexual abstinence, etc.) during participation in the study.
+
+        Women of childbearing potential must have a negative serum pregnancy test at Screening
+        within 72 hours prior to first administration of study drug.
+
+        Women not of childbearing potential must be postmenopausal (defined as cessation of regular
+        menstrual periods for at least 1 year
+
+        - Informed Consent:
+
+        Capable of giving signed informed consent which includes compliance with the requirements
+        and restrictions listed in the ICF and in this protocol
+
+        Exclusion Criteria:
+
+        - Medical Conditions:
+
+        Active bacterial pneumonia infection
+
+        Known active tuberculosis (TB).
+
+        Known history of testing positive for Human Immunodeficiency Virus (HIV) (HIV 1/2
+        antibodies).
+
+        Known active Hepatitis B (defined as Hepatitis B surface antigen [HBsAg] reactive) or known
+        active Hepatitis C virus (defined as HCV RNA [qualitative] is detected) infection.
+
+        Note: No testing for Hepatitis B and Hepatitis C is required unless mandated by local
+        health authority
+
+        History of Child-Pugh B or C cirrhosis.
+
+        History of acute coronary syndrome requiring hospital admission or symptomatic ischemic
+        heart disease within 24 weeks prior to screening.
+
+        Subjects requiring high flow oxygen defined as &gt;50 L/min.
+
+        It is not in the best interest of the subjects to participate, in the opinion of the
+        treating Investigator.
+
+        Female subjects who are pregnant or breastfeeding or expecting to conceive within the
+        projected duration of the study, starting with the screening visit through 90 days after
+        the last dose of study drug.
+
+        - Diagnostic Assessments:
+
+        The following laboratory parameters are excluded:
+
+        Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) &gt;5 x upper limit of
+        normal (ULN);
+
+        Creatinine clearance &lt; 50 mL/min.
+
+        - Prior Therapy:
+
+        Requiring, or expected to require mechanical ventilation at screening.
+
+        Concurrent treatment with other agents with actual or possible direct acting antiviral
+        activity against SARS-CoV-2 within 24 hours prior to initiation of study drug dosing (e.g.
+        remdesivir within 6 half-lives).
+
+        Treatment with anti-IL 6, anti-IL-6 receptor antagonists, or with Janus kinase inhibitors
+        (JAKi) in the past 30 days or plans to receive during the study period.
+
+        - Prior/Concurrent Clinical Study Experience:
+
+        Participation in any other clinical study of an experimental drug treatment for COVID-19
+        within 6 half-lives of the experimental treatment.
+
+        Current participation or have participated in a study of an investigational agent or has
+        used an investigational device within 4 weeks prior to the first dose of study drug.
+
+        Note: Subjects participating in an observational study are an exception to this criterion
+        and may qualify for the study with Sponsor approval.
+
+        Note: Subjects who have entered the follow-up phase of an investigational study may
+        participate as long as it has been 4 weeks after the last dose of the previous
+        investigational agent.
+
+        - Other Exclusions:
+
+        Unable to swallow solid oral medication or known malabsorption disorder.
+
+        Subjects who have allergy to BLD-2660 or inactive components of BLD-2660.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 6, 2020</study_first_posted>
+  <last_update_submitted>April 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antiviral Agents</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

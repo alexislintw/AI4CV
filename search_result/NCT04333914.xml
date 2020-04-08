@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="85">
+<clinical_study rank="105">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04333914</url>
   </required_header>
@@ -44,7 +44,7 @@
            (randomization ratio 1:1:1).
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
+  <overall_status>Recruiting</overall_status>
   <start_date type="Anticipated">April 2020</start_date>
   <completion_date type="Anticipated">August 2020</completion_date>
   <primary_completion_date type="Anticipated">June 2020</primary_completion_date>
@@ -205,6 +205,9 @@ If for any reason a treatment is not given within the allowed treatment window (
     <intervention_name>Standard of care</intervention_name>
     <description>In cohorts 1 and 2, patients allocated in the standard of care arms should receive best supportive care, as per the investigator's discretion and the local routine practices. With regards to the respiratory symptoms and medical resoures at investigational site, the following should be given according to the patient's condition: oxygen supplementation, non-invasive ventilation, invasive ventilation, antibiotherapy, vasopressor support, renal replacement therapy, or extracorporeal membrane oxygenation.
 Additional care and medications should be administered in the patient's best interest.</description>
+    <arm_group_label>Anti-IL-6 (tocilizumab)</arm_group_label>
+    <arm_group_label>Anti-PD-1 (nivolumab)</arm_group_label>
+    <arm_group_label>Chloroquine analog (GNS651)</arm_group_label>
     <arm_group_label>Standard of care</arm_group_label>
   </intervention>
   <eligibility>
@@ -226,7 +229,9 @@ Additional care and medications should be administered in the patient's best int
         I5. Patient not eligible for a transfer to Resuscitation Unit (either due to underlying
         medical condition - including cancer - or due to lack of available bed).
 
-        I6. Adequate bone marrow and end-organ function defined by the following laboratory
+        I6. Life-expectancy longer than 3 months.
+
+        I7. Adequate bone marrow and end-organ function defined by the following laboratory
         results:
 
           -  Bone marrow:
@@ -247,15 +252,17 @@ Additional care and medications should be administered in the patient's best int
           -  Renal function:
 
                -  Serum creatinine ≤ 2.0 x ULN or Cr. Cl. ≥ 30ml/min/1.73m² (MDRD or CKD-EPI
-                  formula); I7. Willingness and ability to comply with the study requirements; I8.
+                  formula); I8. Willingness and ability to comply with the study requirements; I9.
                   Signed and dated informed consent indicating that the patient has been informed
-                  of all the aspects of the trial prior to enrolment ; I9. Women of childbearing
-                  potential (Appendix 2) are required to have a negative serum pregnancy test
-                  within 72 hours prior to study treatment start. A positive urine test must be
-                  confirmed by a serum pregnancy test; I10. Women of childbearing potential and
-                  male patients must agree to use adequate highly effective contraception (Appendix
-                  2) for the duration of study participation and up to 6 months following
-                  completion of therapy; I11. Patient must be covered by a medical insurance.
+                  of all the aspects of the trial prior to enrolment (in case of emergency
+                  situation, please refer to protocol section 13.1 PATIENT INFORMATION AND INFORMED
+                  CONSENT); I10. Women of childbearing potential (Appendix 2) are required to have
+                  a negative serum pregnancy test within 72 hours prior to study treatment start. A
+                  positive urine test must be confirmed by a serum pregnancy test; I11. Women of
+                  childbearing potential and male patients must agree to use adequate highly
+                  effective contraception (Appendix 2) for the duration of study participation and
+                  up to 6 months following completion of therapy; I12. Patient must be covered by a
+                  medical insurance.
 
         Exclusion Criteria:
 
@@ -350,6 +357,7 @@ Additional care and medications should be administered in the patient's best int
         <country>France</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <contact>
       <last_name>Philippe Cassier</last_name>
       <email>philippe.cassier@lyon.unicancer.fr</email>
@@ -361,10 +369,10 @@ Additional care and medications should be administered in the patient's best int
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 3, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 3, 2020</study_first_posted>
+  <last_update_submitted>April 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

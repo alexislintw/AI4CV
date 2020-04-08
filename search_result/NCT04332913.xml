@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="67">
+<clinical_study rank="82">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04332913</url>
   </required_header>
@@ -27,28 +27,28 @@
       current lack of effective and approved drugs for its treatment, poses the problem of Severe
       acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infected patients management,
       especially those who underwent to experience COVID-19 complications, such as CRS. This unmet
-      need becomes more severe if we consider that, the COVID-19 mortality stands around 2% in the
-      general population, but it rises to 49% when considering intensive care unit (ICU) patients.
-      To increase the chances of survival of these patients, the compassionate use of the available
-      drugs is required, based on literature data, to the best of our abilities. ICU patients with
-      cytokine release syndrome (CRS) secondary to COVID-19, show increased production of
-      pro-inflammatory cytokines, including interleukin (IL-6), IL-2, IL-7, IL-10, tumor necrosis
-      factor (TNF)-α and interferon (INF)γ, similar to that found in patients who develop CRS
-      secondary to Chimeric Antigen Receptor-T (CAR-T) therapy. Although immuno-modulatory therapy
-      is not routinely recommended in COVID-19 pneumonia, tocilizumab might have a rationale in
-      those who develop CRS, blocking the complications caused by high levels of IL-6, and possibly
-      preventing the development of a multi-organ failure. Reassuring data in this sense, come from
-      the first studies conducted in China. In a Chinese pilot study, Xiaoling Xu and collaborators
-      used tocilizumab (at a dosage of 400 mg iv in a single dose, with a possible second dose in
-      case of no clinical response) in patients with COVID-19 in the presence of one of the
-      following criteria: i) respiratory rate ≥ 30 acts/min; ii) SpO2 ≤ 93% in ambient air; iii)
-      PaO2/FiO2 ≤ 300 mmHg. In the 21 patients treated with tocilizumab a significant reduction in
-      IL-6 levels and fever, with improvement in lung function, was demonstrated. Besides, 90% of
-      treated patients showed an improvement in the radiological picture, in terms of a decrease in
-      the frosted glass areas, and a return to normal lymphocytes count in the peripheral blood.
-      This is a prospective observational clinical study and it is aimed at verifying tocilizumab
-      efficacy and safety in patients with COVID-19 complicated by acute distress respiratory
-      syndrome (ARDS) and CRS.
+      need becomes more severe if the investigator consider that, the COVID-19 mortality stands
+      around 2% in the general population, but it rises to 49% when considering intensive care unit
+      (ICU) patients. To increase the chances of survival of these patients, the compassionate use
+      of the available drugs is required, based on literature data, to the best of our abilities.
+      ICU patients with cytokine release syndrome (CRS) secondary to COVID-19, show increased
+      production of pro-inflammatory cytokines, including interleukin (IL-6), IL-2, IL-7, IL-10,
+      tumor necrosis factor (TNF)-α and interferon (INF)γ, similar to that found in patients who
+      develop CRS secondary to Chimeric Antigen Receptor-T (CAR-T) therapy. Although
+      immuno-modulatory therapy is not routinely recommended in COVID-19 pneumonia, tocilizumab
+      might have a rationale in those patients who develop CRS, blocking the complications caused
+      by high levels of IL-6, and possibly preventing the development of a multi-organ failure.
+      Reassuring data in this sense, come from the first studies conducted in China. In a Chinese
+      pilot study, Xiaoling Xu and collaborators used tocilizumab (at a dosage of 400 mg iv in a
+      single dose, with a possible second dose in case of no clinical response) in patients with
+      COVID-19 in the presence of one of the following criteria: i) respiratory rate ≥ 30 acts/min;
+      ii) SpO2 ≤ 93% in ambient air; iii) PaO2/FiO2 ≤ 300 mmHg. In the 21 patients treated with
+      tocilizumab a significant reduction in IL-6 levels and fever, with improvement in lung
+      function, was demonstrated. Besides, 90% of treated patients showed an improvement in the
+      radiological picture, in terms of a decrease in the frosted glass areas, and a return to
+      normal lymphocytes count in the peripheral blood. This is a prospective observational
+      clinical study and it is aimed at verifying tocilizumab efficacy and safety in patients with
+      COVID-19 complicated by acute distress respiratory syndrome (ARDS) and CRS.
     </textblock>
   </brief_summary>
   <overall_status>Not yet recruiting</overall_status>
@@ -129,11 +129,11 @@
     <description>(ST segments elevation or depression, T-wave changes)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Adverse events report</measure>
+    <measure>Rate of adverse events report during and after tocilizumab</measure>
     <time_frame>14 days</time_frame>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Mortality</measure>
+    <measure>Mortality (number of Partecipants, cause and timing)</measure>
     <time_frame>12 weeks</time_frame>
   </secondary_outcome>
   <secondary_outcome>
@@ -141,7 +141,7 @@
     <time_frame>1 year</time_frame>
   </secondary_outcome>
   <enrollment type="Anticipated">30</enrollment>
-  <condition>COVID-19 PNEUMONIA</condition>
+  <condition>COVID-19 Pneumonia</condition>
   <eligibility>
     <study_pop>
       <textblock>
@@ -280,20 +280,20 @@
   <results_reference>
     <citation>Gorbalenya AE, Baker SC, Baric RS, et al. Severe acute respiratory syndrome-related coronavirus: The species and its viruses - a statement of the Coronavirus Study Group. BioRxivchinaXiv:202003.00026v172020:2020.02.07.937862.</citation>
   </results_reference>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 26, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 3, 2020</study_first_posted>
+  <study_first_posted type="Actual">April 3, 2020</study_first_posted>
   <last_update_submitted>April 2, 2020</last_update_submitted>
   <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 3, 2020</last_update_posted>
+  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University of L'Aquila</investigator_affiliation>
     <investigator_full_name>Prof. Roberto Giacomelli</investigator_full_name>
     <investigator_title>Full Professor</investigator_title>
   </responsible_party>
-  <keyword>TOCILIZUMAB</keyword>
+  <keyword>Tocilizumab</keyword>
   <condition_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Pneumonia</mesh_term>

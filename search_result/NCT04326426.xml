@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="234">
+<clinical_study rank="290">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04326426</url>
   </required_header>
@@ -11,8 +11,8 @@
     <org_study_id>VLY-686-3501</org_study_id>
     <nct_id>NCT04326426</nct_id>
   </id_info>
-  <brief_title>COVIDL1: A Study to Investigate the Efficacy of Tradipitant in Treating Severe or Critical COVID-19 Infection</brief_title>
-  <official_title>COVIDL1: A Randomized, Double-blind, Placebo-controlled Study to Investigate the Efficacy of Tradipitant in Treating Inflammatory Lung Injury and Improving Clinical Outcomes Associated With Severe or Critical COVID-19 Infection</official_title>
+  <brief_title>ODYSSEY: A Study to Investigate the Efficacy of Tradipitant in Treating Severe or Critical COVID-19 Infection</brief_title>
+  <official_title>ODYSSEY: A Randomized, Double-blind, Placebo-controlled Study to Investigate the Efficacy of Tradipitant in Treating Inflammatory Lung Injury and Improving Clinical Outcomes Associated With Severe or Critical COVID-19 Infection</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Vanda Pharmaceuticals</agency>
@@ -149,13 +149,13 @@
     <phone>2027343400</phone>
     <email>vasilios.polymeropoulos@vandapharma.com</email>
   </overall_contact>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 26, 2020</study_first_submitted>
   <study_first_submitted_qc>March 27, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 30, 2020</study_first_posted>
-  <last_update_submitted>March 27, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 27, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 30, 2020</last_update_posted>
+  <last_update_submitted>April 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

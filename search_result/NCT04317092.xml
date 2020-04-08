@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="18">
+<clinical_study rank="21">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04317092</url>
   </required_header>
@@ -38,12 +38,23 @@
       Phase 2 study: this is a multicenter, single-arm, open-label, phase 2 study. All the patients
       enrolled are treated with tocilizumab. One-month mortality rate is the primary endpoint.
 
-      Observational cohort study: patients who are not eligible for the phase 2 study because: (a)
-      emergency conditions or infrastructural or operational limits prevented registration before
-      the administration of the experimental drug or (b) they had been intubated more than 48 hours
-      before registration. The same information planned for the phase 2 cohort is in principle
-      required also for the observational cohort study. The sample size of the observational study
-      is not defined a priori and the cohort will close at the end of the overall project.
+      Observational cohort: patients who are treated with tocilizumab and cannot enter the phase 2
+      study because:
+
+        1. emergency conditions or infrastructural or operational limits prevented registration
+           before the administration of the experimental drug or
+
+        2. they had been intubated more than 24 hours before registration or
+
+        3. the phase 2 study has been closed due to reached sample size.
+
+      This means that, after closure of the phase 2 enrolment, patients who might be eligible for
+      the phase 2 study will be included in the observational cohort study.
+
+      The same information planned for the phase 2 cohort is in principle required also for the
+      observational cohort study. The sample size of the observational study is not defined a
+      priori, and the cohort will close at the end of the overall project. All the patients
+      enrolled are treated with tocilizumab.
 
       In both study groups (phase 2 and observational study), participants will receive two doses
       of Tocilizumab 8 mg/kg (up to a maximum of 800mg per dose), with an interval of 12 hours.
@@ -128,7 +139,7 @@
     <description>time to independence from oxygen therapy in days</description>
   </secondary_outcome>
   <number_of_arms>1</number_of_arms>
-  <enrollment type="Anticipated">330</enrollment>
+  <enrollment type="Anticipated">400</enrollment>
   <condition>COVID-19 Pneumonia</condition>
   <arm_group>
     <arm_group_label>tocilizumab treatment</arm_group_label>
@@ -150,40 +161,37 @@
 
           2. No age limit
 
-          3. Informed consent for participation in the study
+          3. Informed consent for participation in the study (consent can be oral if a written
+             consent cannot be expressed. If the subject is incapable of giving an informed consent
+             and an authorized representative is not available without a delay that would, in the
+             opinion of the Investigator, compromise the potential life-saving effect of the
+             treatment this can be administered without consent. Consent to remain in the research
+             should be sought as soon the conditions of the patient will allow it)
 
-          4. Virological diagnosis of Sars-CoV2 infection (PCR)
+          4. Virological diagnosis of SARS-CoV-2 infection (real-time PCR)
 
           5. Hospitalized due to clinical/instrumental diagnosis of pneumonia
 
-          6. Oxygen saturation at rest in ambient air ≤93% (valid for not intubated patients and
-             for both phase 2 and observational cohort)
+          6. Oxygen saturation at rest in ambient air ≤93% or requiring oxygen therapy or
+             mechanical ventilation either non invasive or invasive (intubated)
 
-          7. Intubated less than 24 hours before registration (eligible for phase 2 only -
-             criterium #6 does not apply in this case)
-
-          8. Intubated more than 24 hours before registration (eligible for observational cohort
-             only - criterium #6 does not apply in this case)
-
-          9. Patients already treated with tocilizumab before registration are eligible for
-             observational cohort only if one criterium among #6, #7, #8 is valid
+          7. Patients with criteria #4 and #5 who have been already treated with tocilizumab before
+             registration are eligible for the observational retrospective cohort
 
         Exclusion Criteria:
 
           1. Known hypersensitivity to tocilizumab or its excipients
 
-          2. Patient being treated with immunomodulators or anti-rejection drugs
-
-          3. Known active infections or other clinical condition that controindicate tocilizumab
+          2. Known active infections or other clinical condition that contraindicate tocilizumab
              and cannot be treated or solved according to the judgement of the clinician
 
-          4. ALT / AST&gt; 5 times the upper limit of the normality
+          3. ALT / AST&gt; 5 times the upper limit of the normality
 
-          5. Neutrophils &lt;500 / mmc
+          4. Neutrophils &lt;500 / mmc
 
-          6. Platelets &lt;50.000 / mmc
+          5. Platelets &lt;50.000 / mmc
 
-          7. Bowel diverticulitis or perforation
+          6. Bowel diverticulitis or perforation
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -735,9 +743,9 @@
   <study_first_submitted>March 19, 2020</study_first_submitted>
   <study_first_submitted_qc>March 19, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 20, 2020</study_first_posted>
-  <last_update_submitted>March 19, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 19, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 20, 2020</last_update_posted>
+  <last_update_submitted>April 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

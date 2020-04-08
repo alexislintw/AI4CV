@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="22">
+<clinical_study rank="26">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 03, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04315298</url>
   </required_header>
@@ -34,18 +34,19 @@
       Phase 2:
 
       The primary objective of the study is to evaluate the clinical efficacy of sarilumab relative
-      to the control arm in adult patients hospitalized with severe COVID-19.
+      to the control arm in adult patients hospitalized with COVID-19 regardless of severity
+      strata.
 
       Phase 3:
 
       The primary objective of the study is to evaluate the clinical efficacy of sarilumab relative
-      to the control arm in adult patients hospitalized with severe or critical COVID-19.
+      to the control arm in adult patients hospitalized with COVID-19 (severe and critical).
     </textblock>
   </brief_summary>
   <overall_status>Recruiting</overall_status>
-  <start_date type="Actual">March 16, 2020</start_date>
-  <completion_date type="Anticipated">March 16, 2021</completion_date>
-  <primary_completion_date type="Anticipated">March 16, 2021</primary_completion_date>
+  <start_date type="Actual">March 18, 2020</start_date>
+  <completion_date type="Anticipated">April 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 9, 2021</primary_completion_date>
   <phase>Phase 2/Phase 3</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
@@ -56,108 +57,94 @@
     <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
   </study_design_info>
   <primary_outcome>
-    <measure>Time to resolution of fever for at least 48 hours without antipyretics for 48 hours</measure>
-    <time_frame>Up to day 29</time_frame>
-    <description>Phase 2
-Defined as ≤36.6°C (axilla), ≤37.2°C (oral) or ≤37.8°C (rectal or tympanic)</description>
+    <measure>Percent change in C-reactive protein (CRP) levels</measure>
+    <time_frame>Day 4</time_frame>
+    <description>Phase 2 Only</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Percentage of patients reporting each severity rating on a 6-point ordinal scale</measure>
-    <time_frame>Day 15</time_frame>
-    <description>Phase 3
-6-point Ordinal Scale:
-Death
-Hospitalized, on invasive mechanical ventilation or ECMO;
-Hospitalized, on non-invasive ventilation or high flow oxygen devices;
-Hospitalized, requiring supplemental oxygen
-Hospitalized, not requiring supplemental oxygen
+    <measure>Time to improvement (2 points) in clinical status assessment using the 7-point ordinal scale in patients with serum IL-6 levels greater than the upper limit of normal</measure>
+    <time_frame>Up to day 29</time_frame>
+    <description>Phase 3 Only
+7-point Ordinal Scale:
+Death;
+Hospitalized, requiring invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO);
+Hospitalized, requiring non-invasive ventilation or high flow oxygen devices;
+Hospitalized, requiring supplemental oxygen;
+Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise)
+Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care
 Not hospitalized</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>Time to improvement in oxygenation for at least 48 hours</measure>
+    <measure>Time to improvement (2 points) in clinical status assessment on the 7-point ordinal scale in severe or critical patients with serum IL-6 levels greater than the upper limit of normal</measure>
     <time_frame>Up to day 29</time_frame>
-    <description>Increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2</description>
+    <description>Phase 2 Only</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Mean change in the 6-point ordinal scale</measure>
+    <measure>Time to improvement (2 points) in clinical status assessment on the 7-point ordinal scale reporting in severe or critical patients with all IL-6 levels</measure>
     <time_frame>Up to day 29</time_frame>
-    <description>6-point Ordinal Scale:
-Death
-Hospitalized, on invasive mechanical ventilation or ECMO;
-Hospitalized, on non-invasive ventilation or high flow oxygen devices;
-Hospitalized, requiring supplemental oxygen
-Hospitalized, not requiring supplemental oxygen
-Not hospitalized</description>
+    <description>Phase 2 Only</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Clinical status using the 6-point ordinal scale</measure>
+    <measure>Time to resolution of fever for at least 48 hours without antipyretics in patients with documented fever</measure>
     <time_frame>Up to day 29</time_frame>
-    <description>6-point Ordinal Scale:
-Death
-Hospitalized, on invasive mechanical ventilation or ECMO;
-Hospitalized, on non-invasive ventilation or high flow oxygen devices;
-Hospitalized, requiring supplemental oxygen
-Hospitalized, not requiring supplemental oxygen
-Not hospitalized</description>
-  </secondary_outcome>
-  <secondary_outcome>
-    <measure>Time to improvement in one category from admission using the 6-point ordinal scale</measure>
-    <time_frame>Up to day 29</time_frame>
-    <description>6-point Ordinal Scale:
-Death
-Hospitalized, on invasive mechanical ventilation or ECMO;
-Hospitalized, on non-invasive ventilation or high flow oxygen devices;
-Hospitalized, requiring supplemental oxygen
-Hospitalized, not requiring supplemental oxygen
-Not hospitalized</description>
+    <description>Resolution of fever defined as postbaseline body temperature &lt;37.2°C (oral), or &lt;37.6°C (rectal or tympanic) or &lt;36.8°C (temporal or axillary)
+Documented fever defined as ≥38°C (oral), ≥38.4°C (rectal or tympanic), or ≥37.6°C (temporal or axillary)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Time to resolution of fever for at least 48 hours without antipyretics by clinical severity</measure>
     <time_frame>Up to day 29</time_frame>
-    <description>Defined as ≤36.6°C (axilla), ≤37.2°C (oral) or ≤37.8°C (rectal or tympanic)</description>
+    <description>Defined as postbaseline body temperature &lt;37.2°C (oral), or &lt;37.6°C (rectal or tympanic) or &lt;36.8°C (temporal or axillary)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Time to resolution of fever for at least 48 hours without antipyretics by baseline IL-6 levels</measure>
     <time_frame>Up to day 29</time_frame>
-    <description>Defined as ≤36.6°C (axilla), ≤37.2°C (oral) or ≤37.8°C (rectal or tympanic)</description>
+    <description>Defined as postbaseline body temperature &lt;37.2°C (oral), or &lt;37.6°C (rectal or tympanic) or &lt;36.8°C (temporal or axillary)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to improvement in oxygenation for at least 48 hours</measure>
+    <time_frame>Up to day 29</time_frame>
+    <description>Improvement in oxygenation defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Time to improvement in oxygenation for at least 48 hours by clinical severity</measure>
     <time_frame>Up to day 29</time_frame>
-    <description>Increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2</description>
+    <description>Defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Time to improvement in oxygenation for at least 48 hours by baseline IL-6 levels</measure>
     <time_frame>Up to day 29</time_frame>
-    <description>Increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2</description>
+    <description>Defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Time to resolution of fever and improvement in oxygenation for at least 48 hours</measure>
     <time_frame>Up to day 29</time_frame>
-    <description>Resolution of fever defined as ≤36.6°C (axilla), ≤37.2°C (oral) or ≤37.8°C (rectal or tympanic) Improvement in oxygenation defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2</description>
+    <description>Resolution of fever defined as postbaseline body temperature &lt;37.2°C (oral), or &lt;37.6°C (rectal or tympanic) or &lt;36.8°C (temporal or axillary)
+Improvement in oxygenation defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Time to change in National Early Warning Score 2 (NEWS2) scoring system</measure>
+    <measure>Mean change in the 7-point ordinal scale</measure>
     <time_frame>Up to day 29</time_frame>
-    <description>NEWS2 consists of: Physiological Parameters: Respiration rate (per minute), SpO2 Scale 1 (%), SpO2 Scale 2 (%), Use of air or oxygen, Systolic blood pressure (mmHg), Pulse (per minute), Consciousness, Temperature (°C)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Time to score of &lt;2 maintained for 24 hours in NEWS2 scoring system</measure>
+    <measure>Percentage of patients in each clinical status category using the 7-point ordinal scale</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to discharge or to a National Early Warning Score 2 (NEWS2) of ≤2 and maintained for 24 hours</measure>
     <time_frame>Up to day 29</time_frame>
     <description>NEWS2 consists of: Physiological Parameters: Respiration rate (per minute), SpO2 Scale 1 (%), SpO2 Scale 2 (%), Use of Air or oxygen, Systolic blood pressure (mmHg), Pulse (per minute), Consciousness, Temperature (°C)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Mean change in NEWS2 scoring system</measure>
+    <measure>Change from baseline in NEWS2 scoring system</measure>
     <time_frame>Up to day 29</time_frame>
-    <description>NEWS2 consists of: Physiological Parameters: Respiration rate (per minute), SpO2 Scale 1 (%), SpO2 Scale 2 (%), Use of air or oxygen, Systolic blood pressure (mmHg), Pulse (per minute), Consciousness, Temperature (°C)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Number of days with fever</measure>
     <time_frame>Up to day 29</time_frame>
-    <description>Defined as &gt;36.6°C (axilla), &gt;37.2°C (oral) or &gt;37.8°C (rectal or tympanic)</description>
+    <description>Defined as ≥38°C (oral), ≥38.4°C (rectal or tympanic) or ≥37.6°C (temporal or axillary)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Number of patients alive off oxygen</measure>
+    <measure>Proportion of patients alive, off oxygen</measure>
     <time_frame>Day 29</time_frame>
   </secondary_outcome>
   <secondary_outcome>
@@ -205,16 +192,25 @@ Not hospitalized</description>
     <time_frame>Up to day 60</time_frame>
   </secondary_outcome>
   <secondary_outcome>
+    <measure>Change in serum CRP levels</measure>
+    <time_frame>Up to day 29</time_frame>
+    <description>Phase 3 Only</description>
+  </secondary_outcome>
+  <secondary_outcome>
     <measure>Incidence of serious adverse events</measure>
-    <time_frame>Up to day 60</time_frame>
+    <time_frame>Up to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Grade 4 neutropenia (ANC &lt;500/mm3)</measure>
+    <time_frame>Up to day 29</time_frame>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Incidence of severe or life-threatening bacterial, invasive fungal, or opportunistic infection</measure>
     <time_frame>Up to day 29</time_frame>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Incidence of severe or life-threatening bacterial, invasive fungal, or opportunistic infection in patients with grade 4 neutropenia</measure>
-    <time_frame>Up to day 60</time_frame>
+    <measure>Incidence of severe or life-threatening bacterial, invasive fungal, or opportunistic infection in patients with Grade 4 neutropenia</measure>
+    <time_frame>Up to day 29</time_frame>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Incidence of hypersensitivity reactions</measure>
@@ -226,7 +222,7 @@ Not hospitalized</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Incidence of gastrointestinal perforation</measure>
-    <time_frame>Up to day 60</time_frame>
+    <time_frame>Up to day 29</time_frame>
   </secondary_outcome>
   <secondary_outcome>
     <measure>White blood cell count</measure>
@@ -249,11 +245,11 @@ Not hospitalized</description>
     <time_frame>Up to day 29 if still hospitalized</time_frame>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Alanine aminotransferase level</measure>
+    <measure>Alanine aminotransferase (ALT) level</measure>
     <time_frame>Up to day 29 if still hospitalized</time_frame>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Aspartate aminotransferase level</measure>
+    <measure>Aspartate aminotransferase (AST) level</measure>
     <time_frame>Up to day 29 if still hospitalized</time_frame>
   </secondary_outcome>
   <number_of_arms>3</number_of_arms>
@@ -293,10 +289,13 @@ Not hospitalized</description>
         Key Inclusion Criteria:
 
           -  Laboratory-confirmed SARS-CoV-2 infection as determined by polymerase chain reaction
-             (PCR) or other commercial or public health assay
+             (PCR), result from any specimen (or other commercial or public health assay) within 2
+             weeks prior to randomization and no alternative explanation for current clinical
+             condition
 
           -  Hospitalized with illness of any duration with evidence of pneumonia and severe
-             disease, critical disease, or multi-system organ dysfunction at baseline
+             disease, critical disease, multi-system organ dysfunction or immunocompromised at
+             baseline
 
           -  Ability to provide informed consent signed by study patient or legally acceptable
              representative
@@ -305,7 +304,8 @@ Not hospitalized</description>
 
         Key Exclusion Criteria:
 
-          -  In the opinion of the investigator, unlikely to survive for &gt;48 hours from screening
+          -  In the opinion of the investigator, not expected to survive for more than 48 hours
+             from screening
 
           -  Presence of any of the following abnormal laboratory values at screening: absolute
              neutrophil count (ANC) less than 2000 mm3, aspartate aminotransferase (AST) or alanine
@@ -315,14 +315,7 @@ Not hospitalized</description>
           -  Treatment with anti-IL 6, anti-IL-6R antagonists, or with Janus kinase inhibitors
              (JAKi) in the past 30 days or plans to receive during the study period
 
-          -  Current treatment with conventional synthetic disease-modifying antirheumatic drugs
-             (DMARDs)/immunosuppressive agents
-
-          -  Use of chronic oral corticosteroids for a non-COVID-19-related condition in a dose
-             higher than prednisone 10 mg or equivalent per day
-
-          -  History of, or current autoimmune or inflammatory systemic or localized disease(s)
-             other than rheumatoid arthritis
+          -  Current treatment with the simultaneous combination of leflunomide and methotrexate
 
           -  Known active tuberculosis (TB), history of incompletely treated TB, suspected or known
              extrapulmonary TB, suspected or known systemic bacterial or fungal infections
@@ -331,14 +324,18 @@ Not hospitalized</description>
              months, including intravenous immunoglobulin or plans to receive during the study
              period
 
-          -  Participation in any clinical research study evaluating an investigational product
-             (IP) or therapy within 3 months and less than 5 half-lives of IP prior to the
-             screening visit (The use of remdisivir in the context of a single-arm remdisivir
-             compassionate use protocol is permitted)
+          -  Participation in a double-blind clinical research study evaluating an investigational
+             product (IP) or therapy within 3 months and less than 5 half-lives of IP prior to the
+             screening visit (The use of remdesivir, hydroxychloroquine, or other treatments being
+             used for COVID-19 treatments in the context of an open-label study or compassionate
+             use protocol is permitted)
 
-          -  Any physical examination findings and/or history of any illness that, in the opinion
-             of the study investigator, might confound the results of the study or pose an
-             additional risk to the patient by their participation in the study
+          -  Any physical examination findings, and/or history of any illness, concomitant
+             medications or recent live vaccines that, in the opinion of the study investigator,
+             might confound the results of the study or pose an additional risk to the patient by
+             their participation in the study
+
+          -  Known systemic hypersensitivity to sarilumab or the excipients of the drug product
 
         NOTE: Other protocol defined inclusion / exclusion criteria may apply
       </textblock>
@@ -368,19 +365,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
-  </location>
-  <location>
-    <facility>
-      <name>Regeneron Study Site</name>
-      <address>
-        <city>Palo Alto</city>
-        <state>California</state>
-        <zip>94304</zip>
-        <country>United States</country>
-      </address>
-    </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -440,7 +425,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -452,7 +437,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -464,7 +449,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -488,7 +473,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -512,7 +497,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -537,6 +522,30 @@ Not hospitalized</description>
       </address>
     </facility>
     <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -572,7 +581,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -644,7 +653,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -668,7 +677,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -680,7 +689,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -692,7 +701,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -704,7 +713,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -896,7 +905,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -909,6 +918,18 @@ Not hospitalized</description>
       </address>
     </facility>
     <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10075</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -929,6 +950,18 @@ Not hospitalized</description>
         <city>Valhalla</city>
         <state>New York</state>
         <zip>10595</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74104</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -962,9 +995,45 @@ Not hospitalized</description>
     <facility>
       <name>Regeneron Study Site</name>
       <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
         <city>Philadelphia</city>
         <state>Pennsylvania</state>
         <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Scranton</city>
+        <state>Pennsylvania</state>
+        <zip>18510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Wilkes-Barre</city>
+        <state>Pennsylvania</state>
+        <zip>18711</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -1004,7 +1073,7 @@ Not hospitalized</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -1045,13 +1114,13 @@ Not hospitalized</description>
   <location_countries>
     <country>United States</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 15, 2020</study_first_submitted>
   <study_first_submitted_qc>March 17, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 19, 2020</study_first_posted>
-  <last_update_submitted>March 26, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 26, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 30, 2020</last_update_posted>
+  <last_update_submitted>April 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
