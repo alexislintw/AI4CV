@@ -1,0 +1,10 @@
+[5, 'associated with covid-19', 'covid19 = yes']
+[16, 'with covid-19', 'covid19 = yes']
+[21, 'covid-19 infection', 'feature = covid19']
+[30, 'infection', 'feature = infection']
+[90, 'mechanical ventilation', 'feature = mechanical ventilation']
+[142, 'patient is', 'value = yes']
+
+[9, 'evidence of', 'value = yes']
+[53, 'gastrointestinal', 'feature = digestive']
+

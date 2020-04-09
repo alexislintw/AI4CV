@@ -1,0 +1,18 @@
+[19, 'diagnosed with covid-19', 'covid19 = yes']
+[29, 'with covid-19', 'covid19 = yes']
+[34, 'covid-19', 'covid19 = yes']
+[55, '48 hours', 'time = 48 hours']
+[64, 'asymptomatic', 'feature = asymptomatic']
+
+[8, 'lung disease', 'feature = lung disease']
+[54, 'requiring', 'value = yes']
+[70, 'continuous', 'value = yes']
+[81, 'positive', 'value = yes']
+[106, 'retinal disease', 'feature = retinal disease']
+[149, 'immunodeficiency', 'feature = hiv']
+[155, 'deficiency', 'feature = deficiency']
+[227, 'treatment with', 'value = yes']
+[303, 'ventricular', 'feature = ventricular']
+[315, 'arrhythmias', 'feature = arrhythmias']
+[327, 'heart failure', 'feature = heart failure']
+

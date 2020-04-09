@@ -1,0 +1,15 @@
+[10, 'covid-19 infection', 'feature = covid19']
+[19, 'infection', 'feature = infection']
+[60, 'coronary disease', 'feature = heart disease']
+[80, 'hypertension', 'feature = hypertension']
+[133, 'clinical man', 'connector']
+
+[6, 'evidence of', 'value = yes']
+[48, 'treatment', 'connector']
+[95, 'bleeding', 'feature = bleeding']
+[138, 'history of', 'value = yes | time = before']
+[211, 'evidence of', 'value = yes']
+[233, 'treatment', 'connector']
+[333, 'life expectancy', 'feature = survival time']
+[359, 'pregnancy', 'feature = pregnant']
+

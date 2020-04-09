@@ -1,0 +1,17 @@
+[2, '2019-ncov', 'feature = covid19']
+[12, 'nucleic acid', 'modifier = nucleic acid']
+[34, 'positive', 'value = yes']
+[73, 'the manifestation of', 'connector']
+[77, 'manifestation', 'connector']
+[91, 'of viral pneumonia', 'viral pneumonia = yes']
+[94, 'viral pneumonia', 'feature = viral pneumonia']
+[100, 'pneumonia', 'feature = pneumonia']
+
+[29, 'contraindications', 'feature = contraindication']
+[35, 'indication', 'connector']
+[72, 'labeling patients', 'connector']
+[81, 'patients who', 'value = yes']
+[106, 'to participate in this clinical', 'compliant = yes']
+[109, 'participate', 'compliant = yes']
+[129, 'clinical study', 'connector']
+

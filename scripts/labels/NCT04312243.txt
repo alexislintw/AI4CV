@@ -1,0 +1,10 @@
+[6, '18 years', 'value = 18 years old']
+[49, 'infected patient', 'infection = yes']
+[58, 'patients', 'connector']
+[67, 'for at least', 'predicate = >=']
+
+[20, 'sars-cov-2', 'feature = covid19']
+[31, 'infections', 'feature = infection']
+[66, 'sars-cov-2', 'feature = covid19']
+[89, 'pregnancy', 'feature = pregnant']
+

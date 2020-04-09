@@ -1,0 +1,9 @@
+[6, '18 years', 'value = 18 years old']
+[15, 'healthcare', 'connector']
+[72, 'healthcare', 'connector']
+[120, 'covid-19', 'covid19 = yes']
+[152, 'exposure to', 'value = yes']
+[164, 'patients with', 'value = yes']
+[189, 'infection', 'feature = infection']
+
+

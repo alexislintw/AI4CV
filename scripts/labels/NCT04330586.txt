@@ -1,0 +1,14 @@
+[19, 'covid-19', 'covid19 = yes']
+[60, 'within days', 'predicate = within days']
+[123, 'laboratory', 'modifier = laboratory']
+
+[20, 'medication', 'feature = drug']
+[53, 'pregnancy or breast', 'pregnant = yes | breastfeeding = yes']
+[63, 'or breast feeding', 'breastfeeding = yes']
+[100, 'conditions', 'value = yes']
+[120, 'severe renal dysfunction', 'modifier = severe | feature =  kidney failure']
+[127, 'renal dysfunction', 'feature =  kidney disease']
+[145, 'creatinine clearance', 'feature = creatine']
+[268, 'obstructive', 'modifier = obstructive']
+[280, 'lung disease', 'feature = lung disease']
+

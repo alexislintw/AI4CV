@@ -1,0 +1,5 @@
+[18, 'positive', 'value = yes']
+
+[4, 'pregnant', 'feature = pregnant']
+[18, 'lung disease', 'feature = lung disease']
+

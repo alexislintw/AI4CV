@@ -1,0 +1,13 @@
+[9, 'infected patient', 'infection = yes']
+[30, '18 years', 'value = 18 years old']
+[57, 'of pneumonia', 'pneumonia = yes']
+[60, 'pneumonia', 'feature = pneumonia']
+[70, 'pao2/fio2', 'feature = pao2/fio2']
+[149, 'administration', 'connector']
+[173, 'to maintain', 'compliant = yes']
+[216, 'infiltrates', 'feature = infiltration']
+
+[37, 'pregnancy', 'feature = pregnant']
+[83, 'intolerance', 'value = no']
+[95, 'severe renal', 'modifier = severe | modifier = kidney']
+

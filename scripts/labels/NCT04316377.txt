@@ -1,0 +1,11 @@
+[88, 'positive', 'value = yes']
+[97, 'nasopharyngeal', 'modifier = nasopharyngeal']
+[117, 'signed informed consent', 'compliant = yes']
+[124, 'informed consent', 'compliant = yes']
+[162, 'documented', 'value = yes']
+
+[24, 'at screening', 'value = yes']
+[27, 'screening', 'connector']
+[37, 'history of', 'value = yes | time = before']
+[90, 'impairment', 'feature = impairment']
+

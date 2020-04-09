@@ -1,0 +1,10 @@
+[16, 'confirmed covid-19', 'covid19 = yes']
+[26, 'covid-19 infection', 'feature = covid19']
+[35, 'infection', 'feature = infection']
+
+[17, 'infection', 'feature = infection']
+[27, 'concomitant', 'feature = concomitant treatment']
+[39, 'enrollment', 'compliant = yes']
+[50, 'in another', 'value = yes']
+[84, 'immunosuppressive', 'feature = immunosuppressive']
+

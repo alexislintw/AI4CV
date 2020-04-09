@@ -1,0 +1,8 @@
+[29, '18 years', 'value = 18 years old']
+[99, 'for at least', 'predicate = >=']
+
+[28, 'prior history of', 'time = before']
+[34, 'history of', 'value = yes | time = before']
+[59, 'viral pneumonia', 'feature = viral pneumonia']
+[65, 'pneumonia', 'feature = pneumonia']
+

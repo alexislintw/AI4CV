@@ -1,0 +1,13 @@
+[15, 'covid-19', 'covid19 = yes']
+
+[20, 'medication', 'feature = drug']
+[31, 'pregnancy or breast', 'pregnant = yes | breastfeeding = yes']
+[41, 'or breast feeding', 'breastfeeding = yes']
+[59, 'immunocompromised patients', 'immune difficiency = yes']
+[77, 'patients', 'connector']
+[86, 'creatinine clearance', 'feature = creatine']
+[131, 'transaminase', 'feature = transminase']
+[159, 'transaminase', 'feature = transminase']
+[176, 'times upper limit', 'unit = times upper limit']
+[182, 'upper limit', 'value = upper limit']
+

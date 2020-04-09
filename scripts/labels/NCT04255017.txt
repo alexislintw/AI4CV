@@ -1,0 +1,16 @@
+[10, 'nucleic acid', 'modifier = nucleic acid']
+[32, 'positive', 'value = yes']
+[69, 'the manifestation of', 'connector']
+[73, 'manifestation', 'connector']
+[87, 'of viral pneumonia', 'viral pneumonia = yes']
+[90, 'viral pneumonia', 'feature = viral pneumonia']
+[96, 'pneumonia', 'feature = pneumonia']
+
+[29, 'contraindications', 'feature = contraindication']
+[35, 'indication', 'connector']
+[72, 'labeling patients', 'connector']
+[81, 'patients who', 'value = yes']
+[106, 'to participate in this clinical', 'compliant = yes']
+[109, 'participate', 'compliant = yes']
+[129, 'clinical study', 'connector']
+

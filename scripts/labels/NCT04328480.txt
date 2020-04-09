@@ -1,0 +1,18 @@
+[5, 'definition', 'value = yes']
+[33, 'age >=18 years', 'age >= 18 years old']
+[39, '18 years', 'value = 18 years old']
+[48, 'covid-19', 'covid19 = yes']
+[72, 'admitted to', 'value = yes']
+[81, 'to hospital', 'connector']
+[145, 'the time of', 'feature = time']
+[157, 'randomization', 'compliant = yes']
+[187, 'acute respiratory', 'modifier = acute respiratory']
+[193, 'respiratory', 'modifier = respiratory']
+[274, 'pneumonia', 'feature = pneumonia']
+
+[13, 'patients with known', 'value = yes']
+[64, 'indication', 'connector']
+[78, 'contraindication', 'feature = contraindication']
+[84, 'indication', 'connector']
+[121, 'pregnant or breastfeeding', 'pregnant = yes | breastfeeding = yes']
+

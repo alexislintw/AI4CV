@@ -1,0 +1,12 @@
+[4, '>= 18 years', 'age >= 18 years old']
+[7, '18 years of age', 'age = 18 years old']
+[23, 'informed consent', 'compliant = yes']
+[40, 'covid-19', 'covid19 = yes']
+[49, 'confirmed by', 'value = yes']
+
+[6, 'glucose-6-phosphate dehydrogenase', 'feature = g6pd']
+[45, 'deficiency', 'feature = deficiency']
+[63, 'indication', 'connector']
+[92, 'azithromycin', 'feature = azithromycin']
+[138, 'azithromycin', 'feature = azithromycin']
+

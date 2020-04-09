@@ -1,0 +1,7 @@
+
+[65, 'diagnosis of', 'value = yes']
+[84, 'infection', 'feature = infection']
+[112, 'condition', 'value = yes']
+[156, 'medication', 'feature = drug']
+[229, 'organ failure', 'feature = organ failure']
+

@@ -1,0 +1,8 @@
+[9, 'diagnosis of', 'value = yes']
+[19, 'of covid-19', 'covid19 = yes']
+[22, 'covid-19', 'covid19 = yes']
+
+[9, 'history of al', 'time = before']
+[20, 'allergy to', 'feature = allergic']
+[43, 'pregnancy', 'feature = pregnant']
+

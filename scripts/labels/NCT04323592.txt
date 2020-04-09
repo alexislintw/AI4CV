@@ -1,0 +1,18 @@
+[11, 'positive', 'value = yes']
+[60, 'bilateral pneumonia', 'feature = bilateral pneumonia']
+[70, 'pneumonia', 'feature = pneumonia']
+[80, 'infiltrates', 'feature = infiltration']
+[153, 'criteria', 'connector']
+[162, 'diagnosis of', 'value = yes']
+[180, 'according to the', 'value = yes']
+[204, 'definition', 'value = yes']
+
+[44, 'respiratory', 'modifier = respiratory']
+[101, 'organ transplant', 'feature = organ transplant']
+[107, 'transplantation', 'feature = transplantation']
+[162, 'idiopathic pulmonary', 'modifier = idiopathic | modifier = lung']
+[173, 'pulmonary', 'modifier = lung']
+[269, 'treatment', 'connector']
+[295, 'corticosteroids', 'feature = corticosteroids']
+[330, 'pregnancy', 'feature = pregnant']
+

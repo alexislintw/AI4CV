@@ -1,0 +1,18 @@
+[12, 'confirmed', 'value = yes']
+[22, 'infection by', 'infection = yes']
+[66, 'defined by', 'value = yes']
+[88, 'criteria', 'connector']
+[97, 'pao2/fio2', 'feature = pao2/fio2']
+[196, 'randomization', 'compliant = yes']
+
+[36, 'history of', 'value = yes | time = before']
+[82, 'corticosteroids', 'feature = corticosteroids']
+[98, 'in the past', 'time = before']
+[151, 'indication', 'connector']
+[165, 'corticosteroids', 'feature = corticosteroids']
+[188, 'any other', 'value = yes']
+[198, 'clinical', 'connector']
+[207, 'indication', 'connector']
+[222, 'corticosteroids', 'feature = corticosteroids']
+[238, 'patient', 'connector']
+

@@ -1,0 +1,9 @@
+[14, 'diagnosed covid-19', 'covid19 = yes']
+[24, 'covid-19', 'covid19 = yes']
+[156, 'pneumonia', 'feature = pneumonia']
+[169, 'chest imaging', 'feature = xray']
+[183, 'informed consent', 'compliant = yes']
+
+[115, 'infection', 'feature = infection']
+[183, 'tuberculosis', 'feature = tuberculosis']
+

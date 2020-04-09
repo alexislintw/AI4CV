@@ -1,0 +1,17 @@
+[4, '18 years old', 'age = 18 years old']
+[7, 'years old', 'unit = years old']
+[38, '48 hours', 'time = 48 hours']
+[57, 'viral pneumonia', 'feature = viral pneumonia']
+[63, 'pneumonia', 'feature = pneumonia']
+[111, '24 hours', 'time = 24 hours']
+[120, 'confirmed', 'value = yes']
+[140, 'suspected covid-19', 'covid19 = suspected']
+[150, 'covid-19', 'covid19 = yes']
+
+[132, 'pregnant women', 'gender = women | pregnant = yes']
+[141, 'women', 'gender= women']
+[147, 'immunocompromised patients', 'immune difficiency = yes']
+[165, 'patients', 'connector']
+[207, 'any other', 'value = yes']
+[217, 'intervention', 'connector']
+

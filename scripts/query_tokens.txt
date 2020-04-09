@@ -1,0 +1,24 @@
+Fever
+cough
+conjunctivitis
+diarrhoea
+shortness of breath
+White blood cell
+Neutrophil
+Lymphocyte
+Haemoglobin
+Platelet
+Prothrombin time
+Albumin
+Creatinine kinase
+Alanine aminotransferase
+Aspartate aminotransferase
+Total bilirubin
+Sodium
+Potassium
+Urea
+Creatinine
+C-reactive protein
+Lactate
+Chest x-ray
+Bilateral pneumonia

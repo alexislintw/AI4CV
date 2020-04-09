@@ -1,0 +1,14 @@
+[51, 'within the', 'predicate = within']
+[109, 'willing and able to', 'value = yes']
+[137, 'study drug', 'feature = study drug']
+[156, 'willing and able to', 'value = yes']
+[304, '18 years old', 'age = 18 years old']
+[307, 'years old', 'unit = years old']
+[322, 'the time of', 'feature = time']
+[334, 'enrollment', 'connector']
+[358, 'informed consent', 'compliant = yes']
+
+[33, 'sars-cov-2', 'feature = covid19']
+[44, 'positive', 'value = yes']
+[89, 'study drug', 'feature = study drug']
+

@@ -1,0 +1,8 @@
+
+[9, 'women', 'gender= women']
+[16, 'severe chronic', 'modifier = severe chronic']
+[31, 'diseases', 'feature = disease']
+[55, 'to participate', 'compliant = yes']
+[58, 'participate', 'compliant = yes']
+[124, 'respiratory', 'modifier = respiratory']
+

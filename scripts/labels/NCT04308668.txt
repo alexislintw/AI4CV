@@ -1,0 +1,18 @@
+[13, 'informed consent', 'compliant = yes']
+[30, 'exposure to', 'value = yes']
+[55, 'within days', 'predicate = within days']
+[77, 'healthcare', 'connector']
+[149, 'confirmed', 'value = yes']
+[169, 'within days', 'predicate = within days']
+[213, 'healthcare', 'connector']
+[262, 'within days', 'predicate = within days']
+
+[8, 'hospitalization', 'feature = hospitalized']
+[24, 'allergy to', 'feature = allergic']
+[35, 'hydroxychloroquine', 'feature = hydroxychloroquine']
+[121, 'deficiency', 'feature = deficiency']
+[146, 'kidney disease', 'feature =  kidney disease']
+[173, 'receiving dialysis', 'dialysis = yes']
+[221, 'current use of', 'value = yes']
+[236, 'hydroxychloroquine or', 'feature = hydroxychloroquine']
+

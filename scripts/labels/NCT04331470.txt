@@ -1,0 +1,14 @@
+[11, 'positive', 'value = yes']
+[20, 'covid-19 patient', 'covid19 = yes']
+[29, 'patients', 'connector']
+
+[20, 'respiratory', 'modifier = respiratory']
+[41, 'including', 'value = yes']
+[51, 'patients with', 'value = yes']
+[81, 'respiratory distress', 'feature = respiratory disease']
+[164, 'patients with severe', 'modifier = severe']
+[185, 'hepatic disease', 'feature = liver disease']
+[193, 'diseases', 'feature = disease']
+[202, 'patients with', 'value = yes']
+[231, 'diseases', 'feature = disease']
+
