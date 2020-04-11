@@ -1,3 +1,6 @@
+NCT04260594  =>  4
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+
 fever, aspartate aminotransferase, total bilirubin, creatinine
 ---
 [5, 'the informed consent form', 'compliant = yes']

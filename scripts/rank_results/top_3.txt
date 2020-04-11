@@ -1,3 +1,6 @@
+NCT04331665  =>  4
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+
 alanine aminotransferase, aspartate aminotransferase, bilirubin, creatinine, 
 ---
 [9, 'infection', 'feature = infection']

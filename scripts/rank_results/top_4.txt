@@ -1,3 +1,6 @@
+NCT04334460  =>  4
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+
 alanine aminotransferase, aspartate aminotransferase, creatinine, chest x-ray, 
 ---
 [13, '18 years of age', 'age = 18 years old']

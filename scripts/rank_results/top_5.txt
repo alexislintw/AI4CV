@@ -1,3 +1,6 @@
+NCT03808922  =>  3
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0] 
+
 alanine aminotransferase, aspartate aminotransferase, bilirubin, 
 ---
 [3, 'the time of', 'feature = time']
