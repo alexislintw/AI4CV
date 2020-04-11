@@ -1,0 +1,334 @@
+alanine aminotransferase, aspartate aminotransferase, creatinine, chest x-ray, 
+---
+[13, '18 years of age', 'age = 18 years old']
+[32, 'the time of', 'feature = time']
+[88, 'characteristic', 'value = yes']
+[104, 'documented', 'value = yes']
+[118, 'confirmed sars-cov-2 infection', 'covid19 = yes']
+[139, 'infection by', 'infection = yes']
+[161, 'nasopharyngeal', 'modifier = nasopharyngeal']
+[196, 'randomization', 'compliant = yes']
+[223, 'for covid-19', 'covid19 = yes']
+[227, 'covid-19', 'covid19 = yes']
+[236, 'diagnosed with covid-19', 'covid19 = yes']
+[246, 'with covid-19', 'covid19 = yes']
+[251, 'covid-19', 'covid19 = yes']
+[260, 'as defined', 'value = yes']
+[263, 'defined by', 'value = yes']
+[290, 'of the following', 'value = yes']
+[325, 'within the', 'predicate = within']
+[352, 'defined as', 'value = yes']
+[538, 'chest x-ray', 'feature = xray']
+[634, 'infiltrates', 'feature = infiltration']
+[662, 'pulmonary', 'feature = lung']
+[672, 'infiltrates', 'feature = infiltration']
+[700, 'female subject', 'gender = women']
+[707, 'subjects', 'connector']
+[716, 'contraception', 'feature = birth control']
+[816, 'of contraception', 'contraception = yes']
+[819, 'contraception', 'feature = birth control']
+[843, 'participati', 'compliant = yes']
+[860, 'clinical st', 'connector']
+[881, 'subjects', 'connector']
+[890, 'male or female', 'gender = both']
+[913, 'of childbearing potential', 'childbearing = potential']
+[939, 'must agree', 'compliant = yes']
+[964, 'effective contracepti', 'birth control = yes']
+[974, 'contraception', 'feature = birth control']
+[988, 'during the study', 'time = study time']
+[995, 'the study', 'connector']
+[1005, 'female subject', 'gender = women']
+[1012, 'subjects', 'connector']
+[1042, 'female subject', 'gender = women']
+[1049, 'subjects must', 'value = yes']
+[1086, 'effective contracepti', 'birth control = yes']
+[1096, 'contraception', 'feature = birth control']
+[1117, 'days after', 'time = after | unit = days']
+[1122, 'after the', 'time = after']
+[1145, 'study drug', 'feature = study drug']
+[1156, 'female subject', 'gender = women']
+[1163, 'subjects', 'connector']
+[1220, 'subjects', 'connector']
+[1257, 'subjects must', 'value = yes']
+[1294, 'effective contracepti', 'birth control = yes']
+[1304, 'contraception', 'feature = birth control']
+[1335, 'subjects must', 'value = yes']
+[1344, 'must agree', 'compliant = yes']
+[1349, 'agree not to', 'value = no']
+[1397, 'abstinence', 'feature = abstinence']
+[1411, 'acceptable', 'modifier = acceptable']
+[1467, 'contraception', 'feature = birth control']
+[1485, 'the subject', 'connector']
+[1772, 'exposure to', 'value = yes']
+[1946, 'subjects', 'connector']
+[1994, 'birth control', 'feature = birth control']
+[2038, 'of contraception', 'contraception = yes']
+[2041, 'contraception', 'feature = birth control']
+[2127, 'abstinence', 'feature = abstinence']
+[2149, 'participati', 'compliant = yes']
+[2163, 'in the study', 'connector']
+[2166, 'the study', 'connector']
+[2176, 'women of childbearing potential', 'compliant = yes']
+[2182, 'of childbearing potential', 'childbearing = potential']
+[2218, 'negative', 'value = no']
+[2233, 'pregnancy test', 'feature = pregnant']
+[2268, '72 hours', 'time = 72 hours']
+[2277, 'prior to', 'time = before']
+[2286, 'first administration', 'time = first']
+[2292, 'administration of', 'value = yes']
+[2310, 'study drug', 'feature = study drug']
+[2331, 'of childbearing potential', 'childbearing = potential']
+[2380, 'defined as', 'value = yes']
+[2430, 'for at least', 'predicate = >=']
+[2448, 'informed consent', 'compliant = yes']
+[2483, 'signed informed consent', 'compliant = yes']
+[2490, 'informed consent', 'compliant = yes']
+[2542, 'requirements', 'compliant = yes']
+
+[8, 'conditions', 'value = yes']
+[26, 'bacterial pneumonia', 'feature = bacterial pneumonia']
+[36, 'pneumonia', 'feature = pneumonia']
+[46, 'infection', 'feature = infection']
+[69, 'tuberculosis', 'feature = tuberculosis']
+[91, 'history of', 'value = yes | time = before']
+[110, 'positive', 'value = yes']
+[129, 'immunodeficiency', 'feature = hiv']
+[135, 'deficiency', 'feature = deficiency']
+[198, 'defined as', 'value = yes']
+[284, 'defined as', 'value = yes']
+[329, 'infection', 'feature = infection']
+[437, 'history of', 'value = yes | time = before']
+[472, 'history of', 'value = yes | time = before']
+[507, 'requiring', 'value = yes']
+[560, 'heart disease', 'feature = heart disease']
+[590, 'prior to', 'time = before']
+[599, 'screening', 'connector']
+[609, 'subjects', 'connector']
+[618, 'requiring', 'value = yes']
+[645, 'defined as', 'value = yes']
+[683, 'best interest', 'connector']
+[700, 'the subject', 'connector']
+[704, 'subjects', 'connector']
+[713, 'to participate in th', 'compliant = yes']
+[716, 'participate', 'compliant = yes']
+[772, 'female subjects', 'gender = women']
+[779, 'subjects who are', 'connector']
+[788, 'who are pregnant', 'pregnant = yes']
+[792, 'are pregnant or', 'pregnant = yes']
+[796, 'pregnant or breastfeeding', 'pregnant = yes | breastfeeding = yes']
+[805, 'or breastfeeding or', 'breastfeeding = yes']
+[808, 'breastfeeding or', 'breastfeeding = yes']
+[847, 'within the', 'feature = time']
+[868, 'duration of the study', 'connector']
+[880, 'the study', 'connector']
+[904, 'the screening', 'connector']
+[908, 'screening', 'connector']
+[960, 'of study', 'connector']
+[963, 'study drug', 'feature = study drug']
+[1011, 'laboratory', 'modifier = laboratory']
+[1046, 'alanine aminotransferase', 'feature = alanine aminotransferase']
+[1054, 'aminotransferase', 'feature = aminotransferase']
+[1078, 'aspartate aminotransferase', 'feature = aspartate aminotransferase']
+[1088, 'aminotransferase', 'feature = aminotransferase']
+[1112, 'upper limit', 'value = upper limit']
+[1140, 'creatinine clearance', 'feature = creatine']
+[1185, 'requiring', 'value = yes']
+[1218, 'mechanical ventilation', 'feature = mechanical ventilation']
+[1241, 'at screening', 'value = yes']
+[1244, 'screening', 'connector']
+[1254, 'concurrent treatment with', 'value = yes']
+[1257, 'current treatment', 'value = yes']
+[1265, 'treatment with', 'value = yes']
+[1286, 'agents with act', 'value = yes']
+[1358, 'sars-cov-2', 'feature = covid19']
+[1385, 'prior to', 'time = before']
+[1405, 'of study', 'connector']
+[1408, 'study drug', 'feature = study drug']
+[1459, 'treatment with', 'value = yes']
+[1534, 'inhibitors', 'feature = inhibitor']
+[1550, 'in the past', 'time = before']
+[1557, 'past 30 days', 'time = past 30 days']
+[1570, 'or plans to receive', 'time = future']
+[1582, 'receive during the', 'value = yes']
+[1590, 'during the study period', 'value = yes']
+[1597, 'the study', 'connector']
+[1620, 'concurrent', 'value = yes']
+[1631, 'clinical study', 'connector']
+[1657, 'participation in an', 'value = yes']
+[1674, 'any other', 'value = yes']
+[1684, 'clinical study', 'connector']
+[1723, 'treatment for', 'value = yes']
+[1733, 'for covid-19', 'feature = covid19']
+[1771, 'experimental treatment', 'feature = study drug']
+[1784, 'treatment', 'connector']
+[1802, 'participation', 'compliant = yes']
+[1819, 'have participated in', 'value = yes']
+[1824, 'participate', 'compliant = yes']
+[1849, 'an investigational', 'feature = study drug']
+[1852, 'investigation', 'connector']
+[1886, 'an investigational', 'feature = study drug']
+[1889, 'investigation', 'connector']
+[1925, 'prior to the', 'time = before']
+[1949, 'of study', 'connector']
+[1952, 'study drug', 'feature = study drug']
+[1968, 'subjects', 'connector']
+[1977, 'participating', 'compliant = yes']
+[2068, 'for the study', 'connector']
+[2072, 'the study', 'connector']
+[2109, 'subjects', 'connector']
+[2158, 'an investigational', 'feature = study drug']
+[2161, 'investigation', 'connector']
+[2187, 'participate', 'compliant = yes']
+[2264, 'investigation', 'connector']
+[2332, 'medication', 'feature = drug']
+[2375, 'subjects', 'connector']
+[2393, 'allergy to', 'feature = allergic']
+
+
+---
+
+
+        - Age:
+
+        At least 18 years of age at the time of signing the ICF.
+
+        - Type of Subject and Disease Characteristics:
+
+        Documented or confirmed SARS-CoV-2 infection by PCR test nasopharyngeal swab <= 2 days
+        before randomization.
+
+        Hospitalized for COVID-19.
+
+        Diagnosed with COVID-19 as defined by having at least 2 of the following signs or symptoms
+        within the past 2 days:
+
+        Fever defined as a body temperature of >= 38.0 *C oral, or >= 38.3 *C rectal, forehead or
+        aural (axillary temperatures are not allowable);
+
+        Cough;
+
+        Fatigue;
+
+        Shortness of breath.
+
+        Radiographic evidence (chest x-ray or CT scan) of one the following:
+
+        Ground-glass opacities, or
+
+        Local or bilateral patchy infiltrates, or
+
+        Interstitial pulmonary infiltrates.
+
+        - Sex:
+
+        Male and/or female subjects.
+
+        Contraception use by men or women should be consistent with local regulations regarding the
+        methods of contraception for those participating in clinical studies.
+
+        All subjects (male or female) who are of childbearing potential must agree to use highly
+        effective contraception during the study. Female subjects and male partners of female
+        subjects must continue to use highly effective contraception for 30 days after the last
+        dose of study drug. Female subjects should not donate oocytes during this time. Male
+        subjects and female partners of male subjects must continue to use highly effective
+        contraception for 90 days. Male subjects must agree not to donate sperm during this time.
+
+        Note: Abstinence is acceptable if this is the usual lifestyle and preferred contraception
+        for the subject.
+
+        Note: Ethinyl estradiol is the primary estrogen used in hormonal contraceptives. The
+        progestin component consists of norethindrone, levonorgestrel, norgestrel, norethindrone
+        acetate, ethynodiol diacetate, norgestimate, desogestrel, and drospirenone. As BLD-2660 is
+        a weak CYP3A4 inducer, exposure to both the estrogen and progestin components in hormonal
+        contraceptives may be decreased, resulting in an increased risk of pregnancy. As such, it
+        is recommended that subjects who are on hormonal contraceptives for birth control should
+        use an alternate means of contraception (condoms, diaphragms, intrauterine device (IUD),
+        other barrier methods, sexual abstinence, etc.) during participation in the study.
+
+        Women of childbearing potential must have a negative serum pregnancy test at Screening
+        within 72 hours prior to first administration of study drug.
+
+        Women not of childbearing potential must be postmenopausal (defined as cessation of regular
+        menstrual periods for at least 1 year
+
+        - Informed Consent:
+
+        Capable of giving signed informed consent which includes compliance with the requirements
+        and restrictions listed in the ICF and in this protocol
+
+        
+---
+
+
+        - Medical Conditions:
+
+        Active bacterial pneumonia infection
+
+        Known active tuberculosis (TB).
+
+        Known history of testing positive for Human Immunodeficiency Virus (HIV) (HIV 1/2
+        antibodies).
+
+        Known active Hepatitis B (defined as Hepatitis B surface antigen [HBsAg] reactive) or known
+        active Hepatitis C virus (defined as HCV RNA [qualitative] is detected) infection.
+
+        Note: No testing for Hepatitis B and Hepatitis C is required unless mandated by local
+        health authority
+
+        History of Child-Pugh B or C cirrhosis.
+
+        History of acute coronary syndrome requiring hospital admission or symptomatic ischemic
+        heart disease within 24 weeks prior to screening.
+
+        Subjects requiring high flow oxygen defined as >50 L/min.
+
+        It is not in the best interest of the subjects to participate, in the opinion of the
+        treating Investigator.
+
+        Female subjects who are pregnant or breastfeeding or expecting to conceive within the
+        projected duration of the study, starting with the screening visit through 90 days after
+        the last dose of study drug.
+
+        - Diagnostic Assessments:
+
+        The following laboratory parameters are excluded:
+
+        Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) >5 x upper limit of
+        normal (ULN);
+
+        Creatinine clearance < 50 mL/min.
+
+        - Prior Therapy:
+
+        Requiring, or expected to require mechanical ventilation at screening.
+
+        Concurrent treatment with other agents with actual or possible direct acting antiviral
+        activity against SARS-CoV-2 within 24 hours prior to initiation of study drug dosing (e.g.
+        remdesivir within 6 half-lives).
+
+        Treatment with anti-IL 6, anti-IL-6 receptor antagonists, or with Janus kinase inhibitors
+        (JAKi) in the past 30 days or plans to receive during the study period.
+
+        - Prior/Concurrent Clinical Study Experience:
+
+        Participation in any other clinical study of an experimental drug treatment for COVID-19
+        within 6 half-lives of the experimental treatment.
+
+        Current participation or have participated in a study of an investigational agent or has
+        used an investigational device within 4 weeks prior to the first dose of study drug.
+
+        Note: Subjects participating in an observational study are an exception to this criterion
+        and may qualify for the study with Sponsor approval.
+
+        Note: Subjects who have entered the follow-up phase of an investigational study may
+        participate as long as it has been 4 weeks after the last dose of the previous
+        investigational agent.
+
+        - Other Exclusions:
+
+        Unable to swallow solid oral medication or known malabsorption disorder.
+
+        Subjects who have allergy to BLD-2660 or inactive components of BLD-2660.
+      
+
+

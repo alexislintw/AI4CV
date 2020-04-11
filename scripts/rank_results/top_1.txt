@@ -1,0 +1,267 @@
+NCT04335305  =>  5
+---
+lymphocyte, alanine aminotransferase, aspartate aminotransferase, creatinine, chest x-ray, 
+---
+[7, 'informed consent form', 'compliant = yes']
+[33, 'prior to', 'time = before']
+[42, 'participati', 'compliant = yes']
+[99, 'pregnant', 'feature = pregnant']
+[115, 'patients', 'connector']
+[124, '>= 18 years', 'age >= 18 years old']
+[127, '18 years', 'value = 18 years old']
+[139, 'the time of', 'feature = time']
+[163, 'laboratory confirm', 'value = yes | modifier = laboratory']
+[174, 'confirmed covid-19', 'covid19 = yes']
+[184, 'covid-19 infection', 'feature = covid19']
+[193, 'infection', 'feature = infection']
+[216, 'positive', 'value = yes']
+[273, 'rt-pcr from any', 'modifier = rtpcr']
+[285, 'any specimen', 'value = yes']
+[289, 'specimen', 'feature = specimen']
+[315, 'of sars-cov-2', 'covid19 = yes']
+[375, 'confirmation of', 'value = yes']
+[388, 'of pneumonia', 'pneumonia = yes']
+[391, 'pneumonia', 'feature = pneumonia']
+[411, 'chest x-ray', 'feature = xray']
+[474, 'acute respiratory', 'modifier = acute respiratory']
+[480, 'respiratory', 'modifier = respiratory']
+[512, 'covid-19', 'covid19 = yes']
+[527, 'treatment', 'connector']
+[578, '48 hours', 'time = 48 hours']
+[587, 'patients with', 'value = yes']
+[626, 'assessment', 'feature = assessment']
+[654, 'the time of', 'feature = time']
+[678, 'patients', 'connector']
+[687, 'hospitalized with', 'hospitalized = yes ']
+[711, 'defined as', 'value = yes']
+[722, 'temperature >=', 'feature = temperature| predicate = >=']
+[752, 'patients with', 'value = yes']
+[772, 'lymphocyte', 'feature = lymphocyte']
+[803, 'patients who', 'value = yes']
+[840, 'on room air', 'modifier = on room air']
+[891, '94% on room air', 'value = 95% | modifier = on room air']
+[895, 'on room air', 'modifier = on room air']
+[916, 'at least one of the following', 'connector']
+[929, 'of the following', 'value = yes']
+[970, 'clinical', 'connector']
+[1023, '48 hours', 'time = 48 hours']
+[1060, 'for covid-19', 'covid19 = yes']
+[1064, 'covid-19', 'covid19 = yes']
+[1086, 'lymphocyte', 'feature = lymphocyte']
+[1116, 'within 48 hours', 'predicate = within 48 hours']
+[1123, '48 hours', 'time = 48 hours']
+[1175, 'within 48 hours', 'predicate = within 48 hours']
+[1182, '48 hours', 'time = 48 hours']
+[1230, 'within 48 hours', 'predicate = within 48 hours']
+[1237, '48 hours', 'time = 48 hours']
+[1288, 'within 48 hours', 'predicate = within 48 hours']
+[1295, '48 hours', 'time = 48 hours']
+[1342, 'within 48 hours', 'predicate = within 48 hours']
+[1349, '48 hours', 'time = 48 hours']
+[1396, 'within 48 hours', 'predicate = within 48 hours']
+[1403, '48 hours', 'time = 48 hours']
+[1450, 'within 48 hours', 'predicate = within 48 hours']
+[1457, '48 hours', 'time = 48 hours']
+[1509, 'willing to', 'value = yes']
+[1531, 'medication', 'feature = drug']
+[1546, 'to comply with', 'compliant = yes']
+[1549, 'comply with', 'compliant = yes']
+[1565, 'study procedures', 'connector']
+[1571, 'procedures', 'feature = procedure']
+[1588, 'women of childbearing potential', 'compliant = yes']
+[1594, 'of childbearing potential', 'childbearing = potential']
+[1620, 'negative', 'value = no']
+[1629, 'pregnancy test', 'feature = pregnant']
+[1666, 'contraceptive method', 'feature = birth control']
+[1698, 'the study', 'connector']
+
+[17, 'any other', 'value = yes']
+[27, 'clinical trial', 'connector']
+[48, 'experimental treatment', 'feature = study drug']
+[61, 'treatment for', 'value = yes']
+[71, 'for covid-19', 'feature = covid19']
+[84, 'concurrent treatment with', 'value = yes']
+[87, 'current treatment', 'value = yes']
+[95, 'treatment with', 'value = yes']
+[116, 'agents with act', 'value = yes']
+[188, 'sars-cov-2', 'feature = covid19']
+[222, 'prior to', 'time = before']
+[231, 'study drug', 'feature = study drug']
+[309, 'requiring', 'value = yes']
+[343, 'mechanical ventilation', 'feature = mechanical ventilation']
+[411, 'at screening', 'value = yes']
+[414, 'screening patients', 'connector']
+[424, 'patients', 'connector']
+[452, 'immunomodulator', 'feature = immunomodulator']
+[493, 'alanine aminotransferase', 'feature = alanine aminotransferase']
+[501, 'aminotransferase', 'feature = aminotransferase']
+[525, 'aspartate aminotransferase', 'feature = aspartate aminotransferase']
+[535, 'aminotransferase', 'feature = aminotransferase']
+[556, 'upper limit', 'value = upper limit']
+[582, 'creatinine clearance', 'feature = creatine']
+[621, 'obstructive', 'modifier = obstructive']
+[633, 'pulmonary disease', 'feature = lung disease']
+[669, 'lung disease', 'feature = lung disease']
+[715, 'known hypersensitivity to', 'feature = allergic']
+[813, 'of study', 'connector']
+[852, 'treatment with', 'value = yes']
+[890, 'corticosteroids', 'feature = corticosteroids']
+[1118, 'diagnosis of', 'value = yes']
+[1131, 'immunodeficiency', 'feature = hiv']
+[1137, 'deficiency', 'feature = deficiency']
+[1158, 'immunosuppressive', 'feature = immunosuppressive']
+[1176, 'therapy within', 'value = yes']
+[1197, 'days prior to', 'time = past days']
+[1202, 'prior to', 'time = before']
+[1217, 'treatment', 'connector']
+[1245, 'autoimmune disease', 'feature = autoimmune dieseae']
+[1291, 'treatment', 'connector']
+[1356, 'corticosteroids', 'feature = corticosteroids']
+[1375, 'immunosuppressive', 'feature = immunosuppressive']
+[1416, 'infection with', 'value = yes']
+[1437, 'immunodeficiency', 'feature = hiv']
+[1443, 'deficiency', 'feature = deficiency']
+[1507, 'patients with', 'value = yes']
+[1530, 'infection', 'feature = infection']
+[1556, 'infection', 'feature = infection']
+[1566, 'defined as', 'value = yes']
+[1636, 'positive', 'value = yes']
+[1732, 'patients', 'connector']
+[1741, 'positive', 'value = yes']
+[1862, 'vaccination', 'feature = vaccination']
+[1912, 'days prior to', 'time = past days']
+[1917, 'prior to', 'time = before']
+[1932, 'treatment', 'connector']
+[2335, 'history of', 'value = yes | time = before']
+[2394, 'organ transplant', 'feature = organ transplant']
+[2400, 'transplantation', 'feature = transplantation']
+[2419, 'patients', 'connector']
+[2433, 'any other', 'value = yes']
+[2443, 'concurrent', 'value = yes']
+[2461, 'medical condition', 'value = yes']
+[2469, 'condition', 'value = yes']
+[2493, 'the investigator', 'connector']
+[2536, 'patient', 'connector']
+[2544, 'participation in the', 'compliant = yes']
+[2565, 'clinical study', 'connector']
+[2583, 'pregnant women', 'gender = women | pregnant = yes']
+[2592, 'women', 'gender= women']
+[2598, 'lactating women', 'gender = women | breastfeeding = yes']
+[2608, 'women', 'gender= women']
+[2626, 'pregnant women', 'gender = women | pregnant = yes']
+[2635, 'women', 'gender= women']
+
+
+---
+
+
+          1. Signed informed consent form (ICF) prior to participation in any study-related
+             activities.
+
+          2. Male or nonpregnant female patients >= 18 years at the time of signing ICF.
+
+          3. Laboratory confirmed COVID-19 infection defined with a positive reverse
+             transcription-polymerase chain reaction (RT-PCR) from any specimen and/or detection of
+             SARS-CoV-2 immunoglobulin (Ig)M/IgG antibodies.
+
+          4. Diagnostic confirmation of pneumonia by either chest X-ray or thoracic CT scan
+             (preferable).
+
+          5. Patient with severe acute respiratory syndrome related to COVID-19 under treatment as
+             per hospital protocol during at least 48 hours.
+
+          6. Patients with Sequential Organ Failure Assessment (SOFA) score <= 3 at the time of
+             signing ICF.
+
+          7. Patients hospitalized with fever defined as temperature >= 37,5 *C armpit.
+
+          8. Patients with total lymphocyte count <=0,8 x106/mL.
+
+          9. Patients who are showing SpO2 <= 92% on room air and/or patient who are showing SpO2 <=
+             94% on room air and meet at least one of the following parameters:
+
+               -  No objective clinical improvement at physician's discretion after 48 hours of
+                  front-line standard care for COVID-19;
+
+               -  Decrease in lymphocyte count (any decrease within 48 hours);
+
+               -  Increase in ferritin levels (any increase within 48 hours);
+
+               -  Increase in IL-6 levels (any increase within 48 hours);
+
+               -  Increase in D-dimer levels (any increase within 48 hours);
+
+               -  Increase in CRP levels (any increase within 48 hours);
+
+               -  Increase in LDH levels (any increase within 48 hours);
+
+               -  Increase in ESR levels (any increase within 48 hours).
+
+         10. Life expectancy greater than 10 days.
+
+         11. Willing to take study medication and to comply with all study procedures.
+
+         12. In women of childbearing potential, negative pregnancy test and commitment to use
+             contraceptive method throughout the study.
+
+        
+---
+
+
+          1. Participation in any other clinical trial of an experimental treatment for COVID-19.
+
+          2. Concurrent treatment with other agents with actual or possible direct acting antiviral
+             activity against SARS-CoV-2 is prohibited < 24 hours prior to study drug dosing,
+             except the commonly used antiviral drugs and/or chloroquine.
+
+          3. Requiring endotracheal intubation, mechanical ventilation, and extracorporeal membrane
+             oxygenation (ECMO) at screening.
+
+          4. Patients being treated with immunomodulators or anti-rejection drugs.
+
+          5. Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 x upper limit
+             of normal (ULN).
+
+          6. Creatinine clearance < 50 mL/min.
+
+          7. Chronic Obstructive Pulmonary Disease (COPD) or end-stage lung disease that require
+             home oxygen therapy.
+
+          8. Known hypersensitivity to recombinant proteins, or any excipient contained in the drug
+             formulation of study pembrolizumab and tocilizumab.
+
+          9. Treatment with high doses of systemic corticosteroids within 72 hours prior signing
+             the ICF except for inhaled steroids and prior corticosteroid therapy at dose lower
+             than or equal to 10 mg/day methylprednisolone equivalent.
+
+         10. Bowel diverticulitis or perforation.
+
+         11. Diagnosis of immunodeficiency receiving immunosuppressive therapy within seven days
+             prior to study treatment initiation. Active autoimmune disease that has required
+             systemic treatment in past 2 years (i.e., with use of disease modifying agents,
+             corticosteroids, or immunosuppressive drugs).
+
+         12. Current known infection with human immunodeficiency virus (HIV), hepatitis B virus
+             (HBV), or hepatitis C virus (HCV). Patients with past HBV infection or resolved HBV
+             infection (defined as having a negative hepatitis B surface antigen [HBsAg] test and a
+             positive hepatitis B core antibody [HBcAb] test, accompanied by a negative HBV DNA
+             test) are eligible. Patients positive for HCV antibody are eligible only if polymerase
+             chain reaction (PCR) is negative for HCV ribonucleic acid (RNA).
+
+         13. Vaccination with any live virus vaccine within 28 days prior to study treatment
+             initiation.
+
+             Note: Examples of live vaccines include, but are not limited to, the following:
+             measles, mumps, rubella, chicken pox/zoster, yellow fever, rabies, Bacillus
+             Calmette-Gurin (BCG), and typhoid vaccine. Seasonal influenza vaccines for injection
+             are generally killed virus vaccines and are allowed; however, intranasal influenza
+             vaccines (e.g., FluMist) are live-attenuated vaccines and are not allowed.
+
+         14. History of prior allogeneic bone marrow, stem-cell, or solid organ transplantation.
+
+         15. Patients have any other concurrent severe medical condition that would, in the
+             Investigator's judgment contraindicate patient participation in the clinical study.
+
+         16. Pregnant women, lactating women and planned pregnant women.
+      
+
