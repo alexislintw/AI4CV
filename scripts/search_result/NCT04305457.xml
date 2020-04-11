@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="222">
+<clinical_study rank="269">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04305457</url>
   </required_header>
@@ -156,7 +156,9 @@
 
           3. Any clinical contraindications, as judged by the attending physician
 
-          4. Hospitalized and confirmed diagnosis of COVID-19 for more than 72 hours
+          4. Patients enrolled in another interventional study
+
+          5. Hospitalized and confirmed diagnosis of COVID-19 for more than 72 hours
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -197,9 +199,9 @@
   <study_first_submitted>March 9, 2020</study_first_submitted>
   <study_first_submitted_qc>March 11, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 12, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 3, 2020</last_update_posted>
+  <last_update_submitted>April 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>

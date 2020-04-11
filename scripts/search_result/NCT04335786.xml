@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="229">
+<clinical_study rank="187">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04335786</url>
   </required_header>
@@ -12,8 +12,8 @@
     <secondary_id>2020-001320-34</secondary_id>
     <nct_id>NCT04335786</nct_id>
   </id_info>
-  <brief_title>Valsartan for Prevention of Acute Respiratory Distress Syndrome in Hospitalized Patients With SARS-COV-2 Infection Disease</brief_title>
-  <official_title>PRAETORIAN-COVID: A Double-blind, Placebo-controlled Randomized Clinical Trial With Valsartan for PRevention of Acute rEspiraTORy dIstress Syndrome in hospitAlized patieNts With SARS-COV-2 Infection Disease</official_title>
+  <brief_title>Valsartan for Prevention of Acute Respiratory Distress Syndrome in Hospitalized Patients With SARS-COV-2 (COVID-19) Infection Disease</brief_title>
+  <official_title>PRAETORIAN-COVID: A Double-blind, Placebo-controlled Randomized Clinical Trial With Valsartan for PRevention of Acute rEspiraTORy dIstress Syndrome in hospitAlized patieNts With SARS-COV-2 (COVID-19) Infection Disease</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Radboud University</agency>
@@ -82,7 +82,7 @@
   <secondary_outcome>
     <measure>Death</measure>
     <time_frame>Within 14 days, 30 days, 90 days and at 1 year</time_frame>
-    <description>All-cause mortality; and time to</description>
+    <description>All-cause mortality; and time to all-cause mortality</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Mechanical ventilation</measure>
@@ -216,9 +216,9 @@ Study drug dosages will be titrated to blood pressure with a maximum of 160mg b.
   <study_first_submitted>April 2, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

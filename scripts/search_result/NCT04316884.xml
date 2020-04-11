@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="270">
+<clinical_study rank="326">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04316884</url>
   </required_header>
@@ -200,8 +200,8 @@
     <mesh_term>Acute Lung Injury</mesh_term>
     <mesh_term>Acute Kidney Injury</mesh_term>
     <mesh_term>Syndrome</mesh_term>
-    <mesh_term>Multiple Organ Failure</mesh_term>
     <mesh_term>Systemic Inflammatory Response Syndrome</mesh_term>
+    <mesh_term>Multiple Organ Failure</mesh_term>
   </condition_browse>
   <patient_data>
     <sharing_ipd>Undecided</sharing_ipd>

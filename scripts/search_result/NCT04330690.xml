@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="35">
+<clinical_study rank="42">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04330690</url>
   </required_header>
@@ -62,7 +62,7 @@
       60. Hospitalized subjects will require blood sampling on days 1, 5 and 11
     </textblock>
   </detailed_description>
-  <overall_status>Active, not recruiting</overall_status>
+  <overall_status>Recruiting</overall_status>
   <start_date type="Actual">March 18, 2020</start_date>
   <completion_date type="Anticipated">May 18, 2022</completion_date>
   <primary_completion_date type="Anticipated">March 18, 2022</primary_completion_date>
@@ -281,6 +281,49 @@ death</description>
         <country>Canada</country>
       </address>
     </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Fowler, MD</last_name>
+      <phone>647-991-7799</phone>
+      <email>rob.fowler@sunnybrook.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Asgar Rishu</last_name>
+      <phone>647-267-5250</phone>
+      <email>Asgar.Rishu@sunnybrook.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Robert Fowler, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Intégré Universitaire de Santé et de Services Sociaux de l'Estrie - Centre Hospitalier Universitaire de Sherbrooke</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1H 5N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francois Lamontagne, MD</last_name>
+      <phone>819-346-1110</phone>
+      <phone_ext>16208</phone_ext>
+      <email>francois.lamontagne@usherbrooke.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Dominique Marcoux</last_name>
+      <phone>819-346-1110</phone>
+      <phone_ext>16208</phone_ext>
+      <email>dominique.marcoux.ciussse-chus@ssss.gouv.qc.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Francois Lamontagne, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
   </location>
   <location_countries>
     <country>Canada</country>
@@ -289,9 +332,9 @@ death</description>
   <study_first_submitted>March 23, 2020</study_first_submitted>
   <study_first_submitted_qc>March 31, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 1, 2020</study_first_posted>
-  <last_update_submitted>April 3, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

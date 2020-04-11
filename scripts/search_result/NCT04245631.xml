@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="324">
+<clinical_study rank="396">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04245631</url>
   </required_header>
@@ -35,15 +35,16 @@
       amplification (RAA) assay is a novel isothermal nucleic acid amplification technique in
       recent years, which has a variety of the advantages including high specificity and
       sensitivity, rapid detection (30 min), low cost, low equipment requirements and simple
-      operation. Our team has successfully detected a variety of pathogens using this technique. To
+      operation. The has successfully detected a variety of pathogens using this technique. To
       develop a RAA assay for 2019-nCoV with the advantages of high speed, simple operation and low
-      cost, and overcomes the shortcomings of the existing molecular detection methods. We
-      established a real time reverse-transcription RAA (RT-RAA) assay for detection of 2019-nCoV.
-      This assay was performed at 42°C within 30min using a portable real-time fluorescence
-      detector, Recombinant plasmids containing conserved ORF1ab genes was used to analyze the
-      specificity and sensitivity. Clinical specimens from patients who were suspected of being
-      infected with 2019-nCoV were used to evaluate the performance of the assay. In parallel, we
-      also used the commercial RT-qPCR assay kit for 2019-nCoV as a reference.
+      cost, and overcomes the shortcomings of the existing molecular detection methods. The
+      investigators established a real time reverse-transcription RAA (RT-RAA) assay for detection
+      of 2019-nCoV. This assay was performed at 42°C within 30min using a portable real-time
+      fluorescence detector, Recombinant plasmids containing conserved ORF1ab genes was used to
+      analyze the specificity and sensitivity. Clinical specimens from patients who were suspected
+      of being infected with 2019-nCoV were used to evaluate the performance of the assay. In
+      parallel, The investigators also used the commercial RT-qPCR assay kit for 2019-nCoV as a
+      reference.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -57,16 +58,17 @@
       amplification (RAA) assay is a novel isothermal nucleic acid amplification technique in
       recent years, which has a variety of the advantages including high specificity and
       sensitivity, rapid detection (30 min), low cost, low equipment requirements and simple
-      operation. Our team has successfully detected a variety of pathogens using this technique. To
-      develop a RAA assay for 2019-nCoV with the advantages of high speed, simple operation and low
-      cost, and overcomes the shortcomings of the existing molecular detection methods. We
-      established a real time reverse-transcription RAA (RT-RAA) assay for detection of 2019-nCoV.
-      This assay was performed at 42°C within 30min using a portable real-time fluorescence
-      detector, Recombinant plasmids containing conserved ORF1ab genes was used to analyze the
-      specificity and sensitivity. Clinical specimens from patients who were suspected of being
-      infected with 2019-nCoV were used to evaluate the performance of the assay. In parallel, we
-      also used the commercial RT-qPCR assay kit for 2019-nCoV as a reference. Patients who were
-      suspected of being infected with 2019-nCoV in the hospital.
+      operation. The investigators has successfully detected a variety of pathogens using this
+      technique. To develop a RAA assay for 2019-nCoV with the advantages of high speed, simple
+      operation and low cost, and overcomes the shortcomings of the existing molecular detection
+      methods. The investigators established a real time reverse-transcription RAA (RT-RAA) assay
+      for detection of 2019-nCoV. This assay was performed at 42°C within 30min using a portable
+      real-time fluorescence detector, Recombinant plasmids containing conserved ORF1ab genes was
+      used to analyze the specificity and sensitivity. Clinical specimens from patients who were
+      suspected of being infected with 2019-nCoV were used to evaluate the performance of the
+      assay. In parallel, The investigators also used the commercial RT-qPCR assay kit for
+      2019-nCoV as a reference. Patients who were suspected of being infected with 2019-nCoV in the
+      hospital.
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
@@ -198,13 +200,13 @@
   <location_countries>
     <country>China</country>
   </location_countries>
-  <verification_date>January 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>January 26, 2020</study_first_submitted>
   <study_first_submitted_qc>January 26, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">January 29, 2020</study_first_posted>
-  <last_update_submitted>January 26, 2020</last_update_submitted>
-  <last_update_submitted_qc>January 26, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">January 29, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Beijing Ditan Hospital</investigator_affiliation>

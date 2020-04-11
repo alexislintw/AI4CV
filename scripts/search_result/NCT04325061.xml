@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="73">
+<clinical_study rank="84">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04325061</url>
   </required_header>
@@ -144,6 +144,8 @@
 
         Exclusion Criteria:
 
+        * Patients receiving or under treatment with corticosteroids
+
           -  Patients with a known contraindication to corticosteroids,
 
           -  Decision by a physician that involvement in the trial is not in the patient's best
@@ -174,6 +176,28 @@
   </overall_contact_backup>
   <location>
     <facility>
+      <name>ICU, Hospital Universitari Mutua Terrassa</name>
+      <address>
+        <city>Terrassa</city>
+        <state>Barcelona</state>
+        <zip>08221</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Josep Trenado, MD</last_name>
+      <phone>+34630158583</phone>
+      <email>jtrenado@mutuaterrasa.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mar Fernández, MD</last_name>
+      <phone>+34654027970</phone>
+      <email>marufaes@yahoo.es</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
       <name>Hospital Universitario Dr. Negrin</name>
       <address>
         <city>Las Palmas de Gran Canaria</city>
@@ -194,7 +218,21 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gonzalo Tamayo, MD, PhD</last_name>
+      <phone>+34655740637</phone>
+      <email>gonzalotamayo@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Alberto Martínez-Ruiz, MD, PhD</last_name>
+      <phone>+34610494664</phone>
+      <email>ALBERTO.MARTINEZRUIZ@osakidetza.eus</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Iñaki Bilbao-Villasante, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
   </location>
   <location>
     <facility>
@@ -206,7 +244,17 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tomás Muñoz, MD, PhD</last_name>
+      <phone>+34619576429</phone>
+      <email>tomas.munozmartinez@osakidetza.net</email>
+    </contact>
+    <contact_backup>
+      <last_name>Pablo Serna-Grande, MD</last_name>
+      <phone>+34620686825</phone>
+      <email>pablo.serna.grande@gmail.com</email>
+    </contact_backup>
   </location>
   <location>
     <facility>
@@ -220,6 +268,7 @@
     <status>Recruiting</status>
     <contact>
       <last_name>Pedro Castro, MD</last_name>
+      <phone>+34645378213</phone>
       <email>PCASTRO@clinic.cat</email>
     </contact>
   </location>
@@ -235,6 +284,7 @@
     <status>Recruiting</status>
     <contact>
       <last_name>Manuel Castellá, MD</last_name>
+      <phone>+34696605769</phone>
       <email>MCASTE@clinic.cat</email>
     </contact>
   </location>
@@ -271,6 +321,7 @@
     <status>Recruiting</status>
     <contact>
       <last_name>Javier Fernández, MD</last_name>
+      <phone>+34652421887</phone>
       <email>JFDEZ@clinic.cat</email>
     </contact>
   </location>
@@ -298,7 +349,20 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alfonso Ambrós, MD, PhD</last_name>
+      <phone>+34696544641</phone>
+      <email>alfonsoa@sescam.jccm.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Carmen Martín, MD</last_name>
+      <email>mcarmartin@hotmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rafael del Campo, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
   </location>
   <location>
     <facility>
@@ -309,7 +373,12 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fernando Ramasco, MD, PhD</last_name>
+      <phone>+34639667114</phone>
+      <email>gorria66@gmail.com</email>
+    </contact>
   </location>
   <location>
     <facility>
@@ -320,7 +389,12 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fernando Suarez-Sipmann, MD, PhD</last_name>
+      <phone>+34669792961</phone>
+      <email>fsuarezsipmann@gmail.com</email>
+    </contact>
   </location>
   <location>
     <facility>
@@ -331,7 +405,17 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>César Pérez-Calvo, MD</last_name>
+      <phone>+34618100522</phone>
+      <email>Cperez@fjd.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ánxela Vidal, MD</last_name>
+      <phone>+34680713669</phone>
+      <email>anxelavidal@gmail.com</email>
+    </contact_backup>
   </location>
   <location>
     <facility>
@@ -342,7 +426,12 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emilio Maseda, MD, PhD</last_name>
+      <phone>+34629018689</phone>
+      <email>emilio.maseda@gmail.com</email>
+    </contact>
   </location>
   <location>
     <facility>
@@ -378,7 +467,29 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlos García-Palenciano, MD</last_name>
+      <phone>+34629721053</phone>
+      <email>carlos.garciapalenciano@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Piedad Martínez-Gil, MD</last_name>
+      <phone>+34615067008</phone>
+      <email>pimagil@hotmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Eugenia Durán-González, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Irene Faura-Nuñez, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>José C Mondéjar, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
   </location>
   <location>
     <facility>
@@ -389,7 +500,17 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Domingo Martínez, MD</last_name>
+      <phone>+34670334050</phone>
+      <email>dmbct1@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Juan A Soler, MD, PhD</last_name>
+      <phone>+34661764387</phone>
+      <email>juasobar@hotmail.com</email>
+    </contact_backup>
   </location>
   <location>
     <facility>
@@ -397,6 +518,27 @@
       <address>
         <city>Pontevedra</city>
         <zip>36071</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marina Varela, MD, PhD</last_name>
+      <phone>+34607358008</phone>
+      <email>marina.varela.duran@sergas.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Pilar Diaz-Parada, MD</last_name>
+      <phone>+34686101085</phone>
+      <email>pilar.diaz.parada@sergas.es</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Anesthesia, Hospital General Universitario de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46010</zip>
         <country>Spain</country>
       </address>
     </facility>
@@ -411,7 +553,17 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gerardo Aguilar, MD, PhD</last_name>
+      <phone>+34639715165</phone>
+      <email>gaguilar.aguilar1@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>José A Carbonell, MD</last_name>
+      <phone>+34605472557</phone>
+      <email>joseacarbonell19@gmail.com</email>
+    </contact_backup>
   </location>
   <location>
     <facility>
@@ -422,7 +574,29 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José Ferreres, MD, PhD</last_name>
+      <phone>+34627557288</phone>
+      <email>ferreresj@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>María L Blasco, MD</last_name>
+      <phone>+34609231344</phone>
+      <email>mablas13@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nieves Carbonell, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ainhoa Serrano, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mar Juan, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
   </location>
   <location>
     <facility>
@@ -433,7 +607,38 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José I Gómez-Herreras, MD, PhD</last_name>
+      <phone>+34693417969</phone>
+      <email>jgomez012001@yahoo.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mario Lorenzo-López, MD</last_name>
+      <phone>+34654860101</phone>
+      <email>mariolorenzo17@yahoo.es</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Anesthesia, Hospital Universitario Río Hortega</name>
+      <address>
+        <city>Valladolid</city>
+        <zip>47012</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>César Aldecoa, MD, PhD</last_name>
+      <phone>+34657500031</phone>
+      <email>cesar.aldecoa@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jesús Rico, MD</last_name>
+      <phone>+34609024076</phone>
+      <email>jricofe@saludcastillayleon.es</email>
+    </contact_backup>
   </location>
   <location>
     <facility>
@@ -444,7 +649,21 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Active, not recruiting</status>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lorena Fernández, MD, PhD</last_name>
+      <phone>+34626479670</phone>
+      <email>mlorefer@yahoo.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jesús Sanchez-Ballesteros, MD</last_name>
+      <phone>+34655942577</phone>
+      <email>jsanchezba@saludcastillayleon.es</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Pablo Blanco, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
   </location>
   <location_countries>
     <country>Spain</country>
@@ -453,9 +672,9 @@
   <study_first_submitted>March 25, 2020</study_first_submitted>
   <study_first_submitted_qc>March 26, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>April 4, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 4, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Dr. Negrin University Hospital</investigator_affiliation>

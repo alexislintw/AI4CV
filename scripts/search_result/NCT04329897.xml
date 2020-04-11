@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="365">
+<clinical_study rank="438">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04329897</url>
   </required_header>
@@ -66,8 +66,8 @@
       patient reported outcome survey scores than controls at follow-up.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">March 31, 2020</start_date>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">April 5, 2020</start_date>
   <completion_date type="Anticipated">June 30, 2020</completion_date>
   <primary_completion_date type="Anticipated">May 30, 2020</primary_completion_date>
   <phase>N/A</phase>
@@ -152,15 +152,20 @@ More information on this instrument, including a scoring manual, can be found at
     <role>Study Director</role>
     <affiliation>University of Iowa Department of Orthopaedics</affiliation>
   </overall_official>
-  <overall_contact>
-    <last_name>Edward Rojas, BS</last_name>
-    <phone>5624052654</phone>
-    <email>edward-rojas@uiowa.edu</email>
-  </overall_contact>
-  <overall_contact_backup>
-    <last_name>Nicholas Bedard, MD</last_name>
-    <email>nicholas-bedard@uiowa.edu</email>
-  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Iowa Hospitals and Clinics</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
   <reference>
     <citation>Jones J Jr, Southerland W, Catalani B. The Importance of Optimizing Acute Pain in the Orthopedic Trauma Patient. Orthop Clin North Am. 2017 Oct;48(4):445-465. doi: 10.1016/j.ocl.2017.06.003. Review.</citation>
     <PMID>28870305</PMID>
@@ -185,13 +190,13 @@ More information on this instrument, including a scoring manual, can be found at
     <citation>Anthony CA, Lawler EA, Glass NA, McDonald K, Shah AS. Delivery of Patient-Reported Outcome Instruments by Automated Mobile Phone Text Messaging. Hand (N Y). 2017 Nov;12(6):614-621. doi: 10.1177/1558944716672201. Epub 2016 Oct 6.</citation>
     <PMID>29091492</PMID>
   </reference>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 30, 2020</study_first_submitted>
   <study_first_submitted_qc>March 30, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 1, 2020</study_first_posted>
-  <last_update_submitted>March 30, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 30, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 1, 2020</last_update_posted>
+  <last_update_submitted>April 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University of Iowa</investigator_affiliation>

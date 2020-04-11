@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="112">
+<clinical_study rank="142">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04324190</url>
   </required_header>
@@ -52,8 +52,11 @@
       hypothesis is to estimate whether the improvement in mental health is stronger during the
       first two weeks of applying the online support program as compared to a two weeks waiting
       condition (with provision of WHO information on 'coping with stress during the 2019-nCoV'
-      outbreak only). Furthermore, our aim is to estimate changes in the outcomes along taking part
-      in the program.
+      outbreak only). In addition to the randomised control group (second arm: waiting condition,
+      followed by online support program), the study comprises as third arm a non-randomised
+      comparator condition, consisting of subjects not intending to participate in the online
+      support program. Furthermore, our aim is to estimate changes in the outcomes along taking
+      part in the program.
 
       Additional research questions are:
 
@@ -165,7 +168,7 @@
     <time_frame>only after undergoing online support program: T1+2 weeks, T1+4 weeks, T1+12 weeks, follow ups: T1+ 6 months, T1+12 months</time_frame>
     <description>Unintended effects of online support program</description>
   </other_outcome>
-  <number_of_arms>2</number_of_arms>
+  <number_of_arms>3</number_of_arms>
   <enrollment type="Anticipated">600</enrollment>
   <condition>COVID-19</condition>
   <condition>Psychosocial Stress</condition>
@@ -178,7 +181,12 @@
   <arm_group>
     <arm_group_label>Waiting period (WHO recommendation)</arm_group_label>
     <arm_group_type>Active Comparator</arm_group_type>
-    <description>Waiting period (2 weeks duration) during which subjects are provided with the WHO recommendations &quot;Coping with stress during the 2019 nCoV outbreak&quot;. Following the 2 weeks waiting period, subjects are provided with the guided online support program outlined in the arm 'online support program'</description>
+    <description>Waiting period (2 weeks duration) during which subjects are provided with the WHO recommendations &quot;Coping with stress during the 2019 nCoV outbreak&quot;. Following the 2 weeks waiting period, subjects are provided with the guided online support program outlined in the arm 'online support program'.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No intervention (natural course)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This non-randomised arm (recruited separately; anticipated sample size of 500 subjects, not counted in the overall anticipated sample size) consists of subjects not intending to participate in the Selfapy online support program. Assessment points in this arm are comparable to those in the arm &quot;Online support program&quot; (in the 'No intervention (natural course)' arm, T1 refers to time of study inclusion).</description>
   </arm_group>
   <intervention>
     <intervention_type>Behavioral</intervention_type>
@@ -204,10 +212,16 @@
 
           -  Providing informed consent for participation.
 
-        Inclusion criteria for the arms &quot;online support program&quot; and &quot;waiting condition...&quot;:
+        Inclusion criteria for the arms &quot;Online support program&quot; and &quot;Waiting condition...&quot;:
 
         - Having signed up for the online support program provided by selfapy GmbH, Berlin, Germany
         (www.selfapy.de/corona) aiming at reducing burden in the context of the COVID-19 pandemic.
+
+        Inclusion criteria for the arm &quot;No intervention...&quot;:
+
+        - Not having signed up for the online support program provided by selfapy GmbH, Berlin,
+        Germany (www.selfapy.de/corona) aiming at reducing burden in the context of the COVID-19
+        pandemic.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -244,9 +258,9 @@
   <study_first_submitted>March 26, 2020</study_first_submitted>
   <study_first_submitted_qc>March 26, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>April 3, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>International Psychoanalytic University Berlin</investigator_affiliation>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="123">
+<clinical_study rank="115">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04334252</url>
   </required_header>
@@ -11,8 +11,8 @@
     <org_study_id>JessaH_COVID19_prescreening</org_study_id>
     <nct_id>NCT04334252</nct_id>
   </id_info>
-  <brief_title>Descriptive Study Regarding Pre-operative Screening During COVID 19 Pandemia</brief_title>
-  <official_title>Descriptive Study Regarding the Pre-operative Screening Protocol in Times of High SARS CoV-2 Prevalence</official_title>
+  <brief_title>Descriptive Study Regarding Ambulant Screening During COVID-19 Pandemia</brief_title>
+  <official_title>Descriptive Study Regarding the Ambulant Screening Protocol for COVID-19 in Times of High SARS CoV-2 Prevalence</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Jessa Hospital</agency>
@@ -27,18 +27,19 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      Descriptive prospective study to investigate the prevalence of COVID 19 at the pre-operative
-      consultation
+      Descriptive prospective study to investigate the prevalence of COVID 19 during ambulant
+      screening
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
       The exact prevalence of COVID-19 is unknown. Due to the relatively high number of diagnosed,
       symptomatic infections despite a strict policy, we expect a high prevalence of COVID 19
-      throughout the entire population. The risk that an asymptomatic carrier transfers the virus
-      to others is very high. This risk is even higher during surgery, where intubation is
-      necessary. Therefore we would like to pre-screen all patients pre-operatively on the presence
-      of COVID 19 before surgery since there is no consensus for screening at the moment. The
+      throughout the entire population. The risk that an asymptomatic carrier who is admitted to
+      the hospital for a (semi)urgent surgery, treatment of investigation transfers the virus to
+      the hospital staff is very high, and vice versa. This risk is even higher during surgery,
+      where intubation is necessary. Therefore we would like to pre-screen all patients ambulantly
+      on the presence of COVID 19 since there is no consensus for screening at the moment. The
       golden standard is the SARS CoV-2 PCR on the nasopharyngeal sample together with a CT scan of
       the lungs. On top of this standard of care screening, we will perform a questionnaire at the
       pre-operative visit which evaluates the possible occurence of certain symptoms in the last 2
@@ -61,32 +62,32 @@
   </study_design_info>
   <primary_outcome>
     <measure>Prevalence of symptoms</measure>
-    <time_frame>at the pre-operative consultation</time_frame>
+    <time_frame>at the ambulant screening</time_frame>
     <description>Prevalence of fever, cough, anorexia, fatigue, diarrhea, vomiting, dyspnee, sore throat and sputum</description>
   </primary_outcome>
   <primary_outcome>
     <measure>Prevalence of positive Sars CoV-2 PCR</measure>
-    <time_frame>at the pre-operative consultation</time_frame>
-    <description>Prevalence of positive COVID 19 tests in patients planned for surgery</description>
+    <time_frame>at the ambulant screening</time_frame>
+    <description>Prevalence of positive COVID 19 tests in patients planned for surgery, treatment or investigation in the hospital</description>
   </primary_outcome>
   <primary_outcome>
     <measure>Prevalence of positive radiological findings</measure>
-    <time_frame>at the pre-operative consultation</time_frame>
-    <description>Prevalence of positive radiological findings in CT scans of the lungs of patients planned for surgery</description>
+    <time_frame>at the ambulant screening</time_frame>
+    <description>Prevalence of positive radiological findings in CT scans of the lungs of planned for surgery, treatment or investigation in the hospital</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Prediction of symptoms</measure>
-    <time_frame>2 weeks after surgery</time_frame>
+    <time_frame>2 weeks after surgery or treatment</time_frame>
     <description>Prediction of symptoms of COVID 19, based on evaluated baseline questionnaire</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Prediction of symptoms</measure>
-    <time_frame>2 weeks after surgery</time_frame>
+    <time_frame>2 weeks after surgery or treatment</time_frame>
     <description>Prediction of symptoms of COVID 19, based on radiological findings of CT scans</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Prediction of symptoms</measure>
-    <time_frame>2 weeks after surgery</time_frame>
+    <time_frame>2 weeks after surgery or treatment</time_frame>
     <description>Prediction of symptoms of COVID 19, based on COVID 19 PCR results</description>
   </secondary_outcome>
   <enrollment type="Anticipated">5000</enrollment>
@@ -99,7 +100,8 @@
   <eligibility>
     <study_pop>
       <textblock>
-        All adult patients scheduled for a surgery in the Jessa hospital and seen at the
+        All adult patients scheduled for a (semi) urgent surgery, hematological or oncological
+        treatment or elektrophysiciological investigations in the Jessa hospital and seen at the
         pre-operative consultation will be asked to participate and to fullfill the questionnaire
       </textblock>
     </study_pop>
@@ -108,7 +110,8 @@
       <textblock>
         Inclusion Criteria:
 
-          -  All adult patients &gt; 18 years undergoing surgery in the Jessa hospital
+          -  All adult patients &gt; 18 years scheduled for a (semi) urgent surgery, hematological or
+             oncological treatment or elektrophysiciological investigations in the Jessa hospital
 
         Exclusion Criteria:
 
@@ -138,9 +141,9 @@
   <study_first_submitted>April 2, 2020</study_first_submitted>
   <study_first_submitted_qc>April 3, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 3, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Jessa Hospital</investigator_affiliation>

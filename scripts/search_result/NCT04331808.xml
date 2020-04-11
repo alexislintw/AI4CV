@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="284">
+<clinical_study rank="422">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04331808</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>APHP200375-1</org_study_id>
     <nct_id>NCT04331808</nct_id>
   </id_info>
-  <brief_title>Cohort Multiple Randomized Controlled Trials Open-label of Immune Modulatory Drugs and Other Treatments in COVID-19 Patients - Tocilizumab Trial - CORIMUNO-19 - TOCI (CORIMUNO-TOCI)</brief_title>
+  <brief_title>CORIMUNO-19 - Tocilizumab Trial - TOCI (CORIMUNO-TOCI)</brief_title>
   <acronym>CORIMUNO-TOC</acronym>
   <official_title>Cohort Multiple Randomized Controlled Trials Open-label of Immune Modulatory Drugs and Other Treatments in COVID-19 Patients - Tocilizumab Trial - CORIMUNO-19 - TOCI (CORIMUNO-TOCI)</official_title>
   <sponsors>
@@ -58,23 +58,25 @@
   <primary_outcome>
     <measure>Survival without needs of ventilator utilization at day 14.</measure>
     <time_frame>14 days</time_frame>
-    <description>Survival without needs of ventilator utilization (including Non invasive ventilation) at day 14. Thus, events considered are needing ventilator utilization (including Non Invasive Ventilation, NVI), or death. New Do Not Resuscitate (DNR) order will be considered as an event at the date of the DNR.</description>
+    <description>Survival without needs of ventilator utilization (including non invasive ventilation and high flow) at day 14. Thus, events considered are needing ventilator utilization (including Non Invasive Ventilation, NIV or high flow), or death. New DNR order (if given after the inclusion of the patient) will be considered as an event at the date of the DNR.</description>
   </primary_outcome>
   <primary_outcome>
     <measure>WHO progression scale &lt;=5 at day 4</measure>
     <time_frame>4 days</time_frame>
-    <description>WHO progression scale:
+    <description>Proportion of patients alive without non-invasive ventilation of high low at day 4 (WHO progression scale ≤ 5). A patient with new DNR order at day 4 will be considered as with a score &gt; 5.
+WHO progression scale:
 Uninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2&gt;=150 OR SpO2/FIO2&gt;=200: 7 Mechanical ventilation, (pO2/FIO2&lt;150 OR SpO2/FIO2&lt;200) OR vasopressors (norepinephrine &gt;0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2&lt;150 AND vasopressors (norepinephrine &gt;0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10</description>
   </primary_outcome>
   <primary_outcome>
     <measure>Cumulative incidence of successful tracheal extubation (defined as duration extubation &gt; 48h) at day 14</measure>
     <time_frame>14 days</time_frame>
-    <description>Cumulative incidence of successful tracheal extubation (defined as duration extubation &gt; 48h) at day 14. Death or DNR order will be considered as a competing event.</description>
+    <description>Cumulative incidence of successful tracheal extubation (defined as duration extubation &gt; 48h) at day 14 if patients have been intubated before day 14 ; or removal of NIV or high flow (for &gt; 48h) if they were included under oxygen by NIV or High flow (score 6) and remained without intubation. Death or new DNR order (if given after the inclusion of the patient) will be considered as a competing event.</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>WHO progression scale &lt;=7 at day 4</measure>
+    <measure>WHO progression scale at day 4</measure>
     <time_frame>4 days</time_frame>
-    <description>WHO progression scale:
+    <description>Early end point: proportion of patients with a decrease of WHO score of at least 1 point at day 4.
+WHO progression scale:
 Uninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2&gt;=150 OR SpO2/FIO2&gt;=200: 7 Mechanical ventilation, (pO2/FIO2&lt;150 OR SpO2/FIO2&lt;200) OR vasopressors (norepinephrine &gt;0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2&lt;150 AND vasopressors (norepinephrine &gt;0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10</description>
   </primary_outcome>
   <secondary_outcome>
@@ -223,9 +225,9 @@ Uninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Sympto
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>March 31, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 2, 2020</study_first_posted>
-  <last_update_submitted>March 31, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 31, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 2, 2020</last_update_posted>
+  <last_update_submitted>April 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

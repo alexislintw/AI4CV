@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="46">
+<clinical_study rank="53">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04333225</url>
   </required_header>
@@ -36,7 +36,7 @@
       not to receive the study drug will form the control group.
     </textblock>
   </brief_summary>
-  <overall_status>Recruiting</overall_status>
+  <overall_status>Enrolling by invitation</overall_status>
   <start_date type="Anticipated">April 3, 2020</start_date>
   <completion_date type="Anticipated">July 30, 2020</completion_date>
   <primary_completion_date type="Anticipated">July 30, 2020</primary_completion_date>
@@ -169,16 +169,6 @@ All cause death</description>
     <role>Principal Investigator</role>
     <affiliation>Baylor Health Care System</affiliation>
   </overall_official>
-  <overall_contact>
-    <last_name>Laura Clariday, CCRC</last_name>
-    <phone>214-820-7224</phone>
-    <email>Laura.Clariday@BSWHealth.org</email>
-  </overall_contact>
-  <overall_contact_backup>
-    <last_name>Rebecca Baker, MSN, APRN</last_name>
-    <phone>214-820-7965</phone>
-    <email>Rebecca.Baker2@BSWHealth.org</email>
-  </overall_contact_backup>
   <location>
     <facility>
       <name>Baylor University Medical Center</name>
@@ -189,21 +179,6 @@ All cause death</description>
         <country>United States</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Laura Clariday, CCRC</last_name>
-      <phone>214-820-7224</phone>
-      <email>Laura.Clariday@BSWHealth.org</email>
-    </contact>
-    <contact_backup>
-      <last_name>Rebecca Baker, MSN, APRN</last_name>
-      <phone>214-820-7965</phone>
-      <email>Rebecca.Baker2@BSWHealth.org</email>
-    </contact_backup>
-    <investigator>
-      <last_name>Peter A McCullough, MD, MPH</last_name>
-      <role>Principal Investigator</role>
-    </investigator>
   </location>
   <location_countries>
     <country>United States</country>
@@ -212,9 +187,9 @@ All cause death</description>
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 5, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 5, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

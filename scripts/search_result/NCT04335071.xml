@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="116">
+<clinical_study rank="144">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04335071</url>
   </required_header>
@@ -12,7 +12,7 @@
     <secondary_id>2020DR2044</secondary_id>
     <nct_id>NCT04335071</nct_id>
   </id_info>
-  <brief_title>Multicenter, Double-blind, Randomized Controlled Trial of Tocilizumab in the Treatment of Coronavirus Induced Disease (COVID-19)</brief_title>
+  <brief_title>Tocilizumab in the Treatment of Coronavirus Induced Disease (COVID-19)</brief_title>
   <acronym>CORON-ACT</acronym>
   <official_title>CORON-ACT - a Multicenter, Double-blind, Randomized Controlled Phase II Trial on the Efficacy and Safety of Tocilizumab in the Treatment of Coronavirus Induced Disease (COVID-19)</official_title>
   <sponsors>
@@ -383,9 +383,9 @@
   <study_first_submitted>April 2, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

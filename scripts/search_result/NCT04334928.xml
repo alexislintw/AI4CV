@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="184">
+<clinical_study rank="224">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04334928</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>PrEP COVID-19</org_study_id>
     <nct_id>NCT04334928</nct_id>
   </id_info>
-  <brief_title>Clinical Trial for the Prevention of SARS-CoV-2 Infection (COVID-19) in Healthcare Personnel (EPICOS)</brief_title>
+  <brief_title>Randomized Clinical Trial for the Prevention of SARS-CoV-2 Infection (COVID-19) in Healthcare Personnel</brief_title>
   <acronym>EPICOS</acronym>
   <official_title>Prevention of SARS-CoV-2 (COVID-19) Through Pre-Exposure Prophylaxis With Tenofovir Disoproxil Fumarate/Emtricitabine and Hydroxychloroquine in Healthcare Personnel: Randomized Clinical Trial Controlled With Placebo</official_title>
   <sponsors>
@@ -78,7 +78,7 @@
     <intervention_model>Parallel Assignment</intervention_model>
     <primary_purpose>Prevention</primary_purpose>
     <masking>Double (Participant, Investigator)</masking>
-    <masking_description>Randomised double-blind clinical trial</masking_description>
+    <masking_description>Randomized double-blind clinical trial</masking_description>
   </study_design_info>
   <primary_outcome>
     <measure>Number of confirmed symptomatic infections of SARS-CoV-2 (COVID-19)</measure>
@@ -252,9 +252,9 @@ Dose: one tablet once a day (both at dinner)</description>
   <study_first_submitted>April 2, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 4, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 4, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

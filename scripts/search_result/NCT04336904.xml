@@ -3,7 +3,7 @@
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04336904</url>
   </required_header>
@@ -57,7 +57,7 @@ It is planned to randomize 100 subjects in an 1:1 ratio. Subjects in the test gr
   <primary_outcome>
     <measure>Time from randomization to clinical recovery</measure>
     <time_frame>90 days</time_frame>
-    <description>The duration from start of treatment (Favipiravir or placebo) to normalization of pyrexia, respiratory rate and SPO2 and relief of cough (where there are relevant abnormal symptoms at enrolment) that is maintained for at least 72h.</description>
+    <description>The duration from start of treatment (Favipiravir or placebo) to normalization of pyrexia, respiratory rate and SPO2 and relief of cough (where there are relevant abnormal symptoms at enrolment) that is maintained for at least 72 hours.</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Time from randomization to negativity in RT-PCR nucleic acid test</measure>
@@ -270,10 +270,10 @@ Where the subject has experienced an adverse event related to liver injury of gr
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 3, 2020</study_first_submitted>
   <study_first_submitted_qc>April 3, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 7, 2020</study_first_posted>
-  <last_update_submitted>April 3, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 7, 2020</study_first_posted>
+  <last_update_submitted>April 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>ASST Fatebenefratelli Sacco</investigator_affiliation>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="354">
+<clinical_study rank="427">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04320862</url>
   </required_header>
@@ -32,18 +32,19 @@
       Research Network (PRN): Duke Community Health Watch&quot; study leverages technology, clinical
       research, epidemiology, telemedicine, and population health management capabilities to
       understand how to safely COVID-19. The target population is individuals in the Duke Health
-      region who have flu-like symptoms, a viral test order for COVID-19, confirmed COVID-19, or
-      concern for exposure to COVID-19. A subgroup of particular interest within the target
-      population is health care workers (HCW) and families of HCW. Community members will enroll in
-      the study electronically and for 28 days will be reminded via email or SMS to submit signs
-      and symptoms related to COVID-19. Participants who report symptoms will be provided
-      information about COVID-19 testing (if needed) and established mechanisms to seek care within
-      Duke Health. Instructions for telemedicine and in-person visits, which is available publicly
-      at https://www.dukehealth.org/covid-19-update, will be presented to participants.
-      Participants who are unable to report symptoms independently may be contacted via telephone
-      by Population Health Management Office (PHMO) or Clinical Events Classification (CEC) team
-      members. Data collected through the &quot;Pandemic Research Network (PRN): Duke Community Health
-      Watch&quot; study will be used for three objectives.
+      region as well as individuals beyond the Duke Health region who have flu-like symptoms, a
+      viral test order for COVID-19, confirmed COVID-19, or concern for exposure to COVID-19. A
+      subgroup of particular interest within the target population is health care workers (HCW) and
+      families of HCW. Community members will enroll in the study electronically and for 28 days
+      will be reminded via email or SMS to submit signs and symptoms related to COVID-19.
+      Participants who report symptoms will be provided information about COVID-19 testing (if
+      needed) and established mechanisms to seek care within Duke Health. Instructions for
+      telemedicine and in-person visits, which is available publicly at
+      https://www.dukehealth.org/covid-19-update, will be presented to participants. Participants
+      who are unable to report symptoms independently may be contacted via telephone by Population
+      Health Management Office (PHMO) or Clinical Events Classification (CEC) team members. Data
+      collected through the &quot;Pandemic Research Network (PRN): Duke Community Health Watch&quot; study
+      will be used for three objectives.
 
         -  First, to characterize the epidemiological features of COVID-19. Specifically, we will
            have a high-risk subgroup of HCW and families of HCW that we enroll.
@@ -59,8 +60,8 @@
       Analytics Compute Environment (PACE).
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">March 31, 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 3, 2020</start_date>
   <completion_date type="Anticipated">December 31, 2021</completion_date>
   <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
   <study_type>Observational</study_type>
@@ -94,13 +95,13 @@
   <condition>Lower Resp Tract Infection</condition>
   <condition>Upper Resp Tract Infection</condition>
   <arm_group>
-    <arm_group_label>Individuals in the Duke Health region</arm_group_label>
-    <description>Individuals in the Duke Health region who have flu-like symptoms, a viral test order for COVID-19, confirmed COVID-19, or concern for exposure to COVID-19.</description>
+    <arm_group_label>Duke Health region and beyond</arm_group_label>
+    <description>Individuals in the Duke Health region as well as individuals beyond the Duke Health region who have flu-like symptoms, a viral test order for COVID-19, confirmed COVID-19, or concern for exposure to COVID-19.</description>
   </arm_group>
   <eligibility>
     <study_pop>
       <textblock>
-        Individuals in the Duke Health region
+        Individuals in the Duke Health region as well as individuals beyond the Duke Health region
       </textblock>
     </study_pop>
     <sampling_method>Non-Probability Sample</sampling_method>
@@ -146,6 +147,7 @@
         <country>United States</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <investigator>
       <last_name>Raquel Bartz, M.D.</last_name>
       <role>Sub-Investigator</role>
@@ -166,13 +168,13 @@
   <location_countries>
     <country>United States</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 23, 2020</study_first_submitted>
   <study_first_submitted_qc>March 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 25, 2020</study_first_posted>
-  <last_update_submitted>March 30, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 30, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 31, 2020</last_update_posted>
+  <last_update_submitted>April 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

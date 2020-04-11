@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="176">
+<clinical_study rank="216">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04323800</url>
   </required_header>
@@ -16,11 +16,11 @@
   <official_title>Convalescent Plasma to Stem Coronavirus: A Randomized, Blinded Phase 2 Study Comparing the Efficacy and Safety Human Coronavirus Immune Plasma (HCIP) vs. Control (SARS-CoV-2 Non-immune Plasma) Among Adults Exposed to COVID-19</official_title>
   <sponsors>
     <lead_sponsor>
-      <agency>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</agency>
+      <agency>Johns Hopkins University</agency>
       <agency_class>Other</agency_class>
     </lead_sponsor>
   </sponsors>
-  <source>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</source>
+  <source>Johns Hopkins University</source>
   <oversight_info>
     <has_dmc>Yes</has_dmc>
     <is_fda_regulated_drug>No</is_fda_regulated_drug>
@@ -35,7 +35,7 @@
     </textblock>
   </brief_summary>
   <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 1, 2020</start_date>
+  <start_date type="Anticipated">May 1, 2020</start_date>
   <completion_date type="Anticipated">January 2023</completion_date>
   <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
   <phase>Phase 2</phase>
@@ -101,8 +101,18 @@ Not hospitalized, no clinical evidence of COVID-19 infection, but with positive 
   </secondary_outcome>
   <secondary_outcome>
     <measure>Peak quantity levels of SARS-CoV-2 RNA</measure>
-    <time_frame>Up to day 14</time_frame>
-    <description>Compare the peak quantity levels of SARS-CoV-2 RNA amongst the anti-SARS-CoV-2 convalescent plasma and control (SARS-CoV-2 non-immune plasma) groups at days 0, 7, 14 days.</description>
+    <time_frame>Up to day 28</time_frame>
+    <description>Compare the peak quantity levels of SARS-CoV-2 RNA amongst the anti-SARS-CoV-2 convalescent plasma and control (SARS-CoV-2 non-immune plasma) groups at days 0, 7, 14 and 28 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of disease severity</measure>
+    <time_frame>up to Day 28</time_frame>
+    <description>Cumulative incidence of disease severity between the anti-SARS-CoV-2 convalescent plasma and control groups after individuals develop SARS-CoV-2 infection. Severity of disease will be measured using a clinical event scale of disease severity (evaluated up to Day 28):
+Death
+Requiring mechanical ventilation and/or in ICU
+non-ICU hospitalization, requiring supplemental oxygen;
+non-ICU hospitalization, not requiring supplemental oxygen;
+Not hospitalized, but with clinical and laboratory evidence of COVID-19 infection</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">150</enrollment>
@@ -140,20 +150,28 @@ Not hospitalized, no clinical evidence of COVID-19 infection, but with positive 
           -  Close contact* exposure to person with COVID-19 within 96 hours of enrollment (and 120
              hours of receipt of plasma)
 
-          -  If female must not be pregnant and/or breastfeeding. Women of childbearing potential
-             and men, must be willing to practice an effective contraceptive method or remain
-             abstinent during the study period.
+        High risk exposure as defined by CDC: Living in the same household as, being an intimate
+        partner of, or providing care in a nonhealthcare setting (such as a home) for a person with
+        symptomatic laboratory-confirmed COVID-19 infection without using recommended precautions
+        for home care and home isolation
 
-             *Close contact* is defined by the Centers for Disease Control and Prevention (CDC) as:
+        AND
 
-             a) being within approximately 6 feet (2 meters) of a COVID-19 case for a prolonged
-             period of time (without PPE); close contact can occur while caring for, living with,
-             visiting, or sharing a healthcare waiting area or room with a COVID-19 case
+        Higher risk for severe illness as defined by CDC (any of the following):
 
-          -  or -
+          -  65 years of age
 
-             b) having direct contact with infectious secretions of a COVID-19 case (e.g., being
-             coughed on) without PPE
+               -  Residence in a nursing home or long-term care facility 3.3 -Chronic lung disease
+                  or moderate to severe asthma 3.4 -Heart disease 3.5 -Immunocompromising condition
+                  including cancer treatment
+
+               -  Severe obesity (body mass index [BMI] &gt;40)
+
+               -  Uncontrolled diabetes
+
+               -  Renal failure
+
+               -  Liver disease
 
         Exclusion Criteria:
 
@@ -178,27 +196,22 @@ Not hospitalized, no clinical evidence of COVID-19 infection, but with positive 
     <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
   </eligibility>
   <overall_official>
-    <last_name>Darin Ostrander, PhD</last_name>
-    <role>Study Director</role>
+    <last_name>Shmuel Shoham, MD</last_name>
+    <role>Principal Investigator</role>
     <affiliation>Johns Hopkins University</affiliation>
   </overall_official>
   <overall_contact>
-    <last_name>Darin Ostrander, PhD</last_name>
+    <last_name>Shmuel Shoham, MD</last_name>
     <phone>410-614-6702</phone>
     <email>TOID_CRC@jhmi.edu</email>
   </overall_contact>
-  <overall_contact_backup>
-    <last_name>Obi Ezennia, MPH</last_name>
-    <phone>410-614-6702</phone>
-    <email>TOID_CRC@jhmi.edu</email>
-  </overall_contact_backup>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 24, 2020</study_first_submitted>
   <study_first_submitted_qc>March 26, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>March 31, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 31, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 2, 2020</last_update_posted>
+  <last_update_submitted>April 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="55">
+<clinical_study rank="62">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04292899</url>
   </required_header>
@@ -29,8 +29,7 @@
   <brief_summary>
     <textblock>
       The primary objective of this study is to evaluate the efficacy of 2 remdesivir (RDV)
-      regimens with respect to the normalization of temperature and oxygen saturation through Day
-      14 in participants with severe coronavirus disease (COVID-19).
+      regimens with respect to clinical status assessed by a 7-point ordinal scale on Day 14.
     </textblock>
   </brief_summary>
   <overall_status>Recruiting</overall_status>
@@ -39,7 +38,7 @@
   <primary_completion_date type="Anticipated">May 2020</primary_completion_date>
   <phase>Phase 3</phase>
   <study_type>Interventional</study_type>
-  <has_expanded_access>No</has_expanded_access>
+  <has_expanded_access>Yes</has_expanded_access>
   <study_design_info>
     <allocation>Randomized</allocation>
     <intervention_model>Parallel Assignment</intervention_model>
@@ -47,59 +46,78 @@
     <masking>None (Open Label)</masking>
   </study_design_info>
   <primary_outcome>
-    <measure>Proportion of Participants With Normalization of Fever and Oxygen Saturation Through Day 14</measure>
-    <time_frame>First dose date up to 14 days</time_frame>
-    <description>This is a composite outcome measure. Criteria for fever normalization: Temperature &lt; 36.6 °C armpit, &lt; 37.2 °C oral, or &lt; 37.8 °C rectal sustained for at least 24 hours and criteria for oxygen normalization: peripheral capillary oxygen saturation (Sp02) &gt; 94% sustained for at least 24 hours.</description>
+    <measure>The Odds of Ratio for Improvement on a 7-point Ordinal Scale on Day 14</measure>
+    <time_frame>Day 14</time_frame>
+    <description>The odds ratio represents the odds of improvement in the ordinal scale between the treatment groups. The ordinal scale is an assessment of the clinical status at a given day. Each day, the worst score from the previous day will be recorded. The scale is as follows: 1. Death 2. Hospitalized, on invasive mechanical ventilation or Extracorporeal Membrane Oxygenation (ECMO) 3. Hospitalized, on non-invasive ventilation or high flow oxygen devices 4. Hospitalized, requiring low flow supplemental oxygen 5. Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (coronavirus (COVID-19) related or otherwise) 6. Hospitalized, not requiring supplemental oxygen - no longer required ongoing medical care (other than per protocol Remdesivir administration 7. Not hospitalized.</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>Proportion of Participants With Treatment Emergent Adverse Events Leading to Study Drug Discontinuation</measure>
-    <time_frame>First dose date up to 10 days</time_frame>
+    <measure>Proportion of Participants Experiencing any Treatment-Emergent Adverse Events</measure>
+    <time_frame>First dose date up to 10 days plus 30 days</time_frame>
   </secondary_outcome>
-  <number_of_arms>2</number_of_arms>
-  <enrollment type="Anticipated">400</enrollment>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">2400</enrollment>
   <condition>COVID-19</condition>
   <arm_group>
-    <arm_group_label>Remdesivir (RDV), 5 Days</arm_group_label>
+    <arm_group_label>Part A: Remdesivir (RDV), 5 Days (Not Mechanically Ventilated)</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Participants will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2, 3, 4, and 5.</description>
+    <description>Participants who are not mechanically ventilated will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2, 3, 4, and 5.</description>
   </arm_group>
   <arm_group>
-    <arm_group_label>Remdesivir, 10 Days</arm_group_label>
+    <arm_group_label>Part A: Remdesivir, 10 Days (Not Mechanically Ventilated)</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Participants will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2, 3, 4, 5, 6, 7, 8, 9, and 10.</description>
+    <description>Participants who are not mechanically ventilated will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2, 3, 4, 5, 6, 7, 8, 9, and 10.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: Remdesivir, 5 or 10 Days (Extension)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part B (Extension) will enroll participants after enrollment to Part A is complete. Participants will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2-10.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: Remdesivir 10 days (Mechanically Ventilated)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants on mechanical ventilation will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2-10</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Remdesivir</intervention_name>
     <description>Administered as an intravenous infusion</description>
-    <arm_group_label>Remdesivir (RDV), 5 Days</arm_group_label>
-    <arm_group_label>Remdesivir, 10 Days</arm_group_label>
+    <arm_group_label>Part A: Remdesivir (RDV), 5 Days (Not Mechanically Ventilated)</arm_group_label>
+    <arm_group_label>Part A: Remdesivir, 10 Days (Not Mechanically Ventilated)</arm_group_label>
+    <arm_group_label>Part B: Remdesivir 10 days (Mechanically Ventilated)</arm_group_label>
+    <arm_group_label>Part B: Remdesivir, 5 or 10 Days (Extension)</arm_group_label>
     <other_name>GS-5734™</other_name>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Standard of Care</intervention_name>
-    <description>Standard of care therapy per local written policies or guidelines</description>
-    <arm_group_label>Remdesivir (RDV), 5 Days</arm_group_label>
-    <arm_group_label>Remdesivir, 10 Days</arm_group_label>
+    <description>Standard of Care Treatment for COVID-19 Infection</description>
+    <arm_group_label>Part A: Remdesivir (RDV), 5 Days (Not Mechanically Ventilated)</arm_group_label>
+    <arm_group_label>Part A: Remdesivir, 10 Days (Not Mechanically Ventilated)</arm_group_label>
+    <arm_group_label>Part B: Remdesivir 10 days (Mechanically Ventilated)</arm_group_label>
+    <arm_group_label>Part B: Remdesivir, 5 or 10 Days (Extension)</arm_group_label>
   </intervention>
   <eligibility>
     <criteria>
       <textblock>
         Key Inclusion Criteria:
 
-          -  Willing and able to provide written informed consent prior to performing study
-             procedures
+          -  Willing and able to provide written informed consent, or with a legal representative
+             who can provide informed consent, or enrolled under International Conference on
+             Harmonization (ICH) E6(R2) 4.8.15 emergency use provisions as deemed necessary by the
+             investigator (age ≥18), or willing and able to provide assent (age ≥12 to &lt;18, where
+             locally and nationally approved) prior to performing study procedures
+
+          -  Aged ≥ 18 years (at all sites), or aged ≥ 12 and &lt; 18 years of age weighing ≥ 40 kg
+             (where permitted according to local law and approved nationally and by the relevant
+             institutional review board [IRB] or independent ethics committee [IEC])
 
           -  Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV)-2 infection confirmed by
              polymerase chain reaction (PCR) test ≤ 4 days before randomization
 
-          -  Currently hospitalized with fever defined as temperature ≥ 36.6 °C armpit, ≥ 37.2 °C
-             oral, or ≥ 37.8 °C rectal
+          -  Currently hospitalized
 
-          -  Peripheral capillary oxygen saturation (SpO2) ≤ 94% on room air at screening
-
-          -  Radiographic evidence of pulmonary infiltrates
+          -  Peripheral capillary oxygen saturation (SpO2) ≤ 94% or requiring supplemental oxygen
+             at screening
 
         Key Exclusion Criteria:
 
@@ -110,18 +128,22 @@
 
           -  Evidence of multiorgan failure
 
+          -  Mechanically ventilated (including V-V ECMO) ≥ 5 days, or any duration of V-A ECMO.
+
           -  Requiring mechanical ventilation at screening
 
           -  Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) &gt; 5 X upper limit
              of normal (ULN)
 
-          -  Creatinine clearance &lt; 50 mL/min
+          -  Creatinine clearance &lt; 50 mL/min using the Cockcroft-Gault formula for participants ≥
+             18 years of age {Cockcroft 1976} and Schwartz Formula for participants &lt; 18 years of
+             age
 
         Note: Other protocol defined Inclusion/Exclusion criteria may apply.
       </textblock>
     </criteria>
     <gender>All</gender>
-    <minimum_age>18 Years</minimum_age>
+    <minimum_age>12 Years</minimum_age>
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
@@ -166,6 +188,18 @@
         <city>Fontana</city>
         <state>California</state>
         <zip>92335</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St Joseph Hospital Eureka</name>
+      <address>
+        <city>Fortuna</city>
+        <state>California</state>
+        <zip>95540</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -281,6 +315,18 @@
   </location>
   <location>
     <facility>
+      <name>The Center for Cancer Prevention and Treatment at St. Joseph Hospital of Orange</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Kaiser Permanente Los Angeles Medical Center,13651 Willard Street</name>
       <address>
         <city>Panorama City</city>
@@ -310,6 +356,18 @@
         <city>San Diego</city>
         <state>California</state>
         <zip>92120-2507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>California Pacific Medical Center-Infectious Disease Associates Medical Group</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94109</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -365,6 +423,54 @@
   </location>
   <location>
     <facility>
+      <name>University of Colorado Denver, University of Colorado Hospital</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SCL Health St. Joseph Hospital, 1375 East 19th Ave</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SCL Health St. Joseph Hospital</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SCL Health St. Joseph Hospital, 200 Exempla Circle.</name>
+      <address>
+        <city>Lafayette</city>
+        <state>Colorado</state>
+        <zip>80026</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Yale-New Haven Hospital</name>
       <address>
         <city>New Haven</city>
@@ -413,6 +519,30 @@
   </location>
   <location>
     <facility>
+      <name>University of Iowa Hospitals &amp; Clinics</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Cross Hospital</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Tufts Medical Center</name>
       <address>
         <city>Boston</city>
@@ -445,7 +575,7 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -581,6 +711,18 @@
   </location>
   <location>
     <facility>
+      <name>North Shore University Hospital, 270-05 76th Ave</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>North Shore University Hospital</name>
       <address>
         <city>Manhasset</city>
@@ -602,6 +744,9 @@
       </address>
     </facility>
     <status>Recruiting</status>
+    <contact>
+      <email>COVIDGILEAD@mssm.edu</email>
+    </contact>
   </location>
   <location>
     <facility>
@@ -614,6 +759,9 @@
       </address>
     </facility>
     <status>Recruiting</status>
+    <contact>
+      <email>COVIDGILEAD@mssm.edu</email>
+    </contact>
   </location>
   <location>
     <facility>
@@ -626,6 +774,9 @@
       </address>
     </facility>
     <status>Recruiting</status>
+    <contact>
+      <email>COVIDGILEAD@mssm.edu</email>
+    </contact>
   </location>
   <location>
     <facility>
@@ -638,18 +789,9 @@
       </address>
     </facility>
     <status>Recruiting</status>
-  </location>
-  <location>
-    <facility>
-      <name>Columbia University Irving Medical Center</name>
-      <address>
-        <city>New York</city>
-        <state>New York</state>
-        <zip>10032</zip>
-        <country>United States</country>
-      </address>
-    </facility>
-    <status>Recruiting</status>
+    <contact>
+      <email>COVIDGILEAD@mssm.edu</email>
+    </contact>
   </location>
   <location>
     <facility>
@@ -749,11 +891,47 @@
   </location>
   <location>
     <facility>
+      <name>Temple University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>The Miriam Hospital</name>
       <address>
         <city>Providence</city>
         <state>Rhode Island</state>
         <zip>02906</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Prisma Health Richland Hospital</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Liver Institute of Methodist Dallas Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75203</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -845,6 +1023,30 @@
   </location>
   <location>
     <facility>
+      <name>University of Utah Health</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Medical Center</name>
+      <address>
+        <city>Arlington</city>
+        <state>Virginia</state>
+        <zip>22205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Inova Fairfax Medical Campus</name>
       <address>
         <city>Falls Church</city>
@@ -874,6 +1076,18 @@
         <city>Everett</city>
         <state>Washington</state>
         <zip>98201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Providence St. Peter Hospital</name>
+      <address>
+        <city>Olympia</city>
+        <state>Washington</state>
+        <zip>98506</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -929,10 +1143,100 @@
   </location>
   <location>
     <facility>
+      <name>St Joseph Medical Center</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de BORDEAUX</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chu Montpellier</name>
+      <address>
+        <city>Montpelier Cedex 5</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Nantes</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44035</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Dusseldorf, Klinik fur Gastroenterologie, Hepatologie und Infektiologie</name>
+      <address>
+        <city>Düsseldorf</city>
+        <state>WA</state>
+        <zip>40225</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Hamburg-Eppendorf</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20246</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Schleswig-Holstein Campus Kiel</name>
+      <address>
+        <city>Kiel</city>
+        <zip>24105</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Klinikum rechts der Isar der TU Munchen, Klinik und Poliklinik Innere Medizin 2</name>
       <address>
         <city>Munich</city>
         <zip>81675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinik für Hämatologie, Onkologie, Immunologie</name>
+      <address>
+        <city>München</city>
+        <zip>80804</zip>
         <country>Germany</country>
       </address>
     </facility>
@@ -992,6 +1296,39 @@
   </location>
   <location>
     <facility>
+      <name>UOC Malattie Infettive, IRCCS Ospedale San Raffaele</name>
+      <address>
+        <city>Milano</city>
+        <zip>20127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dipartimento di Malattie Infettive, Malattie Infettive I- Malattie Infettive III, AssT Fatebenefratelli Sacco Ospedale Luigi Sacco</name>
+      <address>
+        <city>Milano</city>
+        <zip>20157</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO Malattie Infettive, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico</name>
+      <address>
+        <city>Milan</city>
+        <zip>20122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>UOC Medicina Di Laboratorio, Azienda Ospedaliera di Padova</name>
       <address>
         <city>Padova PD</city>
@@ -1018,6 +1355,27 @@
       <address>
         <city>Pavia</city>
         <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Guglielmo da Saliceto AUSL di Piacenza</name>
+      <address>
+        <city>Piacenza</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UOC Malattie Infettive ad Alta Intensita di Cure, Istituto Nazionale Malattie Infettive Lazzaro Spallanzani I.R.C.C.S.</name>
+      <address>
+        <city>Roma</city>
+        <zip>00149</zip>
         <country>Italy</country>
       </address>
     </facility>
@@ -1058,6 +1416,28 @@
   </location>
   <location>
     <facility>
+      <name>Leiden University Medical Center</name>
+      <address>
+        <city>Leiden</city>
+        <zip>2300 RC</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Erasmus Medical Centre</name>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3015 GD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>National University Hospital</name>
       <address>
         <city>Singapore</city>
@@ -1091,6 +1471,29 @@
   </location>
   <location>
     <facility>
+      <name>Hospital Principe de Asturias</name>
+      <address>
+        <city>Alcalá De Henares</city>
+        <state>Madrid</state>
+        <zip>28805</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Hospital Clinic de Barcelona</name>
       <address>
         <city>Barcelona</city>
@@ -1102,10 +1505,54 @@
   </location>
   <location>
     <facility>
+      <name>Hospital Universitario Cruces</name>
+      <address>
+        <city>Bizkaia</city>
+        <zip>48903</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Ramón y Cajal</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Hospital Universitario La Paz</name>
       <address>
         <city>Madrid</city>
         <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional Universitario de Málaga</name>
+      <address>
+        <city>Málaga</city>
+        <zip>29010</zip>
         <country>Spain</country>
       </address>
     </facility>
@@ -1179,10 +1626,54 @@
   </location>
   <location>
     <facility>
+      <name>Hull University Teaching Hospitals NHS Trust</name>
+      <address>
+        <city>Hull</city>
+        <zip>HU16 5JQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Lancaster Hospital</name>
+      <address>
+        <city>Lancaster</city>
+        <zip>LA1 4RP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Liverpool University Hospital</name>
+      <address>
+        <city>Liverpool</city>
+        <zip>L7 8XP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>King's College Hospital NHS Trust</name>
       <address>
         <city>London</city>
         <zip>SE5 9RS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University College London</name>
+      <address>
+        <city>London</city>
+        <zip>WC1E 6JF</zip>
         <country>United Kingdom</country>
       </address>
     </facility>
@@ -1199,11 +1690,35 @@
     </facility>
     <status>Recruiting</status>
   </location>
+  <location>
+    <facility>
+      <name>Derriford Hospital</name>
+      <address>
+        <city>Plymouth</city>
+        <zip>PL6 8BG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sheffield Teaching Hospitals</name>
+      <address>
+        <city>Sheffield</city>
+        <zip>S10 2JF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
   <location_countries>
+    <country>France</country>
     <country>Germany</country>
     <country>Hong Kong</country>
     <country>Italy</country>
     <country>Korea, Republic of</country>
+    <country>Netherlands</country>
     <country>Singapore</country>
     <country>Spain</country>
     <country>Switzerland</country>
@@ -1215,9 +1730,9 @@
   <study_first_submitted>February 28, 2020</study_first_submitted>
   <study_first_submitted_qc>February 28, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 3, 2020</study_first_posted>
-  <last_update_submitted>April 1, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 1, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 2, 2020</last_update_posted>
+  <last_update_submitted>April 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

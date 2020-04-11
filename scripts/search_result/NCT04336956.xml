@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="60">
+<clinical_study rank="69">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04336956</url>
   </required_header>
@@ -70,8 +70,8 @@
       with Covid19 in France, according to age groups.
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 1, 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 7, 2020</start_date>
   <completion_date type="Anticipated">June 30, 2021</completion_date>
   <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
   <study_type>Observational [Patient Registry]</study_type>
@@ -191,13 +191,60 @@
     <phone_ext>0033</phone_ext>
     <email>corinne.levy@activ-france.fr</email>
   </overall_contact>
+  <location>
+    <facility>
+      <name>Centre Hospitalier intercommunal de Creteil</name>
+      <address>
+        <city>Creteil</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Camille Jung</last_name>
+    </contact>
+    <investigator>
+      <last_name>Xavier DURRMEYER</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ralph EPAUD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Assistance Publique Hôpitaux de Paris</name>
+      <address>
+        <city>Paris</city>
+        <zip>75004</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>François Angoulvant</last_name>
+    </contact>
+    <investigator>
+      <last_name>François Angoulvant</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Albert Faye</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>March 30, 2020</study_first_submitted>
   <study_first_submitted_qc>April 6, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 7, 2020</study_first_posted>
-  <last_update_submitted>April 6, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 7, 2020</study_first_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

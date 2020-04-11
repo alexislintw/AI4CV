@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="117">
+<clinical_study rank="335">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04326725</url>
   </required_header>
@@ -12,7 +12,7 @@
     <nct_id>NCT04326725</nct_id>
   </id_info>
   <brief_title>Proflaxis Using Hydroxychloroquine Plus Vitamins-Zinc During COVID-19 Pandemia</brief_title>
-  <official_title>Proflaxis for Healthcare Professionals Using Hydroxychloroquine Plus Vitamin Combining Vitamins A, C, D and Zinc During COVID-19 Pandemia: An Observational Study</official_title>
+  <official_title>Proflaxis for Healthcare Professionals Using Hydroxychloroquine Plus Vitamin Combining Vitamins C, D and Zinc During COVID-19 Pandemia: An Observational Study</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Istinye University</agency>
@@ -62,7 +62,8 @@
   </primary_outcome>
   <number_of_groups>1</number_of_groups>
   <enrollment type="Anticipated">80</enrollment>
-  <condition>to Evaluate the Efficacy of Hydroxychloroquine Plus vitACD-Zinc as Prevention for COVID19 Infection</condition>
+  <condition>Pneumonitis</condition>
+  <condition>Coronavirus Infection</condition>
   <arm_group>
     <arm_group_label>Hydroxychloroquine</arm_group_label>
     <description>Subjects with prophylaxis</description>
@@ -85,15 +86,36 @@
     <sampling_method>Probability Sample</sampling_method>
     <criteria>
       <textblock>
-        Inclusion Criteria: 1.person who are working as health professional 2. Their first degree
-        relatives( child, spouse or parents)
+        Inclusion Criteria:
 
-        Exclusion Criteria: 1. Already using plaquenil for other reasons(RA etc) 2. person with the
-        diagnosis of COVID infection 3.Person with the condition may cause complications with this
-        medication (severe CVD, av block, already has ophtalmological complications, organ failure
-        of any degree etc)
+          1. person who are working as health professional with contact to known COVID positive
+             case
 
-        -
+          2. Their first degree relatives (child, spouse or parents)
+
+          3. must be able to swallow tablets
+
+        Exclusion Criteria:
+
+          1. Already using plaquenil for other reasons (RA etc)
+
+          2. person with the diagnosis of COVID infection
+
+          3. Person with the condition may cause complications with this medication (severe CVD, av
+             block, already has ophtalmological complications, organ failure of any degree etc).
+
+          4. Documented allergic history to chloroquine;
+
+          5. Documented history of hematological system diseases;
+
+          6. Documented history of chronic liver and kidney diseases;
+
+          7. Documented history of cardiac arrhythmia or chronic heart diseases;
+
+          8. Documented history of retina or hearing dysfunction;
+
+          9. Documented history of mental illnesses; 10. Use of digitalis due to the previous
+             disease.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -165,13 +187,13 @@
     <citation>Plantone D, Koudriavtseva T. Current and Future Use of Chloroquine and Hydroxychloroquine in Infectious, Immune, Neoplastic, and Neurological Diseases: A Mini-Review. Clin Drug Investig. 2018 Aug;38(8):653-671. doi: 10.1007/s40261-018-0656-y. Review.</citation>
     <PMID>29737455</PMID>
   </reference>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 26, 2020</study_first_submitted>
   <study_first_submitted_qc>March 27, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 30, 2020</study_first_posted>
-  <last_update_submitted>March 27, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 27, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 30, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Istinye University</investigator_affiliation>
@@ -183,6 +205,12 @@
   <keyword>prophylaxis</keyword>
   <keyword>healthcare professional</keyword>
   <keyword>outbreak</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Vitamins</mesh_term>

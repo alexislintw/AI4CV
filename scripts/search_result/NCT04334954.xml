@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="170">
+<clinical_study rank="209">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04334954</url>
   </required_header>
@@ -23,16 +23,42 @@
   <source>National Institutes of Health Clinical Center (CC)</source>
   <brief_summary>
     <textblock>
-      It has been demonstrated that respiratory virus outbreaks and pandemics, such as influenza,
-      SARS, MERS, and now the newly emerged SARS-COV2 virus, have a major impact on morbidity and
-      mortality worldwide, as well as having devastating global economic and societal impact.
-      During these outbreaks it is critical to gain a rapid understanding of the exposures and
-      immunity in the general population. Identifying exposures can be accomplished through
-      analysis of serum during an outbreak to identify those with specific antibodies to the
-      pathogen. The knowledge of the level of exposures could greatly impact the response to
-      current and future pandemics. In this natural history study, we will collect a single blood
-      draw from individuals to identify individuals who have anti-SARS-COV2 antibodies present
-      despite no confirmed disease or known exposures.
+      Background:
+
+      Respiratory virus outbreaks and pandemics, such as SARS, MERS, and the new SARS-COV2 virus,
+      have major impacts worldwide. Researchers must act quickly to learn about the exposures and
+      immunity in the general population. This can be done by studying people s blood serum to find
+      those with antibodies to the virus. This knowledge can help in current and future pandemics.
+      In this study, researchers want to find people who have anti-SARS-COV2 antibodies but no
+      known exposure or illness.
+
+      Objective:
+
+      To find the number of people with detectable antibodies to SARS-COV2 from a sampling of
+      adults who have no known exposure or clinical illness.
+
+      Eligibility:
+
+      Adults ages 18 and older without a confirmed COVID19 infection or current symptoms consistent
+      with COVID19
+
+      Design:
+
+      Participants will enroll and give consent over the phone. They will be screened over the
+      phone with a health assessment questionnaire. They will be screened for COVID19 using the NIH
+      COVID19 screening questionnaire.
+
+      Participants will give a blood sample. They can go to the NIH Clinical Center or do home
+      blood sampling. In-person collection at NIH is preferred.
+
+      If participants go to NIH, 2 tubes of blood will be taken.
+
+      If participants do home sampling, they will be sent a home sampling kit. The kit contains
+      gauze, an alcohol pad, a lancet, collection devices, and shipping materials. It also contains
+      detailed instructions. They will collect 80ul of blood and mail it to the NIH lab.
+
+      Participants may enroll in the study up to 4 times. They cannot enroll within 30 days of
+      previous enrollment.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -50,7 +76,7 @@
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
-  <start_date type="Anticipated">April 10, 2020</start_date>
+  <start_date type="Anticipated">April 15, 2020</start_date>
   <completion_date type="Anticipated">March 31, 2022</completion_date>
   <primary_completion_date type="Anticipated">March 31, 2022</primary_completion_date>
   <study_type>Observational</study_type>
@@ -97,7 +123,7 @@
           2. Current symptoms consistent with COVID19 infection
 
           3. Any condition or event that, in the PI s opinion, may substantially increase the risk
-             associated with study participation or compromise the study s scientific objectives.
+             associated with study participation or compromise the study's scientific objectives.
              Conditions that exclude a subject are considered to be unlikely, but an example would
              include having an acute respiratory infection or recent exposure that would prevent
              participants that would make it unsafe to obtain blood samples.
@@ -116,9 +142,9 @@
     <affiliation>National Institute of Allergy and Infectious Diseases (NIAID)</affiliation>
   </overall_official>
   <overall_contact>
-    <last_name>Matthew J Memoli, M.D.</last_name>
-    <phone>(301) 443-5971</phone>
-    <email>mm982v@nih.gov</email>
+    <last_name>Clinical Studies Unit</last_name>
+    <phone>Not Listed</phone>
+    <email>clinicalstudiesunit@nih.gov</email>
   </overall_contact>
   <location>
     <facility>
@@ -149,9 +175,9 @@
   <study_first_submitted>April 3, 2020</study_first_submitted>
   <study_first_submitted_qc>April 3, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 4, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 4, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

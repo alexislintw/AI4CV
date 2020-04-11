@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="306">
+<clinical_study rank="321">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 07, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04333849</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>2020/29</org_study_id>
     <nct_id>NCT04333849</nct_id>
   </id_info>
-  <brief_title>Telephony Or Videophony for Isolated elDerly in Maine-Et-Loire 49</brief_title>
+  <brief_title>Telephony Or Videophony for Isolated elDerly in Maine-Et-Loire 49 During COVID-19</brief_title>
   <acronym>TOVID-49</acronym>
-  <official_title>Telephony Or Videophony for Isolated elDerly in Maine-Et-Loire 49</official_title>
+  <official_title>Telephony Or Videophony for Isolated elDerly in Maine-Et-Loire 49 During COVID-19</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>University Hospital, Angers</agency>
@@ -65,36 +65,36 @@
     <time_perspective>Prospective</time_perspective>
   </study_design_info>
   <primary_outcome>
-    <measure>To identify the preferred means of communication for elderly people in isolation, hospitalized in the acute care geriatric unit or residing at St Nicolas nursing home (Angers UH).</measure>
+    <measure>Preferred means of communication for elderly people in isolation, hospitalized in the acute care geriatric unit or residing at St Nicolas nursing home (Angers UH).</measure>
     <time_frame>at baseline (day 0)</time_frame>
     <description>Choice between videophony, telephony or neither.</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>To assess the proportion of elderly people with loss of functional independence to communicate with their relatives.</measure>
+    <measure>proportion of elderly people with loss of functional independence to communicate with their relatives.</measure>
     <time_frame>at baseline (day 0)</time_frame>
     <description>Aid received or not (by a caregiver) in connecting with the relative.</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>To assess the level of satisfaction of patients who have benefited from a telephone call.</measure>
+    <measure>level of satisfaction of patients who have benefited from a telephone call.</measure>
     <time_frame>at baseline (day 0)</time_frame>
     <description>The satisfaction will be assessed using a non-validated satisfaction questionnaire based on a forced choice Likert scale in 6 points from 1 to 6. Patients will be considered as satisfied if the mean score is over 4 on 6.</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>To assess the level of satisfaction of patients who have benefited from a videophone call.</measure>
+    <measure>level of satisfaction of patients who have benefited from a videophone call.</measure>
     <time_frame>at baseline (day 0)</time_frame>
     <description>The satisfaction will be assessed using a non-validated satisfaction questionnaire based on a forced choice Likert scale in 6 points from 1 to 6. Patients will be considered as satisfied if the mean score is over 4 on 6.</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>To assess the satisfaction levels of older people according to the means of communication used.</measure>
+    <measure>satisfaction level of older people according to the means of communication used.</measure>
     <time_frame>at baseline (day 0)</time_frame>
     <description>The satisfaction averages of the two groups wishing to use a means of communication (telephony or videophony) will be compared by a Student t-test.</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>To assess the impact of age on the preferred means of communication.</measure>
+    <measure>impact of age on the preferred means of communication.</measure>
     <time_frame>at baseline (day 0)</time_frame>
   </secondary_outcome>
   <enrollment type="Anticipated">100</enrollment>
-  <condition>Old Age, Usability, Visio Telephony, Confinement, Covid-19</condition>
+  <condition>Coronavirus</condition>
   <eligibility>
     <study_pop>
       <textblock>
@@ -146,12 +146,16 @@
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 1, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 1, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 1, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 3, 2020</last_update_posted>
+  <last_update_submitted>April 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
   <!-- Results have not yet been posted for this study                                          -->
 </clinical_study>
 

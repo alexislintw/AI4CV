@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="28">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04337996</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RIPH_2020_6</org_study_id>
+    <nct_id>NCT04337996</nct_id>
+  </id_info>
+  <brief_title>Dynamic Evaluation of COVID-19 Diagnostic Tests</brief_title>
+  <acronym>TRODVID-19</acronym>
+  <official_title>Dynamic Evaluation of COVID-19 Diagnostic Tests</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tourcoing Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tourcoing Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This work aims to compare 3 tests: PCR, an antigenic Rapid Diagnostic Orientation Test (RODT)
+      and a serological TROD.
+
+      PCR is a long test, the virology laboratory is overloaded, the cost is high, leading to a
+      limitation in the number of screening tests performed and the need to expand and improve the
+      range of screening tests available.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an interventional study comparing 3 COVID-19 diagnostic tests performed at 3
+      different periods: in ascending epidemic period, in descending epidemic period, in post
+      epidemic period in order to compare the specificity and sensitivity of the tests available.
+      Patients will be sampled for the 3 tests at Day 1 and Day 5 and then monitored for symptoms
+      and clinical data at Day 21 and Day 28.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2020</start_date>
+  <completion_date type="Anticipated">October 2020</completion_date>
+  <primary_completion_date type="Anticipated">July 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Positive or negative character of the three tests</measure>
+    <time_frame>day 1</time_frame>
+    <description>Comparative descriptive analysis of the three tests carried out in comparison of their sensitivity and specificity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Positive or negative character of the three tests</measure>
+    <time_frame>day 5</time_frame>
+    <description>Comparative descriptive analysis of the three tests carried out in comparison of their sensitivity and specificity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>sensitivity and specificity of the tests according to the time elapsed since the first symptoms</measure>
+    <time_frame>less than 7 days</time_frame>
+    <description>Descriptive analysis of the sensitivity and specificity of the tests according to the time elapsed since the first symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>sensitivity and specificity of the tests according to the time elapsed since the first symptoms</measure>
+    <time_frame>more than 7 days</time_frame>
+    <description>Descriptive analysis of the sensitivity and specificity of the tests according to the time elapsed since the first symptoms</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">176</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>experimental arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All consecutive patients will be included according to eligibility criteria. groups will be performed during the statistical analysis to compare the 3 tests and the disease according to the date of symptoms (more than 7 days, less than 7 days) and collection date</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>COVID-19 diagnostic test</intervention_name>
+    <description>comparing 3 COVID-19 diagnostic tests performed at day 1 and day 5. And according to the start date of the symtpomes (more than 7 days less than 7 days)</description>
+    <arm_group_label>experimental arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  patients hospitalized with suspected SARS-CoV-2 (COVID-19) infection
+
+          -  Eligible for different sampling methods
+
+          -  Beneficiary subject affiliated or entitled to a social security scheme
+
+        Exclusion Criteria:
+
+          -  Minor patient
+
+          -  Refusal to participate
+
+          -  Patient under guardianship
+
+          -  Patient under guardianship
+
+          -  Pregnant or breastfeeding woman
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pierre PATOZ, PharmD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CH Tourcoing</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Barthelemy LAFONDESMURS, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CH Tourcoing</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pierre PATOZ, PharmD</last_name>
+    <phone>0320694540</phone>
+    <email>ppatoz@ch-tourcoing.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Solange TREHOUX, PhD</last_name>
+    <phone>0320694280</phone>
+    <email>strehoux@ch-tourcoing.fr</email>
+  </overall_contact_backup>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2020</study_first_posted>
+  <last_update_submitted>April 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

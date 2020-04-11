@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="135">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04341688</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-Sur-ERC-20</org_study_id>
+    <nct_id>NCT04341688</nct_id>
+  </id_info>
+  <brief_title>A Clinical Trial of Gargling Agents in Reducing Intraoral Viral Load in COVID-19 Patients</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>A Double Blind, Randomized Controlled Trial of Three Gargling Agents in Reducing Intraoral Viral Load in Subjects With Laboratory Confirmed Coronavirus Disease (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Aga Khan University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Karachi</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Aga Khan University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pakistan is a resource restraint country, it's not possible to carry out coronavirus testing
+      at mass scale. Owing to the aerosol producing nature of the dental profession, carrying out
+      dental work on asymptomatic patients carrying coronavirus puts the entire dental team at a
+      great risk of not only acquiring the infection but also transmitting it to the others.
+
+      Identifying an antiviral gargle that could substantially reduce the colonies of COVID-19
+      residing in mouth and oro-pharynx is likely to reduce the viral load. This topical therapy is
+      speculated to substantially reduce the transmission of infection in micro-aerosol generated
+      in the dental practice. Such topical anti-viral therapy could also help to improve the
+      overall symptoms of the patient.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It will be a double blind-randomized controlled trial annexed with a laboratory based study.
+      Clinical trial will be carried out at the Aga Khan University Hospital (AKUH), Karachi,
+      Pakistan. Patients will be inducted from the pool of known patients (laboratory confirmed
+      COVID-19 participants) already admitted at AKUH. Molecular and immunological testing will be
+      done at the Juma laboratory of AKUH. The intervention drugs (Povidone-Iodine, Hydogen
+      Peroxide and Normal Saline will be obtained from the AKUH distribution department and/ or
+      AKUH pharmacy. The Neem extract will be compounded at the Chemistry department, University of
+      Karachi/ HEJ institute of Organic Chemistry, University of Karachi.
+
+      It will be a pilot study, so will need just 20 patients. There will be four groups. Group A
+      (n=5) patients on 10 ml gargle of 0.2% Povidone-Iodine for 20-30 seconds, twice daily for 5
+      days. Group B (n=5) patients will be subjected to 10 ml gargle of 1% Hydrogen peroxide for
+      20-30 seconds, twice daily for 5 days. Group C will comprise of (n=5) subjects on 10ml gargle
+      of Neem extract based mouth rinse for 20-30 seconds, twice daily for 5 days. Group D (n=5)
+      patient will use normal saline gargle for a similar time period.
+
+      Data collection: The baseline oral swab will be taken from the tonsillar pillars on day one
+      before initiating the gargles by trained dentist. The end-point oral swab will be taken on
+      day 5, just after using the prescribed gargle. Patient will be provided a hood so that they
+      themselves don't generate aerosol in the immediate vicinity while carrying out the gargling.
+
+      Repeated measures ANOVA will be used to compare the reduction in intra-oral viral loads and
+      the change in inflammatory biomarkers in the four study groups. A p-value of &lt;0.05 will be
+      taken as statistically significant.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 1, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A double blind-randomized controlled trial followed by laboratory based analysis. Four parallel groups of participants using antiviral gargles.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+    <masking_description>Identical colored and shaped bottles containing four different study drugs</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Intraoral viral load</measure>
+    <time_frame>Five days of using gargles</time_frame>
+    <description>Intraoral viral load as deciphered by RT-PCR</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Salivary cytokine profile</measure>
+    <time_frame>Five days of using gargles</time_frame>
+    <description>Salivary cytokine profiles of IL-2, IL-4, IL-6, IL-10, TNF-α, IFN-γ and IL-17.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">5</enrollment>
+  <condition>Intraoral Viral Load in Covid-19 Patients</condition>
+  <arm_group>
+    <arm_group_label>Povidone-Iodine 0.2% (BETADINE®)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>0.2% Povidone-Iodine (BETADINE®) 10 ml gargle of for 20-30 seconds, twice daily for 5 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hydrogen peroxide 1% (ActiveOxy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ActiveOxy (% Hydrogen peroxide) 10 ml gargle of for 20-30 seconds, twice daily for 5 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Neem extract (Azadirachta indicia)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Azadirachta indicia will be prepared by chemistry lab. 10ml gargle for 20-30 seconds, twice daily for 5 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Normal saline (0.9%NaCl)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>10ml gargle of Normal saline Normal saline (0.9%NaCl) for 20-30 seconds, twice daily for 5 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gargle/Mouthwash</intervention_name>
+    <description>There will be four groups. Group A (n=5) patients on 10 ml gargle of 0.2% Povidone-Iodine for 20-30 seconds, twice daily for 5 days. Group B (n=5) patients will be subjected to 10 ml gargle of 1% Hydrogen peroxide for 20-30 seconds, twice daily for 5 days. Group C will comprise of (n=5) subjects on 10ml gargle of Neem extract based solution for 20-30 seconds, twice daily for 5 days. Group D (n=5) patient will use normal saline gargle for a similar time period.</description>
+    <arm_group_label>Hydrogen peroxide 1% (ActiveOxy)</arm_group_label>
+    <arm_group_label>Neem extract (Azadirachta indicia)</arm_group_label>
+    <arm_group_label>Normal saline (0.9%NaCl)</arm_group_label>
+    <arm_group_label>Povidone-Iodine 0.2% (BETADINE®)</arm_group_label>
+    <other_name>Gargling agent</other_name>
+    <other_name>Mouthrinse</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  The inclusion criteria are laboratory confirmed Covid-19 positive male or female
+             subjects in the age range of 18-70 years, already admitted in the hospital.
+
+        Exclusion Criteria:
+
+          -  Edentulous patients, patients with low Glasgow coma score, intubated,
+             immune-compromised, history of radiotherapy or chemotherapy will be excluded. Patients
+             with known pre-existing chronic mucosal lesions such as lichen planus will also be
+             excluded.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Syed MR Kazmi, FCPS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Aga Khan University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Farhan R Khan, MS, FCPS</last_name>
+    <phone>03052225117</phone>
+    <email>farhan.raza@aku.edu</email>
+  </overall_contact>
+  <link>
+    <url>https://www.worldometers.info/coronavirus/</url>
+    <description>Burden of disease in COVID-19 pandemic</description>
+  </link>
+  <link>
+    <url>https://www.ada.org/en/publications/ada-news/2020-archive/march/ada-recommending-dentists-postpone-elective-procedures</url>
+    <description>Recommendation on elective and cosmetic dental procedures by ADA</description>
+  </link>
+  <reference>
+    <citation>Peng X, Xu X, Li Y, Cheng L, Zhou X, Ren B. Transmission routes of 2019-nCoV and controls in dental practice. Int J Oral Sci. 2020 Mar 3;12(1):9. doi: 10.1038/s41368-020-0075-9. Review.</citation>
+    <PMID>32127517</PMID>
+  </reference>
+  <reference>
+    <citation>Shafiq HB, Amin U, Nawaz S. Comparative analysis of various antimicrobial agents present in locally available mouthwashes against oral pathogens. Pak J Pharm Sci. 2018 Sep;31(5):1881-1887.</citation>
+    <PMID>30150184</PMID>
+  </reference>
+  <reference>
+    <citation>Tanzer JM, Slee AM, Kamay BA. Structural requirements of guanide, biguanide, and bisbiguanide agents for antiplaque activity. Antimicrob Agents Chemother. 1977 Dec;12(6):721-9.</citation>
+    <PMID>931371</PMID>
+  </reference>
+  <reference>
+    <citation>Lai P, Coulson C, Pothier DD, Rutka J. Chlorhexidine ototoxicity in ear surgery, part 1: review of the literature. J Otolaryngol Head Neck Surg. 2011 Dec;40(6):437-40. Review.</citation>
+    <PMID>22420428</PMID>
+  </reference>
+  <reference>
+    <citation>Hirata K, Kurokawa A. Chlorhexidine gluconate ingestion resulting in fatal respiratory distress syndrome. Vet Hum Toxicol. 2002 Apr;44(2):89-91.</citation>
+    <PMID>11931511</PMID>
+  </reference>
+  <reference>
+    <citation>Eggers M, Koburger-Janssen T, Eickmann M, Zorn J. In Vitro Bactericidal and Virucidal Efficacy of Povidone-Iodine Gargle/Mouthwash Against Respiratory and Oral Tract Pathogens. Infect Dis Ther. 2018 Jun;7(2):249-259. doi: 10.1007/s40121-018-0200-7. Epub 2018 Apr 9.</citation>
+    <PMID>29633177</PMID>
+  </reference>
+  <reference>
+    <citation>Tiwari V, Darmani NA, Yue BY, Shukla D. In vitro antiviral activity of neem (Azardirachta indica L.) bark extract against herpes simplex virus type-1 infection. Phytother Res. 2010 Aug;24(8):1132-40. doi: 10.1002/ptr.3085.</citation>
+    <PMID>20041417</PMID>
+  </reference>
+  <reference>
+    <citation>Ahmad A, Javed MR, Rao AQ, Husnain T. Designing and screening of universal drug from neem (Azadirachta indica) and standard drug chemicals against influenza virus nucleoprotein. BMC Complement Altern Med. 2016 Dec 16;16(1):519.</citation>
+    <PMID>27986088</PMID>
+  </reference>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 10, 2020</study_first_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Aga Khan University</investigator_affiliation>
+    <investigator_full_name>Farhan Raza Khan, BDS, MS, FCPS</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Covid-19;</keyword>
+  <keyword>coronavirus disease</keyword>
+  <keyword>povidone</keyword>
+  <keyword>hydrogen peroxide</keyword>
+  <keyword>neem extracts</keyword>
+  <keyword>topical therapy</keyword>
+  <keyword>gargle</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Povidone-Iodine</mesh_term>
+    <mesh_term>Hydrogen Peroxide</mesh_term>
+    <mesh_term>Povidone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
