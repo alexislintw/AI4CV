@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="71">
+<clinical_study rank="109">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04315987</url>
   </required_header>
@@ -60,16 +60,10 @@
       previous clinical trials.
 
       The aim of this study is assess the efficacy of NestCell® as an add-on therapy to standard
-      treatment to treat patients with severe COVID-19 pneumonia. All patients will receive 1x10^6
-      cells/kg weight on days 1, 3 and 7.
+      treatment to treat patients with severe COVID-19 pneumonia. .
 
-      The study will be divided in 2 phases. In the first phase, 6 patients will be included and
-      receive 1x10^6 cells/kg weight on days 1, 3 and 7 in addition to standard care. Thereafter,
-      the Safety Monitoring Board will meet and evaluate all collected safety and efficacy
-      information and decide whether it is safe to continue the treatment and if the next dose
-      should remain the same or if any change in posology or dose should be done. Then, 18 new
-      subjects will be included in the study and treated according to Safety Monitoring Board
-      recommendation.
+      All patients included will receive 2x10^7 cells (20 million cells) on days 1, 3 and 5 in
+      addition to standard care.. On day 7, cells will only be administered if necessary.
     </textblock>
   </detailed_description>
   <overall_status>Not yet recruiting</overall_status>
@@ -80,72 +74,69 @@
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
-    <allocation>Non-Randomized</allocation>
     <intervention_model>Single Group Assignment</intervention_model>
-    <intervention_model_description>A dose of 1x10^6 cells/kg will be administered IV on days 1, 3 and 7 in all subjects</intervention_model_description>
+    <intervention_model_description>A dose of 2x10^7 cells (20 million cells) will be administered IV on days 1, 3 and 5 in all subjects. If necessary, subjects will receive and extra dose on day 7.</intervention_model_description>
     <primary_purpose>Treatment</primary_purpose>
     <masking>None (Open Label)</masking>
   </study_design_info>
   <primary_outcome>
-    <measure>Disappear time of ground-glass shadow in the lungs</measure>
-    <time_frame>28 days</time_frame>
-    <description>Evaluation of Pneumonia change. Kaplan-meier method will be used to calculate the median glassy shadow time in all subjects</description>
+    <measure>Change in Clinical Condition</measure>
+    <time_frame>10 days</time_frame>
+    <description>Ordinal scale (WHO ordinal scale that measures illness severity over time)</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>Rate of mortality within 28-days</measure>
-    <time_frame>28 days</time_frame>
+    <measure>Rate of mortality within 10-days</measure>
+    <time_frame>10 days</time_frame>
     <description>Evaluation of Pneumonia change</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Change of Clinical symptoms including duration of fever and respiratory</measure>
-    <time_frame>At Baseline , Day 3, Day 7, Day 10, Day 14, Day 21, Day 28</time_frame>
+    <measure>Change of Clinical symptoms - respiratory rate</measure>
+    <time_frame>10 days</time_frame>
     <description>Evaluation of Pneumonia change</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Time of nucleic acid turning negative</measure>
-    <time_frame>28 days</time_frame>
-    <description>Marker for 2019-nCoV</description>
+    <measure>Hypoxia</measure>
+    <time_frame>10 days</time_frame>
+    <description>oxygen saturation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PaO2 / FiO2 ratio</measure>
+    <time_frame>10 days</time_frame>
+    <description>oxygen saturation</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>CD4+ and CD8+ T cell count</measure>
-    <time_frame>At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21 and Day 28</time_frame>
+    <time_frame>Days 1, 2, 4, 6 and 8.</time_frame>
     <description>Marker of Immunological function</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Changes of blood oxygen</measure>
-    <time_frame>At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21 and Day 28</time_frame>
-    <description>Evaluation of Pneumonia change</description>
+    <time_frame>10 days</time_frame>
+    <description>PaO2 / FiO2 ratio</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Side effects in the treatment group</measure>
-    <time_frame>28 days</time_frame>
+    <time_frame>10 days</time_frame>
     <description>Number of participants with treatment-related adverse events</description>
   </secondary_outcome>
-  <number_of_arms>2</number_of_arms>
+  <secondary_outcome>
+    <measure>Complete blood count, cardiac, hepatic and renal profiles;</measure>
+    <time_frame>Days 1, 2, 4, 6 and 8.</time_frame>
+    <description>Complete blood count, ALT, AST, GGT, CK, CKmB and creatinine</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
   <enrollment type="Anticipated">66</enrollment>
   <condition>COVID-19 Pneumonia</condition>
   <arm_group>
-    <arm_group_label>NestCell® - phase 1</arm_group_label>
+    <arm_group_label>NestCell®</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>6 patients will receive conventional treatment plus 3 times of 1x10^6 cells/kg of body weight of NestCell® intravenously on Day1, Day3 and Day7</description>
-  </arm_group>
-  <arm_group>
-    <arm_group_label>NestCell® - phase 2</arm_group_label>
-    <arm_group_type>Experimental</arm_group_type>
-    <description>The study will be divided in 2 phases. In the first phase, 6 patients will be included and receive 1x10^6 cells/kg weight on days 1, 3 and 7 in addition to standard care. Thereafter, the Safety Monitoring Board will meet and evaluate all collected safety and efficacy information and decide whether it is safe to continue the treatment and if the next dose should remain the same or if any change in posology or dose should be done. Then, 60 new subjects will be included in the study and treated according to Safety Monitoring Board recommendation.</description>
+    <description>A dose of 2x10^7 cells (20 million cells) will be administered IV on days 1, 3 and 5 in all subjects. If necessary, subjects will receive and extra dose on day 7.</description>
   </arm_group>
   <intervention>
     <intervention_type>Biological</intervention_type>
     <intervention_name>NestCell®</intervention_name>
-    <description>Phase 1 of the study: 6 patients will receive conventional treatment plus 3 times of 1x10^6 cells /kg body weight of NestCell® intravenously on Day1, Day3 and Day7</description>
-    <arm_group_label>NestCell® - phase 1</arm_group_label>
-    <other_name>Mesenchymal Stem Cell</other_name>
-  </intervention>
-  <intervention>
-    <intervention_type>Biological</intervention_type>
-    <intervention_name>NestCell®</intervention_name>
-    <description>Phase 2 of the study: After Safety Monitoring Board evaluation, 60 patients will receive conventional treatment plus the dose and posology of NestCell® recommended by Board.</description>
-    <arm_group_label>NestCell® - phase 2</arm_group_label>
+    <description>A dose of 2x10^7 cells (20 million cells) will be administered IV on days 1, 3 and 5 in all subjects. If necessary, subjects will receive and extra dose on day 7</description>
+    <arm_group_label>NestCell®</arm_group_label>
     <other_name>Mesenchymal Stem Cell</other_name>
   </intervention>
   <eligibility>
@@ -153,20 +144,12 @@
       <textblock>
         Inclusion Criteria:
 
-          1. Male or female, aged ≥ 18 years
-
-          2. Laboratory confirmation of 2019-nCoV infection by reverse-transcription polymerase
-             chain reaction (RT-PCR) from any diagnostic sampling source; and
-
-          3. CT image is characteristic of 2019 novel coronavirus pneumonia
-
-          4. In compliance with the 2019-nCoV pneumonia diagnosis standard [according to the novel
-             coronavirus infection pneumonia diagnosis and treatment program (Trial Implementation
-             Version 6) issued by the National Health and Medical Commission, and WHO 2019 new
-             coronavirus guidelines standards]: (A) increased breathing rate (≥30 beats / min),
-             difficulty breathing, cyanosis of the lips; (B) in resting state, means oxygen
-             saturation ≤93%; (C) partial pressure of arterial oxygen (PaO2) / Fraction of inspired
-             oxygen (FiO2) ≤300 mmHg (1mmHg = 0.133kPa);
+        1. Male or female, aged ≥ 18 years 2. Present a confirmed or pending diagnosis of COVID-19,
+        but with tomographic and clinical signs strongly suggestive of SARS-CoV-2 infection
+        (COVID-19), with pulmonary impairment greater than or equal to 50% and: i. Oxygen
+        saturation &lt;95%; ii. CURB-65 rating ≥ a 4; d) Participants with a score on WHO ordinal
+        scale that measures illness severity over time equal to 5 (Hospitalized with non-invasive
+        ventilation or high-flow oxygen).
 
         Exclusion Criteria:
 
@@ -209,18 +192,23 @@
   </overall_contact_backup>
   <location>
     <facility>
-      <name>Prevent Senior Private Operadora de Saúde LTDA.</name>
+      <name>Hospital Vera Cruz</name>
       <address>
-        <city>São Paulo</city>
-        <zip>04547-100</zip>
+        <city>Campina Grande</city>
+        <state>São Paulo</state>
         <country>Brazil</country>
       </address>
     </facility>
     <contact>
-      <last_name>Alvaro Razuk Filho, MD, PhD</last_name>
-      <phone>+55 11 981797949</phone>
-      <email>alvaro.filho@preventsenior.com.br</email>
+      <last_name>Florentino de Araujo Cardoso Filho, MD, PhD</last_name>
+      <phone>+55 19 991232882</phone>
+      <email>florentino.cardoso@hospitalcare.com.br</email>
     </contact>
+    <contact_backup>
+      <last_name>Luciana Ferrara</last_name>
+      <phone>+55 19 981428814</phone>
+      <email>luciana.ferrara@azidusbrasil.com.br</email>
+    </contact_backup>
   </location>
   <location_countries>
     <country>Brazil</country>
@@ -229,9 +217,9 @@
   <study_first_submitted>March 18, 2020</study_first_submitted>
   <study_first_submitted_qc>March 18, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 20, 2020</study_first_posted>
-  <last_update_submitted>March 29, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 29, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 31, 2020</last_update_posted>
+  <last_update_submitted>April 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="193">
+<clinical_study rank="307">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04328012</url>
   </required_header>
@@ -321,7 +321,6 @@
     <mesh_term>Lopinavir</mesh_term>
     <mesh_term>Hydroxychloroquine</mesh_term>
     <mesh_term>Losartan</mesh_term>
-    <mesh_term>Coal Tar</mesh_term>
   </intervention_browse>
   <patient_data>
     <sharing_ipd>No</sharing_ipd>

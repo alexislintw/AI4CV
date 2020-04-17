@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="301">
+<clinical_study rank="388">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04321616</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>118684</org_study_id>
     <nct_id>NCT04321616</nct_id>
   </id_info>
-  <brief_title>The Efficacy of Different Anti-viral Drugs in (Severe Acute Respiratory Syndrome-Corona Virus-2) SARS-CoV-2</brief_title>
+  <brief_title>The Efficacy of Different Anti-viral Drugs in COVID 19 Infected Patients</brief_title>
   <official_title>The (Norwegian) NOR Solidarity Multicenter Trial on the Efficacy of Different Anti-viral Drugs in SARS-CoV-2 Infected Patients</official_title>
   <sponsors>
     <lead_sponsor>
@@ -34,8 +34,8 @@
       efficacy, safety and explorative endpoints.
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">March 26, 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 28, 2020</start_date>
   <completion_date type="Anticipated">November 2020</completion_date>
   <primary_completion_date type="Anticipated">August 2020</primary_completion_date>
   <phase>Phase 2/Phase 3</phase>
@@ -222,13 +222,37 @@
     <phone>0047 98209974</phone>
     <email>andreas.barrattdue@gmail.com</email>
   </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Andreas Barratt-Due</name>
+      <address>
+        <city>Oslo</city>
+        <zip>0756</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>ANDREAS BARRATT-DUE, PhD</last_name>
+      <phone>+47 98209974</phone>
+      <email>andreas.barrattdue@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Pål Aukrust, PhD</last_name>
+      <phone>+47 46778374</phone>
+      <email>paukrust@ous-hf.no</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>March 23, 2020</study_first_submitted>
   <study_first_submitted_qc>March 24, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 25, 2020</study_first_posted>
-  <last_update_submitted>April 1, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 1, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 3, 2020</last_update_posted>
+  <last_update_submitted>April 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Oslo University Hospital</investigator_affiliation>
@@ -248,12 +272,10 @@
     <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
     <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
     <mesh_term>Acute Lung Injury</mesh_term>
-    <mesh_term>Syndrome</mesh_term>
   </condition_browse>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Hydroxychloroquine</mesh_term>
-    <mesh_term>Antiviral Agents</mesh_term>
   </intervention_browse>
   <patient_data>
     <sharing_ipd>Yes</sharing_ipd>

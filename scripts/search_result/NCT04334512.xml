@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="38">
+<clinical_study rank="58">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04334512</url>
   </required_header>
@@ -12,7 +12,7 @@
     <nct_id>NCT04334512</nct_id>
   </id_info>
   <brief_title>A Study of Quintuple Therapy to Treat COVID-19 Infection</brief_title>
-  <acronym>HAZCpaC</acronym>
+  <acronym>HAZDpaC</acronym>
   <official_title>A Phase II Pilot Study of Quintuple Therapy to Treat COVID-19 Infection</official_title>
   <sponsors>
     <lead_sponsor>
@@ -64,7 +64,7 @@
     <description>Patients will tolerate Quintuple Therapy with minimal side effects. Meaning that side effects will not be severe enough to warrant discontinuation of therapy</description>
   </primary_outcome>
   <number_of_arms>1</number_of_arms>
-  <enrollment type="Anticipated">60</enrollment>
+  <enrollment type="Anticipated">600</enrollment>
   <condition>COVID-19</condition>
   <arm_group>
     <arm_group_label>Quintuple Therapy</arm_group_label>
@@ -124,7 +124,7 @@
 
           2. Negative test for COVID-19 by RT-PCR at screening
 
-          3. Diarrhea
+          3. Diarrhea (prior to infection)
 
           4. Any comorbidities which, in the opinion of the investigator, constitute health risk
              for the subject
@@ -168,9 +168,9 @@
   <study_first_submitted>April 2, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

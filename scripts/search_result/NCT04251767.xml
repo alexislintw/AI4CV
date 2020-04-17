@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="133">
+<clinical_study rank="221">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04251767</url>
   </required_header>
@@ -224,7 +224,7 @@ Dose and frequency: 5u, once.</description>
     <PMID>30328062</PMID>
   </reference>
   <reference>
-    <citation>Zhang T, Lu G, Zhao Z, Liu Y, Shen Q, Li P, Chen Y, Yin H, Wang H, Marcella C, Cui B, Cheng L, Ji G, Zhang F. Washed microbiota transplantation vs. manual fecal microbiota transplantation: clinical findings, animal studies and in vitro screening. Protein Cell. 2020 Jan 9. doi: 10.1007/s13238-019-00684-8. [Epub ahead of print]</citation>
+    <citation>Zhang T, Lu G, Zhao Z, Liu Y, Shen Q, Li P, Chen Y, Yin H, Wang H, Marcella C, Cui B, Cheng L, Ji G, Zhang F. Washed microbiota transplantation vs. manual fecal microbiota transplantation: clinical findings, animal studies and in vitro screening. Protein Cell. 2020 Apr;11(4):251-266. doi: 10.1007/s13238-019-00684-8. Epub 2020 Jan 9.</citation>
     <PMID>31919742</PMID>
   </reference>
   <verification_date>March 2020</verification_date>

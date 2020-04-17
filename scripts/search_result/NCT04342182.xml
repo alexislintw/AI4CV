@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="108">
+<clinical_study rank="127">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04342182</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>NL73489.078.20</org_study_id>
     <nct_id>NCT04342182</nct_id>
   </id_info>
-  <brief_title>Convalescent Plasma Therapy From Recovered Patients to Treat Severe SARS-CoV-2 Disease (CONCOVID Study)</brief_title>
-  <acronym>ConCoVid</acronym>
-  <official_title>Convalescent Plasma Therapy From Recovered Patients to Treat Severe SARS-CoV-2 Disease</official_title>
+  <brief_title>Convalescent Plasma as Therapy for Covid-19 Severe SARS-CoV-2 Disease (CONCOVID Study)</brief_title>
+  <acronym>ConCoVid-19</acronym>
+  <official_title>Convalescent Plasma Therapy From Recovered Covid-19 Patients as Therapy for Hospitalized Patients With Covid-19</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Erasmus Medical Center</agency>
@@ -257,10 +257,10 @@ Plasma will be administered according to the Erasmus MC KIS protocol regarding t
   <verification_date>April 2020</verification_date>
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 10, 2020</study_first_posted>
-  <last_update_submitted>April 9, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 10, 2020</study_first_posted>
+  <last_update_submitted>April 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Erasmus Medical Center</investigator_affiliation>

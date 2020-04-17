@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="432">
+<clinical_study rank="609">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04276688</url>
   </required_header>
@@ -80,10 +80,10 @@
         6. Cytokine/ chemokine changes
     </textblock>
   </detailed_description>
-  <overall_status>Recruiting</overall_status>
+  <overall_status>Completed</overall_status>
   <start_date type="Actual">February 10, 2020</start_date>
-  <completion_date type="Anticipated">July 31, 2022</completion_date>
-  <primary_completion_date type="Anticipated">January 31, 2022</primary_completion_date>
+  <completion_date type="Actual">March 31, 2020</completion_date>
+  <primary_completion_date type="Actual">March 30, 2020</primary_completion_date>
   <phase>Phase 2</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
@@ -135,7 +135,7 @@
     <description>Time to negative NPS, saliva, urine and stool 2019-n-CoV RT-PCR</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
-  <enrollment type="Anticipated">70</enrollment>
+  <enrollment type="Actual">127</enrollment>
   <condition>Novel Coronavirus Infection</condition>
   <arm_group>
     <arm_group_label>Study group</arm_group_label>
@@ -226,15 +226,6 @@
     <role>Principal Investigator</role>
     <affiliation>The University of Hong Kong</affiliation>
   </overall_official>
-  <overall_contact>
-    <last_name>Ivan FN Hung, MD FRCP</last_name>
-    <phone>+862 22554049</phone>
-    <email>ivanfn@gmail.com</email>
-  </overall_contact>
-  <overall_contact_backup>
-    <last_name>Kelvin To, MD FRCPath</last_name>
-    <email>kelvinto@hku.hk</email>
-  </overall_contact_backup>
   <location>
     <facility>
       <name>University of Hong Kong, Queen Mary Hospital</name>
@@ -243,31 +234,17 @@
         <country>Hong Kong</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Ivan FN Hung, MD FRCP</last_name>
-      <phone>852 22554049</phone>
-      <email>ivanfn@gmail.com</email>
-    </contact>
-    <investigator>
-      <last_name>Kelvin To, MD FRCPath</last_name>
-      <role>Sub-Investigator</role>
-    </investigator>
-    <investigator>
-      <last_name>KY Yuen, MD FRCPath</last_name>
-      <role>Sub-Investigator</role>
-    </investigator>
   </location>
   <location_countries>
     <country>Hong Kong</country>
   </location_countries>
-  <verification_date>February 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>February 11, 2020</study_first_submitted>
   <study_first_submitted_qc>February 17, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">February 19, 2020</study_first_posted>
-  <last_update_submitted>February 26, 2020</last_update_submitted>
-  <last_update_submitted_qc>February 26, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">February 28, 2020</last_update_posted>
+  <last_update_submitted>April 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
@@ -283,8 +260,8 @@
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Interferons</mesh_term>
-    <mesh_term>Ribavirin</mesh_term>
     <mesh_term>Ritonavir</mesh_term>
+    <mesh_term>Ribavirin</mesh_term>
     <mesh_term>Lopinavir</mesh_term>
     <mesh_term>Interferon-beta</mesh_term>
     <mesh_term>Interferon beta-1b</mesh_term>

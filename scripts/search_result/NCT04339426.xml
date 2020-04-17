@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="116">
+<clinical_study rank="188">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04339426</url>
   </required_header>
@@ -76,9 +76,9 @@
     <description>Measure blood counts</description>
   </other_outcome>
   <other_outcome>
-    <measure>Changes in cytokine levels</measure>
+    <measure>Changes in cytokine levels, IL-1, IL-6, IL-12, IL-18, TNF-a</measure>
     <time_frame>10 days</time_frame>
-    <description>Measure plasma cytokines</description>
+    <description>Measure changes in plasma cytokines throughout course of infection</description>
   </other_outcome>
   <number_of_arms>1</number_of_arms>
   <enrollment type="Anticipated">25</enrollment>
@@ -157,9 +157,9 @@
   <study_first_submitted>April 7, 2020</study_first_submitted>
   <study_first_submitted_qc>April 7, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 9, 2020</study_first_posted>
-  <last_update_submitted>April 8, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 8, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

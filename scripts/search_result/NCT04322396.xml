@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="345">
+<clinical_study rank="506">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04322396</url>
   </required_header>
@@ -254,6 +254,32 @@ Only one category can be &quot;yes&quot;.</description>
   </overall_contact>
   <location>
     <facility>
+      <name>Aalborg Sygehus</name>
+      <address>
+        <city>Aalborg</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ulla Weinreich</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bispebjerg Hospital</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Therese Lapperre</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
       <name>Herlev-Gentofte Hospital</name>
       <address>
         <city>Copenhagen</city>
@@ -265,6 +291,71 @@ Only one category can be &quot;yes&quot;.</description>
       <last_name>Jens-Ulrik Jensen, MD, PhD</last_name>
     </contact>
   </location>
+  <location>
+    <facility>
+      <name>Hvidovre Hospital</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charlotte Ulrik</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nordsjællands Hospital</name>
+      <address>
+        <city>Hillerød</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrea Browatzki</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Odense Universitetshospital</name>
+      <address>
+        <city>Odense</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian Laursen</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Roskilde Sygehus</name>
+      <address>
+        <city>Roskilde</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian Meyer</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Slagelse Sygehus</name>
+      <address>
+        <city>Slagelse</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Uffe Bødtger</last_name>
+    </contact>
+  </location>
   <location_countries>
     <country>Denmark</country>
   </location_countries>
@@ -272,9 +363,9 @@ Only one category can be &quot;yes&quot;.</description>
   <study_first_submitted>March 23, 2020</study_first_submitted>
   <study_first_submitted_qc>March 24, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 26, 2020</study_first_posted>
-  <last_update_submitted>April 7, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
+  <last_update_submitted>April 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
@@ -289,8 +380,6 @@ Only one category can be &quot;yes&quot;.</description>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Hydroxychloroquine</mesh_term>
-    <mesh_term>Chloroquine</mesh_term>
-    <mesh_term>Chloroquine diphosphate</mesh_term>
   </intervention_browse>
   <!-- Results have not yet been posted for this study                                          -->
 </clinical_study>

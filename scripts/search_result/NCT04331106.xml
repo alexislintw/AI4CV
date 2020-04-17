@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="261">
+<clinical_study rank="142">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04331106</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>EA1/071/20</org_study_id>
     <nct_id>NCT04331106</nct_id>
   </id_info>
-  <brief_title>Survey of the Anxiety Associated With the SARS-CoV-2 Pandemic</brief_title>
+  <brief_title>Survey of the Anxiety Associated With the COVID-19 Pandemic</brief_title>
   <acronym>CORA</acronym>
-  <official_title>Online-based Survey of the Anxiety Associated With the SARS-CoV-2 Pandemic in the General Population in Germany</official_title>
+  <official_title>Online-based Survey of the Anxiety Associated With the COVID-19 Pandemic in the General Population in Germany</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Charite University, Berlin, Germany</agency>
@@ -29,22 +29,22 @@
   <brief_summary>
     <textblock>
       The study aims to systematically examine various aspects of the anxiety associated with the
-      SARS-CoV-2 pandemic in Germany. The data collection is carried out online with longitudinal
+      COVID-19 pandemic in Germany. The data collection is carried out online with longitudinal
       repeated measurements.
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
-      The SARS-CoV-2-pandemic is currently one of the greatest challenges for numerous countries -
+      The COVID-19 pandemic is currently one of the greatest challenges for numerous countries -
       also for Germany. In addition to its somatic and economic consequences, the psychological
-      dimension of SARS-CoV-2 is discussed increasingly and is visible in public life - e.g. in the
-      &quot;pandemic-caused experience of threat&quot;, &quot;loss of control&quot; and &quot;panic&quot; of multiple people. The
-      study examines the phenomenon of this &quot;corona-related anxiety&quot; in terms of epidemiological,
-      clinical and psychosocial characteristics. It is investigated how &quot;corona anxiety&quot; affects
-      people who already have an anxiety disorder or other mental illnesses as well as formerly
-      mentally healthy people. It is also examined how media reporting and personal consequences of
-      SARS-CoV-2 are related to corona-related anxiety and if there is a need for therapeutic
-      support regarding corona-related anxiety.
+      dimension of the Coronavirus pandemic is discussed increasingly and is visible in public life
+      - e.g. in the &quot;pandemic-caused experience of threat&quot;, &quot;loss of control&quot; and &quot;panic&quot; of
+      multiple people. The study examines the phenomenon of this &quot;corona-related anxiety&quot; in terms
+      of epidemiological, clinical and psychosocial characteristics. It is investigated how &quot;corona
+      anxiety&quot; affects people who already have an anxiety disorder or other mental illnesses as
+      well as formerly mentally healthy people. It is also examined how media reporting and
+      personal consequences of COVID-19 are connected with corona-related anxiety and if there is a
+      need for therapeutic support regarding corona-related anxiety.
 
       To answer these questions a longitudinal online survey targeting the general population in
       Germany is carried out. The survey takes place all three weeks as long as the pandemic lasts
@@ -62,53 +62,53 @@
     <time_perspective>Prospective</time_perspective>
   </study_design_info>
   <primary_outcome>
-    <measure>Characteristics of SARS-CoV-2-related anxiety</measure>
+    <measure>Characteristics of COVID-19-related anxiety</measure>
     <time_frame>1 day</time_frame>
-    <description>To investigate specific fears regarding the SARS-CoV-2 pandemic 9 self created items are used. Values ranging from 1 to 6, higher scores indicate a worse outcome.</description>
+    <description>To investigate specific fears regarding the COVID-19 pandemic 9 self created items are used. Values ranging from 1 to 6, higher scores indicate a worse outcome.</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>SARS-CoV-2-related anxiety symptoms</measure>
+    <measure>COVID-19-related anxiety symptoms</measure>
     <time_frame>1 day</time_frame>
-    <description>Modified German version of the DSM-5 Severity-Measure-For-Specific-Phobia-Adult-Scale by Beesdo-Baum et al. (2014). 10 items, values ranging from 1 to 5, higher scores indicate a worse outcome. The Scale was adapted to anxiety symptoms related to SARS-CoV-2.</description>
+    <description>Modified German version of the DSM-5 Severity-Measure-For-Specific-Phobia-Adult-Scale by Beesdo-Baum et al. (2014). 10 items, values ranging from 1 to 5, higher scores indicate a worse outcome. The Scale was adapted to anxiety symptoms related to COVID-19.</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>Self-efficacy and coping with SARS-CoV-2</measure>
-    <time_frame>1 day + every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
-    <description>Self-efficacy and coping with the SARS-CoV-2 pandemic are measured with 13 self created items. Values ranging from 1 to 6; higher scores indicate a better outcome (except inverted items).</description>
+    <measure>Self-efficacy and coping with COVID-19</measure>
+    <time_frame>1 day + every 3 weeks as long as the COVID-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
+    <description>Self-efficacy and coping with the COVID-19 pandemic are measured with 13 self created items. Values ranging from 1 to 6; higher scores indicate a better outcome (except inverted items).</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Consequences of SARS-CoV-2 in the last three weeks.</measure>
-    <time_frame>1 day + every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
-    <description>Personal consequences of the SARS-CoV-2 pandemic in the last three weeks are collected with five self-created items.</description>
+    <measure>Consequences of COVID-19 in the last three weeks.</measure>
+    <time_frame>1 day + every 3 weeks as long as the COVID-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
+    <description>Personal consequences of the COVID-19 pandemic in the last three weeks are collected with five self-created items.</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>General Illness Attitude</measure>
-    <time_frame>1 day + every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
+    <time_frame>1 day + every 3 weeks as long as the COVID-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
     <description>General illness attitudes are measured with 3 subscales (Worry about illness; Thanatophobia; Bodily preoccupations) of the German version of the Illness Attitude Scales (IAS) by Hiller &amp; Rief (2004). 9 Items; values ranging from 1 to 5, higher scores indicate a worse outcome.</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Media reporting</measure>
-    <time_frame>1 day + every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
-    <description>Frequency, effects and formats of consumed media related to SARS-CoV-2 are measured with 5 self created items.</description>
+    <time_frame>1 day + every 3 weeks as long as the COVID-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
+    <description>Frequency, effects and formats of consumed media related to COVID-19 are measured with 5 self created items.</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Ultra-brief screening scale for anxiety and depression</measure>
-    <time_frame>1 day + every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
+    <time_frame>1 day + every 3 weeks as long as the COVID-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
     <description>To screen for general anxiety and depressive symptoms the German version of the Patient Health Questionnaire-4 (PHQ-4) by Löwe (2015) is used. 4 items; values ranging from 0 to 3, higher scores indicate a worse outcome.</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Change in characteristics of SARS-CoV-2-related anxiety</measure>
-    <time_frame>Every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
-    <description>To investigate specific fears regarding the SARS-CoV-2 pandemic 9 self created items are used. Values ranging from 1 to 6, higher scores indicate a worse outcome.</description>
+    <measure>Change in characteristics of COVID-19-related anxiety</measure>
+    <time_frame>Every 3 weeks as long as the COVID-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
+    <description>To investigate specific fears regarding the COVID-19 pandemic 9 self created items are used. Values ranging from 1 to 6, higher scores indicate a worse outcome.</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Change in SARS-CoV-2-related anxiety symptoms</measure>
-    <time_frame>Every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
-    <description>Modified German version of the DSM-5 Severity-Measure-For-Specific-Phobia-Adult-Scale by Beesdo-Baum et al. (2014). 10 items, values ranging from 1 to 5, higher scores indicate a worse outcome. The Scale was adapted to anxiety symptoms related to SARS-CoV-2.</description>
+    <measure>Change in COVID-19-related anxiety symptoms</measure>
+    <time_frame>Every 3 weeks as long as the COVID-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)</time_frame>
+    <description>Modified German version of the DSM-5 Severity-Measure-For-Specific-Phobia-Adult-Scale by Beesdo-Baum et al. (2014). 10 items, values ranging from 1 to 5, higher scores indicate a worse outcome. The Scale was adapted to anxiety symptoms related to COVID-19.</description>
   </secondary_outcome>
   <number_of_groups>1</number_of_groups>
-  <enrollment type="Anticipated">5000</enrollment>
-  <condition>Anxiety Related to the SARS-CoV-2 Pandemic</condition>
+  <enrollment type="Anticipated">6000</enrollment>
+  <condition>Anxiety Related to the COVID-19 Pandemic</condition>
   <arm_group>
     <arm_group_label>Population in Germany</arm_group_label>
     <description>Reasonably large and representative sample of the general population in Germany</description>
@@ -190,9 +190,9 @@
   <study_first_submitted>March 27, 2020</study_first_submitted>
   <study_first_submitted_qc>March 30, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 2, 2020</study_first_posted>
-  <last_update_submitted>April 3, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Charite University, Berlin, Germany</investigator_affiliation>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="362">
+<clinical_study rank="234">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04257656</url>
   </required_header>
@@ -11,8 +11,8 @@
     <org_study_id>CAP-China remdesivir 2</org_study_id>
     <nct_id>NCT04257656</nct_id>
   </id_info>
-  <brief_title>Severe 2019-nCoV Remdesivir RCT</brief_title>
-  <official_title>A Phase 3 Randomized, Double-blind, Placebo-controlled, Multicenter Study to Evaluate the Efficacy and Safety of Remdesivir in Hospitalized Adult Patients With Severe 2019-nCoVRespiratory Disease.</official_title>
+  <brief_title>A Trial of Remdesivir in Adults With Severe COVID-19</brief_title>
+  <official_title>A Phase 3 Randomized, Double-blind, Placebo-controlled, Multicenter Study to Evaluate the Efficacy and Safety of Remdesivir in Hospitalized Adult Patients With Severe COVID-19.</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Capital Medical University</agency>
@@ -29,33 +29,32 @@
     <textblock>
       In December 2019, Wuhan, in Hubei province, China, became the center of an outbreak of
       pneumonia of unknown cause. In a short time, Chinese scientists had shared the genome
-      information of a novel coronavirus (2019-nCoV) from these pneumonia patients and developed a
-      real-time reverse transcription PCR (real time RT-PCR) diagnostic assay.
+      information of a novel coronavirus (SARS-CoV-2) from these pneumonia patients and developed a
+      real-time reverse transcription PCR (real-time RT-PCR) diagnostic assay.
 
-      Given no specific antiviral therapy for 2019-nCoV infection and the ready availability of
-      remdesvir as a potential antiviral agent, based on pre-clinical studies in SARS-CoV and
-      MERS-CoV infections, this randomized, controlled, double blind trial will evaluate the
-      efficacy and safety of remdesivir in patients hospitalized with severe 2019-nCoV respiratory
-      disease.
+      Given no specific antiviral therapy for COVID-19 and the ready availability of remdesvir as a
+      potential antiviral agent, based on pre-clinical studies in SARS-CoV and MERS-CoV infections,
+      this randomized, controlled, double blind trial will evaluate the efficacy and safety of
+      remdesivir in patients hospitalized with severe COVID-19.
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
       In December 2019, Wuhan, in Hubei province, China, became the center of an outbreak of
       pneumonia of unknown cause. In a short time, Chinese scientists had shared the genome
-      information of a novel coronavirus (2019-nCoV) from these pneumonia patients and developed a
-      real-time reverse transcription PCR (real time RT-PCR) diagnostic assay.
+      information of a novel coronavirus (SARS-CoV-2) from these pneumonia patients and developed a
+      real-time reverse transcription PCR (real-time RT-PCR) diagnostic assay.
 
       Whilst the outbreak is likely to have started from a zoonotic transmission event associated
       with a large seafood market that also traded in live wild animals, it soon became clear that
       person-to-person transmission was also occurring. The number of cases of infection with
-      2019-nCoV identified in Wuhan increased markedly over the later part of January 2020, with
+      COVID-19 identified in Wuhan increased markedly over the later part of January 2020, with
       cases identified in multiple other Provinces of China and internationally. Mathematical
       models of the expansion phase of the epidemic suggested that sustained person-to-person
       transmission is occurring, and the R-zero is substantially above 1, the level required for a
       self-sustaining epidemic in human populations.
 
-      The clinical spectrum of 2019-nCoV illness appears to be wide, encompassing asymptomatic
+      The clinical spectrum of COVID-19 illness appears to be wide, encompassing asymptomatic
       infection, a mild upper respiratory tract infection, and severe viral pneumonia with
       respiratory failure and even death. Although the per infection risk of severe disease remains
       to be determined, case-fatality risk of 11-14% has been reported in several initial studies
@@ -69,17 +68,20 @@
       recovery, and reduce the requirements for intensive supportive care and prolonged
       hospitalisation.
 
-      Given no specific antiviral therapy for 2019-nCoV infection and the ready availability of
-      remdesvir as a potential antiviral agent, based on pre-clinical studies in SARS-CoV and
-      MERS-CoV infections, this randomized, controlled, double blind trial will evaluate the
-      efficacy and safety of remdesivir in patients hospitalized with severe 2019-nCoV respiratory
-      disease.
+      Given no specific antiviral therapy for COVID-19 and the ready availability of remdesvir as a
+      potential antiviral agent, based on pre-clinical studies in SARS-CoV and MERS-CoV infections,
+      this randomized, controlled, double blind trial will evaluate the efficacy and safety of
+      remdesivir in patients hospitalized with severe COVID-19.
     </textblock>
   </detailed_description>
-  <overall_status>Recruiting</overall_status>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    The epidemic of COVID-19 has been controlled well in China, no eligible patients can be
+    enrolled at present.
+  </why_stopped>
   <start_date type="Actual">February 6, 2020</start_date>
-  <completion_date type="Anticipated">May 1, 2020</completion_date>
-  <primary_completion_date type="Anticipated">April 3, 2020</primary_completion_date>
+  <completion_date type="Actual">April 10, 2020</completion_date>
+  <primary_completion_date type="Actual">March 30, 2020</primary_completion_date>
   <phase>Phase 3</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
@@ -92,7 +94,7 @@
   <primary_outcome>
     <measure>Time to Clinical Improvement (TTCI) [Censored at Day 28]</measure>
     <time_frame>up to 28 days</time_frame>
-    <description>TTCI is defined as the time (in days) from initiation of study treatment (active or placebo) until a decline of two categories from status at randomisation on a six-category ordinal scale of clinical status which ranges from 1 (discharged) to 6 (death).
+    <description>The primary endpoint is time to clinical improvement (censored at Day 28), defined as the time (in days) from randomization of study treatment (remdesivir or placebo) until a decline of two categories on a six-category ordinal scale of clinical status (1 ꞊ discharged; 6 ꞊ death) or live discharge from hospital.
 Six-category ordinal scale:
 6. Death; 5. ICU, requiring ECMO and/or IMV; 4. ICU/hospitalization, requiring NIV/ HFNC therapy; 3. Hospitalization, requiring supplemental oxygen (but not NIV/ HFNC); 2. Hospitalization, not requiring supplemental oxygen;
 1. Hospital discharge or meet discharge criteria (discharge criteria are defined as clinical recovery, i.e. fever, respiratory rate, oxygen saturation return to normal, and cough relief).
@@ -141,9 +143,10 @@ Abbreviation: IMV, invasive mechanical ventilation; NIV, non-invasive mechanical
     <time_frame>up to 28 days</time_frame>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
-  <enrollment type="Anticipated">453</enrollment>
-  <condition>2019-nCov</condition>
+  <enrollment type="Actual">237</enrollment>
+  <condition>COVID-19</condition>
   <condition>Remdesivir</condition>
+  <condition>SARS-CoV-2</condition>
   <arm_group>
     <arm_group_label>Remdesivir group</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
@@ -174,7 +177,7 @@ Abbreviation: IMV, invasive mechanical ventilation; NIV, non-invasive mechanical
 
           1. Age ≥18 years at time of signing Informed Consent Form
 
-          2. Laboratory (RT-PCR) confirmed infection with 2019-nCoV.
+          2. Laboratory (RT-PCR) confirmed COVID-19.
 
           3. Lung involvement confirmed with chest imaging
 
@@ -203,8 +206,8 @@ Abbreviation: IMV, invasive mechanical ventilation; NIV, non-invasive mechanical
 
           5. Will be transferred to another hospital which is not the study site within 72 hours.
 
-          6. Receipt of any experimental treatment for 2019-nCoV (off-label, compassionate use, or
-             trial related) within the 30 days prior to the time of the screening evaluation.
+          6. Receipt of any experimental treatment for COVID-19 within the 30 days prior to the
+             time of the screening evaluation.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -222,27 +225,17 @@ Abbreviation: IMV, invasive mechanical ventilation; NIV, non-invasive mechanical
         <country>China</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Bin Cao, Professor</last_name>
-      <phone>+01084206264</phone>
-      <email>caobin@zryhyy.com.cn</email>
-    </contact>
-    <contact_backup>
-      <last_name>Yeming Wang, Doctor</last_name>
-      <email>wwyymm_love@163.com</email>
-    </contact_backup>
   </location>
   <location_countries>
     <country>China</country>
   </location_countries>
-  <verification_date>February 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>January 31, 2020</study_first_submitted>
   <study_first_submitted_qc>February 3, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">February 6, 2020</study_first_posted>
-  <last_update_submitted>February 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>February 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">February 24, 2020</last_update_posted>
+  <last_update_submitted>April 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>China-Japan Friendship Hospital</investigator_affiliation>

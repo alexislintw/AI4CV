@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="276">
+<clinical_study rank="357">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04323787</url>
   </required_header>
@@ -11,8 +11,8 @@
     <org_study_id>20-002610</org_study_id>
     <nct_id>NCT04323787</nct_id>
   </id_info>
-  <brief_title>Viral Infection and Respiratory Illness Universal Study[VIRUS]: COVID19 Registry</brief_title>
-  <acronym>VIRUS</acronym>
+  <brief_title>Viral Infection and Respiratory Illness Universal Study[VIRUS]: COVID-19 Registry</brief_title>
+  <acronym>COVID-19</acronym>
   <official_title>Viral Infection and Respiratory Illness Universal Study[VIRUS]: COVID-19 Registry and Validation of C2D2 (Critical Care Data Dictionary)</official_title>
   <sponsors>
     <lead_sponsor>
@@ -202,9 +202,9 @@
   <study_first_submitted>March 24, 2020</study_first_submitted>
   <study_first_submitted_qc>March 25, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>April 1, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 1, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 3, 2020</last_update_posted>
+  <last_update_submitted>April 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Mayo Clinic</investigator_affiliation>

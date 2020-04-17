@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="324">
+<clinical_study rank="473">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04290871</url>
   </required_header>
@@ -216,7 +216,7 @@
     <PMID>31978945</PMID>
   </reference>
   <reference>
-    <citation>Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, Liu S, Zhao P, Liu H, Zhu L, Tai Y, Bai C, Gao T, Song J, Xia P, Dong J, Zhao J, Wang FS. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir Med. 2020 Feb 18. pii: S2213-2600(20)30076-X. doi: 10.1016/S2213-2600(20)30076-X. [Epub ahead of print] Erratum in: Lancet Respir Med. 2020 Feb 25;:.</citation>
+    <citation>Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, Liu S, Zhao P, Liu H, Zhu L, Tai Y, Bai C, Gao T, Song J, Xia P, Dong J, Zhao J, Wang FS. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir Med. 2020 Apr;8(4):420-422. doi: 10.1016/S2213-2600(20)30076-X. Epub 2020 Feb 18. Erratum in: Lancet Respir Med. 2020 Feb 25;:.</citation>
     <PMID>32085846</PMID>
   </reference>
   <reference>

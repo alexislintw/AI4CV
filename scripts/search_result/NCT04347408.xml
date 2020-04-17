@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="468">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04347408</url>
+  </required_header>
+  <id_info>
+    <org_study_id>282617</org_study_id>
+    <nct_id>NCT04347408</nct_id>
+  </id_info>
+  <brief_title>Rapid Diagnostics, Antibody Testing and Host Response in Children With COVID-19</brief_title>
+  <acronym>RAPID-19</acronym>
+  <official_title>Rapid Diagnostics, Antibody Testing and Host Response in Children With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Queen's University, Belfast</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Belfast Health and Social Care Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Queen's University, Belfast</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Very little is known regarding the symptoms and signs of Covid-19 disease in children. In
+      particular it is not know how many children are asymptomatic carriers of the severe acute
+      respiratory syndrome coronavirus 2 (SARS-CoV-2) virus and what the symptoms and signs of mild
+      Covid-19 disease are. There is a need to understand the pattern of immunological (e.g.
+      cytokine) response is in children who experience mild versus severer disease. There is also
+      need to develop a rapid accurate point of care (POC) test for SARS-CoV-2 virus. Currently
+      there is an opportunity to complete this research rapidly in Northern Ireland and because the
+      province is 2-3 weeks behind mainland United Kingdom (UK) in the development of the COVID-19
+      epidemic and is ideally suited to this.
+
+      In the midst of this rapidly evolving pandemic the RAPID-19 study is a pragmatic approach to
+      addressing the above issues.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronaviruses are non-segmented positive-stranded RNA viruses with a roughly 30 kb genome
+      (1). The majority of coronaviruses cause disease in a specific host species but some have
+      infected humans by cross-species transmission. This process has led to a number of severe
+      outbreaks of human disease including severe acute respiratory syndrome (SARS) in 2003 and
+      Middle East respiratory syndrome (MERS) in 2012 (1).
+
+      From December 2019 a novel infection &quot;severe acute respiratory syndrome coronavirus 2&quot;
+      (SARS-CoV-2) was identified in the Wuhan region of China. The infection was identified as the
+      causal factor in a growing number of severe cases of pneumonia (1). This disease was
+      subsequently named coronavirus disease 2019 (COVID-19) by World Health Organisation (WHO).
+      SARS-CoV-2 has been shown to cause severe disease similar to the previous SARS coronavirus
+      from 2003. Severe disease is associated with pneumonia and damage to vital organs including
+      lung, heart, liver, and kidney (1). Pneumonia is the leading cause of mortality in children
+      worldwide but very little is known regarding the disease process in children.
+
+        -  Currently it is not known why so many children exhibit mild disease, or why some
+           children suffer severe disease and die.
+
+        -  There is a need for an accurate rapid point of care diagnostic test to diagnose
+           SARS-CoV-2 infection (the cause of COVID-19).
+
+      Point-of-care (POC) testing:
+
+      A rapid POC test for SARS-CoV-2 is essential. With such a potentially fatal disease
+      confirming the diagnosis early will allow for prompt and appropriate therapy. A rapid test
+      would also allow for early cohorting of children thereby improving flow through the emergency
+      department. Finally rapid testing could support the wider fight against Covid-19 through
+      quicker contact tracing and isolation.
+
+      The research team in Belfast have experience of using Loop-mediated isothermal AMPlification
+      (LAMP) for the rapid diagnosis of serious infections in children and have been involved with
+      the development of LAMP testing for Meningococcal Disease, invasive E.coli infection Group B
+      Streptococcal disease (2,-4). There now exists a CE marked commercially available LAMP rapid
+      test for SARS-CoV-2 that can be performed with minimal equipment within 30 minutes. The test
+      can be performed using a single throat or nasal swab.
+
+      Disease process:
+
+      Very little is known regarding the symptoms and signs of Covid-19 disease in children (1). In
+      particular, it is not know how many children are asymptomatic carriers of the SARS-CoV-2
+      virus and what the symptoms and signs of mild Covid-19 disease are. It is also not know why
+      some, previously well, children develop severe disease. Research is required to understand
+      the symptoms and signs of infection, the spectrum of disease and the host immune response in
+      those with severe disease.
+
+      Rationale for the study:
+
+      This RAPID-19study aims to improve our understanding of how Covid-19 affects healthy
+      children. By following children of healthcare workers there is an opportunity to follow
+      children as they acquire Covid-19 and develop immunity. During this time the performance of
+      antibody tests and rapid diagnostics will be assessed. These tests are vital in the fight
+      against Covid-19. The study population was chosen as healthcare workers are at higher risk of
+      contracting the infection during the current social distancing measures.
+
+      In addition to the main cohort (children of healthcare workers), the study will recruit
+      children with known Covid-19 admitted to hospital. Severe disease is likely to be a rare
+      event and admission to hospital will be an uncommon event for most children with Covid-19. It
+      is estimated that only 1 or 2 children of the (100-120) healthcare workers will be admitted
+      for treatment. By following admitted children there is an opportunity to research the full
+      spectrum of disease from minor illness through to moderate and severe disease. By following a
+      range of severities it will be possible to gain a greater insight into the different cytokine
+      proteomic, and transcriptomic responses. This will provide insight into prognostication and
+      potential therapeutics.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 13, 2020</start_date>
+  <completion_date type="Anticipated">October 13, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 13, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-Cov2 positive molecular testing of throat/nasal swabs</measure>
+    <time_frame>6 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunoglobulins (G and M) to SARS-Cov2 in plasma</measure>
+    <time_frame>6 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood cytokine levels</measure>
+    <time_frame>6 months</time_frame>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>COVID</condition>
+  <arm_group>
+    <arm_group_label>Healthy cohort</arm_group_label>
+    <description>Healthy children (2 to 15 years of age).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Admitted cohort</arm_group_label>
+    <description>Children (15 years and younger) with confirmed Covid-19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Loop mediated isothermal amplification COVID-19</intervention_name>
+    <description>Loop mediated isothermal amplification (LAMP) is a rapid molecular amplification test which is commercially available and can deliver a result with minimal equipment in 30 minutes in the clinical environment from a throat swab.</description>
+    <arm_group_label>Admitted cohort</arm_group_label>
+    <arm_group_label>Healthy cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Covid-19 Antibody testing (IgG and IgM)</intervention_name>
+    <description>Antibody testing for previous exposure to Covid-19</description>
+    <arm_group_label>Admitted cohort</arm_group_label>
+    <arm_group_label>Healthy cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Cytokine profile</intervention_name>
+    <description>Blood cytokine levels</description>
+    <arm_group_label>Admitted cohort</arm_group_label>
+    <arm_group_label>Healthy cohort</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Nasal swabs Blood plasma
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Children aged from 0 to 15 who are resident in Northern Ireland that meet the above
+        eligibility criteria
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        - Children of healthcare professionals and children admitted to the Royal Belfast Hospital
+        for Sick Children with confirmed Covid-19 disease.
+
+        Exclusion Criteria:
+
+        Not currently receiving antibiotics, not admitted to hospital within the last seven days,
+        not receiving immunosuppressive drugs and never diagnosed with a malignancy.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>15 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas Waterfield, BMBCh</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Queen's University, Belfast</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Thomas Waterfield, BMBCh</last_name>
+    <phone>07872990521</phone>
+    <email>t.waterfield@qub.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sharon Christie, PhD</last_name>
+    <phone>07899913551</phone>
+    <email>sharon.christie@belfasttrust.hscni.net</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Royal Belfast Hospital for Sick Children</name>
+      <address>
+        <city>Belfast</city>
+        <zip>BT126BA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Thomas Waterfield, BMBCh</last_name>
+      <phone>07872990521</phone>
+      <email>t.waterfield@qub.ac.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sharon Christie, PhD</last_name>
+      <phone>07899913551</phone>
+      <email>sharon-christie@belfasttrust.hscni.net</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 15, 2020</study_first_posted>
+  <last_update_submitted>April 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Queen's University, Belfast</investigator_affiliation>
+    <investigator_full_name>Thomas Waterfield</investigator_full_name>
+    <investigator_title>Chief Investigator and Academic Clinical Lecturer</investigator_title>
+  </responsible_party>
+  <keyword>Diagnostic Accuracy</keyword>
+  <keyword>Point of Care Testing</keyword>
+  <keyword>Loop mediated isothermal amplification</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

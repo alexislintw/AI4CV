@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="315">
+<clinical_study rank="456">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04333654</url>
   </required_header>
@@ -191,7 +191,7 @@
   </overall_contact>
   <location>
     <facility>
-      <name>Investigational site number 8401001</name>
+      <name>Investigational Site Number 8400001</name>
       <address>
         <city>Boston</city>
         <state>Massachusetts</state>
@@ -201,16 +201,28 @@
     </facility>
     <status>Recruiting</status>
   </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 2501001</name>
+      <address>
+        <city>Bordeaux Cedex</city>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
   <location_countries>
+    <country>France</country>
     <country>United States</country>
   </location_countries>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 3, 2020</last_update_posted>
+  <last_update_submitted>April 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

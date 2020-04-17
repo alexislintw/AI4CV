@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="189">
+<clinical_study rank="299">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04335552</url>
   </required_header>
@@ -11,8 +11,8 @@
     <org_study_id>PRO00105339</org_study_id>
     <nct_id>NCT04335552</nct_id>
   </id_info>
-  <brief_title>Phase 2 Trial of Hydroxychloroquine, Azithromycin, or Both for Treatment of Severe SARS-CoV-2 Infection</brief_title>
-  <official_title>Phase 2 Pragmatic Factorial Trial of Hydroxychloroquine, Azithromycin, or Both for Treatment of Severe SARS-CoV-2 Infection</official_title>
+  <brief_title>Pragmatic Factorial Trial of Hydroxychloroquine, Azithromycin, or Both for Treatment of Severe SARS-CoV-2 Infection</brief_title>
+  <official_title>Pragmatic Factorial Trial of Hydroxychloroquine, Azithromycin, or Both for Treatment of Severe SARS-CoV-2 Infection</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Duke University</agency>
@@ -28,7 +28,7 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      This is a phase II, randomized, open-label, incomplete factorial with nested randomization
+      This is a pragmatic, randomized, open-label, incomplete factorial with nested randomization
       clinical trial evaluating the efficacy and safety of two potential treatments for
       hospitalized patients with confirmed SARS-CoV-2 infection. Participants who are hospitalized
       and have a positive nucleic acid amplification test for SARS-CoV-2 will undergo an initial
@@ -259,9 +259,9 @@
   <study_first_submitted>April 3, 2020</study_first_submitted>
   <study_first_submitted_qc>April 3, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 3, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

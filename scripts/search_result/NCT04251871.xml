@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="412">
+<clinical_study rank="591">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04251871</url>
   </required_header>
@@ -248,7 +248,6 @@ Traditional Chinese Medicines (TCMs) granules: 20g, p.o, bid, for 14 days.</desc
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Interferons</mesh_term>
     <mesh_term>Ritonavir</mesh_term>
-    <mesh_term>Antiviral Agents</mesh_term>
     <mesh_term>Lopinavir</mesh_term>
     <mesh_term>Interferon-alpha</mesh_term>
   </intervention_browse>

@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="430">
+<clinical_study rank="112">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04244591</url>
   </required_header>
   <id_info>
-    <org_study_id>Glucocorticoid nCoV</org_study_id>
+    <org_study_id>Glucocorticoid COVID-19</org_study_id>
     <nct_id>NCT04244591</nct_id>
   </id_info>
-  <brief_title>Glucocorticoid Therapy for Novel CoronavirusCritically Ill Patients With Severe Acute Respiratory Failure</brief_title>
-  <acronym>Steroids-SARI</acronym>
-  <official_title>Glucocorticoid Therapy for Critically Ill Patients With Severe Acute Respiratory Infections Caused by Noval Coronovirus 2019-nCoV: a Prospective, Randomized Controlled Trial</official_title>
+  <brief_title>Glucocorticoid Therapy for COVID-19 Critically Ill Patients With Severe Acute Respiratory Failure</brief_title>
+  <official_title>Glucocorticoid Therapy for Critically Ill Patients With Severe Acute Respiratory Infections Caused by COVID-19: a Prospective, Randomized Controlled Trial</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Peking Union Medical College Hospital</agency>
@@ -41,32 +40,31 @@
   <brief_summary>
     <textblock>
       In this multi-center, randomized, control study, the investigators will evaluate the efficacy
-      and safety of glucocorticoid in combination with standard care for 2019 novel coronavirus
-      (2019-nCoV) patents with Severe acute respiratory failure.
+      and safety of glucocorticoid in combination with standard care for COVID-19 patents with
+      Severe acute respiratory failure.
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
-      2019 novel coronavirus (2019-nCoV) is a novel coronavirus that was initially outbreak in
-      Wuhan, China. Severe acute respiratory infection with novel coronavirus (SARI-nCoV) causes
-      severe acute respiratory failure with substantial mortality. Currently, the standard care is
-      supportive care, and no treatment is proven to be effective for this condition.
+      COVID-19 is a novel coronavirus that was initially outbreak in Wuhan, China. Severe acute
+      respiratory infection with COVID-19 causes severe acute respiratory failure with substantial
+      mortality. Currently, the standard care is supportive care, and no treatment is proven to be
+      effective for this condition.
 
       Glucocorticoid therapy is widely used among critically ill patients with other coronavirus
       infection such as SARS (severe acute respiratory syndrome) and MERS (Middle East respiratory
-      syndrome). However, whether glucocorticoid improved the outcome of 2019-nConV remains
-      unknown. We hypothesized that glucocorticoid would improve the prognosis of patietns with
-      SARI-nCoV.
+      syndrome). However, whether glucocorticoid improved the outcome of COVID-19 remains unknown.
+      We hypothesized that glucocorticoid would improve the prognosis of patietns with COVID-19.
 
-      In this study, critically ill patients with 2019-nConV were enrolled and randomized to
-      receive ether standard care or standard care in combination with methylprednisolone therapy.
-      The primary outcome is the difference of Murray lung injury score between two groups.
+      In this study, critically ill patients with COVID-19 were enrolled and randomized to receive
+      ether standard care or standard care in combination with methylprednisolone therapy. The
+      primary outcome is the difference of Murray lung injury score between two groups.
     </textblock>
   </detailed_description>
-  <overall_status>Recruiting</overall_status>
+  <overall_status>Completed</overall_status>
   <start_date type="Actual">January 26, 2020</start_date>
-  <completion_date type="Anticipated">December 25, 2020</completion_date>
-  <primary_completion_date type="Anticipated">April 25, 2020</primary_completion_date>
+  <completion_date type="Actual">April 13, 2020</completion_date>
+  <primary_completion_date type="Actual">April 13, 2020</primary_completion_date>
   <phase>Phase 2/Phase 3</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
@@ -127,9 +125,8 @@
     <description>All-cause mortality</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
-  <enrollment type="Anticipated">80</enrollment>
-  <condition>Coronavirus Infections</condition>
-  <condition>Respiratory Infection Virus</condition>
+  <enrollment type="Actual">80</enrollment>
+  <condition>COVID-19 Infections</condition>
   <arm_group>
     <arm_group_label>standard care</arm_group_label>
     <arm_group_type>Placebo Comparator</arm_group_type>
@@ -160,7 +157,7 @@
 
           -  Adult
 
-          -  PCR confirmed noval coronavirus infection
+          -  PCR confirmed COVID-19 infection
 
           -  Symptoms developed more than 7 days
 
@@ -205,17 +202,6 @@
         <country>China</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Bin Du, MD</last_name>
-      <phone>8610-6915-5036</phone>
-      <email>dubin98@gmail.com</email>
-    </contact>
-    <contact_backup>
-      <last_name>Li Weng, MD</last_name>
-      <phone>8610-6915-4035</phone>
-      <email>wengli@pumch.cn</email>
-    </contact_backup>
   </location>
   <location_countries>
     <country>China</country>
@@ -240,19 +226,15 @@
   <study_first_submitted>January 23, 2020</study_first_submitted>
   <study_first_submitted_qc>January 25, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">January 28, 2020</study_first_posted>
-  <last_update_submitted>February 12, 2020</last_update_submitted>
-  <last_update_submitted_qc>February 12, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">February 13, 2020</last_update_posted>
+  <last_update_submitted>April 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
   <condition_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Infection</mesh_term>
-    <mesh_term>Communicable Diseases</mesh_term>
-    <mesh_term>Respiratory Tract Infections</mesh_term>
-    <mesh_term>Coronavirus Infections</mesh_term>
-    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
   </condition_browse>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
@@ -263,7 +245,6 @@
     <mesh_term>Prednisolone acetate</mesh_term>
     <mesh_term>Prednisolone hemisuccinate</mesh_term>
     <mesh_term>Prednisolone phosphate</mesh_term>
-    <mesh_term>Glucocorticoids</mesh_term>
   </intervention_browse>
   <patient_data>
     <sharing_ipd>No</sharing_ipd>

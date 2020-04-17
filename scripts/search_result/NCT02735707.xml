@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="263">
+<clinical_study rank="392">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT02735707</url>
   </required_header>
@@ -25,10 +25,6 @@
       <agency_class>Other</agency_class>
     </lead_sponsor>
     <collaborator>
-      <agency>Berry Consultants</agency>
-      <agency_class>Other</agency_class>
-    </collaborator>
-    <collaborator>
       <agency>Australian and New Zealand Intensive Care Research Centre</agency>
       <agency_class>Other</agency_class>
     </collaborator>
@@ -38,6 +34,18 @@
     </collaborator>
     <collaborator>
       <agency>Unity Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Berry Consultants</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Global Coalition for Adaptive Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Pittsburgh Medical Center</agency>
       <agency_class>Other</agency_class>
     </collaborator>
   </sponsors>
@@ -57,6 +65,8 @@
 
       In addition, REMAP-CAP provides and adaptive research platform for evaluation of multiple
       treatment modalities in the event of a respiratory pandemic resulting in critical illness.
+
+      REMAP-COVID is a sub-platform of REMAP-CAP that evaluates treatments specific to COVID-19.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -92,7 +102,7 @@
   </detailed_description>
   <overall_status>Recruiting</overall_status>
   <start_date type="Actual">April 11, 2016</start_date>
-  <completion_date type="Anticipated">June 2022</completion_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
   <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
   <phase>Phase 4</phase>
   <study_type>Interventional</study_type>
@@ -110,7 +120,7 @@
   <primary_outcome>
     <measure>Days alive and outside of ICU</measure>
     <time_frame>Day 21</time_frame>
-    <description>Primary end-point for patients with suspected or proven pandemic infection</description>
+    <description>Primary end-point for patients with suspected or proven COVID-19 pandemic infection</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>ICU Mortality</measure>
@@ -154,6 +164,10 @@
     <measure>Readmission to the index ICU during the index hospitalization</measure>
     <time_frame>Day 90</time_frame>
   </secondary_outcome>
+  <secondary_outcome>
+    <measure>World Health Organisation 8-point ordinal scale outcome</measure>
+    <time_frame>Hospital discharge</time_frame>
+  </secondary_outcome>
   <other_outcome>
     <measure>Occurrence of multi-resistant organism colonisation/infection</measure>
     <time_frame>Day 90, censored at hospital discharge</time_frame>
@@ -179,13 +193,13 @@
     <time_frame>Day 90, censored at hospital discharge</time_frame>
     <description>COVID-19 Antiviral Domain and COVID-19 Immune Modulation Domain specific endpoint</description>
   </other_outcome>
-  <number_of_arms>20</number_of_arms>
-  <enrollment type="Anticipated">6800</enrollment>
+  <number_of_arms>23</number_of_arms>
+  <enrollment type="Anticipated">7100</enrollment>
   <condition>Community-acquired Pneumonia, Influenza, COVID-19</condition>
   <arm_group>
     <arm_group_label>Corticosteroid Domain: fixed-duration Hydrocortisone</arm_group_label>
     <arm_group_type>Active Comparator</arm_group_type>
-    <description>The patient will receive Hydrocortisone 50 mg every 6 hours for up to 7 days.</description>
+    <description>The patient will receive IV Hydrocortisone 50 mg every 6 hours for up to 7 days.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Corticosteroid Domain:No systemic corticosteroid (no placebo)</arm_group_label>
@@ -230,7 +244,7 @@
   <arm_group>
     <arm_group_label>Macrolide Duration Domain: Extended course macrolide</arm_group_label>
     <arm_group_type>Active Comparator</arm_group_type>
-    <description>The patient will receive macrolide therapy for up to 14 days This arm is nested within the Antibiotic Domain.</description>
+    <description>The patient will receive macrolide therapy for up to 14 days. This arm is nested within the Antibiotic Domain.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>No antiviral agent active against influenza (no placebo)</arm_group_label>
@@ -275,12 +289,27 @@
   <arm_group>
     <arm_group_label>Interferon-β1a for COVID-19</arm_group_label>
     <arm_group_type>Active Comparator</arm_group_type>
-    <description>Patients will receive Interferon-β1a daily for six days or until ICU discharge intended to be active against SARS-CoV-2 infection.</description>
+    <description>Patients will receive Interferon-β1a intended to be active against COVID-19.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Anakinra (interleukin-1 receptor antagonist) for COVID-19</arm_group_label>
     <arm_group_type>Active Comparator</arm_group_type>
-    <description>Patients will receive anakinra 300mg daily intended to be active against SARS-CoV-2 infection.</description>
+    <description>Patients will receive anakinra intended to be active against COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fixed-duration higher dose Hydrocortisone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The patient will receive IV Hydrocortisone 100mg every 6 hours for up to 7 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Tocilizumab</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will receive Tocilizumab intended to be active against COVID-19</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sarilumab</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will receive Sarilumab intended to be active against COVID-19</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
@@ -369,55 +398,117 @@ The preferred enteral macrolide is azithromycin, but enteral clarithromycin or r
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Hydroxychloroquine</intervention_name>
-    <description>Loading dose of 400mg administered enterally every 8 hours until 9 doses have been administered. Subsequently, 200mg hydroxychloroquine will be administered enterally every 12 hours until ICU discharge of end of study day 10 (whichever occurs first).</description>
+    <description>Loading dose of 800mg hydroxychloroquine administered enterally every 6 hours until 2 doses have been administered. Subsequently, 400mg hydroxychloroquine will be administered enterally every 12 hours for 12 doses or ICU discharge (whichever occurs first).</description>
     <arm_group_label>Hydroxychloroquine for COVID-19</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Hydroxychloroquine + lopinavir/ritonavir</intervention_name>
     <description>Lopinavir/ritonavir 400/100mg administered enterally, or 5ml 80/20mg per mL solution suspension via gastric tube, every 12 hours. Administered for a minimum of 5 days, including if discharged from ICU prior to end of study day 5. For patients discharged from ICU between study day 6 and study day 14, lopinavir/ritonavir is ceased at ICU discharge. Lopinavir/ritonavir is ceased at the end of study day 14 if the patient remains in ICU.
-Loading dose of 400mg hydroxychloroquine administered enterally every 8 hours until 9 doses have been administered. Subsequently, 200mg hydroxychloroquine will be administered enterally every 12 hours until ICU discharge of end of study day 10 (whichever occurs first).</description>
+Loading dose of 800mg hydroxychloroquine administered enterally every 6 hours until 2 doses have been administered. Subsequently, 400mg hydroxychloroquine will be administered enterally every 12 hours for 12 doses or ICU discharge (whichever occurs first).</description>
     <arm_group_label>Hydroxychloroquine + lopinavir/ritonavir for COVID-19</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Interferon-β1a</intervention_name>
-    <description>IFN-β1a 10 μg will be diluted in 1 mL of sterile water. The diluted IFN-β1a will be administered as an intravenous bolus injection via a central or peripheral line. The injection will be followed with a 5 mL flush of sterile saline. IFN-β1a will be administered once daily for 6 days or until ICU discharge, whichever occurs first.</description>
+    <description>IFN-β1a 10 μg will be administered as an intravenous bolus injection via a central or peripheral line. IFN-β1a will be administered once daily for 6 days or until ICU discharge, whichever occurs first.</description>
     <arm_group_label>Interferon-β1a for COVID-19</arm_group_label>
     <other_name>IFN-β1a</other_name>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Anakinra</intervention_name>
-    <description>300mg anakinra administered as a bolus via central or peripheral line once daily.
+    <description>A loading dose of 300mg anakinra will be administered as a bolus via central or peripheral line. This is followed by maintenance doses of 100mg of anakinra administered very 6 hours.
 In patients with renal impairment, anakinra will be administered on alternate days.</description>
     <arm_group_label>Anakinra (interleukin-1 receptor antagonist) for COVID-19</arm_group_label>
     <other_name>Interleukin-1 receptor antagonist (IL-1Ra)</other_name>
   </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fixed-duration higher dose Hydrocortisone</intervention_name>
+    <description>100mg of intravenous hydrocortisone will be administered every 6 hours for up to 7 days.</description>
+    <arm_group_label>Fixed-duration higher dose Hydrocortisone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tocilizumab</intervention_name>
+    <description>Tocilizumab will be administered as a single dose of 8mg/kg estimated or measured body weight, with a maximum total dose of 800mg.
+Tocilizumab will be administered as an IV infusion via central or peripheral line over a one-hour period.</description>
+    <arm_group_label>Tocilizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sarilumab</intervention_name>
+    <description>Sarilumab will be administered as a single dose of 400mg, via IV infusion through peripheral or central line over a one-hour period.</description>
+    <arm_group_label>Sarilumab</arm_group_label>
+  </intervention>
   <eligibility>
     <criteria>
       <textblock>
-        PLATFORM INCLUSION CRITERIA :
+        REMAP-CAP PLATFORM INCLUSION CRITERIA:
 
-        1. Adult patients admitted to an ICU for severe CAP within 48 hours of hospital admission
-        with: i. symptoms or signs or both that are consistent with lower respiratory tract
-        infection AND ii. Radiological evidence of new onset consolidation (in patients with
-        pre-existing radiological changes, evidence of new infiltrate) 2. Requiring organ support
-        with one or more of: i. Non-invasive ii. Invasive ventilatory support; iii. Receiving
-        infusion of vasopressor or inotropes
+          1. Adult patient admitted to an ICU for severe CAP within 48 hours of hospital admission
+             with:
+
+               1. symptoms or signs or both that are consistent with lower respiratory tract
+                  infection AND
+
+               2. Radiological evidence of new onset consolidation (in patients with pre-existing
+                  radiological changes, evidence of new infiltrate)
+
+          2. Up to 48 hours after ICU admission, receiving organ support with one or more of:
+
+               1. Non-invasive or Invasive ventilatory support;
+
+               2. Receiving infusion of vasopressor or inotropes or both
 
         PLATFORM EXCLUSION CRITERIA:
 
           1. Healthcare-associated pneumonia:
 
-             i. Prior to this illness, has been an inpatient in any healthcare facility within the
-             last 30 days ii. Resident of a nursing home or long term care facility
+               1. Prior to this illness, is known to have been an inpatient in any healthcare
+                  facility within the last 30 days
 
-          2. Death is deemed to be imminent or inevitable admission within the next 24 hours AND
-             one or more of the patient, substitute decision maker or attending physician are not
-             committed to full active treatment
+               2. Resident of a nursing home or long term care facility
+
+          2. Death is deemed to be imminent and inevitable during the next 24 hours AND one or more
+             of the patient, substitute decision maker or attending physician are not committed to
+             full active treatment
 
           3. Previous participation in this REMAP within the last 90 days
+
+        REMAP-COVID PLATFORM INCLUSION CRITERIA
+
+        1. Adult patients (≥ 18 years) hospitalised with suspected or proven COVID-19 infection.
+        &quot;Suspected COVID-19 infection&quot; means the patient is clinically diagnosed based on symptoms
+        and/or exposure and for whom a microbiology test for COVID-19 has been/will be ordered, but
+        for whom the result is pending. &quot;Proven COVID-19 infection&quot; means the patient has a
+        confirmed positive result for COVID-19 based on microbiological testing.
+
+        ADDITIONAL PLATFORM INCLUSION CRITERIA FOR ICU-BASED REMAP-COVID DOMAINS
+
+          1. Admitted to an ICU with the following features suggestive of COVID-19-related
+             pneumonia:
+
+               1. symptoms or signs or both that are consistent with lower respiratory tract
+                  infection AND
+
+               2. Radiological evidence of new onset consolidation (in patients with pre-existing
+                  radiological changes, evidence of new infiltrate)
+
+          2. Up to 48 hours after ICU admission, receiving organ support with one or more of:
+
+               1. Non-invasive or Invasive ventilatory support;
+
+               2. Receiving infusion of vasopressor or inotropes or both
+
+        REMAP-COVID PLATFORM EXCLUSION CRITERIA
+
+          1. Death is deemed to be imminent and inevitable during the next 24 hours AND one or more
+             of the patient, substitute decision maker or attending physician are not committed to
+             full active treatment
+
+          2. Previous participation in this REMAP within the last 90 days
 
         DOMAIN-SPECIFIC ELIGIBLE CRITERIA:
 
@@ -455,6 +546,11 @@ In patients with renal impairment, anakinra will be administered on alternate da
     <role>Study Chair</role>
     <affiliation>Unity Health Toronto</affiliation>
   </overall_official>
+  <overall_official>
+    <last_name>Angus Derek, Prof</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Pittsburgh Medical Center</affiliation>
+  </overall_official>
   <overall_contact>
     <last_name>Cameron Green</last_name>
     <email>info@remapcap.org</email>
@@ -466,18 +562,6 @@ In patients with renal impairment, anakinra will be administered on alternate da
   </overall_contact_backup>
   <location>
     <facility>
-      <name>Wollongong Hospital</name>
-      <address>
-        <city>Sidney</city>
-        <state>New South Wales</state>
-        <zip>8808</zip>
-        <country>Australia</country>
-      </address>
-    </facility>
-    <status>Not yet recruiting</status>
-  </location>
-  <location>
-    <facility>
       <name>St Vincent's Hospital Sydney</name>
       <address>
         <city>Sydney</city>
@@ -486,7 +570,7 @@ In patients with renal impairment, anakinra will be administered on alternate da
         <country>Australia</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -510,7 +594,7 @@ In patients with renal impairment, anakinra will be administered on alternate da
         <country>Australia</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -522,7 +606,19 @@ In patients with renal impairment, anakinra will be administered on alternate da
         <country>Australia</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wollongong Hospital</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>8808</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -558,7 +654,7 @@ In patients with renal impairment, anakinra will be administered on alternate da
         <country>Australia</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -582,7 +678,7 @@ In patients with renal impairment, anakinra will be administered on alternate da
         <country>Australia</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -594,7 +690,7 @@ In patients with renal impairment, anakinra will be administered on alternate da
         <country>Australia</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -642,7 +738,7 @@ In patients with renal impairment, anakinra will be administered on alternate da
         <country>Australia</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -654,7 +750,7 @@ In patients with renal impairment, anakinra will be administered on alternate da
         <country>Australia</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -666,7 +762,7 @@ In patients with renal impairment, anakinra will be administered on alternate da
         <country>Australia</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -678,7 +774,7 @@ In patients with renal impairment, anakinra will be administered on alternate da
         <country>Australia</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -690,7 +786,7 @@ In patients with renal impairment, anakinra will be administered on alternate da
         <country>Australia</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -702,7 +798,7 @@ In patients with renal impairment, anakinra will be administered on alternate da
         <country>Australia</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -1694,13 +1790,17 @@ In patients with renal impairment, anakinra will be administered on alternate da
     <url>https://www.captic.ca/the-remap-cap-trial</url>
     <description>CAPTIC Website</description>
   </link>
-  <verification_date>March 2020</verification_date>
+  <link>
+    <url>https://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.202003-192SD</url>
+    <description>Protocol publication</description>
+  </link>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>December 11, 2015</study_first_submitted>
   <study_first_submitted_qc>April 6, 2016</study_first_submitted_qc>
   <study_first_posted type="Estimate">April 13, 2016</study_first_posted>
-  <last_update_submitted>March 25, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 25, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 30, 2020</last_update_posted>
+  <last_update_submitted>April 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>UMC Utrecht</investigator_affiliation>
@@ -1726,40 +1826,35 @@ In patients with renal impairment, anakinra will be administered on alternate da
   <keyword>Influenza</keyword>
   <keyword>Intensive care</keyword>
   <keyword>Critical care</keyword>
+  <keyword>SARS-CoV-2</keyword>
   <condition_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Pneumonia</mesh_term>
   </condition_browse>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
-    <mesh_term>Anti-Bacterial Agents</mesh_term>
-    <mesh_term>Amoxicillin</mesh_term>
-    <mesh_term>Moxifloxacin</mesh_term>
-    <mesh_term>Levofloxacin</mesh_term>
-    <mesh_term>Ofloxacin</mesh_term>
-    <mesh_term>Ceftriaxone</mesh_term>
-    <mesh_term>Tazobactam</mesh_term>
-    <mesh_term>Piperacillin</mesh_term>
-    <mesh_term>Clavulanic Acid</mesh_term>
-    <mesh_term>Clavulanic Acids</mesh_term>
-    <mesh_term>Ceftaroline fosamil</mesh_term>
-    <mesh_term>Piperacillin, Tazobactam Drug Combination</mesh_term>
-    <mesh_term>Amoxicillin-Potassium Clavulanate Combination</mesh_term>
-    <mesh_term>Antibiotics, Antitubercular</mesh_term>
     <mesh_term>Interferons</mesh_term>
     <mesh_term>Ritonavir</mesh_term>
-    <mesh_term>Antiviral Agents</mesh_term>
     <mesh_term>Lopinavir</mesh_term>
     <mesh_term>Oseltamivir</mesh_term>
     <mesh_term>Interferon-beta</mesh_term>
     <mesh_term>Interferon beta-1a</mesh_term>
+    <mesh_term>Amoxicillin</mesh_term>
+    <mesh_term>Moxifloxacin</mesh_term>
     <mesh_term>Hydroxychloroquine</mesh_term>
+    <mesh_term>Levofloxacin</mesh_term>
+    <mesh_term>Tazobactam</mesh_term>
+    <mesh_term>Ceftriaxone</mesh_term>
+    <mesh_term>Piperacillin</mesh_term>
+    <mesh_term>Clavulanic Acid</mesh_term>
+    <mesh_term>Ceftaroline fosamil</mesh_term>
+    <mesh_term>Piperacillin, Tazobactam Drug Combination</mesh_term>
+    <mesh_term>Amoxicillin-Potassium Clavulanate Combination</mesh_term>
     <mesh_term>Hydrocortisone</mesh_term>
     <mesh_term>Hydrocortisone 17-butyrate 21-propionate</mesh_term>
     <mesh_term>Hydrocortisone acetate</mesh_term>
     <mesh_term>Hydrocortisone hemisuccinate</mesh_term>
     <mesh_term>Interleukin 1 Receptor Antagonist Protein</mesh_term>
-    <mesh_term>Norgestimate, ethinyl estradiol drug combination</mesh_term>
   </intervention_browse>
   <patient_data>
     <sharing_ipd>Yes</sharing_ipd>

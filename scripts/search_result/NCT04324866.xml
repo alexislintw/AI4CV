@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="268">
+<clinical_study rank="401">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04324866</url>
   </required_header>
@@ -221,10 +221,6 @@
     <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
     <mesh_term>Psoriasis</mesh_term>
   </condition_browse>
-  <intervention_browse>
-    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
-    <mesh_term>Immunosuppressive Agents</mesh_term>
-  </intervention_browse>
   <!-- Results have not yet been posted for this study                                          -->
 </clinical_study>
 

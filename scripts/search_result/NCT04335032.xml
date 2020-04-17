@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="238">
+<clinical_study rank="310">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04335032</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>EPA-COV-001</org_study_id>
     <nct_id>NCT04335032</nct_id>
   </id_info>
-  <brief_title>EPA-FFA to Treat Hospitalised Patients With SARS-CoV-2</brief_title>
+  <brief_title>EPA-FFA to Treat Hospitalised Patients With COVID-19 (SARS-CoV-2)</brief_title>
   <official_title>A Randomized Controlled Study of Eicosapentaenoic Acid (EPA-FFA) Gastro-resistant Capsules to Treat Hospitalized Subjects With Confirmed SARS-CoV-2</official_title>
   <sponsors>
     <lead_sponsor>
@@ -113,19 +113,19 @@
     <masking>None (Open Label)</masking>
   </study_design_info>
   <primary_outcome>
-    <measure>Efficacy of EPA-FFA</measure>
+    <measure>Evaluation of EPA-FFA efficacy compared to standard of care</measure>
     <time_frame>28 days</time_frame>
     <description>Time to treatment failure during the 28-day treatment period. Treatment failure is defined as additional or alternative treatment required, or intubation and invasive ventilation, or transfer to intensive care unit, or death.</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Increase in oxygen saturation</measure>
     <time_frame>28 days</time_frame>
-    <description>Time to and number of days with oxygen saturation &gt;95% without oxygen inhalation during the 28-day treatment period</description>
+    <description>Time to (in days) and number of days with oxygen saturation &gt;95% without oxygen inhalation during the 28-day treatment period</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>PaO2/FiO2 &gt;300mmHg increase</measure>
     <time_frame>28 days</time_frame>
-    <description>Time to and number of days with PaO2/FiO2 &gt;300mmHg without oxygen inhalation during the 28-day treatment period</description>
+    <description>Time to (in days) and number of days with PaO2/FiO2 &gt;300mmHg without oxygen inhalation during the 28-day treatment period</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Reduction of IL-6</measure>
@@ -155,15 +155,15 @@
   <secondary_outcome>
     <measure>Fever reduction</measure>
     <time_frame>28 days</time_frame>
-    <description>Time to and number of days with fever normalization &lt; 36.6°C armpit, &lt; 37.2°C oral, &lt; 37.8°C rectal, during the 28-day treatment period</description>
+    <description>Time to (in days) and number of days with fever normalization &lt; 36.6°C armpit, &lt; 37.2°C oral, &lt; 37.8°C rectal, during the 28-day treatment period</description>
   </secondary_outcome>
   <other_outcome>
     <measure>Safety - Vitals, AEs and Clinical lab parameters</measure>
     <time_frame>throughout the study, about 3 months</time_frame>
-    <description>To evaluate the safety of EPA-FFA gastro-resistant capsules in the treatment of SARS-CoV-2 by assessing clinical lab parameters, number and proportion of subjects with AEs as well as assessing vital signs.</description>
+    <description>To evaluate the safety of EPA-FFA gastro-resistant capsules in the treatment of COVID-19 (SARS-CoV-2) by assessing subjects clinical lab parameters and vital signs, and the number and proportion of subjects with AEs.</description>
   </other_outcome>
   <number_of_arms>1</number_of_arms>
-  <enrollment type="Anticipated">150</enrollment>
+  <enrollment type="Anticipated">240</enrollment>
   <condition>SARS-CoV-2</condition>
   <arm_group>
     <arm_group_label>Eicosapentaenoic acid gastro-resistant capsules</arm_group_label>
@@ -265,9 +265,9 @@ One capsule of EPA-FFA gastro-resistant capsules contains 500mg EPA-FFA in a cap
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

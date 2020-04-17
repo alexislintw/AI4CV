@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="118">
+<clinical_study rank="192">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04331665</url>
   </required_header>
@@ -50,7 +50,7 @@
     </textblock>
   </detailed_description>
   <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 6, 2020</start_date>
+  <start_date type="Anticipated">April 20, 2020</start_date>
   <completion_date type="Anticipated">January 31, 2021</completion_date>
   <primary_completion_date type="Anticipated">October 30, 2020</primary_completion_date>
   <phase>N/A</phase>
@@ -65,16 +65,16 @@
     <measure>Proportion of patients with COVID-19 pneumonia who become critically ill (defined as requiring mechanical ventilation and/or FiO2 of 60% of more)</measure>
     <time_frame>6 months</time_frame>
   </primary_outcome>
+  <primary_outcome>
+    <measure>Number of adverse events</measure>
+    <time_frame>9 months</time_frame>
+  </primary_outcome>
   <secondary_outcome>
     <measure>All cause mortality rate</measure>
     <time_frame>9 months</time_frame>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Average duration of hospital stay</measure>
-    <time_frame>9 months</time_frame>
-  </secondary_outcome>
-  <secondary_outcome>
-    <measure>Number of occurrence of secondary infections</measure>
     <time_frame>9 months</time_frame>
   </secondary_outcome>
   <number_of_arms>1</number_of_arms>
@@ -110,19 +110,24 @@
 
           -  Platelets &lt; 50 x 10^9/L
 
-          -  Total bilirubin, aspartate aminotransferase (AST), or alanine aminotransferase (ALT) &gt;
-             5x upper limit of normal (ULN)
+          -  Serum total bilirubin &gt;2.0 x upper limit of normal (ULN)
+
+          -  Aspartate aminotransferase (AST), or alanine aminotransferase (ALT) &gt; 5x ULN
 
           -  Creatinine clearance (CrCl) &lt; 15 mL/minute
 
           -  Pregnant women
+
+          -  Known HBV or HIV infection
+
+          -  Signs and symptoms of Varicella Zoster Virus (VZV) infection
 
           -  Patients requiring invasive mechanical ventilation. Patients requiring non-invasive
              mechanical ventilation (e.g., BiPAP) are eligible.
 
           -  Patients who require supplemental oxygen support prior to COVID-19 infection.
 
-          -  Patients who are on ruxolitinib.
+          -  Patients who are on ruxolitinib or similiar drugs.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -142,8 +147,7 @@
   </overall_official>
   <overall_contact>
     <last_name>Steven Chan, M.D.</last_name>
-    <phone>416-946-4501</phone>
-    <phone_ext>2253</phone_ext>
+    <phone>416-946-2000</phone>
     <email>steven.chan@uhn.ca</email>
   </overall_contact>
   <location>
@@ -158,8 +162,6 @@
     </facility>
     <contact>
       <last_name>Steven Chan, M.D.</last_name>
-      <phone>416-946-4501</phone>
-      <phone_ext>2253</phone_ext>
       <email>steven.chan@uhn.ca</email>
     </contact>
     <investigator>
@@ -178,9 +180,9 @@
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 1, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 2, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 3, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

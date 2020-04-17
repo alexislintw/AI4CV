@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="427">
+<clinical_study rank="527">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04320862</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>Pro00105189</org_study_id>
     <nct_id>NCT04320862</nct_id>
   </id_info>
-  <brief_title>Pandemic Response Network</brief_title>
+  <brief_title>COVID-19 Pandemic Response Network</brief_title>
   <official_title>Pandemic Response Network: Duke Community Health Watch</official_title>
   <sponsors>
     <lead_sponsor>
@@ -172,9 +172,9 @@
   <study_first_submitted>March 23, 2020</study_first_submitted>
   <study_first_submitted_qc>March 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 25, 2020</study_first_posted>
-  <last_update_submitted>April 6, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

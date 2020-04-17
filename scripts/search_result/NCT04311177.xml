@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="237">
+<clinical_study rank="367">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04311177</url>
   </required_header>
@@ -32,8 +32,8 @@
       daily losartan or placebo for 10 days or treatment failure (hospital admission).
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 2, 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 9, 2020</start_date>
   <completion_date type="Anticipated">April 1, 2021</completion_date>
   <primary_completion_date type="Anticipated">April 1, 2021</primary_completion_date>
   <phase>Phase 2</phase>
@@ -47,8 +47,9 @@
   </study_design_info>
   <primary_outcome>
     <measure>Hospital Admission</measure>
-    <time_frame>28 days</time_frame>
-    <description>Outcome reported as the number of participants per arm admitted to inpatient hospital care due to COVID-19-related disease.</description>
+    <time_frame>15 days</time_frame>
+    <description>Outcome reported as the number of participants per arm admitted to inpatient hospital care due to COVID-19-related disease within 15 days of randomization.
+Currently, there is a pre-planned pooled analysis with a national trial network under development.</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Change in PROMIS Dyspnea Functional Limitations</measure>
@@ -63,32 +64,62 @@ In the 33-item Functional Limitations bank, 33 daily activities are rated in ter
 The 33-item Severity bank assesses the severity of difficulty breathing during various specific activities (the same 33 activities assessed in Dyspnea Functional Limitations). Each activity is rated in terms of degree of dyspnea (0 = no shortness of breath, 1 = mildly short of breath, 2 = moderately short of breath, 3 = severely short of breath) while engaging in the activity over the past 7 days. Total scores range from 0 to 99 with higher scores reflecting greater levels of dyspnea during daily activity.</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Fever Incidence Day 3</measure>
+    <measure>Daily Maximum Temperature</measure>
     <time_frame>10 days</time_frame>
-    <description>Participants will record oral temperature every day for 10 days. Outcome is reported as body temperature (in degrees Celsius) at day 3.</description>
+    <description>Participants will report their maximum daily oral temperature to the study team. Outcome is reported as the mean maximum daily body temperature (in degrees Celsius) over 10 days.</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Fever Incidence Day 5</measure>
-    <time_frame>10 days</time_frame>
-    <description>Participants will record oral temperature every day for 10 days. Outcome is reported as body temperature (in degrees Celsius) at day 5.</description>
-  </secondary_outcome>
-  <secondary_outcome>
-    <measure>Fever Incidence Day 7</measure>
-    <time_frame>10 days</time_frame>
-    <description>Participants will record oral temperature every day for 10 days. Outcome is reported as body temperature (in degrees Celsius) at day 7.</description>
-  </secondary_outcome>
-  <secondary_outcome>
-    <measure>Fever Incidence Day 10</measure>
-    <time_frame>10 days</time_frame>
-    <description>Participants will record oral temperature every day for 10 days. Outcome is reported as body temperature (in degrees Celsius) at day 10.</description>
-  </secondary_outcome>
-  <secondary_outcome>
-    <measure>Severity of Symptoms upon Hospital Admission</measure>
+    <measure>Emergency Department/Clinic Presentations</measure>
     <time_frame>28 days</time_frame>
-    <description>Outcome is reported as the number of participants in each arm who are admitted to inpatient hospital care and who present with organ failure (as determined by physician) at the time of admission.</description>
+    <description>Outcome is reported as the mean number of emergency department and clinic presentations combined per participant in each arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Severity Rating Day 7</measure>
+    <time_frame>7 days</time_frame>
+    <description>Outcome reported as the number of participants in each arm who fall into each of 7 categories. Lower scores indicate greater condition severity. The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen; 6) Not hospitalized, limitation on activities; 7) Not hospitalized, no limitations on activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Severity Rating Day 15</measure>
+    <time_frame>15 days</time_frame>
+    <description>Outcome reported as the number of participants in each arm who fall into each of 7 categories. Lower scores indicate greater condition severity. The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen; 6) Not hospitalized, limitation on activities; 7) Not hospitalized, no limitations on activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Severity Rating Day 28</measure>
+    <time_frame>28 days</time_frame>
+    <description>Outcome reported as the number of participants in each arm who fall into each of 7 categories. Lower scores indicate greater condition severity. The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen; 6) Not hospitalized, limitation on activities; 7) Not hospitalized, no limitations on activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral Load by Oropharyngeal Swab Day 9</measure>
+    <time_frame>9 days</time_frame>
+    <description>Participants will collect oropharyngeal swabs every third day for the duration of study participation. Viral load is measured as number of viral genetic copies per mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral Load by Oropharyngeal Swab Day 15</measure>
+    <time_frame>15 days</time_frame>
+    <description>Participants will collect oropharyngeal swabs every third day for the duration of study participation. Viral load is measured as number of viral genetic copies per mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-Free Days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Outcome reported as the mean number of days participants in each arm did not require ventilator use.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Therapeutic Oxygen-Free Days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Outcome reported as the mean number of days participants in each arm did not require therapeutic oxygen use.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for Hospital Admission at 15 Days</measure>
+    <time_frame>15 days</time_frame>
+    <description>Outcome reported as the percent of participants in each arm who require hospital admission by day 15 following randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for Oxygen Therapy at 15 Days</measure>
+    <time_frame>15 days</time_frame>
+    <description>Outcome reported as the percent of participants in each arm who require oxygen therapy by day 15 following randomization.</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
-  <enrollment type="Anticipated">516</enrollment>
+  <enrollment type="Anticipated">580</enrollment>
   <condition>Corona Virus Infection</condition>
   <condition>Acute Respiratory Distress Syndrome</condition>
   <condition>SARS-CoV Infection</condition>
@@ -120,36 +151,67 @@ The 33-item Severity bank assesses the severity of difficulty breathing during v
       <textblock>
         Inclusion Criteria:
 
-          -  Presumptive positive laboratory test for SARS-CoV-2 or upper respiratory infection
-             with recent exposure to laboratory-proven SARS-CoV-2-infected person
+          -  Positive laboratory test for COVID-19 based on local laboratory standard
 
-          -  Negative influenza and respiratory virus panel
-
-          -  Randomization within 48 hours of meeting inclusion criteria
+          -  Upper respiratory symptoms (cough, rhinorrhea) or fever (&gt;101.5)
 
         Exclusion Criteria:
+
+          -  Randomization &gt; 72 hours of meeting inclusion criteria
+
+          -  Randomization &gt; 7 days of symptom onset
 
           -  Currently taking an angiotensin converting enzyme inhibitor (ACEi) or Angiotensin
              receptor blocker (ARB)
 
-          -  Prior reaction or intolerance to an ARB or ACEi
-
-          -  Potassium great than 5.0 mEq/L within 4 weeks of study enrollment
+          -  Prior reaction or intolerance to an ARB or ACE inhibitor, including but not limited to
+             angioedema
 
           -  Pregnancy or breastfeeding
 
-          -  Females of childbearing age
+          -  Those able to have children and not currently taking a protocol-allowed version of
+             contraception: intrauterine device, Depo-formulation of hormonal contraception (e.g.
+             medroxyprogesterone acetate / Depo-Provera), subcutaneous contraceptive (e.g.
+             Nexplanon), daily oral contraceptives with verbalized commitment to taking daily
+             throughout the study, condom use or abstinence during the study. All women of child
+             bearing age enrolled in this fashion will be informed of the teratogenic risks.
 
-          -  Estimated Glomerular Filtration Rate (eGFR) of &lt; 30ml/min/1.73 m2 within 4 weeks of
-             study initiation or history of advanced renal disease
+          -  Patient reported history or electronic medical record history of kidney disease,
+             defined as:
 
-          -  AST and/or ALT &gt; 3 times the upper limit of normal within 4 weeks of study enrollment
+               1. Any history of dialysis
 
-          -  Concurrent treatment with Alikirin
+               2. History of chronic kidney disease stage III or IV
+
+               3. Estimated Glomerular Filtration Rate (eGFR) of &lt; 30ml/min/1.73 m2 (must be have
+                  been measured within 1 month of enrollment)
+
+               4. Other kidney disease that in the opinion of the investigator, would affect
+                  losartan clearance
+
+          -  Patient reported dehydration and significantly decreased urine output in the past 72
+             hours
+
+          -  Most recent systolic blood pressure prior to enrollment &lt;110 mmHg
+
+          -  Patient reported history or electronic medical record history of severe liver disease,
+             defined as:
+
+               1. Cirrhosis
+
+               2. History of hepatitis B or C
+
+               3. Other liver disease that in the opinion of the investigator, would affect
+                  losartan clearance
+
+               4. Documented AST or ALT &gt; 3 times the upper limit of normal within 3 months of
+                  randomization (if available in electronic medical record)
+
+          -  Potassium &gt;5.0 mmol/L (must have been measured within 1 month) of enrollment
+
+          -  Concurrent treatment with Aliskiren
 
           -  Inability to obtain informed consent
-
-          -  Non-English speakers
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -187,6 +249,7 @@ The 33-item Severity bank assesses the severity of difficulty breathing during v
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -198,6 +261,7 @@ The 33-item Severity bank assesses the severity of difficulty breathing during v
         <country>United States</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <investigator>
       <last_name>Jeffrey Chipman, MD</last_name>
       <role>Sub-Investigator</role>
@@ -217,6 +281,7 @@ The 33-item Severity bank assesses the severity of difficulty breathing during v
         <country>United States</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <investigator>
       <last_name>Timothy Schacker, MD</last_name>
       <role>Sub-Investigator</role>
@@ -234,6 +299,18 @@ The 33-item Severity bank assesses the severity of difficulty breathing during v
       <role>Sub-Investigator</role>
     </investigator>
   </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Health System</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
   <location_countries>
     <country>United States</country>
   </location_countries>
@@ -241,9 +318,9 @@ The 33-item Severity bank assesses the severity of difficulty breathing during v
   <study_first_submitted>March 13, 2020</study_first_submitted>
   <study_first_submitted_qc>March 13, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 17, 2020</study_first_posted>
-  <last_update_submitted>April 1, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 1, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 3, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

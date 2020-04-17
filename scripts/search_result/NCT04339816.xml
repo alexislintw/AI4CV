@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="91">
+<clinical_study rank="172">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04339816</url>
   </required_header>
@@ -17,7 +17,7 @@
   <official_title>Azithromycin Added to Hydrochloroquine in Patients Admitted to Intensive Care Due to Coronavirus Disease 2019 (COVID-19)- Randomised Controlled Trial</official_title>
   <sponsors>
     <lead_sponsor>
-      <agency>Frantisek Duska</agency>
+      <agency>Frantisek Duska, MD, PhD</agency>
       <agency_class>Other</agency_class>
     </lead_sponsor>
     <collaborator>
@@ -107,7 +107,7 @@
     <textblock>
       Introduction Background and objectives. In early 2020 novel Coronavirus disease (COVID-19)
       begun to spread from Asia to Europe and beyond forcing WHO to declare global pandemic.
-      Infected patients shed the virus for a median of 20 days [1]. Up to 10% of COVID-19 infected
+      Infected patients shed the virus for a median of 20 days. Up to 10% of COVID-19 infected
       patients develop a severe form of disease requiring intensive care admission and some of them
       die. SARS-Cov2 is encapsulated positive strand RNA virus that uses ACE-2 of type 2
       pneumocytes as binding sites. It has been hypothesised (Gattinoni 2020 ICM editorial) that
@@ -123,23 +123,23 @@
       systemic lupus erythematosus and porphyrias. Both drugs have in-vitro activity against
       SARS-CoV, SARS-CoV-2, and other coronaviruses, with hydroxychloroquine having relatively
       higher potency against SARS-CoV-2 known to be susceptible in vitro to exposure to
-      Hydrochloroquine [2-4]. At the moment clinical trials are ongoing to test clinical efficacy
-      in pre- and post-exposure prophylaxis in SARS-CoV-2. In one highly cited French
-      non-randomised observational study by Gautret et. al., a significant reduction of virus
-      carriage has been observed in patients co-incidentally treated by Azithromycin in addition to
-      Hydrochloroquine [5] as a part of initial empirical therapy of community-acquired pneumonia.
-      Azithromycin is a macrolide antibiotic, which binds to the 50S subunit of the bacterial
-      ribosome, thus inhibiting translation of mRNA. The positive-sense RNA viruses and indeed all
-      genes defined as positive-sense can be directly accessed by host ribosomes to immediately
-      form proteins and the effects of Azithromycin on this process are not known. No data are
-      available at present on the clinical efficacy of Hydrochloroquine alone or in combination
-      with Azithromycin and it is likely that any treatment affecting virus replication would only
-      be effective if administered early, before overt ARDS develops.
+      Hydrochloroquine. At the moment clinical trials are ongoing to test clinical efficacy in pre-
+      and post-exposure prophylaxis in SARS-CoV-2. In one highly cited French non-randomised
+      observational study by Gautret et. al., a significant reduction of virus carriage has been
+      observed in patients co-incidentally treated by Azithromycin in addition to Hydrochloroquine
+      as a part of initial empirical therapy of community-acquired pneumonia. Azithromycin is a
+      macrolide antibiotic, which binds to the 50S subunit of the bacterial ribosome, thus
+      inhibiting translation of mRNA. The positive-sense RNA viruses and indeed all genes defined
+      as positive-sense can be directly accessed by host ribosomes to immediately form proteins and
+      the effects of Azithromycin on this process are not known. No data are available at present
+      on the clinical efficacy of Hydrochloroquine alone or in combination with Azithromycin and it
+      is likely that any treatment affecting virus replication would only be effective if
+      administered early, before overt ARDS develops.
 
-      In the light of this, we designed a trial in which we test a hypothesis, that early
-      administation of hydrochlorochine alone or in combination with azithromycin can prevent
-      respiratory deterioration in patients admitted to intensive care due to rapidly progressive
-      COVID-19 infection.
+      In the light of this, the investigators designed a trial in which a hypothesis is tested,
+      that early administation of hydrochlorochine alone or in combination with azithromycin can
+      prevent respiratory deterioration in patients admitted to intensive care due to rapidly
+      progressive COVID-19 infection.
 
       Methods Trial design: Prospective, multi-centre, randomised, pragmatic, double blind trial
       Participants: Eligibility criteria for participants: Adult (&gt;18 years) within 24 hours of
@@ -199,14 +199,13 @@
 
       Adjusting IP administration to patients' swallowing capability and GI function:
 
-      During the study, we expect 3 groups of patients to be enrolled. Those conscious and able to
-      swallow will be given study medication in black mug to swallow. Patients unable to swallow
-      with a nasogastric tube in place will be given the IP via the NG tube reconstituted in
-      sterile water and flushed as per local NG medication guideline. Administration of the IP is
-      temporarily omitted in patients who are unable to swallow but without NG access or do not
-      tolerate any enteral intake (such as patients in profound shock). As soon as the condition
-      preventing IP administration is eliminated, resumption of study medication follows the
-      guidance for day 1.
+      During the study, 3 groups of patients will be enrolled. Those conscious and able to swallow
+      will be given study medication in black mug to swallow. Patients unable to swallow with a
+      nasogastric tube in place will be given the IP via the NG tube reconstituted in sterile water
+      and flushed as per local NG medication guideline. Administration of the IP is temporarily
+      omitted in patients who are unable to swallow but without NG access or do not tolerate any
+      enteral intake (such as patients in profound shock). As soon as the condition preventing IP
+      administration is eliminated, resumption of study medication follows the guidance for day 1.
 
       Outcomes:
 
@@ -228,14 +227,14 @@
       between day 0 and 7.
 
       Changes to trial outcomes after the trial commenced, with reasons: None at presents Sample
-      size calculation: Based on data from Wuhan [6] and Washington [7], where 67% of patients were
-      dead in 2 weeks and half of the survivors needed protracted mechanical ventilation, we assume
-      the incidence of the primary outcome in the control group (ie. being alive and off the
-      ventilator in 2 weeks) to be 25%. The study gives us 80% chance to detect the increase of the
-      primary outcome to 50% in one or both interventional groups at p&lt;0.017 with 74 patients in
-      each arm. In order to compensate for drop-out and low of follow up we plan to enrol 240
-      subjects into the study. We plan to perform an interim analysis after the primary outcome is
-      known for the 120th subject.
+      size calculation: Based on data from Wuhan and Washington, where 67% of patients were dead in
+      2 weeks and half of the survivors needed protracted mechanical ventilation, the assumed
+      incidence of the primary outcome in the control group (ie. being alive and off the ventilator
+      in 2 weeks) to be 25%. The study gives us 80% chance to detect the increase of the primary
+      outcome to 50% in one or both interventional groups at p&lt;0.017 with 74 patients in each arm.
+      In order to compensate for drop-out and low of follow up the plan is to enrol 240 subjects
+      into the study. An interim analysis is planned after the primary outcome is known for the
+      120th subject.
 
       Randomisation: Will be performed in blocks of 3 and stratified for study centre and age
       (above or at/below 70 years). Electronic Case Record Form (eCRF) will perform randomisation
@@ -255,32 +254,18 @@
       the clinical trial and feasibility of timely data entry during staff shortages and overload.
       In order to do so, all data that is not essential for safety can be input in retrospect.
 
-      STUDY PERIOD Enrolment Allocation Post-allocation F-up TIMEPOINT** 0-24h 0 D1,2 D3 D4-5 D6 D7
-      D8-13 D14 D/C D28 D90 ENROLMENT Eligibility screen X Informed consent X (X) (X) (X) rtPCR
-      COVID-19 X X Randomisation (stratified) X INTERVENTION (IP administration) AZI/placebo (blue)
-
-      HCQ/placebo (white)
-
-      ASSESSMENTS:
-
-      Adverse events X X X X X X X X X X ECG X X MV status and parameters X X X X X X X X* X LFT X
-      X X SOFA, Cointerventions + cultures X X X Vital status X X X X X X X* X X X Store plasma for
-      viral load and inflammatory status X X X Figure 1. Overview of study procedures. Note: F-up =
-      follow up, MV= mechanical ventilation, SOFA = sequential organ failure assessment. )* Primary
-      outcome = being alive and off MV at D14.
-
-      Collection data on cointerventions. Data on interventions that we know/think influence
-      survival will be monitored and described. This include concomitant antiviral antimicrobial
-      diagnosis. We will also collect data on how the respiratory specimen for rtPCR diagnostic was
-      collected (smear, endotracheal aspirate, bronchoalveolar lavage).
+      Collection data on cointerventions. Data on interventions that the investigators know/think
+      influence survival will be monitored and described. This include concomitant antiviral
+      antimicrobial diagnosis. Data will also be collected on how the respiratory specimen for
+      rtPCR diagnostic was collected (smear, endotracheal aspirate, bronchoalveolar lavage).
 
       Statistical methods: Proportion of patients alive and off mechanical ventilation (primary
       outcome) between intervention and control groups will be calculated using chi square test.
       P-value is adjusted for multiple comparisons to p=0.017. Survival and ICU/length of stay will
       be compared using Kaplan-Maier's curves and exploratory analyses my multi-level regression in
-      R. We plan do analyse the primary outcome separately in patients who require mechanical
-      ventilation at baseline from those who don't and we in patients above or below 70 years of
-      age as a priori subgroup analyses.
+      R. The plan is to analyse the primary outcome separately in patients who require mechanical
+      ventilation at baseline from those who don't and in patients above or below 70 years of age
+      as a priori subgroup analyses.
 
       As mentioned above, primary and secondary outcomes will only be calculated in patients with
       confirmed COVID-19 infection who received at least one dose of IP. Adverse events will be
@@ -288,12 +273,12 @@
 
       Ethical Considerations Benefits and risks. This trial investigates two drugs that are being
       used off label to treat patients with severe COVID-19 with a balance of potential benefits
-      and harms. Potential benefit include good biological rationale and observational data [5] to
+      and harms. Potential benefit include good biological rationale and observational data to
       believe that one or both drugs can prevent progression of a disease which led to death in 67%
-      of patients in similar condition to those we plan to randomise [7]. Possible harms include QT
+      of patients in similar condition to those in this study. Possible harms include QT
       prolongation and resulting life-threatening arrhythmias or retinopathy, which may result in
-      blindness. We believe that clinical equipoise regarding risk/benefit to individual patient
-      justifies well the conduct of this RCT.
+      blindness. The investigators believe that clinical equipoise regarding risk/benefit to
+      individual patient justifies well the conduct of this RCT.
 
       Informed consent procedure. Patients with decision-making capacity will be asked to provide
       written prospective informed consent (See Appendix I) to this protocol. It is expected that a
@@ -350,61 +335,19 @@
       management, analysis, and interpretation of data; writing of the report; or the decision to
       submit the report for publication.
 
-      Dissemination of Results We will submit the main results of the trial in an open-access
-      peer-reviewed journal within 3 months after 240th subject completed the 90-day follow up
-      visit, which is expected to happen in Q4 of 2021. We will make fully de-identified
-      record-level raw data available in a public database.
+      Dissemination of Results: The investigators will submit the main results of the trial in an
+      open-access peer-reviewed journal within 3 months after 240th subject completed the 90-day
+      follow up visit, which is expected to happen in Q4 of 2021. The investigators will make fully
+      de-identified record-level raw data available in a public database.
 
       Trial status: NOT YET RECRUITING (as of 1st April 2020)
 
       Declarations:
 
-      Funding (Sponsors):
-
-        -  Zentiva Group, a.s.. U Kabelovny 130, 102 37 Prague 10, Czech Republic, Phone: (+420)
-           267 241 111, E-mail: zentiva.cz@zentiva.com
-
-        -  Quinta Analytica, a.s., Pražská 1486 / 18c, 102 00 Prague 10, Czech Republic, Phone +420
-           242 454 311
-
       The trial design is in accordance with Declaration of Helsinky and the protocol, care report
       form and informed consent formularies were reviewed and approved by FNKV University Hospital
       Research Ethics Board (&quot;Ethical Committee&quot;) on 1st April 2020 (decision number KH
       14-00-2020).
-
-      Contributions and roles: FD and VC are the author of the main study concept and overlook the
-      conduct of the study, the investigators listed above are responsible for consenting and
-      recruiting patients and performing clinical procedures, IK is the study monitor, PW is data
-      analyst and biostatistician, MH is the lead study pharmacists. All authors will have access
-      to record-level data and will contribute to publication of the results. None of the authors
-      declare any conflict of interests.
-
-      References:
-
-        1. Zhou F, Yu T, Du R, et al (2020) Clinical course and risk factors for mortality of adult
-           inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet (London,
-           England). doi: 10.1016/S0140-6736(20)30566-3
-
-        2. Wang M, Cao R, Zhang L, et al (2020) Remdesivir and chloroquine effectively inhibit the
-           recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res. 30:269-271
-
-        3. Colson P, Rolain J-M, Lagier J-C, et al (2020) Chloroquine and hydroxychloroquine as
-           available weapons to fight COVID-19. Int. J. Antimicrob. Agents 105932
-
-        4. Yao X, Ye F, Zhang M, et al (2020) In Vitro Antiviral Activity and Projection of
-           Optimized Dosing Design of Hydroxychloroquine for the Treatment of Severe Acute
-           Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). Clin Infect Dis. doi:
-           10.1093/cid/ciaa237
-
-        5. Gautret P Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an
-           openlabel non-randomized clinical trial
-
-        6. Wang D, Hu B, Hu C, et al (2020) Clinical Characteristics of 138 Hospitalized Patients
-           With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. doi:
-           10.1001/jama.2020.1585
-
-        7. Arentz M, Yim E, Klaff L, et al (2020) Characteristics and Outcomes of 21 Critically Ill
-           Patients With COVID-19 in Washington State. JAMA. doi: 10.1001/jama.2020.4326
     </textblock>
   </detailed_description>
   <overall_status>Not yet recruiting</overall_status>
@@ -520,7 +463,7 @@ Days 2-5: Patients receive two doses 200 mg of Hydrochloroquine in 12 hours inte
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
   <reference>
-    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 11. pii: S0140-6736(20)30566-3. doi: 10.1016/S0140-6736(20)30566-3. [Epub ahead of print] Erratum in: Lancet. 2020 Mar 12;:.</citation>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
     <PMID>32171076</PMID>
   </reference>
   <reference>
@@ -551,16 +494,20 @@ Days 2-5: Patients receive two doses 200 mg of Hydrochloroquine in 12 hours inte
   <study_first_submitted>April 6, 2020</study_first_submitted>
   <study_first_submitted_qc>April 6, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 9, 2020</study_first_posted>
-  <last_update_submitted>April 6, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>Charles University, Czech Republic</investigator_affiliation>
-    <investigator_full_name>Frantisek Duska</investigator_full_name>
+    <investigator_full_name>Frantisek Duska, MD, PhD</investigator_full_name>
     <investigator_title>Dr</investigator_title>
   </responsible_party>
-  <keyword>covid-19; Azithromycin; Hydroxychloroquine; respiratory failure</keyword>
+  <keyword>covid-19</keyword>
+  <keyword>Azithromycin</keyword>
+  <keyword>Hydroxychloroquine</keyword>
+  <keyword>Respiratory failure</keyword>
+  <keyword>Intensive Care</keyword>
   <condition_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Respiratory Insufficiency</mesh_term>

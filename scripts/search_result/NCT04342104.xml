@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="137">
+<clinical_study rank="229">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04342104</url>
   </required_header>
@@ -78,10 +78,33 @@
   <intervention>
     <intervention_type>Other</intervention_type>
     <intervention_name>Monitoring for aggravation</intervention_name>
-    <description>Monitor patients on CPAP or NIV and analyzing possible variables that may predict failure</description>
+    <description>Monitor patients on CPAP or NIV and analyzing possible variables that may predict failure, namely:
+lymphopenia
+thrombocytopenia
+CRP
+ferritin
+LDH
+troponin I
+NT-ProBNP
+Liver enzymes
+D-dimers
+radiologic aggravation &quot; 1 day and 1 week after starting NIV or CPAP</description>
     <arm_group_label>CPAP</arm_group_label>
     <arm_group_label>NIV</arm_group_label>
   </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Evaluate HACOR score effectivity in this patients</intervention_name>
+    <description>Apply the HACOR score after starting NIV and CPAP and later verify if it was effective in predicting NIV/CPAP failure</description>
+    <arm_group_label>CPAP</arm_group_label>
+    <arm_group_label>NIV</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood sample for biochemistry and blood count
+    </textblock>
+  </biospec_descr>
   <eligibility>
     <study_pop>
       <textblock>
@@ -109,6 +132,16 @@
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
+  <overall_official>
+    <last_name>Miguel Guia</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital General Universitario Morales Meseguer</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Antonio Esquinas</last_name>
+    <role>Study Director</role>
+    <affiliation>Hospital General Universitario Morales Meseguer</affiliation>
+  </overall_official>
   <overall_contact>
     <last_name>Miguel Guia</last_name>
     <phone>00351915774975</phone>
@@ -140,10 +173,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 8, 2020</study_first_submitted>
   <study_first_submitted_qc>April 8, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 10, 2020</study_first_posted>
-  <last_update_submitted>April 8, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 8, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 10, 2020</study_first_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Hospital General Universitario Morales Meseguer</investigator_affiliation>

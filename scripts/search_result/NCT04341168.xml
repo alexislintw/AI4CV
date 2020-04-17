@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="68">
+<clinical_study rank="99">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04341168</url>
   </required_header>
@@ -210,11 +210,6 @@
     <affiliation>Children's University Hospital Cologne</affiliation>
   </overall_official>
   <overall_official>
-    <last_name>Jan Rybniker, PD Dr. Dr.</last_name>
-    <role>Study Director</role>
-    <affiliation>Department I of Internal Medicine University Hospital Cologne</affiliation>
-  </overall_official>
-  <overall_official>
     <last_name>Miguel A Alejandre Alcazar, Prof. Dr. Dr.</last_name>
     <role>Study Director</role>
     <affiliation>Children's University Hospital Cologne</affiliation>
@@ -248,13 +243,13 @@
       <email>robert.koerner@uk-koeln.de</email>
     </contact>
     <contact_backup>
-      <last_name>Jan Rybniker, PD Dr. Dr.</last_name>
+      <last_name>Miguel A Alejandre Alcazar, Prof. Dr. Dr.</last_name>
       <phone>+49221478</phone>
-      <phone_ext>89611</phone_ext>
-      <email>jan.rybniker@uk-koeln.de</email>
+      <phone_ext>96887</phone_ext>
+      <email>miguel.alcazar@uk-koeln.de</email>
     </contact_backup>
     <investigator>
-      <last_name>Miguel A Alejandre Alcazar, Prof. Dr. Dr.</last_name>
+      <last_name>Jan Rybniker, PD Dr. Dr.</last_name>
       <role>Principal Investigator</role>
     </investigator>
     <investigator>
@@ -304,10 +299,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 3, 2020</study_first_submitted>
   <study_first_submitted_qc>April 6, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 10, 2020</study_first_posted>
-  <last_update_submitted>April 6, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 10, 2020</study_first_posted>
+  <last_update_submitted>April 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University Hospital of Cologne</investigator_affiliation>

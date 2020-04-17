@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="335">
+<clinical_study rank="490">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04326725</url>
   </required_header>
@@ -193,7 +193,7 @@
   <study_first_posted type="Actual">March 30, 2020</study_first_posted>
   <last_update_submitted>April 9, 2020</last_update_submitted>
   <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
+  <last_update_posted type="Actual">April 10, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Istinye University</investigator_affiliation>
@@ -213,7 +213,6 @@
   </condition_browse>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
-    <mesh_term>Vitamins</mesh_term>
     <mesh_term>Hydroxychloroquine</mesh_term>
   </intervention_browse>
   <!-- Results have not yet been posted for this study                                          -->

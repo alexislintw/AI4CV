@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="141">
+<clinical_study rank="237">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04335097</url>
   </required_header>
@@ -209,7 +209,7 @@
           -  Patients with typical Covid 19 clinical symptoms where a test has not been taken may
              also be included if a test later is positive.
 
-          -  A good quality WIFI system not influenced by other WIFI systems.
+          -  Able to log into internet.
 
         Exclusion Criteria:
 
@@ -233,6 +233,11 @@
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
   </eligibility>
+  <overall_official>
+    <last_name>Lars Wik, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oslo University Hospital</affiliation>
+  </overall_official>
   <overall_contact>
     <last_name>Lars Wik, MD</last_name>
     <phone>91728966</phone>
@@ -290,9 +295,9 @@
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>Ullevaal University Hospital</investigator_affiliation>

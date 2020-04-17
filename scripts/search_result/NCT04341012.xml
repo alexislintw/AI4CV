@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="312">
+<clinical_study rank="448">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04341012</url>
   </required_header>
@@ -51,14 +51,14 @@
     <time_perspective>Prospective</time_perspective>
   </study_design_info>
   <primary_outcome>
-    <measure>Presence of disease</measure>
+    <measure>Breath volatile organic compound profiles</measure>
     <time_frame>1 day</time_frame>
-    <description>Established diagnosis</description>
+    <description>Analysis of profiles of volatile organic compounds present in exhaled breath</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Progression of disease</measure>
+    <measure>Utility of breath profiles for disease diagnosis or prognosis</measure>
     <time_frame>14 days</time_frame>
-    <description>Established disease progression</description>
+    <description>Diagnosis or prognostic utility of breath volatile organic compound profiles</description>
   </primary_outcome>
   <number_of_groups>4</number_of_groups>
   <enrollment type="Anticipated">120</enrollment>
@@ -160,10 +160,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 7, 2020</study_first_submitted>
   <study_first_submitted_qc>April 7, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 10, 2020</study_first_posted>
-  <last_update_submitted>April 7, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 10, 2020</study_first_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Mayo Clinic</investigator_affiliation>

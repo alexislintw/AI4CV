@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="184">
+<clinical_study rank="279">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04331054</url>
   </required_header>
@@ -175,9 +175,10 @@ These parameters will be evaluated daily during hospitalization.</description>
 
           -  Patient ≥ 18 years old and ≤ 75 years old
 
-          -  Laboratory proved infection by COVID-19 within 2 days
+          -  Laboratory proved infection by COVID-19 by RT-PCR on a nasopharyngeal sample within 2
+             days
 
-          -  Hospitalization is required (based on investigator judgement)
+          -  Hospitalization is required according to current local recommendations
 
           -  Patient affiliated to a social security regime
 
@@ -195,13 +196,19 @@ These parameters will be evaluated daily during hospitalization.</description>
           -  Patient with cognitive impairment which do not guarantee proper use of the treatment
              by the patient himself
 
-          -  Pregnant or breastfeeding women
+          -  Pregnant (positive β-HCG at inclusion) or breastfeeding women
 
           -  Participation in another interventional drug study involving human participants and
              concerning COVID-19 infection or being in the exclusion period of a previous study
              involving human participants
 
           -  Contraindications to the treatments (history of hypersensitivity)
+
+          -  Patient admitted for isolation, for social reason or due to comorbidities without
+             gravity sign
+
+          -  Long-term patient treated with digitalis, disopyramide, procainamide or phenothiazine
+             that could lengthen the QT space
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -221,7 +228,7 @@ These parameters will be evaluated daily during hospitalization.</description>
   </overall_contact>
   <overall_contact_backup>
     <last_name>Bruno CRESTANI, MD, PhD</last_name>
-    <phone>+33 1 40 25 68 63</phone>
+    <phone>+33 1 40 25 68 00</phone>
     <email>bruno.crestani@aphp.fr</email>
   </overall_contact_backup>
   <location>
@@ -242,13 +249,13 @@ These parameters will be evaluated daily during hospitalization.</description>
   <location_countries>
     <country>France</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 29, 2020</study_first_submitted>
   <study_first_submitted_qc>April 1, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 2, 2020</study_first_posted>
-  <last_update_submitted>April 1, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 1, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 2, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

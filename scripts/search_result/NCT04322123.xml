@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="379">
+<clinical_study rank="496">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04322123</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>Brazil COVID Coalition I Trial</org_study_id>
     <nct_id>NCT04322123</nct_id>
   </id_info>
-  <brief_title>Safety and Efficacy of Hydroxychloroquine Associated With Azythromycin in SARS-Cov-2 Virus</brief_title>
+  <brief_title>Safety and Efficacy of Hydroxychloroquine Associated With Azythromycin in SARS-Cov-2 Virus (COVID-19)</brief_title>
   <acronym>Coalition-I</acronym>
   <official_title>An Open-label, Randomized Controlled Trial of Hydroxychloroquine and Azytromicyn for COVID-19 Infection on Hospitalized, Noncritical Patients</official_title>
   <sponsors>
@@ -56,7 +56,7 @@
     </textblock>
   </brief_summary>
   <overall_status>Recruiting</overall_status>
-  <start_date type="Anticipated">April 6, 2020</start_date>
+  <start_date type="Actual">April 1, 2020</start_date>
   <completion_date type="Anticipated">August 30, 2020</completion_date>
   <primary_completion_date type="Anticipated">August 30, 2020</primary_completion_date>
   <phase>Phase 3</phase>
@@ -195,14 +195,24 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
   </eligibility>
   <overall_official>
     <last_name>Alexandre Biasi, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital do Coração</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Fernando G Zampieri</last_name>
     <role>Principal Investigator</role>
     <affiliation>Hospital do Coração</affiliation>
   </overall_official>
   <overall_contact>
+    <last_name>Fernando G Zampieri, PhD</last_name>
+    <phone>+55 11 99882-9343</phone>
+    <email>fzampieri@hcor.com.br</email>
+  </overall_contact>
+  <overall_contact_backup>
     <last_name>Alexandre Biasi, PhD</last_name>
     <phone>+55 11 99882-9343</phone>
     <email>abiasi@hcor.com.br</email>
-  </overall_contact>
+  </overall_contact_backup>
   <location>
     <facility>
       <name>Hospital Geral Clériston Andrade</name>
@@ -609,9 +619,9 @@ Deep vein thrombosis Pulmonary Embolism Stroke</description>
   <study_first_submitted>March 24, 2020</study_first_submitted>
   <study_first_submitted_qc>March 24, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 26, 2020</study_first_posted>
-  <last_update_submitted>April 5, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 5, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

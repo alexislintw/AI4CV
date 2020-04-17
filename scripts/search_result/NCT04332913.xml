@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="96">
+<clinical_study rank="155">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04332913</url>
   </required_header>
@@ -51,7 +51,7 @@
       COVID-19 complicated by acute distress respiratory syndrome (ARDS) and CRS.
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
+  <overall_status>Recruiting</overall_status>
   <start_date type="Anticipated">April 1, 2020</start_date>
   <completion_date type="Anticipated">March 31, 2021</completion_date>
   <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
@@ -222,6 +222,25 @@
     <phone>0039 0862 434742</phone>
     <email>roberto.giacomelli@univaq.it</email>
   </overall_contact>
+  <location>
+    <facility>
+      <name>Ospedale San Salvatore</name>
+      <address>
+        <city>L'Aquila</city>
+        <zip>67100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roberto Giacomelli, MD</last_name>
+      <phone>0862434742</phone>
+      <email>roberto.giacomelli@univaq.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
   <reference>
     <citation>Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.</citation>
     <PMID>32007143</PMID>
@@ -274,7 +293,7 @@
     <citation>Xiaoling Xu, Mingfeng Han, Tiantian Li et al. Effective Treatment of Severe COVID-19 Patients with Tocilizumab. chinaXiv:202003.00026v1</citation>
   </reference>
   <reference>
-    <citation>Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, Liu S, Zhao P, Liu H, Zhu L, Tai Y, Bai C, Gao T, Song J, Xia P, Dong J, Zhao J, Wang FS. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir Med. 2020 Feb 18. pii: S2213-2600(20)30076-X. doi: 10.1016/S2213-2600(20)30076-X. [Epub ahead of print] Erratum in: Lancet Respir Med. 2020 Feb 25;:.</citation>
+    <citation>Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, Liu S, Zhao P, Liu H, Zhu L, Tai Y, Bai C, Gao T, Song J, Xia P, Dong J, Zhao J, Wang FS. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir Med. 2020 Apr;8(4):420-422. doi: 10.1016/S2213-2600(20)30076-X. Epub 2020 Feb 18. Erratum in: Lancet Respir Med. 2020 Feb 25;:.</citation>
     <PMID>32085846</PMID>
   </reference>
   <results_reference>
@@ -284,9 +303,9 @@
   <study_first_submitted>March 26, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University of L'Aquila</investigator_affiliation>

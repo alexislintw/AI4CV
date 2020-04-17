@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="418">
+<clinical_study rank="596">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04339686</url>
   </required_header>
@@ -11,8 +11,7 @@
     <org_study_id>POWER-COVID_CT</org_study_id>
     <nct_id>NCT04339686</nct_id>
   </id_info>
-  <brief_title>Multicentric Retrospective Observational Study of Thoracic Scanner Performance in COVID Screening</brief_title>
-  <acronym>POWER-COVID_CT</acronym>
+  <brief_title>Multicentric Retrospective Observational Study of Thoracic Scanner Performance in COVID Screening.</brief_title>
   <official_title>Multicentric Retrospective Observational Study of Thoracic Scanner Performance in COVID Screening. Comparison to Virological Testing and Multiparametric Gold Standard</official_title>
   <sponsors>
     <lead_sponsor>
@@ -108,9 +107,9 @@ Scanner results according to French Thoracic Imaging Society.</description>
   <study_first_submitted>April 8, 2020</study_first_submitted>
   <study_first_submitted_qc>April 8, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 9, 2020</study_first_posted>
-  <last_update_submitted>April 8, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 8, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

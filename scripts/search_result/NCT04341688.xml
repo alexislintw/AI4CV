@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="135">
+<clinical_study rank="179">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04341688</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>2020-Sur-ERC-20</org_study_id>
     <nct_id>NCT04341688</nct_id>
   </id_info>
-  <brief_title>A Clinical Trial of Gargling Agents in Reducing Intraoral Viral Load in COVID-19 Patients</brief_title>
-  <acronym>COVID-19</acronym>
-  <official_title>A Double Blind, Randomized Controlled Trial of Three Gargling Agents in Reducing Intraoral Viral Load in Subjects With Laboratory Confirmed Coronavirus Disease (COVID-19)</official_title>
+  <brief_title>A Clinical Trial of Gargling Agents in Reducing Intraoral Viral Load Among COVID-19 Patients</brief_title>
+  <acronym>GARGLES</acronym>
+  <official_title>A Double Blind, Randomized Controlled Trial of Gargling Agents in Reducing Intraoral Viral Load Among Laboratory Confirmed Coronavirus (COVID-19) Patients: GARGLES STUDY</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Aga Khan University</agency>
@@ -41,35 +41,47 @@
       residing in mouth and oro-pharynx is likely to reduce the viral load. This topical therapy is
       speculated to substantially reduce the transmission of infection in micro-aerosol generated
       in the dental practice. Such topical anti-viral therapy could also help to improve the
-      overall symptoms of the patient.
+      overall symptoms of the patient. Given the apparent mechanical rather than blood-borne slow
+      advance of coronavirus from nasopharnyx to lung, the possibility exists that reducing viral
+      load through debriding could aid effective immune response in the same way that debriding
+      burns reduces time of healing.
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
-      It will be a double blind-randomized controlled trial annexed with a laboratory based study.
-      Clinical trial will be carried out at the Aga Khan University Hospital (AKUH), Karachi,
-      Pakistan. Patients will be inducted from the pool of known patients (laboratory confirmed
-      COVID-19 participants) already admitted at AKUH. Molecular and immunological testing will be
-      done at the Juma laboratory of AKUH. The intervention drugs (Povidone-Iodine, Hydogen
-      Peroxide and Normal Saline will be obtained from the AKUH distribution department and/ or
-      AKUH pharmacy. The Neem extract will be compounded at the Chemistry department, University of
-      Karachi/ HEJ institute of Organic Chemistry, University of Karachi.
+      It will be a parallel group, double blind-randomized controlled trial annexed with a
+      laboratory based study. Clinical trial will be carried out at the Aga Khan University
+      Hospital (AKUH), Karachi, Pakistan. Patients will be inducted from the pool of known patients
+      (laboratory confirmed COVID-19 participants) already admitted at AKUH. Molecular and
+      immunological testing will be done at the Juma laboratory of AKUH. The intervention drugs
+      (Povidone-Iodine, Hydogen Peroxide and Hypertonic Saline will be obtained from the AKUH
+      distribution department and/ or AKUH pharmacy. The Neem extract will be compounded at the
+      Chemistry department, University of Karachi/ HEJ institute of Organic Chemistry, University
+      of Karachi.
 
-      It will be a pilot study, so will need just 20 patients. There will be four groups. Group A
-      (n=5) patients on 10 ml gargle of 0.2% Povidone-Iodine for 20-30 seconds, twice daily for 5
-      days. Group B (n=5) patients will be subjected to 10 ml gargle of 1% Hydrogen peroxide for
-      20-30 seconds, twice daily for 5 days. Group C will comprise of (n=5) subjects on 10ml gargle
-      of Neem extract based mouth rinse for 20-30 seconds, twice daily for 5 days. Group D (n=5)
-      patient will use normal saline gargle for a similar time period.
+      It will be a pilot study, so will need just 40 patients. There will be four groups. Group A
+      (n=10) patients on 10 ml gargle and nasal lavage with of 0.2% Povidone-Iodine for 20-30
+      seconds, twice daily for 5 days. Group B (n=10) patients will be subjected to 10 ml gargle
+      and nasal lavage with 1% Hydrogen peroxide for 20-30 seconds, twice daily for 5 days. Group C
+      will comprise of (n=10) subjects using 10ml gargle and nasal lavage with Neem extract
+      (Azardirachta indica) for 20-30 seconds, twice daily for 5 days. Group D (n=10) patients will
+      use 2% hypertonic saline gargle and nasal lavage for a similar time period.
 
-      Data collection: The baseline oral swab will be taken from the tonsillar pillars on day one
-      before initiating the gargles by trained dentist. The end-point oral swab will be taken on
-      day 5, just after using the prescribed gargle. Patient will be provided a hood so that they
-      themselves don't generate aerosol in the immediate vicinity while carrying out the gargling.
+      Data collection: The baseline oral swab will be taken from the posterior pharyngeal wall on
+      day one before initiating the gargles by trained dentist. The end-point oral swab will be
+      taken on day 5, just after using the prescribed gargle. Patient will be provided with a
+      special hood so that they themselves don't generate aerosol in the immediate vicinity while
+      carrying out the gargling and nasal lavage.
 
-      Repeated measures ANOVA will be used to compare the reduction in intra-oral viral loads and
-      the change in inflammatory biomarkers in the four study groups. A p-value of &lt;0.05 will be
-      taken as statistically significant.
+      Data will be analyzed using SPSS for Windows (version 20.0 SPSS) and Graph Pad (Prism)
+      softwares. Mean and standard deviation of the continuous variables (age, COVID-19 viral
+      counts at baseline and endpoint etc.) will be computed. Frequency distribution of the
+      categorical variables will be determined (gender, co-morbids, presence of hypertension,
+      diabetes, periodontal status etc.) Repeated measures ANOVA will be used to compare the
+      reduction in intra-oral viral loads and the change in inflammatory biomarkers in the four
+      study groups. A subset analysis using Zero inflated negative binomial (ZINB) model will be
+      employed if there is a significant reduction in viral load is observed in any of the study
+      groups. A p-value of &lt;0.05 will be taken as statistically significant.
     </textblock>
   </detailed_description>
   <overall_status>Not yet recruiting</overall_status>
@@ -84,8 +96,8 @@
     <intervention_model>Parallel Assignment</intervention_model>
     <intervention_model_description>A double blind-randomized controlled trial followed by laboratory based analysis. Four parallel groups of participants using antiviral gargles.</intervention_model_description>
     <primary_purpose>Supportive Care</primary_purpose>
-    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
-    <masking_description>Identical colored and shaped bottles containing four different study drugs</masking_description>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Identical colored and shaped bottles containing four different study drugs. This will be provided by the pharmacy services of the university hospital.</masking_description>
   </study_design_info>
   <primary_outcome>
     <measure>Intraoral viral load</measure>
@@ -98,35 +110,35 @@
     <description>Salivary cytokine profiles of IL-2, IL-4, IL-6, IL-10, TNF-α, IFN-γ and IL-17.</description>
   </secondary_outcome>
   <number_of_arms>4</number_of_arms>
-  <enrollment type="Anticipated">5</enrollment>
-  <condition>Intraoral Viral Load in Covid-19 Patients</condition>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid-19</condition>
   <arm_group>
     <arm_group_label>Povidone-Iodine 0.2% (BETADINE®)</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>0.2% Povidone-Iodine (BETADINE®) 10 ml gargle of for 20-30 seconds, twice daily for 5 days.</description>
+    <description>0.2% Povidone-Iodine (BETADINE®) 10 ml gargle and nasal lavage of for 20-30 seconds, twice daily for 5 days.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Hydrogen peroxide 1% (ActiveOxy)</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>ActiveOxy (% Hydrogen peroxide) 10 ml gargle of for 20-30 seconds, twice daily for 5 days.</description>
+    <description>ActiveOxy (% Hydrogen peroxide) 10 ml gargle and nasal lavage of for 20-30 seconds, twice daily for 5 days.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Neem extract (Azadirachta indicia)</arm_group_label>
     <arm_group_type>Active Comparator</arm_group_type>
-    <description>Azadirachta indicia will be prepared by chemistry lab. 10ml gargle for 20-30 seconds, twice daily for 5 days.</description>
+    <description>Neem extract (Azadirachta indicia) gargle will be prepared by chemistry laboratory. patients will do 10ml gargle and nasal lavage for 20-30 seconds, twice daily for 5 days.</description>
   </arm_group>
   <arm_group>
-    <arm_group_label>Normal saline (0.9%NaCl)</arm_group_label>
+    <arm_group_label>Hypertonic saline (2%NaCl)</arm_group_label>
     <arm_group_type>Active Comparator</arm_group_type>
-    <description>10ml gargle of Normal saline Normal saline (0.9%NaCl) for 20-30 seconds, twice daily for 5 days.</description>
+    <description>10ml gargle and nasal lavage with Hypertonic saline (2%NaCl) for 20-30 seconds, twice daily for 5 days.</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Gargle/Mouthwash</intervention_name>
     <description>There will be four groups. Group A (n=5) patients on 10 ml gargle of 0.2% Povidone-Iodine for 20-30 seconds, twice daily for 5 days. Group B (n=5) patients will be subjected to 10 ml gargle of 1% Hydrogen peroxide for 20-30 seconds, twice daily for 5 days. Group C will comprise of (n=5) subjects on 10ml gargle of Neem extract based solution for 20-30 seconds, twice daily for 5 days. Group D (n=5) patient will use normal saline gargle for a similar time period.</description>
     <arm_group_label>Hydrogen peroxide 1% (ActiveOxy)</arm_group_label>
+    <arm_group_label>Hypertonic saline (2%NaCl)</arm_group_label>
     <arm_group_label>Neem extract (Azadirachta indicia)</arm_group_label>
-    <arm_group_label>Normal saline (0.9%NaCl)</arm_group_label>
     <arm_group_label>Povidone-Iodine 0.2% (BETADINE®)</arm_group_label>
     <other_name>Gargling agent</other_name>
     <other_name>Mouthrinse</other_name>
@@ -202,13 +214,17 @@
     <citation>Ahmad A, Javed MR, Rao AQ, Husnain T. Designing and screening of universal drug from neem (Azadirachta indica) and standard drug chemicals against influenza virus nucleoprotein. BMC Complement Altern Med. 2016 Dec 16;16(1):519.</citation>
     <PMID>27986088</PMID>
   </reference>
+  <reference>
+    <citation>Ramalingam S, Graham C, Dove J, Morrice L, Sheikh A. A pilot, open labelled, randomised controlled trial of hypertonic saline nasal irrigation and gargling for the common cold. Sci Rep. 2019 Jan 31;9(1):1015. doi: 10.1038/s41598-018-37703-3.</citation>
+    <PMID>30705369</PMID>
+  </reference>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 6, 2020</study_first_submitted>
   <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 10, 2020</study_first_posted>
-  <last_update_submitted>April 9, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 10, 2020</study_first_posted>
+  <last_update_submitted>April 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Aga Khan University</investigator_affiliation>
@@ -222,12 +238,6 @@
   <keyword>neem extracts</keyword>
   <keyword>topical therapy</keyword>
   <keyword>gargle</keyword>
-  <intervention_browse>
-    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
-    <mesh_term>Povidone-Iodine</mesh_term>
-    <mesh_term>Hydrogen Peroxide</mesh_term>
-    <mesh_term>Povidone</mesh_term>
-  </intervention_browse>
   <patient_data>
     <sharing_ipd>No</sharing_ipd>
   </patient_data>

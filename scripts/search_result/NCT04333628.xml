@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="44">
+<clinical_study rank="64">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04333628</url>
   </required_header>
@@ -18,6 +18,10 @@
       <agency>HaEmek Medical Center, Israel</agency>
       <agency_class>Other</agency_class>
     </lead_sponsor>
+    <collaborator>
+      <agency>T MAY BIOPHARMA LTD.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
   </sponsors>
   <source>HaEmek Medical Center, Israel</source>
   <oversight_info>
@@ -214,16 +218,15 @@ We will monitor patients' clinical status and periodic PCR (Polymerase Chain Rea
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 5, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 5, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 12, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Chloroquine</mesh_term>
-    <mesh_term>Chloroquine diphosphate</mesh_term>
   </intervention_browse>
   <patient_data>
     <sharing_ipd>No</sharing_ipd>

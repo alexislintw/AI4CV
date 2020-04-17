@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="251">
+<clinical_study rank="319">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04323761</url>
   </required_header>
@@ -12,7 +12,7 @@
     <secondary_id>2020-001453-49</secondary_id>
     <nct_id>NCT04323761</nct_id>
   </id_info>
-  <brief_title>Expanded Access Treatment Protocol: Remdesivir (RDV; GS-5734) for the Treatment of SARS-CoV2 (CoV) Infection</brief_title>
+  <brief_title>Expanded Access Treatment Protocol: Remdesivir (RDV; GS-5734) for the Treatment of SARS-CoV2 (CoV) Infection (COVID-19)</brief_title>
   <official_title>Expanded Access Treatment Protocol: Remdesivir (RDV; GS-5734) for the Treatment of SARS-CoV2 (CoV) Infection</official_title>
   <sponsors>
     <lead_sponsor>
@@ -47,7 +47,15 @@
           -  Willing and able to provide written informed consent, or with a legal representative
              who can provide informed consent, or enrolled under International Conference on
              Harmonization (ICH) E6(R2) 4.8.15 emergency use provisions as deemed necessary by the
-             investigator (participants ≥ 18 years of age)
+             investigator (participants ≥ 18 years of age), or willing and able to provide assent
+             (participants ≥ 12 and &lt; 18 years of age, where locally and nationally approved) prior
+             to performing study procedures. For participants ≥ 12 and &lt; 18 years of age, a parent
+             or legal guardian willing and able to provide written informed consent prior to
+             performing study procedures.
+
+          -  Age ≥ 18 years or aged ≥ 12 and &lt; 18 years of age weighing ≥ 40 kg (where permitted
+             according to local law and approved nationally and by the relevant institutional
+             review board (IRB) or independent ethics committee (IEC))
 
           -  Hospitalized with confirmed SARS-CoV2 by polymerase chain reaction (PCR) or known
              contact of confirmed case with syndrome consistent with coronavirus disease (COVID-19)
@@ -56,25 +64,32 @@
           -  Requiring invasive mechanical ventilation (e.g., via endotracheal intubation or
              tracheostomy)
 
-          -  Adequate renal function with estimated glomerular filtration rate (eGRF) ≥ 30 ml/min
-             by local laboratory measure
-
           -  Alanine aminotransferase (ALT) ≤ 5 x upper limit of normal (ULN) by local laboratory
              measure
 
         Exclusion Criteria:
 
-          -  Evidence of multiorgan failure
+          -  Evidence of multiorgan failure including but not limited to coagulopathy (significant
+             thrombocytopenia), hepatic failure (elevated bilirubin) or renal failure (low urine
+             output or estimated glomerular filtration rate (eGFR) &lt; 30 mL/min), or significant
+             cardiomyopathy (low cardiac output)
 
-          -  Pressor requirement to maintain blood pressure
+          -  Use of more than 1 pressor for septic shock (note that use of 1 pressor at low/medium
+             doses for inotropic support due to the use of sedation and paralytics while on the
+             ventilator is allowed)
 
-          -  Renal failure (eGRF &lt; 30 mL/min or dialysis or continuous Veno-Venous Hemofiltration)
+          -  Renal failure (eGRF &lt; 30 mL/min using the Cockcroft-Gault formula for participants ≥
+             18 years of age and Schwartz Formula for participants &lt; 18 years of age) or dialysis
+             or continuous Veno-Venous Hemofiltration)
 
-          -  Pregnancy
+          -  Eligible for enrollment in a randomized clinical trial studying remdesivir for
+             treatment of SARS-CoV2 at the medical facility where the participant is admitted
+
+          -  Known hypersensitivity to the study drug, the metabolites, or formulation excipient
       </textblock>
     </criteria>
     <gender>All</gender>
-    <minimum_age>18 Years</minimum_age>
+    <minimum_age>12 Years</minimum_age>
     <maximum_age>N/A</maximum_age>
   </eligibility>
   <overall_official>
@@ -87,6 +102,30 @@
     <phone>1-833-445-3230 (GILEAD-0)</phone>
     <email>GileadClinicalTrials@gilead.com</email>
   </overall_contact>
+  <location>
+    <facility>
+      <name>Community Medical Centers</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93721</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>MemorialCare Medical Group Long Beach</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
   <location>
     <facility>
       <name>Huntington Hospital</name>
@@ -125,11 +164,47 @@
   </location>
   <location>
     <facility>
+      <name>San Mateo County Medical Center Foundation</name>
+      <address>
+        <city>San Mateo</city>
+        <state>California</state>
+        <zip>94304-1509</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>PIH Health Whittier Hospital</name>
+      <address>
+        <city>Whittier</city>
+        <state>California</state>
+        <zip>90602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Lawnwood Regional Medical Center</name>
       <address>
         <city>Fort Pierce</city>
         <state>Florida</state>
         <zip>34982</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Healthcare System</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33021</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -185,11 +260,35 @@
   </location>
   <location>
     <facility>
+      <name>Slidell Memorial Hospital</name>
+      <address>
+        <city>Slidell</city>
+        <state>Louisiana</state>
+        <zip>70458</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>St. Joseph Mercy Hospital Health System</name>
       <address>
         <city>Ann Arbor</city>
         <state>Michigan</state>
         <zip>48106-0995</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bronson Methodist Hospital</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49007</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -214,6 +313,30 @@
         <city>Flemington</city>
         <state>New Jersey</state>
         <zip>08822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>CentraState Medical Center</name>
+      <address>
+        <city>Freehold</city>
+        <state>New Jersey</state>
+        <zip>07728</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Monmouth Medical Center</name>
+      <address>
+        <city>Long Branch</city>
+        <state>New Jersey</state>
+        <zip>07740</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -257,6 +380,18 @@
   </location>
   <location>
     <facility>
+      <name>Virtua Voorhees</name>
+      <address>
+        <city>Voorhees</city>
+        <state>New Jersey</state>
+        <zip>08043</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Maimonides Medical Center</name>
       <address>
         <city>Brooklyn</city>
@@ -293,11 +428,35 @@
   </location>
   <location>
     <facility>
+      <name>St. Francis Hospital</name>
+      <address>
+        <city>Roslyn</city>
+        <state>New York</state>
+        <zip>11576</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Ellis Hospital</name>
       <address>
         <city>Schenectady</city>
         <state>New York</state>
         <zip>12308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Einstein Medical Center Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19141</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -317,11 +476,88 @@
   </location>
   <location>
     <facility>
+      <name>Hôpitaux Civils de Colmar</name>
+      <address>
+        <city>Colmar</city>
+        <zip>68024</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Sud Francilien</name>
+      <address>
+        <city>Corbeil Essonnes</city>
+        <zip>91100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Raymond Poincaré</name>
+      <address>
+        <city>Garches</city>
+        <zip>92380</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Centre Hospitalier Universitaire de Poitiers</name>
       <address>
         <city>Poitiers</city>
         <zip>86021</zip>
         <country>France</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Regensburg</name>
+      <address>
+        <city>Regensburg</city>
+        <zip>93053</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Würzburg Mitte</name>
+      <address>
+        <city>Würzburg</city>
+        <zip>97074</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Ospedali Riuniti di Ancona</name>
+      <address>
+        <city>Ancona</city>
+        <zip>60020</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40138</zip>
+        <country>Italy</country>
       </address>
     </facility>
     <status>Available</status>
@@ -339,6 +575,61 @@
   </location>
   <location>
     <facility>
+      <name>Hospital Universitario Son Espases</name>
+      <address>
+        <city>Palma de Mallorca</city>
+        <zip>07120</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Miguel Servet</name>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Basel</name>
+      <address>
+        <city>Basel</city>
+        <zip>4051</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Vaudois Lausanne</name>
+      <address>
+        <city>Lausanne</city>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital of Wales, Cardiff and Vale NHS Trust</name>
+      <address>
+        <city>Cardiff</city>
+        <zip>CF14 4XW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Southampton University Hospital</name>
       <address>
         <city>Southampton</city>
@@ -350,7 +641,10 @@
   </location>
   <location_countries>
     <country>France</country>
+    <country>Germany</country>
     <country>Italy</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
     <country>United Kingdom</country>
     <country>United States</country>
   </location_countries>
@@ -358,9 +652,9 @@
   <study_first_submitted>March 24, 2020</study_first_submitted>
   <study_first_submitted_qc>March 24, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>April 7, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
+  <last_update_submitted>April 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

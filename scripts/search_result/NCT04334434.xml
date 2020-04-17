@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="360">
+<clinical_study rank="526">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04334434</url>
   </required_header>
@@ -57,7 +57,7 @@
     </textblock>
   </brief_summary>
   <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 1, 2020</start_date>
+  <start_date type="Anticipated">April 20, 2020</start_date>
   <completion_date type="Anticipated">July 31, 2020</completion_date>
   <primary_completion_date type="Anticipated">June 1, 2020</primary_completion_date>
   <phase>N/A</phase>
@@ -134,13 +134,56 @@
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
   </eligibility>
+  <overall_contact>
+    <last_name>Ayse zengin alpozgen</last_name>
+    <phone>+902128663700</phone>
+    <phone_ext>43144</phone_ext>
+    <email>azengin@istanbul.edu.tr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Istanbul university Cerrahpasa</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ayse Zengin Alpözgen, Ass.Prof.PhD</last_name>
+      <phone>+902128663700</phone>
+      <email>azengin@istanbul.edu.tr</email>
+    </contact>
+    <investigator>
+      <last_name>Kubra Sagir, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ece Acikbas, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Eren Avcil, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Fulya Demirhan, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kubra Koce, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 2, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 3, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>Istanbul University-Cerrahpasa</investigator_affiliation>

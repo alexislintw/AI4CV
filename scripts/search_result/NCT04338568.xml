@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="126">
+<clinical_study rank="200">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04338568</url>
   </required_header>
@@ -45,7 +45,7 @@
       proven COVID-19 pneumonia.
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
+  <overall_status>Recruiting</overall_status>
   <start_date type="Anticipated">April 13, 2020</start_date>
   <completion_date type="Anticipated">April 30, 2020</completion_date>
   <primary_completion_date type="Anticipated">April 30, 2020</primary_completion_date>
@@ -138,6 +138,7 @@
         <country>Belgium</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <contact>
       <last_name>Michiel J Thomeer, MD, PhD</last_name>
       <phone>+3289327171</phone>
@@ -180,9 +181,9 @@
   <study_first_submitted>April 4, 2020</study_first_submitted>
   <study_first_submitted_qc>April 7, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 8, 2020</study_first_posted>
-  <last_update_submitted>April 8, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 8, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
+  <last_update_submitted>April 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Hasselt University</investigator_affiliation>

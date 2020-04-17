@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="160">
+<clinical_study rank="263">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04334460</url>
   </required_header>
@@ -302,10 +302,6 @@
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
-  <intervention_browse>
-    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
-    <mesh_term>Antiviral Agents</mesh_term>
-  </intervention_browse>
   <!-- Results have not yet been posted for this study                                          -->
 </clinical_study>
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="112">
+<clinical_study rank="182">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04335305</url>
   </required_header>
@@ -40,8 +40,8 @@
       initiation.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">March 30, 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 14, 2020</start_date>
   <completion_date type="Anticipated">May 15, 2020</completion_date>
   <primary_completion_date type="Anticipated">May 15, 2020</primary_completion_date>
   <phase>Phase 2</phase>
@@ -305,13 +305,124 @@ Patients who are showing no clinical improvement in respiratory function after 1
     <phone>+34 611 261 467</phone>
     <email>alicia.garcia@medsir.org</email>
   </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Quirónsalud Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08023</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fernando Cereto, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Fernando Cereto, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de la Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08025</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>David Ramos-Barbón, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>David Ramos-Barbón, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Ruber Juan Bravo</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>María Pilar Martialay, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>María Pilar Martialay, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Ruber Internacional</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Javier Ignacio Taboada, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Javier Ignacio Taboada, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Arnau de Vilanova-Lliria</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46015</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Juan Flores Cid, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Juan Flores Cid, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Doctor Peset</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46017</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Arturo Artero, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Arturo Artero, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
   <verification_date>March 2020</verification_date>
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

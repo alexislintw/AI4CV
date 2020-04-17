@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="163">
+<clinical_study rank="267">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04336384</url>
   </required_header>
@@ -67,6 +67,14 @@
       <agency>Alexis BLANC, Montpellier</agency>
       <agency_class>Other</agency_class>
     </collaborator>
+    <collaborator>
+      <agency>Pr. Roland HENAINE, Lyon</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hamouda ABASSI, Montpellier</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
   </sponsors>
   <source>University Hospital, Montpellier</source>
   <oversight_info>
@@ -110,14 +118,14 @@
     <time_perspective>Prospective</time_perspective>
   </study_design_info>
   <primary_outcome>
-    <measure>Population characteristics</measure>
+    <measure>Prevalence of Covid-19 infection in the overall CHD population</measure>
     <time_frame>through study completion, an average of 2 weeks</time_frame>
-    <description>Population characteristics</description>
+    <description>Prevalence of Covid-19 infection in the overall CHD population</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>Clinical course</measure>
+    <measure>Prevalence of Covid-19 infection per CHD sub-group</measure>
     <time_frame>through study completion, an average of 2 weeks</time_frame>
-    <description>Clinical course</description>
+    <description>Prevalence of Covid-19 infection per CHD sub-group</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Cardiovascular complications</measure>
@@ -240,6 +248,14 @@
       <last_name>Daniela LAUX, MD</last_name>
       <role>Principal Investigator</role>
     </investigator>
+    <investigator>
+      <last_name>Roland HENAINE, PU PH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hamouda ABASSI, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
   </location>
   <location_countries>
     <country>France</country>
@@ -253,7 +269,7 @@
     <PMID>32091533</PMID>
   </reference>
   <reference>
-    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 11. pii: S0140-6736(20)30566-3. doi: 10.1016/S0140-6736(20)30566-3. [Epub ahead of print] Erratum in: Lancet. 2020 Mar 12;:.</citation>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
     <PMID>32171076</PMID>
   </reference>
   <reference>
@@ -264,9 +280,9 @@
   <study_first_submitted>March 30, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 7, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

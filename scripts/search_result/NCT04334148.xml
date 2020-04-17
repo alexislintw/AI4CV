@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="174">
+<clinical_study rank="290">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04334148</url>
   </required_header>
@@ -71,9 +71,9 @@
     <masking_description>Double-blind</masking_description>
   </study_design_info>
   <primary_outcome>
-    <measure>Number of participants testing positive for COVID-19 infection</measure>
+    <measure>Number of participants with clinical infection with COVID-19 infection</measure>
     <time_frame>30 days</time_frame>
-    <description>Number of participants testing positive for COVID-19 infection(hydroxychloroquine vs placebo)</description>
+    <description>Number of participants with clinical infection with COVID-19 infection(hydroxychloroquine vs placebo)</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Number of participants with COVID-19 viral shedding</measure>
@@ -114,7 +114,7 @@
   <eligibility>
     <criteria>
       <textblock>
-        Inclusion Criteria:
+        Inclusion:
 
           -  Completed Informed Consent
 
@@ -122,7 +122,7 @@
 
           -  Individual is currently working with a trial participating site where individuals
              receive healthcare (&quot;healthcare worker&quot;) or is associated with the site through
-             emergency services
+             emergency services or related healthcare services
 
           -  Able to speak and read English or Spanish
 
@@ -132,11 +132,15 @@
 
                -  in the Emergency department, or
 
-               -  in Emergency Services, or
+               -  in Emergency services, or
 
                -  in a COVID-19 hospital unit/ward, or
 
-               -  in respiratory services
+               -  in respiratory services, or
+
+               -  in COVID-19 testing location
+
+               -  in inpatient hospital unit/area with potential COVID-19 cases
 
         Exclusion Criteria:
 
@@ -152,7 +156,7 @@
           -  Congenital prolonged QT syndrome
 
           -  Current or planned use of QT prolonging drugs (e.g. procainamide, disopyramide,
-             mexilitine, flecainide, propafenone, amiodarone, sotalol, cimetidine, dronedarone,
+             mexiletine, flecainide, propafenone, amiodarone, sotalol, cimetidine, dronedarone,
              dofetilide, levofloxacin, ciprofloxacin, moxifloxacin)
 
           -  End stage renal disease
@@ -164,7 +168,22 @@
 
                -  Hydroxychloroquine (study drug) or chloroquine
 
-               -  azithromycin
+               -  Azithromycin
+
+          -  Known cirrhosis or severe liver disease
+
+          -  History of severe skin reactions such as Steven-Johnson syndrome, toxic epidermal
+             necrolysis
+
+          -  History of psoriasis or porphyria
+
+          -  Ventricular arrhythmias requiring medical treatment
+
+          -  Severe coronary artery disease or heart failure/cardiomyopathy with ongoing symptoms
+
+          -  Current or planned use of use of anti-seizure drugs
+
+          -  History of Glucose-6-phosphate dehydrogenase deficiency
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -191,9 +210,9 @@
   <study_first_submitted>April 2, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

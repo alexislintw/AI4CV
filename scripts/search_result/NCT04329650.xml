@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="82">
+<clinical_study rank="107">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04329650</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>SILCOR-COVID-19</org_study_id>
     <nct_id>NCT04329650</nct_id>
   </id_info>
-  <brief_title>Efficacy and Safety of Siltuximab vs. Corticosteroids in Hospitalized Patients With COVID19 Pneumonia</brief_title>
+  <brief_title>Efficacy and Safety of Siltuximab vs. Corticosteroids in Hospitalized Patients With COVID-19 Pneumonia</brief_title>
   <official_title>Phase 2, Randomized, Open-label Study to Compare Efficacy and Safety of Siltuximab vs. Corticosteroids in Hospitalized Patients With COVID19 Pneumonia</official_title>
   <sponsors>
     <lead_sponsor>
@@ -288,9 +288,9 @@ If the patient is taken lopinavir/ritonavir, the dose will be 125 mg/ 24 hours d
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>March 31, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 1, 2020</study_first_posted>
-  <last_update_submitted>April 2, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>Fundacion Clinic per a la Recerca Biomédica</investigator_affiliation>
@@ -311,7 +311,6 @@ If the patient is taken lopinavir/ritonavir, the dose will be 125 mg/ 24 hours d
     <mesh_term>Siltuximab</mesh_term>
     <mesh_term>Prednisolone hemisuccinate</mesh_term>
     <mesh_term>Prednisolone phosphate</mesh_term>
-    <mesh_term>Antibodies, Monoclonal</mesh_term>
   </intervention_browse>
   <patient_data>
     <sharing_ipd>No</sharing_ipd>

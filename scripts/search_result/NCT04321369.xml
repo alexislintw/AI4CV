@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="411">
+<clinical_study rank="492">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04321369</url>
   </required_header>
@@ -11,8 +11,8 @@
     <org_study_id>20-001</org_study_id>
     <nct_id>NCT04321369</nct_id>
   </id_info>
-  <brief_title>Impact of Swab Site and Sample Collector on Testing Sensitivity for SARS-CoV-2 Virus in Symptomatic Individuals</brief_title>
-  <official_title>Impact of Swab Site and Sample Collector on Testing Sensitivity for SARS-CoV-2 Virus in Symptomatic Individuals</official_title>
+  <brief_title>Impact of Swab Site and Sample Collector on Testing Sensitivity for COVID-19 Virus in Symptomatic Individuals</brief_title>
+  <official_title>Impact of Swab Site and Sample Collector on Testing Sensitivity for COVID-19 Virus in Symptomatic Individuals</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Dr. Deneen Vojta</agency>
@@ -159,13 +159,13 @@
     <citation>Frazee BW, Rodríguez-Hoces de la Guardia A, Alter H, Chen CG, Fuentes EL, Holzer AK, Lolas M, Mitra D, Vohra J, Dekker CL. Accuracy and Discomfort of Different Types of Intranasal Specimen Collection Methods for Molecular Influenza Testing in Emergency Department Patients. Ann Emerg Med. 2018 Apr;71(4):509-517.e1. doi: 10.1016/j.annemergmed.2017.09.010. Epub 2017 Nov 24.</citation>
     <PMID>29174837</PMID>
   </results_reference>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 23, 2020</study_first_submitted>
   <study_first_submitted_qc>March 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 25, 2020</study_first_posted>
-  <last_update_submitted>March 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 25, 2020</last_update_posted>
+  <last_update_submitted>April 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>UnitedHealth Group</investigator_affiliation>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="36">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04346199</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D822FC00001</org_study_id>
+    <nct_id>NCT04346199</nct_id>
+  </id_info>
+  <brief_title>Acalabrutinib Study With Best Supportive Care Versus Best Supportive Care in Subjects Hospitalized With COVID-19. CALAVI (Calquence Against the Virus)</brief_title>
+  <acronym>ACE-ID-201</acronym>
+  <official_title>A Phase 2 Randomized Study of the Efficacy and Safety of Acalabrutinib With Best Supportive Care Versus Best Supportive Care in Subjects Hospitalized With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Acerta Pharma B.V.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      ACE-ID- 201 will investigate the safety, efficacy and pharmacokinetics of acalabrutinib
+      together with Best Supportive Care in the treatment of COVID-19.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 18, 2020</start_date>
+  <completion_date type="Anticipated">January 28, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 28, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Study will consist of two parts Part1: two treatments acalabrutinib +best supportive care or best supportive care alone Part2: intensive care unit patients treated with acalabrutinib with best supportive care.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment failure rate</measure>
+    <time_frame>Approximately 30 days</time_frame>
+    <description>Treatment failure rate, where treatment failure is defined as use of assisted ventilation or death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of days alive free of assisted ventilation</measure>
+    <time_frame>Approximately 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days with assisted ventilator use</measure>
+    <time_frame>Approximately 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days hospitalized</measure>
+    <time_frame>Approximately 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days in ICU</measure>
+    <time_frame>Approximately 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days alive outside of hospital</measure>
+    <time_frame>Approximately 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days alive outside of hospital</measure>
+    <time_frame>Approximately 90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of Adverse Events and Serious Adverse Events</measure>
+    <time_frame>Approximately 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of acalabrutinib and its active metabolite ACP-5862 (Cmax)</measure>
+    <time_frame>Approximately 30 days</time_frame>
+    <description>Peak Plasma Concentration (Cmax)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of acalabrutinib and its active metabolite ACP-5862 (Tmax)</measure>
+    <time_frame>Approximately 30 days</time_frame>
+    <description>Time to Maximum Concentration (Tmax)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of acalabrutinib and its active metabolite ACP-5862 (AUC)</measure>
+    <time_frame>Approximately 30 days</time_frame>
+    <description>Area under the plasma concentration versus time curve (AUC)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">428</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Acalabrutinib+ Best Supportive Care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Best Supportive Care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Acalabrutinib</intervention_name>
+    <description>Acalabrutinib- administered orally or receive delivery of emptied capsule via a nasogastric (NG) or an enteral feeding tube</description>
+    <arm_group_label>Arm 1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        For Part 1 (Arm 1 and Arm 2):
+
+          1. Ability to understand the purpose and risks of the study and provide signed and dated
+             informed consent or have a legal representative provide consent and authorization to
+             use protected health information (in accordance with national and local patient
+             privacy regulations)
+
+          2. Men and women ≥18 years of age at the time of signing the informed consent form
+
+          3. Confirmed COVID-19 infection confirmed per World Health Organization (WHO) criteria
+             (including positive nucleic acid test of any specimen [eg, respiratory, blood, urine,
+             stool, or other bodily fluid] within 3 weeks of study entry) with suspected pneumonia
+             requiring hospitalization and oxygen saturation &lt;94% on room air or requires 2-5
+
+        L/min of oxygen with at least one of the follow laboratory values:
+
+          1. Ferritin &gt; 300 ng/mL for men and &gt; 150 ng/mL for women
+
+          2. C-reactive protein (CRP) ≥ 10 mg/L
+
+          3. D-dimer &gt; 1 mg/L
+
+          4. Absolute lymphocyte count &lt; 1000 cells/μL 4. Able to swallow capsules or receive
+             delivery of emptied capsule via a nasogastric (NG) or an enteral feeding tube 5.
+             Willing to follow contraception guidelines
+
+        For Part 2 Intensive Care Unit (ICU Cohort):
+
+          1. Ability to understand the purpose and risks of the study and provide signed and dated
+             informed consent or have a legal representative provide consent and authorization to
+             use protected health information (in accordance with national and local patient
+             privacy regulations)
+
+          2. Men and women ≥18 years of age at the time of signing the informed consent form
+
+          3. Confirmed COVID-19 infection requiring ICU admission and requiring
+
+             ≥ 6 L/min of oxygen or PaO2/FiO2 ≤300 mm Hg)
+
+          4. Able to swallow capsules or receive delivery of emptied capsule via a nasogastric (NG)
+             or an enteral feeding tube
+
+          5. Willing to follow contraception guidelines
+
+        Exclusion Criteria:
+
+        For Part 1 and Part 2 (All Subjects):
+
+          1. Pregnant or breast feeding
+
+          2. Are not committed to aggressive management. For example, the subject's family or
+             primary physician are unwilling to place the subject on mechanical ventilation or an
+             advanced directive to withhold life support, with the exception of cardiopulmonary
+             resuscitation, is present.
+
+          3. Suspected, uncontrolled active bacterial, fungal, viral, or other infection (besides
+             COVID 19)
+
+          4. Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) &gt; 5 x upper limit
+             of normal (ULN) detected within 24 hours at screening (per local lab)
+
+          5. Uncontrolled or untreated symptomatic arrhythmias, myocardial infarction within the
+             last 6 weeks, congestive heart failure
+
+          6. Use of active systemic or inhaled corticosteroids
+
+          7. Concomitant use of JAK, PI3K, or Btk (other than acalabrutinib) inhibitors with
+             acalabrutinib.
+
+        For Part 1 (only):
+
+          1. In ICU or on invasive mechanical ventilation or ECMO machine before randomization.
+
+          2. Known medical resuscitation within 14 days of randomization
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>130 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>AstraZeneca Clinical Study Information Center</last_name>
+    <phone>1-877-240-9479</phone>
+    <email>information.center@astrazeneca.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>AstraZeneca Cancer Study Locator</last_name>
+    <phone>18774004656</phone>
+    <email>astrazeneca@emergingmed.com</email>
+  </overall_contact_backup>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 15, 2020</study_first_posted>
+  <last_update_submitted>April 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>2019 novel coronavirus disease</keyword>
+  <keyword>Acalabrutinib</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers can request access to anonymized individual patient-level data from AstraZeneca group of companies sponsored clinical trials via the request portal. All request will be evaluated as per the AZ disclosure commitment: https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_description>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Study start to completion date</ipd_time_frame>
+    <ipd_access_criteria>When a request has been approved AstraZeneca will provide access to the de-identified individual patient-level data in an approved sponsored tool . Signed Data Sharing Agreement (non-negotiable contract for data accessors) must be in place before accessing requested information. Additionally, all users will need to accept the terms and conditions of the SAS MSE to gain access. For additional details, please review the Disclosure Statements at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_access_criteria>
+    <ipd_url>https://astrazenecagroup-dt.pharmacm.com/DT/Home</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

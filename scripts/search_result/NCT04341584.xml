@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="352">
+<clinical_study rank="568">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04341584</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>APHP200375-5</org_study_id>
     <nct_id>NCT04341584</nct_id>
   </id_info>
-  <brief_title>CORIMUNO-ANA: TRIAL EVALUATING EFFICACY OF ANAKINRA IN PATIENTS WITH COVID-19 INFECTION, NESTED IN THE CORIMUNO-19 COHORT</brief_title>
+  <brief_title>CORIMUNO-ANA: Trial Evaluating Efficacy Of Anakinra In Patients With Covid-19 Infection</brief_title>
   <acronym>CORIMUNO-ANA</acronym>
-  <official_title>CORIMUNO-ANA: TRIAL EVALUATING EFFICACY OF ANAKINRA IN PATIENTS WITH COVID-19 INFECTION, NESTED IN THE CORIMUNO-19 COHORT</official_title>
+  <official_title>CORIMUNO-ANA: Trial Evaluating Efficacy Of Anakinra In Patients With Covid-19 Infection, Nested In The CORIMUNO-19</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Assistance Publique - Hôpitaux de Paris</agency>
@@ -191,6 +191,11 @@ In case of absence of improvement at D4 (absence of clinical improvement AND abs
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
+  <overall_official>
+    <last_name>Xavier Mariette, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hôpital Bicêtre, Assistance Publique-Hôpitaux de Paris</affiliation>
+  </overall_official>
   <overall_contact>
     <last_name>Xavier Mariette, MD, PhD</last_name>
     <phone>145213751</phone>
@@ -206,10 +211,10 @@ In case of absence of improvement at D4 (absence of clinical improvement AND abs
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 7, 2020</study_first_submitted>
   <study_first_submitted_qc>April 7, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 10, 2020</study_first_posted>
-  <last_update_submitted>April 7, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 10, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 10, 2020</study_first_posted>
+  <last_update_submitted>April 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

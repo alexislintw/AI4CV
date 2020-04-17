@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="296">
+<clinical_study rank="435">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04264858</url>
   </required_header>
@@ -202,8 +202,6 @@ Abbreviation: IMV, invasive mechanical ventilation; NIV, non-invasive mechanical
     <mesh_term>Immunoglobulins</mesh_term>
     <mesh_term>Antibodies</mesh_term>
     <mesh_term>gamma-Globulins</mesh_term>
-    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
-    <mesh_term>Rho(D) Immune Globulin</mesh_term>
   </intervention_browse>
   <!-- Results have not yet been posted for this study                                          -->
 </clinical_study>

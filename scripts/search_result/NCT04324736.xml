@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="400">
+<clinical_study rank="530">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04324736</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>RC20_0148</org_study_id>
     <nct_id>NCT04324736</nct_id>
   </id_info>
-  <brief_title>&quot;Coronavirus SARS-CoV2 and Diabetes Outcomes&quot;</brief_title>
+  <brief_title>&quot;COVID-19 and Diabetes Outcomes&quot;</brief_title>
   <acronym>CORONADO</acronym>
-  <official_title>&quot;Coronavirus SARS-CoV2 and Diabetes Outcomes&quot;</official_title>
+  <official_title>&quot;Coronavirus SARS-CoV2 and Diabetes Outcomes&quot; : CORONADO</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Nantes University Hospital</agency>
@@ -157,9 +157,9 @@
   <study_first_submitted>March 25, 2020</study_first_submitted>
   <study_first_submitted_qc>March 25, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>April 7, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
+  <last_update_submitted>April 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

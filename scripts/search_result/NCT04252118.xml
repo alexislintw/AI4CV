@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="239">
+<clinical_study rank="33">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04252118</url>
   </required_header>
@@ -11,8 +11,8 @@
     <org_study_id>2020003D</org_study_id>
     <nct_id>NCT04252118</nct_id>
   </id_info>
-  <brief_title>Mesenchymal Stem Cell Treatment for Pneumonia Patients Infected With 2019 Novel Coronavirus</brief_title>
-  <official_title>Safety and Efficiency of Mesenchymal Stem Cell in Treating Pneumonia Patients Infected With 2019 Novel Coronavirus</official_title>
+  <brief_title>Mesenchymal Stem Cell Treatment for Pneumonia Patients Infected With COVID-19</brief_title>
+  <official_title>Safety and Efficiency of Mesenchymal Stem Cell in Treating Pneumonia Patients Infected With COVID-19</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Beijing 302 Hospital</agency>
@@ -50,23 +50,23 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      The 2019 novel coronavirus (2019-nCoV) infection caused clusters of severe respiratory
-      illness similar to severe acute respiratory syndrome coronavirus and was associated with ICU
-      admission and high mortality. There is no confirmed antivirus therapy for people infected
-      2019-nCoV, most of them should receive supportive care to help relieve symptoms. For severe
-      cases, treatment should include care to support vital organ functions. This clinical trial is
-      to inspect the safety and efficiency of Mesenchymal Stem Cells (MSCs) therapy for pneumonia
-      patients infected with 2019-nCoV.
+      The SARS-CoV-2 infection caused clusters of severe respiratory illness similar to severe
+      acute respiratory syndrome coronavirus and was associated with ICU admission and high
+      mortality. There is no confirmed antivirus therapy for people infected SARS-CoV-2, most of
+      them should receive supportive care to help relieve symptoms. For severe cases, treatment
+      should include care to support vital organ functions. This clinical trial is to inspect the
+      safety and efficiency of Mesenchymal Stem Cells (MSCs) therapy for pneumonia patients
+      infected with SARS-CoV-2.
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
-      2019-nCoV infection has become an urgent public health event in China. As of 24:00 on January
-      26, 2020, there are 2744 confirmed cases and 461 severe cases in China, the number is still
-      increasing. There is currently no vaccine and no specific antiviral treatment recommended for
-      2019-nCoV infection. About 20% of the patients were severe and some died of respiratory
-      failure or multiple organ failure. Therefore, it is urgent to find a safe and effective
-      therapeutic approach to pneumonia patients infected with 2019-nCoV.
+      SARS-CoV-2 infection has become an urgent public health event in China. As of 24:00 on
+      January 26, 2020, there are 2744 confirmed cases and 461 severe cases in China, the number is
+      still increasing. There is currently no vaccine and no specific antiviral treatment
+      recommended for SARS-CoV-2 infection. About 20% of the patients were severe and some died of
+      respiratory failure or multiple organ failure. Therefore, it is urgent to find a safe and
+      effective therapeutic approach to pneumonia patients infected with SARS-CoV-2.
 
       In the last year, the promising features of mesenchymal stem cells (MSCs), including their
       regenerative properties and ability to differentiate into diverse cell lineages, have
@@ -81,10 +81,10 @@
       model .
 
       The purpose of this study is to investigate safety and efficiency of MSCs in treating
-      pneumonia patients infected with 2019-nCoV. This multi-center trial will recruit 20 patients.
-      10 patients received i.v. transfusion one round (3 times) of 3.0*10E7 cells of MSCs as the
-      treated group, all of them received the conventional treatment. In addition, the equal 10
-      patients received conventional treatment were used as control. The clinical symptoms,
+      pneumonia patients infected with SARS-CoV-2. This multi-center trial will recruit 20
+      patients. 10 patients received i.v. transfusion one round (3 times) of 3.0*10E7 cells of MSCs
+      as the treated group, all of them received the conventional treatment. In addition, the equal
+      10 patients received conventional treatment were used as control. The clinical symptoms,
       pulmonary imaging, side effects, 28-days mortality, immunological characteristics (immune
       cells, inflammatory factors, etc.) will be evaluated during the 180 days follow up.
     </textblock>
@@ -120,7 +120,7 @@
   <secondary_outcome>
     <measure>Time of nucleic acid turning negative</measure>
     <time_frame>At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180</time_frame>
-    <description>Marker for 2019-nCoV</description>
+    <description>Marker for COVID-19</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Rate of mortality within 28-days</measure>
@@ -149,7 +149,7 @@
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">20</enrollment>
-  <condition>2019 Novel Coronavirus Pneumonia</condition>
+  <condition>COVID-19</condition>
   <arm_group>
     <arm_group_label>MSCs Treatment Group</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
@@ -173,8 +173,8 @@
 
           1. Male or female, aged at 18 years (including) -70 years old
 
-          2. Laboratory confirmation of 2019-nCoV infection by reverse-transcription polymerase
-             chain reaction (RT-PCR) from any diagnostic sampling source; and
+          2. Confirmed COVID-19 by reverse-transcription polymerase chain reaction (RT-PCR) from
+             any diagnostic sampling source; and
 
           3. Pneumonia that is judged by chest radiograph or computed tomography.
 
@@ -227,27 +227,26 @@
   <location_countries>
     <country>China</country>
   </location_countries>
-  <verification_date>February 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>January 27, 2020</study_first_submitted>
   <study_first_submitted_qc>January 30, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">February 5, 2020</study_first_posted>
-  <last_update_submitted>February 25, 2020</last_update_submitted>
-  <last_update_submitted_qc>February 25, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">February 26, 2020</last_update_posted>
+  <last_update_submitted>April 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Beijing 302 Hospital</investigator_affiliation>
     <investigator_full_name>Fu-Sheng Wang</investigator_full_name>
     <investigator_title>Head of Treatment and Research Center for Infectious Diseases, Principle Investigator, Clinical Professor</investigator_title>
   </responsible_party>
-  <keyword>2019 Novel Coronavirus Pneumonia</keyword>
+  <keyword>COVID-19</keyword>
   <keyword>Safety</keyword>
   <keyword>Efficiency</keyword>
   <keyword>Cell Therapy</keyword>
   <keyword>Mesenchymal stem cell</keyword>
   <condition_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
-    <mesh_term>Coronavirus Infections</mesh_term>
     <mesh_term>Pneumonia</mesh_term>
   </condition_browse>
   <patient_data>

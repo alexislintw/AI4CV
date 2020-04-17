@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="10">
+<clinical_study rank="15">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04333420</url>
   </required_header>
@@ -135,7 +135,33 @@
     </facility>
     <status>Recruiting</status>
     <contact>
-      <last_name>A. V., MD, PhD</last_name>
+      <last_name>Alexander Vlaar, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Amsterdam</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>L.M.A Heunks, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Maastricht</name>
+      <address>
+        <city>Maastricht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pieter van Paassen, MD</last_name>
     </contact>
   </location>
   <location_countries>
@@ -145,9 +171,9 @@
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 1, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 3, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

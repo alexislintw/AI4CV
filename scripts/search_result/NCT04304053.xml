@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="46">
+<clinical_study rank="66">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 10, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04304053</url>
   </required_header>
@@ -55,14 +55,10 @@
     <textblock>
       The investigators plan to evaluate the efficacy of the 'test and treat' strategy of infected
       patients and prophylactic chloroquine treatment to all contacts. The strategy entails
-      decentralized COVID-19 testing and starting antiviral darunavir/cobicistat plus chloroquine
-      treatment immediately in all who are found to be infected. As viral loads decline to
-      undetectable levels, the probability of onward transmission is reduced to very low levels.
-      Such evaluation will require prospective surveillance to assess the population-level effect
-      of transmission prevention.
-
-      Drug interventions in this protocol will follow the Spanish law about off-label use of
-      medicines.
+      decentralized COVID-19 testing and starting chloroquine treatment immediately in all who are
+      found to be infected. As viral loads decline to undetectable levels, the probability of
+      onward transmission is reduced to very low levels. Such evaluation will require prospective
+      surveillance to assess the population-level effect of transmission prevention.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -79,10 +75,16 @@
       Its as effective as lopinavir/ritonavir for the treatment of HIV/AIDS and better tolerated
       because the adverse effects rate is lower (diarrhea 2% vs 27%).
 
-      Another promising drug is chloroquine, that showed excellent in vitro results and strong
-      antiviral effects on SARS-CoV infection of primate cells. Results from n=100 patients have
-      shown superiority to the control treatment in improving lung imaging findings, promoting
-      virus reversion to negative and shortening the disease.
+      In last week DRV has been shown to exert no activity on the SARS-CoV-2 clinical studies and
+      is therefore withdrawn for futility. Although LPVr shows in vitro efficacy against SARS-CoV-2
+      at elevated total drug concentrations, human clinical trials have not demonstrated
+      superiority of LPVr vs Placebo. It has been considered that the magnitude of the possible
+      clinical benefit of LPVr if it is started in the early stages of the disease is small and
+      does not compensate for the gastrointestinal and renal toxicity of the drug.
+
+      Hydroxychloroquine (HCQ) is a drug that has been extensively used for the prevention of
+      malaria. HCQ showed excellent in vitro results and strong antiviral effects on SARS-CoV-2
+      infection of primate cells at low concentration.
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
@@ -107,7 +109,7 @@
   </primary_outcome>
   <secondary_outcome>
     <measure>The virological clearance rate of throat swabs, sputum, or lower respiratory tract secretions at days 3</measure>
-    <time_frame>3 days after start of treatment</time_frame>
+    <time_frame>3 and 7 days after start of treatment</time_frame>
   </secondary_outcome>
   <secondary_outcome>
     <measure>The mortality rate of subjects at weeks 2</measure>
@@ -127,17 +129,18 @@
   <arm_group>
     <arm_group_label>No Intervention- SARS-CoV-2 surveillance</arm_group_label>
     <arm_group_type>Active Comparator</arm_group_type>
-    <description>Subjects exhibiting Acute Respiratory Infection (ARI) symptoms at a participating health care services complete a survey collecting demographic and clinical data and provide a swab for RT-PCR testing. Isolation of patient and contact tracing as per guidelines.</description>
+    <description>Index case completes a survey collecting demographic, epidemiological and clinical data and provides a swab for RT-PCR testing at baseline and on days 3 and 7. Contacts will also complete a survey collecting demographic, epidemiological and clinical data and provides a swab for RT-PCR testing at baseline and day 14. Rescue therapy with Hydroxychloroquine will be administered when a contact in the control arm develops symptoms consistent with COVID-19 and positive PCR.
+Isolation of patient and contact tracing as per national guidelines.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Testing, treatment and prophylaxis of SARS-CoV-2</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Subjects exhibiting ARI symptoms at a participating hospital complete a survey collecting demographic and clinical data and provide a swab to be tested on-site with a molecular assay. Isolation of patient and contact tracing as per guidelines. Case receive an antiviral if tested positive (Chloroquine and darunavir/cobicistat). Contacts receive Chloroquine prophylaxis</description>
+    <description>Index case completes a survey collecting demographic, epidemiological and clinical data and provides a swab for RT-PCR testing at baseline and on days 3 and 7. Isolation of patient and contact tracing as per national guidelines. Index case receives Hydroxychloroquine. Contacts receive Hydroxychloroquine prophylaxis. Index case contacts will also complete a survey collecting demographic, epidemiological and clinical and provides a swab for RT-PCR testing at baseline and day 14.</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
-    <intervention_name>Antiviral treatment and prophylaxis</intervention_name>
-    <description>darunavir 800 mg / cobicistat 150 mg tablets (oral, 1 tablet q24h, taking for 7 days) and hydroxychloroquine (200mg tablets) 800mg on day 1, and 400mg on days 2,3,4, 5, 6 and 7.
+    <intervention_name>Treatment and prophylaxis</intervention_name>
+    <description>hydroxychloroquine (200mg tablets) 800mg on day 1, and 400mg on days 2,3,4, 5, 6 and 7
 Contacts will be offered a prophylactic regimen of hydroxychloroquine (200mg tablets) 800mg on day 1, and 400mg on days 2,3,4.</description>
     <arm_group_label>Testing, treatment and prophylaxis of SARS-CoV-2</arm_group_label>
   </intervention>
@@ -154,7 +157,8 @@ Contacts will be offered a prophylactic regimen of hydroxychloroquine (200mg tab
         Inclusion Criteria for a case:
 
           1. Patients who meet the requirements of the New Coronavirus Infection Diagnosis (Acute
-             respiratory infection symptoms or acute cough alone and positive PCR)
+             &lt;5 days respiratory infection symptoms, or fever alone, or acute cough alone and
+             positive PCR)
 
           2. Aged ≥18 years male or female;
 
@@ -169,48 +173,44 @@ Contacts will be offered a prophylactic regimen of hydroxychloroquine (200mg tab
 
         Exclusion Criteria for a case:
 
-          1. Serious condition meeting one of the following: (1) respiratory distress with
+          1. Hospital admission
+
+          2. Serious condition meeting one of the following: (1) respiratory distress with
              respiratory rate &gt;=30 breaths/min; (2) oxygen saturation&lt;=93% on quiet status; (3)
              Arterial partial pressure of oxygen (PaO2)/oxygen concentration&lt;=300mmHg;
 
-          2. Critically ill patients meeting one of the following: (1) Experience respiratory
+          3. Critically ill patients meeting one of the following: (1) Experience respiratory
              failure and need to receive mechanical ventilation; (2) Experience shock; (3)
              Complicated with other organs failure and need intensive care and therapy in ICU;
 
-          3. Participants under treatment with medications likely to interfere with experimental
+          4. Participants under treatment with medications likely to interfere with experimental
              drugs
 
-          4. Unable to take drugs by mouth;
+          5. Unable to take drugs by mouth;
 
-          5. With significantly abnormal liver function (Child Pugh C)
+          6. With significantly abnormal liver function (Child Pugh C)
 
-          6. Need of dialysis treatment, or GFR≤30 mL/min/1.73 m2;
+          7. Need of dialysis treatment, or GFR≤30 mL/min/1.73 m2;
 
-          7. Participants with psoriasis, myasthenia, haematopoietic and retinal
+          8. Participants with psoriasis, myasthenia, haematopoietic and retinal
              diseases,CNS-related hearing loss or glucose-6-phosphate dehydrogenase deficit
 
-          8. Participants with severe neurological and mental illness;
+          9. Participants with severe neurological and mental illness;
 
-          9. Pregnant or lactating women;
+         10. Pregnant or lactating women;
 
-         10. Inability to consent and/or comply with study protocol;
+         11. Inability to consent and/or comply with study protocol;
 
-         11. Individuals with known hypersensitivity to the study drugs.
+         12. Individuals with known hypersensitivity to the study drugs.
 
-         12. Persons already treated with any of the study drugs during the last 30 days.
+         13. Persons already treated with any of the study drugs during the last 30 days.
 
-         13. Concomitant administration of enzyme inducers (such as carbamazepine) which could lead
-             to ineffectiveness of darunavir; and those who receive CYP3A4 substrates (such as
-             statins) because of the risk of increased toxicity.
-
-         14. HIV patients (because these are already on antiretroviral treatment)
-
-         15. Any contraindications as per the Data Sheet of Rezolsta or Hydroxychloroquine.
+         14. Any contraindications as per the Data Sheet of Hydroxychloroquine.
 
         Inclusion Criteria for a contact:
 
-          1. Patients who meet the definition of a contact according to the Catalan Public Health
-             Department Guidelines
+          1. Asymptomatic individuals exposed to a PCR confirmed COVID19 case within 5 days as
+             either a healthcare worker or household contact
 
           2. Aged ≥18 years male or female;
 
@@ -278,19 +278,15 @@ Contacts will be offered a prophylactic regimen of hydroxychloroquine (200mg tab
   <study_first_submitted>March 5, 2020</study_first_submitted>
   <study_first_submitted_qc>March 7, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 11, 2020</study_first_posted>
-  <last_update_submitted>April 6, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
+  <last_update_submitted>April 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Germans Trias i Pujol Hospital</investigator_affiliation>
     <investigator_full_name>Oriol Mitja</investigator_full_name>
     <investigator_title>Prof (Ass) Infectious Disease and Global Health</investigator_title>
   </responsible_party>
-  <intervention_browse>
-    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
-    <mesh_term>Antiviral Agents</mesh_term>
-  </intervention_browse>
   <patient_data>
     <sharing_ipd>Yes</sharing_ipd>
     <ipd_description>Open access</ipd_description>
