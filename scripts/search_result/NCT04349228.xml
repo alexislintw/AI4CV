@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="244">
+<clinical_study rank="628">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04349228</url>
   </required_header>
   <id_info>
-    <org_study_id>AbderrahmaneMH</org_study_id>
+    <org_study_id>ECC2020-03</org_study_id>
     <nct_id>NCT04349228</nct_id>
   </id_info>
   <brief_title>Assessment of the Efficacy and Safety of (HCQ) as a Prophylaxis for COVID19 for Health Professionals</brief_title>
@@ -19,6 +19,14 @@
       <agency>Abderrahmane Mami Hospital</agency>
       <agency_class>Other</agency_class>
     </lead_sponsor>
+    <collaborator>
+      <agency>Eshmoun Clinical Research Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Datametrix</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
   </sponsors>
   <source>Abderrahmane Mami Hospital</source>
   <oversight_info>
@@ -77,6 +85,10 @@ Electrical Examination: ECG</description>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">530</enrollment>
   <condition>COVID19</condition>
+  <condition>Sars-CoV2</condition>
+  <condition>Hydroxychloroquine</condition>
+  <condition>Prophylaxis</condition>
+  <condition>Healthcare Worker</condition>
   <arm_group>
     <arm_group_label>Hydroxychloroquine (HCQ)</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
@@ -141,19 +153,55 @@ Electrical Examination: ECG</description>
     <maximum_age>65 Years</maximum_age>
     <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
   </eligibility>
+  <overall_official>
+    <last_name>Jalila Ben Khelil, Pr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hopital Abderrahmane Mami</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eshmoun Clinical Research Centre</last_name>
+    <phone>+21627870563</phone>
+    <email>eshmouncompany@eshmoun.com.tn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Chokri Jeribi, Dr</last_name>
+    <phone>+21627870563</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Eshmoun Clinical Research Centre/ Hôpital Abderrahmane Mami-Ariana</name>
+      <address>
+        <city>Tunis</city>
+        <country>Tunisia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Chokri Jeribi, Dr</last_name>
+      <phone>+21627870563</phone>
+      <email>eshmouncompany@eshmoun.com.tn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Tunisia</country>
+  </location_countries>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 14, 2020</study_first_submitted>
   <study_first_submitted_qc>April 15, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 15, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Abderrahmane Mami Hospital</investigator_affiliation>
     <investigator_full_name>Dr Jalila Ben Khelil</investigator_full_name>
     <investigator_title>Head of department</investigator_title>
   </responsible_party>
+  <keyword>HCQ</keyword>
+  <keyword>prophylaxie</keyword>
+  <keyword>Healthcare Worker</keyword>
+  <keyword>Hydroxychloroquine</keyword>
+  <keyword>COVID19</keyword>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Hydroxychloroquine</mesh_term>

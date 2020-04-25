@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="332">
+<clinical_study rank="510">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04332991</url>
   </required_header>
@@ -455,7 +455,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -491,7 +491,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -500,6 +500,18 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <city>Boston</city>
         <state>Massachusetts</state>
         <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02445</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -555,18 +567,6 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
   </location>
   <location>
     <facility>
-      <name>Hennepin County Medical Center</name>
-      <address>
-        <city>Minneapolis</city>
-        <state>Minnesota</state>
-        <zip>55415</zip>
-        <country>United States</country>
-      </address>
-    </facility>
-    <status>Not yet recruiting</status>
-  </location>
-  <location>
-    <facility>
       <name>University of Mississippi Medical Center</name>
       <address>
         <city>Jackson</city>
@@ -596,18 +596,6 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <city>Bronx</city>
         <state>New York</state>
         <zip>10467</zip>
-        <country>United States</country>
-      </address>
-    </facility>
-    <status>Not yet recruiting</status>
-  </location>
-  <location>
-    <facility>
-      <name>Mt. Sinai Hospital</name>
-      <address>
-        <city>New York</city>
-        <state>New York</state>
-        <zip>10029</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -659,7 +647,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -815,7 +803,7 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -840,9 +828,9 @@ For this COVID-19 trial, we will use an oral or enteral dose of hydroxychloroqui
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>March 31, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 3, 2020</study_first_posted>
-  <last_update_submitted>April 3, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>

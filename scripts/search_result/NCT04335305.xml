@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="182">
+<clinical_study rank="278">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04335305</url>
   </required_header>
@@ -54,7 +54,7 @@
     <masking>None (Open Label)</masking>
   </study_design_info>
   <primary_outcome>
-    <measure>Percentage of patients with normalization of SpO2 ≥96%</measure>
+    <measure>Percentage of patients with normalization of oxygen saturation by pulse oximetry (SpO2) ≥96%</measure>
     <time_frame>through day 14 after study treatment initiation</time_frame>
     <description>Assessed by hospital records</description>
   </primary_outcome>
@@ -92,12 +92,12 @@ Time to independence from oxygen therapy.</description>
     <description>by using the same imaging technique (chest X-ray or thoracic CT scan)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Time to first negative in SARS-CoV-2 RT-PCR test</measure>
+    <measure>Time to first negative in severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RT-PCR test</measure>
     <time_frame>within 28 days from study inclusion</time_frame>
     <description>determined using oropharyngeal or anal swabs</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Change from baseline of ALC (absolute lymphocyte count),white blood cell count and white blood cell differential count</measure>
+    <measure>Change from baseline of absolute lymphocyte count (ALC),white blood cell count and white blood cell differential count</measure>
     <time_frame>days 3, 5, 7, 10, 14 and 28 after administration of study drug</time_frame>
     <description>Baseline defined as the value collected at day 1, 2 hours before treatment administration</description>
   </secondary_outcome>
@@ -189,7 +189,7 @@ Patients who are showing no clinical improvement in respiratory function after 1
 
           3. Laboratory confirmed COVID-19 infection defined with a positive reverse
              transcription-polymerase chain reaction (RT-PCR) from any specimen and/or detection of
-             SARS-CoV-2 immunoglobulin (Ig)M/IgG antibodies.
+             SARS-CoV-2 immunoglobulin (Ig) M / Ig G antibodies.
 
           4. Diagnostic confirmation of pneumonia by either chest X-ray or thoracic CT scan
              (preferable).
@@ -214,15 +214,16 @@ Patients who are showing no clinical improvement in respiratory function after 1
 
                -  Increase in ferritin levels (any increase within 48 hours);
 
-               -  Increase in IL-6 levels (any increase within 48 hours);
+               -  Increase in interleukin-6 (IL-6) levels (any increase within 48 hours);
 
                -  Increase in D-dimer levels (any increase within 48 hours);
 
-               -  Increase in CRP levels (any increase within 48 hours);
+               -  Increase in C-Reactive Protein (CRP) levels (any increase within 48 hours);
 
-               -  Increase in LDH levels (any increase within 48 hours);
+               -  Increase in lactate dehydrogenase (LDH) levels (any increase within 48 hours);
 
-               -  Increase in ESR levels (any increase within 48 hours).
+               -  Increase in erythrocyte sedimentation rate(ESR) levels (any increase within 48
+                  hours).
 
          10. Life expectancy greater than 10 days.
 
@@ -332,12 +333,23 @@ Patients who are showing no clinical improvement in respiratory function after 1
         <country>Spain</country>
       </address>
     </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Arnau de Vilanova de Lleida</name>
+      <address>
+        <city>Lleida</city>
+        <zip>25198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
     <status>Not yet recruiting</status>
     <contact>
-      <last_name>David Ramos-Barbón, MD</last_name>
+      <last_name>Jesús Caballero, MD</last_name>
     </contact>
     <investigator>
-      <last_name>David Ramos-Barbón, MD</last_name>
+      <last_name>Jesús Caballero, MD</last_name>
       <role>Principal Investigator</role>
     </investigator>
   </location>
@@ -350,7 +362,7 @@ Patients who are showing no clinical improvement in respiratory function after 1
         <country>Spain</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>María Pilar Martialay, MD</last_name>
     </contact>
@@ -404,7 +416,7 @@ Patients who are showing no clinical improvement in respiratory function after 1
         <country>Spain</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Arturo Artero, MD</last_name>
     </contact>
@@ -416,13 +428,13 @@ Patients who are showing no clinical improvement in respiratory function after 1
   <location_countries>
     <country>Spain</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

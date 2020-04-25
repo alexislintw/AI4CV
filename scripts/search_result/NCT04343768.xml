@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="32">
+<clinical_study rank="52">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04343768</url>
   </required_header>
@@ -77,10 +77,10 @@
       and in the form of an article in a reputable international journal.
     </textblock>
   </detailed_description>
-  <overall_status>Enrolling by invitation</overall_status>
-  <start_date type="Anticipated">April 10, 2020</start_date>
-  <completion_date type="Anticipated">April 24, 2020</completion_date>
-  <primary_completion_date type="Anticipated">April 20, 2020</primary_completion_date>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 5, 2020</start_date>
+  <completion_date type="Actual">April 19, 2020</completion_date>
+  <primary_completion_date type="Actual">April 19, 2020</primary_completion_date>
   <phase>Phase 4</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
@@ -123,7 +123,7 @@ Patients will be allocated to three therapeutic arms (Hydroxychloroquine + Lopin
     <description>With incidence of any serious adverse effects, the outcome has happened.</description>
   </secondary_outcome>
   <number_of_arms>3</number_of_arms>
-  <enrollment type="Anticipated">60</enrollment>
+  <enrollment type="Actual">60</enrollment>
   <condition>COVID-19</condition>
   <arm_group>
     <arm_group_label>Hydroxychloroquine + Lopinavir / Ritonavir + Interferon-β 1a</arm_group_label>
@@ -172,14 +172,15 @@ Patients will be allocated to three therapeutic arms (Hydroxychloroquine + Lopin
 
           -  Age ≥ 18
 
-          -  COVID-19 Confirmed Cases (Either RT-PCR or CT Scan Confirmed)
+          -  COVID-19 Confirmed Cases By Means of RT-PCR
 
-          -  Tympanic Temperature of ≥37.5 AND at least one of the following: Cough, Sputum
-             production, nasal discharge, myalgia, headache or fatigue) on admission.
+          -  Oxygen saturation (SPO2) ≤ 93% OR respiratory rate ≥ 24
 
-          -  Time of onset of the symptoms should be acute ( Days ≤ 10)
+          -  At least one of the following: Calibrated contactless infrared forehead thermometry
+             temperature of ≥37.8, cough, sputum production, nasal discharge, myalgia, headache or
+             fatigue on admission.
 
-          -  NEWS2 ≥ 1 on admission (National Early Warning Score 2)
+          -  Time of onset of the symptoms should be acute ( Days ≤ 14)
 
         Exclusion Criteria:
 
@@ -285,9 +286,9 @@ Patients will be allocated to three therapeutic arms (Hydroxychloroquine + Lopin
   <study_first_submitted>April 8, 2020</study_first_submitted>
   <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 13, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <last_update_submitted>April 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Shahid Beheshti University of Medical Sciences</investigator_affiliation>

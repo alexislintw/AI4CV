@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="43">
+<clinical_study rank="68">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04328285</url>
   </required_header>
@@ -59,11 +59,12 @@
   </brief_summary>
   <detailed_description>
     <textblock>
-      The study COVIDAXIS 1( Hydroxychloroquine (HCQ) versus placebo) will be realized on 600
+      The study COVIDAXIS 1(Hydroxychloroquine (HCQ) versus placebo) will be realized on 600
       participants and will be implemented first in as many centers as possible.
 
-      Upon randomization healthcare workers involved in the management of suspected or confirmed
-      COVID-19 cases will be assigned to one of the following 2 treatment groups:
+      Upon randomization, with 1:1 allocation ratio, healthcare workers involved in the management
+      of suspected or confirmed COVID-19 cases will be assigned to one of the following 2 treatment
+      groups:
 
         -  Group 1.1: HCQ 200 mg : 2 tablets on the evening at Day 1 and 2 tablets on the morning
            at Day 2 and 1 tablet once daily afterwards
@@ -75,8 +76,9 @@
       participants and will be implemented in already participating and newer centers in a second
       step (when LPV/r becomes available).
 
-      Upon randomization healthcare workers involved in the management of suspected or confirmed
-      COVID-19 cases will be assigned to one of the following 2 treatment groups:
+      Upon randomization, with 1:1 allocation ratio, healthcare workers involved in the management
+      of suspected or confirmed COVID-19 cases will be assigned to one of the following 2 treatment
+      groups:
 
         -  Group 2.1: LPV/r 200/50 mg : 2 tablets twice daily
 
@@ -84,6 +86,9 @@
 
       Participants will receive the randomized treatment for 2 months and will be followed upon a
       2.5 months period.
+
+      NB: there is no randomization procedure for participant inclusion in either COVIDAXIS 1 or
+      COVIDAXIS 2
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
@@ -286,7 +291,7 @@ Group 2.2: Placebo of LPV/r, 2 tablets twice daily</description>
         <country>France</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Vincent DUBEE</last_name>
     </contact>
@@ -305,6 +310,106 @@ Group 2.2: Placebo of LPV/r, 2 tablets twice daily</description>
   </location>
   <location>
     <facility>
+      <name>CHU de Bordeaux</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>PISTONE Thierry, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>MALVY Denis, MD-PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Clermont-Ferrand</name>
+      <address>
+        <city>Clermont-ferrand</city>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>LESENS Olivier, MD-PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>DUALE Christian, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Nancy</name>
+      <address>
+        <city>Nancy</city>
+        <zip>54000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>GOEHRINGER Francois, MD - PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>GUILLEMIN francis, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Nantes</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>LE TURNIER Paul, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>BIRON Charlotte, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>CALLAVENA Clotilde, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>DESCHANVRES Colin, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>GABORIT Benjamin, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>RAFFI François, MD-PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>LECOMTE Raphael, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>LEFEBVRE Maeva, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
       <name>AP-HP - Hôpital Bichat</name>
       <address>
         <city>Paris</city>
@@ -318,6 +423,48 @@ Group 2.2: Placebo of LPV/r, 2 tablets twice daily</description>
     <investigator>
       <last_name>Xavier DUVAL</last_name>
       <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Rennes</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>TATTEVIN Pierre, MD-PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>LAINE Fabrice, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>CORVOL Aline, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Rouen</name>
+      <address>
+        <city>Rouen</city>
+        <zip>76000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>ETIENNE Manuel, MD-PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>LEROI Anna-Marie, MD-PhD</last_name>
+      <role>Sub-Investigator</role>
     </investigator>
   </location>
   <location>
@@ -356,9 +503,9 @@ Group 2.2: Placebo of LPV/r, 2 tablets twice daily</description>
   <study_first_submitted>March 25, 2020</study_first_submitted>
   <study_first_submitted_qc>March 27, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 31, 2020</study_first_posted>
-  <last_update_submitted>April 15, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="479">
+<clinical_study rank="712">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT03808922</url>
   </required_header>
@@ -224,16 +224,6 @@
         Inclusion Criteria:
 
           1. At the time of randomization, requires supplemental oxygen ≥2 LPM due to hypoxemia.
-             Hypoxemia can be defined by meeting at least one of the following criteria:
-
-               -  SpO2 &lt;92% on or off supplemental oxygen
-
-               -  Respiratory failure necessitating mechanical or non-invasive ventilation (CPAP or
-                  Bi-PAP)
-
-               -  Written declaration from Investigator that subject is clinically hypoxemic and
-                  removal of oxygen supplementation would not be considered clinically appropriate
-                  for the purpose of measuring SpO2 while on room air
 
           2. Immunocompromised, as defined by one or more of the following:
 
@@ -752,13 +742,13 @@
     <country>Taiwan</country>
     <country>United States</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>January 16, 2019</study_first_submitted>
   <study_first_submitted_qc>January 16, 2019</study_first_submitted_qc>
   <study_first_posted type="Actual">January 18, 2019</study_first_posted>
-  <last_update_submitted>March 31, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 31, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 2, 2020</last_update_posted>
+  <last_update_submitted>April 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 17, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

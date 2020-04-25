@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="415">
+<clinical_study rank="624">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04342156</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>2020/00402</org_study_id>
     <nct_id>NCT04342156</nct_id>
   </id_info>
-  <brief_title>Safety And Efficacy Of Hydroxychloroquine As COVID-19 Prophylaxis For At-Risk Population (SHARP): A Cluster Randomized Controlled Trial</brief_title>
+  <brief_title>Safety And Efficacy Of Hydroxychloroquine For At Risk Population (SHARP) Against COVID-19</brief_title>
   <acronym>SHARP COVID-19</acronym>
-  <official_title>Safety And Efficacy Of Hydroxychloroquine As COVID-19 Prophylaxis For At-Risk Population (SHARP): A Cluster Randomized Controlled Trial</official_title>
+  <official_title>Safety And Efficacy Of Hydroxychloroquine For At Risk Population (SHARP) Against COVID-19- A Cluster Randomized Controlled Trial (SHARP COVID-19 RCT)</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Tan Tock Seng Hospital</agency>
@@ -93,42 +93,55 @@
     <time_frame>Until day 28</time_frame>
     <description>COVID-19 infection</description>
   </primary_outcome>
+  <secondary_outcome>
+    <measure>Positive serology at day 28.</measure>
+    <time_frame>28 days</time_frame>
+    <description>Serology</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptoms of COVID-19.</measure>
+    <time_frame>Until day 28</time_frame>
+    <description>COVID-19</description>
+  </secondary_outcome>
   <number_of_arms>2</number_of_arms>
-  <enrollment type="Anticipated">3000</enrollment>
+  <enrollment type="Anticipated">1200</enrollment>
   <condition>Coronavirus Infection</condition>
   <condition>Hydroxychloroquine Adverse Reaction</condition>
   <arm_group>
-    <arm_group_label>Hydroxychloroquine post exposure prophylaxis</arm_group_label>
+    <arm_group_label>Intervention</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Treatment arm will be given Hydroxychloroquine sulfate. Dose: 800 milligrams (mg) (4 pills of 200mg) as single dose on day 1 followed by 400mg (2 pills of 200mg) single dose on day 2, 3,4, 5.
-Mode of administration: Oral pills of 200mg of HCQ; has to be given in the form of single daily dose.
-Supply: The total supply of all the pills (12 pills of 200mg per subject in the study group) will be given to the recruited subject from day 1.</description>
+    <description>Treatment arm will be given Hydroxychloroquine sulfate. Dose: 800 milligrams (mg) (4 pills of 200mg) in two divided doses on day 1 followed by 400mg (2 pills of 200mg) in two divided doses on day 2, 3,4, 5.
+Mode of administration: Oral pills of 200mg of HCQ; Supply: The total supply of all the pills (12 pills of 200mg per subject in the study group) will be given to the recruited subject from day 1.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Standard Preventive Measures</arm_group_label>
     <arm_group_type>Other</arm_group_type>
-    <description>No intervention. Standard recommended preventive measures by the ministry of health ( MOH), Singapore. under which the subjects under control arm will be following the standard measures recommended by Ministry of Health (temperature monitoring 3 times per day, three times video calls by MOH, no mask, advice to close the lid and flush toilet, hand hygiene)</description>
+    <description>No intervention. Standard recommended preventive measures by the ministry of health.</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Hydroxychloroquine Sulfate 200 milligram (mg) Tab</intervention_name>
     <description>Oral tablet of Hydroxychloroquine sulfate</description>
-    <arm_group_label>Hydroxychloroquine post exposure prophylaxis</arm_group_label>
+    <arm_group_label>Intervention</arm_group_label>
     <arm_group_label>Standard Preventive Measures</arm_group_label>
   </intervention>
   <eligibility>
     <criteria>
       <textblock>
-        Inclusion Criteria:
+        Inclusion criteria:
 
-          1. Aged 21 to 80 years.
+          1. Aged 18 to 80 years.
 
           2. History of close contact or exposure to positive COVID-19 cases in the same household.
 
           3. Absence of symptoms resembling COVID-19 (e.g., fever and acute respiratory or
-             gastrointestinal symptoms)
+             gastrointestinal symptoms) for two weeks prior to enrolment for the study.
 
-          4. Able to give informed consent.
+          4. Able to give informed consent or in case of &lt;21 and&gt;/=18 years old subject, parents
+             able to give consent for those individuals. In the event the household is unable to
+             read or sign/date the ICF, an impartial witness to be present to ascertain the
+             information, comprehension and voluntariness. The impartial witness must be able to
+             read the ICF.
 
           5. Able to comply with study procedures and follow-up
 
@@ -136,41 +149,45 @@ Supply: The total supply of all the pills (12 pills of 200mg per subject in the 
 
         Exclusion Criteria:
 
-          1. Pregnant at time of screening or breastfeeding.
+          1. Person diagnosed with COVID-19 infection.
 
-          2. Known allergy or hypersensitivity to HCQ or other aminoquinoline compounds.
+          2. Pregnant at time of screening or breastfeeding.
 
-          3. Already on HCQ for different indications (e.g., rheumatological diseases, malaria
+          3. Known allergy or hypersensitivity to HCQ or other aminoquinolline compounds.
+
+          4. Already on HCQ for different indications (e.g., rheumatological diseases, malaria
              prophylaxis)
 
-          4. Diagnosis of other systemic viral or bacterial infection.
+          5. Diagnosis of other systemic viral or bacterial infection.
 
-          5. Use of systemic immunosuppressant agents within 90 days of enrollment (e.g.,
+          6. Use of systemic immunosuppressant agents within 90 days of enrollment (e.g.,
              corticosteroids and immunomodulatory therapy)
 
-          6. History of immunocompromised state.
+          7. History of immunocompromised state.
 
-          7. History of psychiatric illness.
+          8. History of psychiatric illness.
 
-          8. History of psoriasis or porphyria.
+          9. History of psoriasis or porphyria.
 
-          9. History of cardiac disease.
+         10. History of cardiac disease.
 
-         10. Other major comorbidities that contraindicate the use of HCQ: i. Hematologic
+         11. Other major comorbidities that contraindicate the use of HCQ: i. Hematologic
              malignancy, ii. Stage 4-5 chronic kidney disease or end-stage renal failure, iii.
              history of ventricular arrhythmias, iv. current use of drugs that prolong the QT
              interval
 
-         11. History of severe skin reactions such as Stevens-Johnson syndrome and toxic epidermal
+         12. History of severe skin reactions such as Stevens-Johnson syndrome and toxic epidermal
              necrolysis.
 
-         12. Bradycardia &lt;50beats/min.
+         13. Bradycardia &lt;50beats/min.
 
-         13. Uncorrected hypokalemia or hypomagnesemia.
+         14. Uncorrected hypokalemia
 
-         14. Person diagnosed with COVID-19 infection and if he is living in the same household as
-             index case, only he will be excluded but rest of the members of the household will be
-             included.
+         15. Uncorrected hypomagnesemia.
+
+         16. Unwillingness to practice acceptable methods of birth control (both males who have
+             partners of childbearing potential and females of childbearing potential) while on
+             study and for at least 30 days after last dose.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -193,9 +210,9 @@ Supply: The total supply of all the pills (12 pills of 200mg per subject in the 
   <study_first_submitted>April 8, 2020</study_first_submitted>
   <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 10, 2020</study_first_posted>
-  <last_update_submitted>April 9, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 10, 2020</last_update_posted>
+  <last_update_submitted>April 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

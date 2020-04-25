@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="276">
+<clinical_study rank="433">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04345601</url>
   </required_header>
@@ -12,7 +12,7 @@
     <nct_id>NCT04345601</nct_id>
   </id_info>
   <brief_title>Mesenchymal Stromal Cells for the Treatment of SARS-CoV-2 Induced Acute Respiratory Failure (COVID-19 Disease)</brief_title>
-  <official_title>Single Donor Third Party Bone Marrow Mesenchymal Stromal Cells for the Treatment of SARS-CoV-2 Induced Acute Respiratory Failure: A Pilot Study</official_title>
+  <official_title>Single Donor Banked Bone Marrow Mesenchymal Stromal Cells for the Treatment of SARS-CoV-2 Induced Acute Respiratory Failure: A Pilot Study</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Baylor College of Medicine</agency>
@@ -179,8 +179,8 @@
         impairment of oxygenation as defined by the ratio of arterial oxygen tension to fraction of
         inspired oxygen (PaO2/FiO2). Based on the Berlin criteria noted below.
 
-          1. Moderate ARDS: PaO2/FiO2 100-200 mmHg, on ventilator settings that include PEEP ≥5 cm
-             H2O
+          1. Moderate ARDS: PaO2/FiO2 100-200 mmHg, on invasive or noninvasive mechanical
+             ventilation settings that include EEP ≥5 cm H2O
 
           2. Severe ARDS: PaO2/FiO2 ≤100 mmHg on ventilator settings that include PEEP ≥5 cm H2O
 
@@ -209,6 +209,9 @@
              makes the patient an unsuitable candidate for treatment
 
           8. Inability to obtain informed consent (from patient or legally appropriate proxy)
+
+          9. Presence of any contraindication to receiving prophylactic low dose unfractionated or
+             low molecular weight heparin.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -249,9 +252,9 @@
   <study_first_submitted>April 10, 2020</study_first_submitted>
   <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 14, 2020</study_first_posted>
-  <last_update_submitted>April 13, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Baylor College of Medicine</investigator_affiliation>

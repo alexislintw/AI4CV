@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="214">
+<clinical_study rank="332">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348383</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>IMIB-DFC-2020-02</org_study_id>
     <nct_id>NCT04348383</nct_id>
   </id_info>
-  <brief_title>Defibotide as Prevention and Treatment of Respiratory Distress and Cytokine Release Syndrome of Covid 19.</brief_title>
+  <brief_title>Defibrotide as Prevention and Treatment of Respiratory Distress and Cytokine Release Syndrome of Covid 19.</brief_title>
   <acronym>DEFACOVID</acronym>
   <official_title>Phase IIb Prospective, Multi-center, Randomized, Parallel, Double Blind, Placebo Controlled Trial to Evaluate Defibrotide Intravenous Infusion in the Prevention and Treatment of COVID-19 Respiratory Distress and Cytokine Release Syndrome</official_title>
   <sponsors>
@@ -225,10 +225,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 8, 2020</study_first_submitted>
   <study_first_submitted_qc>April 15, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 15, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 17, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

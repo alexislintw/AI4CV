@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="155">
+<clinical_study rank="234">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04332913</url>
   </required_header>
@@ -246,7 +246,7 @@
     <PMID>32007143</PMID>
   </reference>
   <reference>
-    <citation>Hays P, Costello C, Asudani D. Clinical care of chimeric antigen receptor T-cell patients and managing immune-related adverse effects in the ambulatory and hospitalized setting: a review. Future Oncol. 2019 Dec;15(36):4235-4246. doi: 10.2217/fon-2019-0467. Epub 2019 Nov 27.</citation>
+    <citation>Hays P, Costello C, Asudani D. Clinical care of chimeric antigen receptor T-cell patients and managing immune-related adverse effects in the ambulatory and hospitalized setting: a review. Future Oncol. 2019 Dec;15(36):4235-4246. doi: 10.2217/fon-2019-0467. Epub 2019 Nov 27. Review.</citation>
     <PMID>31773980</PMID>
   </reference>
   <reference>
@@ -266,7 +266,7 @@
     <PMID>14738793</PMID>
   </reference>
   <reference>
-    <citation>Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 Mar 3. doi: 10.1007/s00134-020-05991-x. [Epub ahead of print]</citation>
+    <citation>Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 Mar 3. doi: 10.1007/s00134-020-05991-x. [Epub ahead of print] Erratum in: Intensive Care Med. 2020 Apr 6;:.</citation>
     <PMID>32125452</PMID>
   </reference>
   <reference>
@@ -278,7 +278,7 @@
     <PMID>29907163</PMID>
   </reference>
   <reference>
-    <citation>Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 Feb 24. pii: S2213-2600(20)30079-5. doi: 10.1016/S2213-2600(20)30079-5. [Epub ahead of print] Erratum in: Lancet Respir Med. 2020 Feb 28;:.</citation>
+    <citation>Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 Feb 24. pii: S2213-2600(20)30079-5. doi: 10.1016/S2213-2600(20)30079-5. [Epub ahead of print] Erratum in: Lancet Respir Med. 2020 Apr;8(4):e26.</citation>
     <PMID>32105632</PMID>
   </reference>
   <reference>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="88">
+<clinical_study rank="139">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04292899</url>
   </required_header>
@@ -55,7 +55,7 @@
     <time_frame>First dose date up to 10 days plus 30 days</time_frame>
   </secondary_outcome>
   <number_of_arms>4</number_of_arms>
-  <enrollment type="Anticipated">2400</enrollment>
+  <enrollment type="Anticipated">6000</enrollment>
   <condition>COVID-19</condition>
   <arm_group>
     <arm_group_label>Part A: Remdesivir (RDV), 5 Days (Not Mechanically Ventilated)</arm_group_label>
@@ -130,8 +130,6 @@
 
           -  Mechanically ventilated (including V-V ECMO) ≥ 5 days, or any duration of V-A ECMO.
 
-          -  Requiring mechanical ventilation at screening
-
           -  Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) &gt; 5 X upper limit
              of normal (ULN)
 
@@ -164,6 +162,18 @@
         <city>Anaheim</city>
         <state>California</state>
         <zip>92806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mills-Peninsula Medical Center</name>
+      <address>
+        <city>Burlingame</city>
+        <state>California</state>
+        <zip>94010</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -267,7 +277,19 @@
   </location>
   <location>
     <facility>
-      <name>Kaiser Permanente Los Angeles Medical Center,27300 Iris Avenue</name>
+      <name>Mission Hospital Regional Medical Center</name>
+      <address>
+        <city>Mission Viejo</city>
+        <state>California</state>
+        <zip>92691</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Los Angeles Medical Center, 27300 Iris Avenue</name>
       <address>
         <city>Moreno Valley</city>
         <state>California</state>
@@ -339,7 +361,7 @@
   </location>
   <location>
     <facility>
-      <name>Kaiser Permanente Los Angeles Medical Center,13651 Willard Street</name>
+      <name>Kaiser Permanente Los Angeles Medical Center, 13651 Willard Street</name>
       <address>
         <city>Panorama City</city>
         <state>California</state>
@@ -399,6 +421,18 @@
   </location>
   <location>
     <facility>
+      <name>Kaiser Permanente Oakland Medical Center, 1200 El Camino Real</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94080</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>California Pacific Medical Center-Infectious Disease Associates Medical Group</name>
       <address>
         <city>San Francisco</city>
@@ -416,6 +450,42 @@
         <city>San Francisco</city>
         <state>California</state>
         <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Oakland Medical Center, 250 Hospital Parkway, Suite 850</name>
+      <address>
+        <city>San Jose</city>
+        <state>California</state>
+        <zip>95119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Oakland Medical Center, 2500 Merced St</name>
+      <address>
+        <city>San Leandro</city>
+        <state>California</state>
+        <zip>94577</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Oakland Medical Center, 700 Lawrence Expressway</name>
+      <address>
+        <city>Santa Clara</city>
+        <state>California</state>
+        <zip>95051</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -524,6 +594,18 @@
         <city>New Haven</city>
         <state>Connecticut</state>
         <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Hawaii Moanalua Medical Center</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96819</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -776,6 +858,18 @@
         <city>Newark</city>
         <state>New Jersey</state>
         <zip>07112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's University Medical Center</name>
+      <address>
+        <city>Paterson</city>
+        <state>New Jersey</state>
+        <zip>07503</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -1071,6 +1165,18 @@
   </location>
   <location>
     <facility>
+      <name>Prisma Health Richland Hospital, 701 Grove Road</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>The Liver Institute of Methodist Dallas Medical Center</name>
       <address>
         <city>Dallas</city>
@@ -1227,6 +1333,18 @@
   </location>
   <location>
     <facility>
+      <name>Kadlec Regional Medical Center</name>
+      <address>
+        <city>Kennewick</city>
+        <state>Washington</state>
+        <zip>99336</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Providence St. Peter Hospital</name>
       <address>
         <city>Olympia</city>
@@ -1299,7 +1417,17 @@
   </location>
   <location>
     <facility>
-      <name>CHU de BORDEAUX</name>
+      <name>The First Affiliated Hospital of Guangzhou Medical University</name>
+      <address>
+        <city>Guangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Pellegrin</name>
       <address>
         <city>Bordeaux</city>
         <zip>33076</zip>
@@ -1310,7 +1438,7 @@
   </location>
   <location>
     <facility>
-      <name>Chu Montpellier</name>
+      <name>CHU de Montpellier-Hopital Gui de Chauliac</name>
       <address>
         <city>Montpelier Cedex 5</city>
         <zip>34295</zip>
@@ -1321,7 +1449,7 @@
   </location>
   <location>
     <facility>
-      <name>CHU de Nantes</name>
+      <name>CHU de Nantes-Hotel Dieu</name>
       <address>
         <city>Nantes</city>
         <zip>44035</zip>
@@ -1332,7 +1460,7 @@
   </location>
   <location>
     <facility>
-      <name>Saint Louis hospital</name>
+      <name>Hopital Saint-Louis</name>
       <address>
         <city>Paris</city>
         <zip>75010</zip>
@@ -1366,6 +1494,17 @@
   </location>
   <location>
     <facility>
+      <name>Charite Universitatsmedizin Berlin, Campus Virchow-Klinikum, Medizinische Klinik Infektiologie Pneumologie</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13353</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Universitatsklinikum Hamburg-Eppendorf</name>
       <address>
         <city>Hamburg</city>
@@ -1388,6 +1527,17 @@
   </location>
   <location>
     <facility>
+      <name>Klinikum St. Georg gGmbH Klinik fur Infektiologie, Tropenmedizin, Nephrologie und Rheumatologie</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>4129</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Klinikum rechts der Isar der TU Munchen, Klinik und Poliklinik Innere Medizin 2</name>
       <address>
         <city>Munich</city>
@@ -1403,6 +1553,17 @@
       <address>
         <city>München</city>
         <zip>80804</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Robert-Bosch-Krankenhaus (RBK), Klinik Schillerhohe (KSH) und Dr. Margarete Fischer-Bosch-Institut fur klinische Pharmakologie (IKP)</name>
+      <address>
+        <city>Stuttgart</city>
+        <zip>70376</zip>
         <country>Germany</country>
       </address>
     </facility>
@@ -1434,6 +1595,17 @@
       <address>
         <city>Hong Kong</city>
         <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UOC Malattie Infettive, ASST Papa Giovanni XXIII</name>
+      <address>
+        <city>Bergamo</city>
+        <zip>24127</zip>
+        <country>Italy</country>
       </address>
     </facility>
     <status>Recruiting</status>
@@ -1549,6 +1721,50 @@
   </location>
   <location>
     <facility>
+      <name>Clinica Universitaria Malattie Infettive, Ospedale Amedeo di Savoia</name>
+      <address>
+        <city>Torino</city>
+        <zip>10149</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yokohama Municipal Citizen's Hospital</name>
+      <address>
+        <city>Kanagawa</city>
+        <zip>240-8555</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nagoya City East Medical Center</name>
+      <address>
+        <city>Nagoya</city>
+        <zip>464-8547</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tokyo Metropolitan Bokutoh Hospital</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>130-8575</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Kyungpook National University Hospital</name>
       <address>
         <city>Daegu</city>
@@ -1576,6 +1792,17 @@
         <city>Seoul</city>
         <zip>04564</zip>
         <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Amsterdam University Medical Centre - Location AMC</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1105 AZ</zip>
+        <country>Netherlands</country>
       </address>
     </facility>
     <status>Recruiting</status>
@@ -1649,6 +1876,17 @@
   </location>
   <location>
     <facility>
+      <name>Complejo Hospitalario Universitario A Coruña</name>
+      <address>
+        <city>A Coruña</city>
+        <zip>15006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Hospital Universitari Vall d'Hebron</name>
       <address>
         <city>Barcelona</city>
@@ -1693,6 +1931,17 @@
   </location>
   <location>
     <facility>
+      <name>Hospital Universitario Fundación Jiménez Díaz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Hospital Universitario 12 de Octubre</name>
       <address>
         <city>Madrid</city>
@@ -1720,6 +1969,50 @@
         <city>Málaga</city>
         <zip>29010</zip>
         <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen del Rocio</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sahlgrenska University Hospital, Ostra</name>
+      <address>
+        <city>Gothenburg</city>
+        <zip>41685</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SUS (Skanes University Hospital)</name>
+      <address>
+        <city>Malmo</city>
+        <zip>20502</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Karolinska University Hospital</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>SE-141 86</zip>
+        <country>Sweden</country>
       </address>
     </facility>
     <status>Recruiting</status>
@@ -1786,6 +2079,17 @@
         <city>Taipei City</city>
         <zip>10002</zip>
         <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Infirmary of Edinburgh</name>
+      <address>
+        <city>Edinburgh</city>
+        <zip>EH4 2XU</zip>
+        <country>United Kingdom</country>
       </address>
     </facility>
     <status>Recruiting</status>
@@ -1869,6 +2173,17 @@
   </location>
   <location>
     <facility>
+      <name>Imperial College Healthcare NHS Trust</name>
+      <address>
+        <city>London</city>
+        <zip>W2 1NY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>University College London</name>
       <address>
         <city>London</city>
@@ -1880,7 +2195,7 @@
   </location>
   <location>
     <facility>
-      <name>Manchester Royal</name>
+      <name>Manchester University NHS Foundation Trust</name>
       <address>
         <city>Manchester</city>
         <zip>M13 9WL</zip>
@@ -1934,14 +2249,17 @@
     <status>Recruiting</status>
   </location>
   <location_countries>
+    <country>China</country>
     <country>France</country>
     <country>Germany</country>
     <country>Hong Kong</country>
     <country>Italy</country>
+    <country>Japan</country>
     <country>Korea, Republic of</country>
     <country>Netherlands</country>
     <country>Singapore</country>
     <country>Spain</country>
+    <country>Sweden</country>
     <country>Switzerland</country>
     <country>Taiwan</country>
     <country>United Kingdom</country>
@@ -1951,9 +2269,9 @@
   <study_first_submitted>February 28, 2020</study_first_submitted>
   <study_first_submitted_qc>February 28, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 3, 2020</study_first_posted>
-  <last_update_submitted>April 11, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 11, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

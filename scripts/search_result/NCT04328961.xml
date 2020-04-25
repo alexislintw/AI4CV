@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="250">
+<clinical_study rank="427">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04328961</url>
   </required_header>
@@ -18,10 +18,6 @@
       <agency>University of Washington</agency>
       <agency_class>Other</agency_class>
     </lead_sponsor>
-    <collaborator>
-      <agency>New York University</agency>
-      <agency_class>Other</agency_class>
-    </collaborator>
     <collaborator>
       <agency>Bill and Melinda Gates Foundation</agency>
       <agency_class>Other</agency_class>
@@ -60,18 +56,18 @@
       duration of study participation will be approximately 28 days.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">March 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 31, 2020</start_date>
   <completion_date type="Anticipated">October 31, 2020</completion_date>
   <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
-  <phase>Phase 1</phase>
+  <phase>Phase 2/Phase 3</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
     <allocation>Randomized</allocation>
     <intervention_model>Parallel Assignment</intervention_model>
     <primary_purpose>Prevention</primary_purpose>
-    <masking>Single (Participant)</masking>
+    <masking>Double (Participant, Investigator)</masking>
   </study_design_info>
   <primary_outcome>
     <measure>Polymerase chain reaction (PCR) confirmed SARS-CoV-2 infection</measure>
@@ -98,6 +94,7 @@
   <condition>COVID-19</condition>
   <condition>Corona Virus Infection</condition>
   <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <condition>SARS-CoV-2</condition>
   <arm_group>
     <arm_group_label>Ascorbic Acid</arm_group_label>
     <arm_group_type>Placebo Comparator</arm_group_type>
@@ -189,11 +186,6 @@
     <role>Principal Investigator</role>
     <affiliation>University of Washington</affiliation>
   </overall_official>
-  <overall_official>
-    <last_name>Anna Bershteyn, PhD</last_name>
-    <role>Principal Investigator</role>
-    <affiliation>NYU Langone Health</affiliation>
-  </overall_official>
   <overall_contact>
     <last_name>Meighan Krows</last_name>
     <phone>206-520-3833</phone>
@@ -206,6 +198,96 @@
   </overall_contact_backup>
   <location>
     <facility>
+      <name>University of California Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ryan M Kofron, MS</last_name>
+      <phone>216-272-3502</phone>
+      <email>RKofron@mednet.ucla.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Raphael Landovitz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Shannon Watson</last_name>
+      <phone>504-988-8268</phone>
+      <email>swatson7@tulane.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Norine Schmidt</last_name>
+      <email>nschmid1@tulane.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Patricia Kissinger, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alfred Luk, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland, Baltimore</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Colleen Boyce</last_name>
+      <email>cboyce@som.umaryland.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Kathleen M Neuzil, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Boston University</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lori Henault</last_name>
+      <email>Lori.Henault@bmc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Paasche-Orlow, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
       <name>NYU Langone Health</name>
       <address>
         <city>New York</city>
@@ -214,12 +296,38 @@
         <country>United States</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <contact>
-      <last_name>Anna Bershteyn, PhD</last_name>
-      <email>anna.bershteyn@nyulangone.org</email>
+      <last_name>Jane Coates</last_name>
+      <email>covidpep@nyulangone.org</email>
     </contact>
+    <contact_backup>
+      <last_name>Stefanie Bendik</last_name>
+      <email>covidpep@nyulangone.org</email>
+    </contact_backup>
     <investigator>
       <last_name>Anna Bershteyn, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical University</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Klick</last_name>
+      <phone>315-464-5729</phone>
+      <email>klickm@upstate.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Kristopher Paolino, MD</last_name>
       <role>Principal Investigator</role>
     </investigator>
   </location>
@@ -233,6 +341,7 @@
         <country>United States</country>
       </address>
     </facility>
+    <status>Active, not recruiting</status>
   </location>
   <location>
     <facility>
@@ -244,31 +353,27 @@
         <country>United States</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <contact>
-      <last_name>Helen Stankiewicz Karita, MD</last_name>
-      <phone>206-520-4340</phone>
-      <email>helensk@uw.edu</email>
-    </contact>
-    <contact_backup>
       <last_name>Kirsten Hauge</last_name>
       <phone>206-520-4341</phone>
       <email>kahauge@uw.edu</email>
-    </contact_backup>
+    </contact>
     <investigator>
-      <last_name>Christine Johnston, MD</last_name>
+      <last_name>Helen Stankiewicz Karita, MD</last_name>
       <role>Principal Investigator</role>
     </investigator>
   </location>
   <location_countries>
     <country>United States</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 23, 2020</study_first_submitted>
   <study_first_submitted_qc>March 29, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 1, 2020</study_first_posted>
-  <last_update_submitted>March 29, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 29, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 1, 2020</last_update_posted>
+  <last_update_submitted>April 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University of Washington</investigator_affiliation>

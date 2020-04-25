@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="161">
+<clinical_study rank="241">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04342897</url>
   </required_header>
@@ -33,8 +33,8 @@
       to 9 weeks and include daily visits up to day 28, and follow-up visits by phone.
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 18, 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 20, 2020</start_date>
   <completion_date type="Anticipated">July 10, 2020</completion_date>
   <primary_completion_date type="Anticipated">July 10, 2020</primary_completion_date>
   <phase>Phase 2</phase>
@@ -174,6 +174,28 @@
     <phone>1-317-615-4559</phone>
     <email>ClinicalTrials.gov@lilly.com</email>
   </overall_contact>
+  <location>
+    <facility>
+      <name>Franciscan St. Francis Health</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46237</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>317-528-7060</phone>
+    </contact>
+    <investigator>
+      <last_name>Imad J Shawa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
   <link>
     <url>https://www.lillytrialguide.com/en-US/studies/covid-19--coronavirus-/UDAA#?postal=</url>
     <description>A Study of LY3127804 in Participants With COVID-19</description>
@@ -182,9 +204,9 @@
   <study_first_submitted>April 10, 2020</study_first_submitted>
   <study_first_submitted_qc>April 10, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 13, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

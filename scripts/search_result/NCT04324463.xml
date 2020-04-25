@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="403">
+<clinical_study rank="648">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04324463</url>
   </required_header>
@@ -19,6 +19,10 @@
       <agency>Population Health Research Institute</agency>
       <agency_class>Other</agency_class>
     </lead_sponsor>
+    <collaborator>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
   </sponsors>
   <source>Population Health Research Institute</source>
   <oversight_info>
@@ -35,15 +39,16 @@
   </brief_summary>
   <detailed_description>
     <textblock>
-      The ACT COVID-19 program consists of two parallel trials evaluating azithromycin and
-      chloroquine therapy (ACT) versus usual care in outpatients and inpatients who have tested
-      positive for COVID-19. The trial is an open-label, parallel group, randomized controlled
-      trial with an adaptive design. Adaptive design features include adaptive intervention arms
-      and adaptive sample size based on new and emerging data.
+      The ACT COVID-19 program consists of two parallel trials evaluating treatments for COVID-19
+      in outpatients and inpatients who have tested positive for COVID-19. In the outpatient study,
+      the combination of chloroquine with azithromycin will be evaluated to see if this treatment
+      can prevent deterioration leading to hospital admission. For inpatients, the combination of
+      chloroquine with azithromycin, as well as interferon beta-1b, will be evaluated to see if it
+      can prevent admission to intensive care, mechanical ventilation and/or death.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 1, 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 21, 2020</start_date>
   <completion_date type="Anticipated">December 31, 2020</completion_date>
   <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
   <phase>Phase 3</phase>
@@ -66,36 +71,60 @@
     <time_frame>Up to 6 weeks post randomization</time_frame>
     <description>Patients intubated or requiring imminent intubation at the time of randomization will only be followed for the primary outcome of death.</description>
   </primary_outcome>
-  <number_of_arms>2</number_of_arms>
+  <number_of_arms>4</number_of_arms>
   <enrollment type="Anticipated">1500</enrollment>
   <condition>Coronavirus</condition>
   <condition>Severe Acute Respiratory Syndrome</condition>
   <arm_group>
-    <arm_group_label>Azithromycin and Chloroquine Therapy (ACT)</arm_group_label>
+    <arm_group_label>AZCT (Azithromycin plus hydroxychloroquine or chloroquine)</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Chloroquine (Adults with a bodyweight ≥ 50 kg: 500 mg twice daily for 7 days; Adults with a bodyweight &lt; 50 kg: 500 mg twice daily on days 1 and 2, followed by 500 mg once daily for days 3-7), plus Azithromycin (500 mg on day 1 followed by 250 mg daily for 4 days)</description>
+    <description>Outpatients:
+Hydroxychloroquine (400 mg twice daily for 7 days) or Chloroquine (500 mg twice daily for 7 days) plus Azithromycin (500 mg on day 1 followed by 250 mg daily for 4 days)
+Inpatients:
+Hydroxychloroquine (Two loading doses of 800 mg given 6 hours apart starting on day 1 followed by 400 mg twice daily for 7 days starting 6 hours after the second loading dose) or Chloroquine (Two loading doses of 1000 mg given 6 hours apart starting on day 1 followed by 500 mg twice daily for 7 days starting 6 hours after the second loading dose) plus Azithromycin (500 mg on day 1 followed by 250 mg daily for 4 days)</description>
   </arm_group>
   <arm_group>
-    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_label>Usual Care (Control)</arm_group_label>
     <arm_group_type>No Intervention</arm_group_type>
-    <description>No constraints for treating physicians on the therapies within the standard of care arm. All key co-interventions will be documented.</description>
+    <description>Outpatients and Inpatients: No constraints for treating physicians on the therapies within the standard of care arm. All key co-interventions will be documented.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AZCT plus Interferon Beta</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inpatients Only:
+Hydroxychloroquine (Two loading doses of 800 mg given 6 hours apart starting on day 1 followed by 400 mg twice daily for 7 days starting 6 hours after the second loading dose) or Chloroquine (Two loading doses of 1000 mg given 6 hours apart starting on day 1 followed by 500 mg twice daily for 7 days starting 6 hours after the second loading dose) plus Azithromycin (500 mg on day 1 followed by 250 mg daily for 4 days) plus Interferon Beta (0.25 mg subcutaneous injection on days 1, 3, 5, and 7).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Interferon Beta</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inpatients Only:
+Interferon Beta (0.25 mg subcutaneous injection on days 1, 3, 5, and 7).</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Azithromycin</intervention_name>
     <description>oral medication</description>
-    <arm_group_label>Azithromycin and Chloroquine Therapy (ACT)</arm_group_label>
+    <arm_group_label>AZCT (Azithromycin plus hydroxychloroquine or chloroquine)</arm_group_label>
+    <arm_group_label>AZCT plus Interferon Beta</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
-    <intervention_name>Chloroquine</intervention_name>
+    <intervention_name>Hydoxychloroquine or Chloroquine</intervention_name>
     <description>oral medication</description>
-    <arm_group_label>Azithromycin and Chloroquine Therapy (ACT)</arm_group_label>
+    <arm_group_label>AZCT (Azithromycin plus hydroxychloroquine or chloroquine)</arm_group_label>
+    <arm_group_label>AZCT plus Interferon Beta</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Interferon-Beta</intervention_name>
+    <description>subcutaneous injection</description>
+    <arm_group_label>AZCT plus Interferon Beta</arm_group_label>
+    <arm_group_label>Interferon Beta</arm_group_label>
   </intervention>
   <eligibility>
     <criteria>
       <textblock>
-        Inclusion Criteria:
+        Inclusion Criteria (Outpatients and Inpatients):
 
           -  Age ≥ 18 years of age
 
@@ -103,13 +132,25 @@
 
           -  COVID-19 confirmed by established testing
 
-        Exclusion Criteria:
+        Exclusion Criteria (Outpatients):
 
-          -  Known glucose-6-phosphate dehydrogenase (G6PD) deficiency
+          -  Contra-indication to azithromycin or chloroquine: allergy to study interventions, use
+             of hydroxychloroquine or chloroquine within the past 3 months, known
+             glucose-6-phosphate dehydrogenase (G6PD) deficiency, epilepsy, serious hearing or
+             visual problems, advanced liver disease, at risk of malignancy arrhythmias, pregnancy
+             (known or potential) or lactation
 
-          -  Contra-indication to chloroquine or azithromycin
+          -  Already receiving hydroxychloroquine or chloroquine or azithromycin
 
-          -  Already receiving chloroquine or azithromycin
+        Exclusion Criteria (Inpatients):
+
+          -  Contra-indication to chloroquine, azithromycin or interferon ß: allergy to study
+             interventions, use of hydroxychloroquine or chloroquine within the past 3 months,
+             known G6PD, epilepsy, serious hearing or visual problems, at risk of malignant
+             arrhythmias, pregnancy (known or potential) or lactation, advanced liver disease,
+             known monoclonal gammopathy, history of severe depression or anxiety
+
+          -  Already receiving hydroxychloroquine or chloroquine or azithromycin or interferon beta
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -142,6 +183,7 @@
         <country>Canada</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <contact>
       <last_name>ACT COVID-19 Study Coordinator</last_name>
       <email>ACT.ProjectTeam@PHRI.ca</email>
@@ -150,13 +192,13 @@
   <location_countries>
     <country>Canada</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 25, 2020</study_first_submitted>
   <study_first_submitted_qc>March 25, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>March 25, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 25, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 27, 2020</last_update_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
@@ -164,6 +206,8 @@
   <keyword>chloroquine</keyword>
   <keyword>azithromycin</keyword>
   <keyword>coronavirus</keyword>
+  <keyword>interferon</keyword>
+  <keyword>hydroxychloroquine</keyword>
   <condition_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Coronavirus Infections</mesh_term>
@@ -171,6 +215,9 @@
   </condition_browse>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Interferons</mesh_term>
+    <mesh_term>Interferon-beta</mesh_term>
+    <mesh_term>Azithromycin</mesh_term>
     <mesh_term>Chloroquine</mesh_term>
   </intervention_browse>
   <patient_data>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="92">
+<clinical_study rank="145">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04343989</url>
   </required_header>
@@ -96,7 +96,7 @@
     <description>Assessed at 28 and 60 days</description>
   </secondary_outcome>
   <number_of_arms>3</number_of_arms>
-  <enrollment type="Anticipated">30</enrollment>
+  <enrollment type="Anticipated">90</enrollment>
   <condition>COVID-19</condition>
   <arm_group>
     <arm_group_label>Clazakizumab 12.5 mg</arm_group_label>
@@ -251,9 +251,9 @@
   <study_first_submitted>April 9, 2020</study_first_submitted>
   <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 14, 2020</study_first_posted>
-  <last_update_submitted>April 9, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

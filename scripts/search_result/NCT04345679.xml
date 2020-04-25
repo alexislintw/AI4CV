@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="121">
+<clinical_study rank="184">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04345679</url>
   </required_header>
@@ -28,6 +28,10 @@
     </collaborator>
     <collaborator>
       <agency>Hungarian National Blood Service</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Humán Bioplazma Kft - Kedrion</agency>
       <agency_class>Other</agency_class>
     </collaborator>
   </sponsors>
@@ -226,7 +230,7 @@
     <PMID>31986264</PMID>
   </reference>
   <reference>
-    <citation>Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 16. pii: S0140-6736(20)30628-0. doi: 10.1016/S0140-6736(20)30628-0. [Epub ahead of print]</citation>
+    <citation>Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 28;395(10229):1033-1034. doi: 10.1016/S0140-6736(20)30628-0. Epub 2020 Mar 16.</citation>
     <PMID>32192578</PMID>
   </reference>
   <reference>
@@ -241,9 +245,9 @@
   <study_first_submitted>April 11, 2020</study_first_submitted>
   <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 14, 2020</study_first_posted>
-  <last_update_submitted>April 13, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

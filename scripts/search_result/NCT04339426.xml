@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="188">
+<clinical_study rank="289">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04339426</url>
   </required_header>
@@ -22,8 +22,9 @@
   <source>HonorHealth Research Institute</source>
   <oversight_info>
     <has_dmc>No</has_dmc>
-    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
     <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
   </oversight_info>
   <brief_summary>
     <textblock>
@@ -43,11 +44,11 @@
       male and female patients 18 years of age or older with confirmed COVID-19 infection.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 20, 2020</start_date>
   <completion_date type="Anticipated">April 2021</completion_date>
   <primary_completion_date type="Anticipated">October 2020</primary_completion_date>
-  <phase>N/A</phase>
+  <phase>Phase 2</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
@@ -153,13 +154,38 @@
     <phone>480-323-1081</phone>
     <email>hlane@honorhealth.com</email>
   </overall_contact_backup>
+  <location>
+    <facility>
+      <name>HonorHealth</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karen Lewandowski, RN</last_name>
+      <phone>480-583-0760</phone>
+      <email>klewandowski@honorhealth.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Heather Lane</last_name>
+      <phone>480-323-1081</phone>
+      <email>hlane@honorhealth.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 7, 2020</study_first_submitted>
   <study_first_submitted_qc>April 7, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 9, 2020</study_first_posted>
-  <last_update_submitted>April 9, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
+  <last_update_submitted>April 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
@@ -169,6 +195,7 @@
   </condition_browse>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Azithromycin</mesh_term>
     <mesh_term>Atovaquone</mesh_term>
   </intervention_browse>
   <patient_data>

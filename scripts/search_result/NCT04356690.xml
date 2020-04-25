@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="89">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04356690</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-40102</org_study_id>
+    <nct_id>NCT04356690</nct_id>
+  </id_info>
+  <brief_title>Etoposide in Patients With COVID-19 Infection</brief_title>
+  <official_title>A Phase II Single-Center, Open-Label, Safety and Efficacy Study of Etoposide in Patients With COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boston Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single arm, open label study designed to evaluate the safety and efficacy of
+      etoposide in patients with the 2019 novel coronavirus (COVID-19) infection. Treatment will be
+      comprised of etoposide administered intravenously at a dose of 150 mg/m2 on Days 1 and 4 as
+      prevention of cytokine storm in patients with COVID-19 infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single arm, open label study designed to evaluate the safety and efficacy of
+      etoposide in patients with the 2019 novel coronavirus (COVID-19) infection. Treatment will be
+      comprised of etoposide administered intravenously at a dose of 150 mg/m2 on Days 1 and 4 as
+      prevention of cytokine storm in patients with COVID-19 infection.
+
+      The rationale for the use of etoposide to treat the cytokine storm in COVID-19 is the high
+      mortality associated with the hyperinflammatory response to the virus, which is similar to
+      that seen in other secondary types of Hemophagocytic lymphohistiocytosis. Early use of
+      etoposide has been shown to improve survival in secondary Hemophagocytic lymphohistiocytosis.
+      Etoposide is an already FDA approved drug that is comparably inexpensive and currently
+      available. At Boston Medical Center, the investigators are trending daily inflammatory
+      markers in patients with suspected and confirmed COVID-19. The investigators propose a Phase
+      II study of etoposide for the prevention and treatment of cytokine storm in severe COVID-19
+      infection.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in pulmonary status</measure>
+    <time_frame>baseline, through study completion, an average of 45 days</time_frame>
+    <description>An 8 point ordinal scale will be used to assess pulmonary status consisting of the following values: 8= Death; 7= Ventilation in addition to extracorporeal membrane oxygen (ECMO), continuous renal replacement therapy (CRRT), or need for vasopressors (dopamine ≥5 μg/kg/min OR epinephrine ≥0.1 μg/kg/min OR norepinephrine ≥0.1 μg/kg/min); 6= Intubation and mechanical ventilation; 5= Non-invasive mechanical ventilation (NIV) or high-flow oxygen; 4= Oxygen by mask or nasal prongs; 3= Hospitalization without oxygen supplementation; 2= Discharged from hospital either to home with supplemental oxygen OR to inpatient rehabilitation/skilled nursing facility (+/- supplemental oxygen); 1= Discharged to home without supplemental oxygen</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in ferritin levels</measure>
+    <time_frame>baseline, through study completion, an average of 45 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in C-reactive protein levels</measure>
+    <time_frame>baseline, through study completion, an average of 45 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in d-dimer levels</measure>
+    <time_frame>baseline, through study completion, an average of 45 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in white blood cell count</measure>
+    <time_frame>baseline, through study completion, an average of 45 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of serious adverse events</measure>
+    <time_frame>baseline, through study completion, an average of 45 days</time_frame>
+    <description>number of events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Days 15, 30 and 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospitalization</measure>
+    <time_frame>From date of enrollment until the date of extubation, assessed study completion, an average of 45 days</time_frame>
+    <description>When calculating days of hospitalization, re-hospitalization or death occurring in the first 28 days should result in zero ascribed to time out of the hospital prior to readmission.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of ventilation</measure>
+    <time_frame>From date of enrollment until the date of extubation, assessed study completion, an average of 45 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator free days</measure>
+    <time_frame>baseline, through study completion, an average of 45 days</time_frame>
+    <description>Reintubations or death within 28 days will result in zero ascribed time off ventilator prior to reintubation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement in arterial oxygen partial pressure (PaO2) to fractional inspired oxygen (FiO2)</measure>
+    <time_frame>baseline, through study completion, an average of 45 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">134</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Etoposide Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants that are on ventilation Etoposide 150 mg/m2 daily days 1 and 4
+If the treating clinicians feel that the patient initially benefited from etoposide but then has evidence of relapse of cytokine storm, the patient may continue on the standard HLH etoposide schedule of day 8, 11, 18, 25 after discussion with one of the study investigators.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Etoposide Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants that are NOT on ventilation Etoposide 150 mg/m2 daily days 1 and 4
+Etoposide 150 mg/m2 administered intravenously once daily on Days 1 and 4. If the treating clinicians feel that the patient initially benefited from etoposide but then has evidence of relapse of cytokine storm, the patient may continue on the standard HLH etoposide schedule of day 8, 11, 18, 25 after discussion with one of the study investigators.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Data only control cohort</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Collection of clinical data to use as comparison with treatment arms</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Etoposide</intervention_name>
+    <description>Etoposide 150 mg/m2 administered intravenously once daily on Days 1 and 4. If the treating clinicians feel that the patient initially benefited from etoposide but then has evidence of relapse of cytokine storm, the patient may continue on the standard HLH etoposide schedule of day 8, 11, 18, 25 after discussion with one of the study investigators.</description>
+    <arm_group_label>Etoposide Cohort 1</arm_group_label>
+    <arm_group_label>Etoposide Cohort 2</arm_group_label>
+    <other_name>Etopophos</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Confirmed COVID-19 infection
+
+          -  Evidence of cytokine storm defined as:
+
+               -  Peak ferritin &gt; 10,000 ng/mL OR
+
+               -  Peak ferritin &gt; 500 ng/mL and one or more of the following at any time during
+                  hospital admission: Lactate dehydrogenase &gt; 500 U/L, d-dimer &gt;1000 ng/mL,
+                  C-reactive protein &gt; 100 mg/L, or white blood count&gt; 15 k/microlitre
+
+        Cohort 2: Intubated status as a result of COVID infection-associated respiratory illness.
+
+        Cohort 1 (if activated): Evidence of progressive respiratory failure (requiring &gt;4 L/min of
+        supplemental oxygen) without intubation;
+
+        Exclusion Criteria:
+
+          -  Pregnancy or breastfeeding
+
+          -  History of severe hypersensitivity to etoposide products
+
+          -  Absolute neutrophil count (ANC) &lt; 1000 cells/mm3
+
+          -  Platelet count &lt;50,000/mm3
+
+          -  Bilirubin &gt; 3.0 mg/dL
+
+          -  Aspartate OR alanine aminotransferase &gt; 5.0 x upper limit of normal
+
+          -  Creatinine Clearance &lt; 15 mL/min (calculated by Cockcroft Fault formula)
+
+          -  Requiring continuous renal replacement therapy
+
+          -  Requiring vasopressors
+
+          -  Requiring extracorporeal membrane oxygenation (ECMO)
+
+          -  Other active, life-threatening infections
+
+          -  Anti-cytokine treatment or other experimental therapy (including anakinra or
+             interleukin-6 antibodies such as tocilizumab, or convalescent plasma) administration
+             within 48 hours
+
+          -  Has a history or current evidence of any condition, therapy or laboratory abnormality
+             that might confound the results of the study, interfere with subject participation, or
+             is not in the best interest of the patient to participate, in the opinion of the
+             investigator.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Mark Sloan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Boston Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>John Mark Sloan, MD</last_name>
+    <phone>617-638-7002</phone>
+    <email>mark.sloan@bmc.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sally A Fennessey, BS</last_name>
+    <phone>617-638-8261</phone>
+    <email>sally.fennessey@bmc.org</email>
+  </overall_contact_backup>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 22, 2020</study_first_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Etoposide</keyword>
+  <keyword>hemophagocytic lymphohistiocytosis (HLH)</keyword>
+  <keyword>cytokine storm</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Etoposide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

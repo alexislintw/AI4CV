@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="503">
+<clinical_study rank="748">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04337918</url>
   </required_header>
@@ -62,7 +62,8 @@
 
       SaNOtize has developed an innovative approach to provide nitric oxide gas using a formulation
       called Nitric Oxide Releasing Solution (NORS). This patented solution releases virucidal
-      doses of NO for a sustained period (at least 30 min) against Influenza A.
+      doses of NO for a sustained period and is effective at rapidly inactivating Influenza A and
+      SARS-CoV-2.
 
       NORS delivered as a gargle (AM), nasal spray (PRN) or as a nasopharyngeal flush (PM) has the
       potential to decontaminate the upper respiratory tract that could preventing transmission and
@@ -75,7 +76,7 @@
     </textblock>
   </detailed_description>
   <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 6, 2020</start_date>
+  <start_date type="Anticipated">April 27, 2020</start_date>
   <completion_date type="Anticipated">September 30, 2020</completion_date>
   <primary_completion_date type="Anticipated">July 31, 2020</primary_completion_date>
   <phase>Phase 2</phase>
@@ -90,38 +91,43 @@
   </study_design_info>
   <primary_outcome>
     <measure>Prevention Study: Measure the effect of NORS on the prevention of COVID-19 infection among health care professionals at risk of exposure to COVID-19</measure>
-    <time_frame>21 days</time_frame>
+    <time_frame>14 days</time_frame>
     <description>Measure the proportion of subjects with either swab positive COVID-19 or presentation of clinical symptoms as measured by fatigue with either fever &gt;37.2 (oral)and/or a persistent cough.</description>
   </primary_outcome>
   <primary_outcome>
     <measure>Treatment Sub Study: Measure the efficacy of NORS at reducing the progression of COVID- 19</measure>
-    <time_frame>28 days</time_frame>
+    <time_frame>21 days</time_frame>
     <description>Measure the proportion of participants requiring requiring hospitalization for COVID-19/flu-like symptoms and/or needing oxygen therapy, BIPAP/CPAP, intubation and mechanical ventilation following enrollment.</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Prevention Study: Measure the effect of NORS on the prevention of progression of COVID- 19</measure>
-    <time_frame>28 days</time_frame>
+    <time_frame>21 days</time_frame>
     <description>Measure the proportion of participants requiring requiring hospitalization for COVID-19/flu-like symptoms and/or needing oxygen therapy, BIPAP/CPAP, intubation and mechanical ventilation following enrollment.</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Prevention Study: Measure the tolerability of NORS treatments</measure>
-    <time_frame>28 days</time_frame>
+    <time_frame>21 days</time_frame>
     <description>Measure the tolerability of the NORS treatments as determined by number of adverse events, pain, discomfort or discontinuations of treatment.</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Treatment Sub Study: Measure the virucidal effect of NORS Treatments</measure>
-    <time_frame>28 days</time_frame>
+    <time_frame>21 days</time_frame>
     <description>Measure the median number of days to negative conversion of SARS-CoV-2 RT-PCR from a nasopharyngeal swabs.</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Treatment Sub Study: Determine effect of NORS on the speed of clinical recovery</measure>
-    <time_frame>28 days</time_frame>
+    <time_frame>21 days</time_frame>
     <description>Determine the time to clinical recovery in participants with COVID-19 by measuring the median number of days from enrollment to discharge (if admitted), or to normalization of fever (defined as &lt;36.6°C from axillary site, or &lt; 37.2°C from oral site or &lt; 37.8°C from rectal or tympanic site), respiratory rate (&lt; 24 bpm while breathing room air).</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Treatment Sub Study: Determine the reduction in clinical symptoms</measure>
-    <time_frame>28 days</time_frame>
-    <description>Measure the reduction of clinical symptoms in participants with COVID- 19 by the magnitude of the change in Modified Jackson Cold Score Diary Score.</description>
+    <time_frame>21 days</time_frame>
+    <description>Measure the reduction clinical symptoms in participants with COVID- 19 by the magnitude of the change in Modified Jackson Cold Score Diary Score (5-unit change is a substantial clinical benefit).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment &amp; Sub Study: Determine positive sero-conversion for SARS-CoV-2</measure>
+    <time_frame>21 days</time_frame>
+    <description>Measure the proportion of participants that have a positive sero-conversion for SARS-CoV-2</description>
   </secondary_outcome>
   <number_of_arms>3</number_of_arms>
   <enrollment type="Anticipated">200</enrollment>
@@ -134,12 +140,12 @@
   <arm_group>
     <arm_group_label>Prevention - NORS + Standard Precautions</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Participants COVID-19 negative at baseline will be randomized to receive standard COVID-19 screening and protection (per their facility or organization's protocols) plus daily NORS treatment for 21 days.</description>
+    <description>Participants COVID-19 negative at baseline will be randomized to receive standard COVID-19 screening and protection (per their facility or organization's protocols) plus daily NORS treatment for 14 days.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Treatment Sub-Study</arm_group_label>
     <arm_group_type>Other</arm_group_type>
-    <description>Volunteers who are found to be COVID-19 positive during screening will be eligible to enroll in the 28-day Treatment sub-study and receive daily NORS treatment for 21 days. Ten participants can be directly enrolled in the Treatment sub-study.
+    <description>Volunteers who are found to be COVID-19 positive during screening will be eligible to enroll in the 21-day Treatment sub-study and receive daily NORS treatment for 14 days. Ten participants can be directly enrolled in the Treatment sub-study.
 Participants enrolled in the Prevention study who meet the criteria in this section will roll over into the Treatment Sub-Study but must remain in their randomly assigned group.</description>
   </arm_group>
   <intervention>
@@ -152,7 +158,7 @@ Participants enrolled in the Prevention study who meet the criteria in this sect
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>NORS (Nitric Oxide Releasing Solution)</intervention_name>
-    <description>Up to ten volunteers who are found to be COVID-19 positive during screening will be eligible to enroll in the 28-day Treatment sub-study and receive daily NORS treatment for 21 days. NORS treatment will consist of daily self-administration of three routes; Nitric Oxide Gargle (NOG) every morning, Nitric Oxide Nasophyaryngeal Irrigation (NONI) every evening, and Nitric Oxide Nasal Spray (NONS) up to 5 times per day.
+    <description>Up to ten volunteers who are found to be COVID-19 positive during screening will be eligible to enroll in the 21-day Treatment sub-study and receive daily NORS treatment for 14 days. NORS treatment will consist of daily self-administration of three routes; Nitric Oxide Gargle (NOG) every morning, Nitric Oxide Nasophyaryngeal Irrigation (NONI) every evening, and Nitric Oxide Nasal Spray (NONS) up to 5 times per day.
 Any participants enrolled in the Prevention study who meet the criteria for the sub study will roll over into the Treatment Sub-Study but must remain in their randomly assigned group.</description>
     <arm_group_label>Treatment Sub-Study</arm_group_label>
     <other_name>NOG, NONI, NONS</other_name>
@@ -172,7 +178,7 @@ Any participants enrolled in the Prevention study who meet the criteria for the 
           4. Must be willing to use an adequate form of contraception (or abstinence) from the time
              of the first dose with the IMP until after the last dose of IMP.
 
-          5. Be symptom-free and have a negative COVID-19 test result at baseline.
+          5. Be symptom-free at screening/baseline.
 
           6. Work/live in contact with COVID-19 infected patients or scheduled to work in a setting
              with high likelihood of contact with COVID-19 infected patients.
@@ -187,10 +193,12 @@ Any participants enrolled in the Prevention study who meet the criteria for the 
 
           4. Any symptoms consistent with COVID-19;
 
-          5. Mentally or neurologically disabled patients who are considered not fit to consent to
+          5. Pregnant;
+
+          6. Mentally or neurologically disabled patients who are considered not fit to consent to
              their participation in the study;
 
-          6. Prior COVID-19 infection.
+          7. Prior COVID-19 infection.
 
         Treatment Sub study Inclusion Criteria:
 
@@ -217,7 +225,9 @@ Any participants enrolled in the Prevention study who meet the criteria for the 
           3. Mentally or neurologically disabled patients who are considered not fit to consent to
              their participation in the study;
 
-          4. Currently hospitalized for symptoms of COVID-19.
+          4. Pregnant;
+
+          5. Currently hospitalized for symptoms of COVID-19.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -228,7 +238,7 @@ Any participants enrolled in the Prevention study who meet the criteria for the 
   <overall_official>
     <last_name>Jeremy Road, MD</last_name>
     <role>Principal Investigator</role>
-    <affiliation>Vancouver Coastal Health</affiliation>
+    <affiliation>Private Practice</affiliation>
   </overall_official>
   <overall_contact>
     <last_name>Chris Miller, Ph.D.</last_name>
@@ -275,9 +285,9 @@ Any participants enrolled in the Prevention study who meet the criteria for the 
   <study_first_submitted>April 6, 2020</study_first_submitted>
   <study_first_submitted_qc>April 6, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 8, 2020</study_first_posted>
-  <last_update_submitted>April 7, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

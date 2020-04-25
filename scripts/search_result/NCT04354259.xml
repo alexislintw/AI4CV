@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="619">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04354259</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JF-4-2020</org_study_id>
+    <nct_id>NCT04354259</nct_id>
+  </id_info>
+  <brief_title>Interferon Lambda for Immediate Antiviral Therapy at Diagnosis</brief_title>
+  <acronym>ILIAD</acronym>
+  <official_title>Interferon Lambda for Immediate Antiviral Therapy at Diagnosis (ILIAD): A Phase II Randomized, Open-label, Multicenter, Trial to Evaluate the Effect of Peginterferon Lambda for the Treatment of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Health Network, Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Health Network, Toronto</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Interferon lambda is one of the main arms of the innate antiviral immune response and is
+      critical for controlling respiratory viral infections in mice. Interferon lambda has a better
+      side effect profile than other interferons because of the limited tissue distribution of its
+      receptor. Peginterferon lambda is a long-acting form that has been studied extensively in
+      human trials in viral hepatitis, confirming its safety. We propose to evaluate
+      peginterferon-lambda in ambulatory and hospitalized patients with mild to moderate COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study uses an adaptive design with initial enrolment in the Ambulatory cohort (Cohort A)
+      followed by a safety assessment before initiation of enrolment in the Hospitalized cohort
+      (Cohort B).
+
+      Ambulatory patients (Cohort A) with confirmed COVID-19 deemed well enough for home isolation
+      will be randomized to receive a single subcutaneous injection of Peginterferon lambda 180µg
+      prior to discharge or no therapy. Patients will be followed remotely with a home visit for a
+      repeat swab at Day 4 and 8 with the primary endpoint being the proportion positive for
+      SARS-CoV-2 on Day 8.
+
+      Safety data will be reviewed by the Data Safety and Monitoring Committee after 50% of the
+      Ambulatory cohort (n=60) has been enrolled. If the committee approves study continuation,
+      enrolment will continue in the Ambulatory cohort (Cohort A) and will begin in the
+      Hospitalized cohort (Cohort B).
+
+      Hospitalized patients (Cohort B) with moderate but not severe COVID-19 will be enrolled and
+      randomized to Peginterferon lambda 180µg on Day 1 and 8, or best supportive care. The primary
+      endpoint will be the proportion positive for SARS-CoV-2 by nasopharyngeal swab on Day 15. In
+      addition to the primary endpoints on which the study is powered, numerous secondary endpoints
+      will be evaluated. Samples will also be collected for ancillary studies to better understand
+      predictors of disease severity and response to treatment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 21, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cohort A (Ambulatory) - Primary Efficacy Endpoint</measure>
+    <time_frame>At day 8</time_frame>
+    <description>The proportion of participants with negative SARS-CoV-2 RNA on nasopharyngeal swab.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort A (Ambulatory) - Primary Safety Endpoint</measure>
+    <time_frame>Day 1 to Day 15</time_frame>
+    <description>Rate of combined treatment-emergent and treatment-related severe adverse events (SAEs).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort B (Hospitalized) - Primary Efficacy Endpoint</measure>
+    <time_frame>At Day 15</time_frame>
+    <description>The proportion of participants with negative SARS-CoV-2 RNA on nasopharyngeal swab.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort B (Hospitalized) - Primary Safety Endpoint</measure>
+    <time_frame>Day 1 to Day 30</time_frame>
+    <description>Rate of combined treatment-emergent and treatment-related severe adverse events (SAEs).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Clinical Outcome #1</measure>
+    <time_frame>Day 1 to Day 15</time_frame>
+    <description>Time to resolution of all symptoms (fever, cough, diarrhea)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Clinical Outcome #2</measure>
+    <time_frame>Day 1 to Day 8</time_frame>
+    <description>Change in respiratory symptom score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Clinical Outcome #3</measure>
+    <time_frame>Day 1 to Day 8</time_frame>
+    <description>Change in gastrointestinal symptom score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Clinical Outcome #4</measure>
+    <time_frame>Day 1 to Day 8</time_frame>
+    <description>Change in fever symptom score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Clinical Outcome #5</measure>
+    <time_frame>Day 1 to Day 15</time_frame>
+    <description>Need for hospital admission.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Clinical Outcome #6</measure>
+    <time_frame>Day 1 to Day 15</time_frame>
+    <description>Adverse events.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Clinical Outcome #7</measure>
+    <time_frame>Day 1 to Day 15</time_frame>
+    <description>Serious adverse events.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Virologic/Immunological Outcome #1</measure>
+    <time_frame>At Day 4</time_frame>
+    <description>Proportion negative for SARS-CoV-2 RNA by nasopharyngeal swab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Virologic/Immunological Outcome #2</measure>
+    <time_frame>Day 1 to Day 15</time_frame>
+    <description>Time to SARS-CoV-2 RNA negativity on mid-turbinate nasal swab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Virologic/Immunological Outcome #3</measure>
+    <time_frame>Day 1 and Day 8</time_frame>
+    <description>Proportion with SARS-CoV-2 RNA in blood and saliva.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Virologic/Immunological Outcome #4</measure>
+    <time_frame>Day 1 and Day 8</time_frame>
+    <description>Proportion with SARS-CoV-2 antibodies blood and saliva.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Virologic/Immunological Outcome #5</measure>
+    <time_frame>Through day 8</time_frame>
+    <description>Proportion negative for SARS-CoV-2 RNA by nasopharyngeal swab by interferon lambda 4 (IFNL4) genotype</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Virologic/Immunological Outcome #6</measure>
+    <time_frame>Day 1 to Day 8</time_frame>
+    <description>Change in laboratory and inflammatory markers (hemoglobin, white blood cell count, lymphocyte count, ferritin, lactate dehydrogenase, c-reactive protein, D-dimers, troponin).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Transmission Outcome #1</measure>
+    <time_frame>Day 1 to Day 15</time_frame>
+    <description>Proportion with symptom development among household contacts</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort A (Ambulatory) - Transmission Outcome #2</measure>
+    <time_frame>Day 1 to Day 30</time_frame>
+    <description>Proportion with confirmed diagnosis of COVID-19 among household contacts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Clinical Outcome #1</measure>
+    <time_frame>Day 1 to day 30</time_frame>
+    <description>ICU admission during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Clinical Outcome #2</measure>
+    <time_frame>Day 1 to Day 15</time_frame>
+    <description>Need for intubation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Clinical Outcome #3</measure>
+    <time_frame>Day 1 to Day 15</time_frame>
+    <description>Length of hospital stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Clinical Outcome #4</measure>
+    <time_frame>Day 0 to 8 and Day 0 to 15</time_frame>
+    <description>Change in respiratory symptom score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Clinical Outcome #5</measure>
+    <time_frame>By day 30 and Day 90</time_frame>
+    <description>Readmission to hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Clinical Outcome #6</measure>
+    <time_frame>At day 30 and day 90</time_frame>
+    <description>All-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Clinical Outcome #7</measure>
+    <time_frame>At day 30</time_frame>
+    <description>COVID-19-related mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Clinical Outcome #8</measure>
+    <time_frame>At Day 15</time_frame>
+    <description>Resolution of CXR findings</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Clinical Outcome #9</measure>
+    <time_frame>By day 30</time_frame>
+    <description>Adverse (AEs)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Clinical Outcome #10</measure>
+    <time_frame>By day 30</time_frame>
+    <description>Serious Adverse Events (SAEs)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Clinical Outcome #11</measure>
+    <time_frame>Day 8 to day 12</time_frame>
+    <description>Frequency of dose reduction or dose omission for the second dose of peginterferon lambda</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Virologic/Immunological Outcome #1</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Proportion negative for SARS-CoV-2 RNA by NP swab.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Virologic/Immunological Outcome #2</measure>
+    <time_frame>Day 1 to Day 15</time_frame>
+    <description>Time to SARS-CoV-2 RNA negativity by nasopharyngeal swab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Virologic/Immunological Outcome #3</measure>
+    <time_frame>Through Day 15</time_frame>
+    <description>Correlation of clinical and virologic response with interferon lambda 4 (IFNL4) genotype</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Virologic/Immunological Outcome #4</measure>
+    <time_frame>From day 0 to day 8 and to day 15</time_frame>
+    <description>Change in laboratory and inflammatory markers (hemoglobin, white blood cell count, lymphocyte count, ferritin, lactate dehydrogenase, c-reactive protein, D-dimers, troponin)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Virologic/Immunological Outcome #5</measure>
+    <time_frame>Day 0 to Day 8</time_frame>
+    <description>Time to SARS-CoV-2 RNA negativity by rectal swab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Virologic/Immunological Outcome #6</measure>
+    <time_frame>At Day 8 and Day 15</time_frame>
+    <description>Proportion with SARS-CoV-2 Antibody.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort B (Hospitalized) - Virologic/Immunological Outcome #7</measure>
+    <time_frame>Day 0, Day 8, and Day 15</time_frame>
+    <description>Proportion with SARS-CoV-2 RNA in blood and saliva.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">140</enrollment>
+  <condition>Sars-CoV2</condition>
+  <arm_group>
+    <arm_group_label>Ambulatory Cohort - Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>to receive a single dose of peginterferon lambda 180µg SC at baseline</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ambulatory Cohort - No Specific Therapy</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>In this arm, patients will simply be discharged home without any specific therapy as they would as if they were not participating in the trial.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hospitalized Cohort - Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>To receive a dose of peginterferon lambda 180µg SC at baseline and a second dose on day 7.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hospitalized Cohort - Best Supportive Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This would include supportive measures that are currently used to treat Covid-19 patients who are hospitalized.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Peginterferon Lambda-1A</intervention_name>
+    <description>Peginterferon lambda is a covalent conjugate of human recombinant non-pegylated IFN lambda (IFN L) and a 20-kDa linear PEG chain. Peginterferon lambda Injection is a sterile, nonpyrogenic, ready-to-use solution (0.4 mg/mL) that is clear to opalescent, colorless to pale yellow, and essentially free of particles. Lambda Injection is provided in a 1-mL long Type I glass syringe (0.18 mg/syringe) with a staked 29-gauge, 1/2- inch, thin-walled needle. The syringe has a rigid needle shield and is stoppered with a plunger stopper. Syringes are prefilled with a solution of Peginterferon lambda Injection, mannitol, L-histidine, polysorbate 80, hydrochloric acid, and water for injection; they are intended for a single use at adjustable doses. The syringe is marked with dose indicator lines, which are used as a reference point for administering the correct dose.</description>
+    <arm_group_label>Ambulatory Cohort - Treatment</arm_group_label>
+    <arm_group_label>Hospitalized Cohort - Treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Cohort A - Ambulatory
+
+        Inclusion Criteria
+
+          1. Adult patients between the ages of 18 and 70 years.
+
+          2. Confirmed COVID-19 infection by PCR within 5 days of symptom onset (fever, respiratory
+             symptoms, sore throat).
+
+          3. Discharged to home isolation.
+
+          4. Willing and able to sign informed consent.
+
+          5. Willing and able to follow-up by daily phone or videoconference.
+
+          6. Female patients of childbearing potential and male patients with partners of
+             childbearing potential must agree to use adequate methods of contraception during the
+             study and through 90 days after the last dose of study medication. Female patients of
+             childbearing potential are all those except patients who are surgically sterile, who
+             have medically documented ovarian failure, or who are at least 1 year postmenopausal.
+
+        Exclusion Criteria
+
+          1. Requirement for hospital admission
+
+          2. Current immunosuppression due to medication (steroids, biologics, chemotherapy) or
+             underlying condition such as known HIV or organ/bone marrow transplant
+
+          3. Pregnancy (or positive urine pregnancy test) or lactating
+
+          4. The following pre-existing medical conditions:
+
+               1. Known seizure disorder
+
+               2. Known retinal disease requiring therapy
+
+               3. Known autoimmune condition requiring therapy more intensive than intermittent
+                  non-steroidal anti-inflammatories in the prior 6 months (rheumatoid arthritis,
+                  lupus, inflammatory bowel disease)
+
+               4. Known history of chronic obstructive pulmonary disease (COPD) or asthma
+                  associated with functional impairment or with any history of hospitalization for
+                  an exacerbation
+
+               5. Known cirrhosis with any history of decompensation (ascites, variceal bleeding or
+                  hepatic encephalopathy)
+
+               6. Known chronic kidney disease with estimated creatine clearance &lt; 50 mL/minute or
+                  need for dialysis
+
+               7. Severe psychiatric disorder - schizophrenia, bipolar disorder, depression with
+                  prior suicidality
+
+               8. Any other underlying medical (cardiac, liver, renal, neurological, respiratory)
+                  or psychiatric condition that in the view of the investigator would preclude use
+                  of peginterferon lambda
+
+          5. Advanced cancer or other illness with life expectancy of &lt; 1 year
+
+          6. Known prior intolerance to interferon treatment
+
+          7. Enrolment in another clinical trial with use of any investigational agent in the prior
+             30 days
+
+          8. Use of off-label therapy for COVID-19
+
+        Cohort B - Hospitalized
+
+        Inclusion Criteria
+
+          1. Adult patients over age 18
+
+          2. SARS-CoV-2 RNA-positive on nasopharyngeal swab/respiratory specimen within 5 days of
+             symptom onset
+
+          3. Admitted to hospital for management of COVID-19
+
+          4. Willing and able to provide informed consent
+
+          5. Female patients of childbearing potential and male patients with partners of
+             childbearing potential must agree to use adequate methods of contraception during the
+             study and through 90 days after the last dose of study medication. Female patients of
+             childbearing potential are all those except patients who are surgically sterile, who
+             have medically documented ovarian failure, or who are at least 1 year postmenopausal.
+
+             Exclusion Criteria
+
+          6. Severity of illness
+
+               1. Respiratory failure (requiring&gt;5L O2 or intubation in the ER)
+
+               2. Shock - systolic BP&lt;90 mmHg or mean arterial BP&lt;60 mmHg after fluid resuscitation
+
+          7. Current immunosuppression due to medication (steroids, biologics, chemotherapy) or
+             underlying condition such as known HIV or organ/bone marrow transplant
+
+          8. Pregnancy (or positive urine pregnancy test) or lactating
+
+          9. The following pre-existing medical conditions:
+
+               1. Known seizure disorder
+
+               2. Known retinal disease requiring therapy
+
+               3. Known autoimmune condition requiring therapy more intensive than intermittent
+                  non-steroidal anti-inflammatories in the prior 6 months (rheumatoid arthritis,
+                  lupus, inflammatory bowel disease)
+
+               4. Known history of chronic obstructive pulmonary disease (COPD) or asthma
+                  associated with functional impairment or with any history of hospitalization for
+                  an exacerbation
+
+               5. Known cirrhosis with any history of decompensation (ascites, variceal bleeding or
+                  hepatic encephalopathy)
+
+               6. Known chronic kidney disease with estimated creatine clearance &lt; 50 mL/minute or
+                  need for dialysis
+
+               7. Severe psychiatric disorder - schizophrenia, bipolar disorder, depression with
+                  prior suicidality
+
+               8. Any other underlying medical (cardiac, liver, renal, neurological, respiratory)
+                  or psychiatric condition that in the view of the investigator would preclude use
+                  of peginterferon lambda
+
+         10. Known alcohol or drug dependence that in the opinion of the investigator would impair
+             study participation
+
+         11. Known prior intolerance to interferon treatment
+
+         12. Enrolment in another clinical trial with use of any investigational agent in the prior
+             30 days
+
+         13. Use of off-label therapy for COVID-19
+
+         14. Any of the following abnormal laboratory indices
+
+               1. Hemoglobin &lt; 100 mg/dL
+
+               2. Platelet count &lt; 75,000 cells/mm3
+
+               3. Absolute neutrophil count &lt; 1,000 cells/mm3
+
+               4. Estimated creatinine clearance &lt; 50 cc/mL
+
+               5. Total bilirubin &gt; 2x upper limit of normal (ULN)
+
+               6. Alanine aminotransferase (ALT) &gt; 10x ULN
+
+               7. Aspartate aminotransferase (AST) &gt; 10x ULN
+
+               8. Lipase &gt; 2x ULN
+
+               9. Random blood glucose &gt; 20 mmol/L
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jordan Feld, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Health Network, Toronto</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Josh Booth</last_name>
+    <phone>(416) 340-4800</phone>
+    <phone_ext>6486</phone_ext>
+    <email>joshua.booth@uhn.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Toronto General Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2C4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 21, 2020</study_first_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

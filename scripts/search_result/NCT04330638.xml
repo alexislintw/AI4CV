@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="48">
+<clinical_study rank="77">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04330638</url>
   </required_header>
@@ -326,9 +326,9 @@ Not hospitalized</description>
           -  Recent ( ≥ 6 days of flu-like symptoms or malaise yet ≤16 days of flu-like symptoms or
              malaise prior to randomization) infection with COVID-19.
 
-          -  COVID-19 diagnosis confirmed by antigen detection test and/or PCR and/or positive
-             serology, or any emerging and validated diagnostic laboratory test for COVID-19 within
-             this period.
+          -  Confident COVID-19 diagnosis confirmed by antigen detection test and/or PCR and/or
+             positive serology, or any emerging and validated diagnostic laboratory test for
+             COVID-19 within this period.
 
           -  In some patients, it may be impossible to get a confident laboratory confirmation of
              COVID-19 diagnosis after 24h of hospital admission because viral load is low and/or
@@ -409,6 +409,11 @@ Not hospitalized</description>
 
           -  pregnant or breastfeeding females (all female subjects deemed of childbearing
              potential by the investigator must have negative pregnancy test at screening)
+
+          -  Women of childbearing potential must have a negative serum pregnancy test pre-dose on
+             day 1. Woùmen of childbearing potential must consistently and correctly use (during
+             the entire treatment period and 3 months after last reatment) 1 highly effective
+             method for contraception.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -455,7 +460,7 @@ Not hospitalized</description>
         <country>Belgium</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Necsoi Coca, MD</last_name>
       <email>coca_necsoi@stpierre-bru.be</email>
@@ -470,7 +475,7 @@ Not hospitalized</description>
         <country>Belgium</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Maya Hites, MD PhD</last_name>
       <email>maya.christina.hites@ulb.ac.be</email>
@@ -485,7 +490,7 @@ Not hospitalized</description>
         <country>Belgium</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>CyrJean Yombi, MD PhD</last_name>
       <email>jean.yombi@uclouvain.be</email>
@@ -500,7 +505,7 @@ Not hospitalized</description>
         <country>Belgium</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Sebastien Anguille, MD</last_name>
       <email>sebastien.anguille@uza.be</email>
@@ -515,10 +520,25 @@ Not hospitalized</description>
         <country>Belgium</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
-      <last_name>Mesotten Dieter, MD PhD</last_name>
+      <last_name>Mesotten Dieter, MD</last_name>
       <email>dieter.mesotten@zol.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Sint-Lucas</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elke Govaerts, MD</last_name>
+      <email>elke.govaerts@azstlucas.be</email>
     </contact>
   </location>
   <location>
@@ -544,6 +564,21 @@ Not hospitalized</description>
   </location>
   <location>
     <facility>
+      <name>Jessa ZH</name>
+      <address>
+        <city>Hasselt</city>
+        <zip>3500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeroen Vanderhilst, MD</last_name>
+      <email>Jeroen.Vanderhilst@jessazh.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
       <name>University Hospital Brussels</name>
       <address>
         <city>Jette</city>
@@ -551,7 +586,7 @@ Not hospitalized</description>
         <country>Belgium</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Manu Malbrain, MD PhD</last_name>
       <email>manu.malbrain@uzbrussel.be</email>
@@ -563,6 +598,36 @@ Not hospitalized</description>
   </location>
   <location>
     <facility>
+      <name>CHU Tivoli</name>
+      <address>
+        <city>La Louvière</city>
+        <zip>7100</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fabienne Liénart, MD</last_name>
+      <email>fabienne.lienart@chu-tivoli.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHR de la Citadelle</name>
+      <address>
+        <city>Liège</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Filip Moerman, MD</last_name>
+      <email>filip.moerman@chrcitadelle.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
       <name>University Hospital Liège</name>
       <address>
         <city>Liège</city>
@@ -570,10 +635,40 @@ Not hospitalized</description>
         <country>Belgium</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
-      <last_name>Olivier Malaise</last_name>
+      <last_name>Olivier Malaise, MD PhD</last_name>
       <email>olivier.malaise@chuliege.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniques Saint-Pierre Ottignies</name>
+      <address>
+        <city>Ottignies-Louvain-la-Neuve</city>
+        <zip>1340</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicolas Deschryver, MD</last_name>
+      <email>nicolas.deschryver@cspo.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Delta</name>
+      <address>
+        <city>Roeselare</city>
+        <zip>8800</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ingel Demedts, MD</last_name>
+      <email>ingel.demedts@azdelta.be</email>
     </contact>
   </location>
   <location_countries>
@@ -583,9 +678,9 @@ Not hospitalized</description>
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>March 31, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 1, 2020</study_first_posted>
-  <last_update_submitted>April 7, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University Hospital, Ghent</investigator_affiliation>

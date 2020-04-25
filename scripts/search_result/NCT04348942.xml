@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="434">
+<clinical_study rank="79">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348942</url>
   </required_header>
@@ -70,7 +70,7 @@
     <description>Compilation of registry data via regular self-reported questionnaires on symptoms (known to be associated with COVID-19 diagnosis including presence, severity, and duration using the Obvio-19 app.</description>
   </primary_outcome>
   <enrollment type="Anticipated">10000</enrollment>
-  <condition>Open to All Adults in the US Who Have a Smart Phone and Reliable Internet Connection</condition>
+  <condition>COVID-19</condition>
   <eligibility>
     <study_pop>
       <textblock>
@@ -104,22 +104,22 @@
     <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
   </eligibility>
   <overall_contact>
-    <last_name>Kamalia Sazali, MS</last_name>
-    <phone>4074320809</phone>
-    <email>kamalia.sazali@obviohealth.com</email>
+    <last_name>Parth Shah, MD</last_name>
+    <phone>(888) 928-1423</phone>
+    <email>COVID19Study@obviohealth.com</email>
   </overall_contact>
   <overall_contact_backup>
-    <last_name>Joshua Lowndes, MA, MS</last_name>
-    <phone>4077332972</phone>
-    <email>joshua.lowndes@obvioHealth.com</email>
+    <last_name>Jalisa Watson, MHA</last_name>
+    <phone>(888) 928-1423</phone>
+    <email>COVID19Study@obviohealth.com</email>
   </overall_contact_backup>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 13, 2020</study_first_submitted>
   <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 13, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

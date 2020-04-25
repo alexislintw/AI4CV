@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="320">
+<clinical_study rank="497">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04319731</url>
   </required_header>
@@ -21,7 +21,7 @@
   </sponsors>
   <source>University of Utah</source>
   <oversight_info>
-    <has_dmc>No</has_dmc>
+    <has_dmc>Yes</has_dmc>
     <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
     <is_fda_regulated_device>No</is_fda_regulated_device>
     <is_us_export>Yes</is_us_export>
@@ -31,14 +31,15 @@
       The purpose of this study is to test the effect of purified (acellular) amniotic fluid as a
       treatment for SARS CoV-2 (COVID19)-associated respiratory failure. Past use of human amniotic
       products (i.e., membrane and fluid) is FDA-approved for tissue injury and has been used to
-      reduce inflammation and fibrosis in patients with a variety of medical conditions. We
-      hypothesize that using nebulized and/or intravenous purified (acellular) amniotic fluid will
-      reduce both inflammation in patients hospitalized for in SARS CoV-2 (COVID19)-associated
-      respiratory failure, potentially leading to a decrease in respiratory support.
+      reduce inflammation and fibrosis in patients with a variety of medical conditions. The
+      investigators hypothesize that using nebulized and/or intravenous purified (acellular)
+      amniotic fluid will reduce both inflammation in patients hospitalized for in SARS CoV-2
+      (COVID19)-associated respiratory failure, potentially leading to a decrease in respiratory
+      support.
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">March 20, 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 20, 2020</start_date>
   <completion_date type="Anticipated">March 20, 2021</completion_date>
   <primary_completion_date type="Anticipated">March 20, 2021</primary_completion_date>
   <phase>Early Phase 1</phase>
@@ -76,8 +77,7 @@
     <arm_group_label>Treatment</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
     <description>Treatment groups:
-Acute care - Nebulized amniotic fluid every 24 hours for 5 days (3mL)
-ICU - Nebulized amniotic fluid every 24 hours for 5 days (3mL) plus intravenous amniotic fluid every 24 hours for 5 days (6mL)</description>
+1. Acute care and ICU - 10mL intravenous amniotic fluid every 24 hours for 5 days (6mL)</description>
   </arm_group>
   <intervention>
     <intervention_type>Biological</intervention_type>
@@ -98,7 +98,7 @@ ICU - Nebulized amniotic fluid every 24 hours for 5 days (3mL) plus intravenous 
 
         Exclusion Criteria:
 
-          -  1. Home oxygen use
+          -  1. None
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -121,13 +121,33 @@ ICU - Nebulized amniotic fluid every 24 hours for 5 days (3mL) plus intravenous 
     <phone>(801) 581-5311</phone>
     <email>joseph.tonna@hsc.utah.edu</email>
   </overall_contact_backup>
-  <verification_date>March 2020</verification_date>
+  <location>
+    <facility>
+      <name>University of Utah Health</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Craig Selzman, MD</last_name>
+      <phone>801-581-5311</phone>
+      <email>craig.selzman@hsc.utah.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 22, 2020</study_first_submitted>
   <study_first_submitted_qc>March 22, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 24, 2020</study_first_posted>
-  <last_update_submitted>March 22, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 22, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 24, 2020</last_update_posted>
+  <last_update_submitted>April 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 17, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University of Utah</investigator_affiliation>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="605">
+<clinical_study rank="766">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04320056</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>21909</org_study_id>
     <nct_id>NCT04320056</nct_id>
   </id_info>
-  <brief_title>Closed-Loop Oxygen to Verify That Healthcare Workers Interventions Decrease During Pneumonia</brief_title>
+  <brief_title>Closed-Loop Oxygen to Verify That Healthcare Workers Interventions Decrease During SARS-CoV-2 Pneumonia (COVID-19)</brief_title>
   <official_title>Automated Oxygen Titration - Monitoring and Weaning in Patients With Infectious Pneumonia Requiring Oxygen - Impact on the Number of Interventions for Healthcare Workers. An Innovative Device to Manage Patients With COVID-19 Pneumonia COVID Study (Closed-Loop Oxygen to Verify That Healthcare Workers Interventions Decreaseduring Pneumonia)</official_title>
   <sponsors>
     <lead_sponsor>
@@ -37,8 +37,8 @@
       complications related to oxygen and to improve monitoring.
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 6, 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 20, 2020</start_date>
   <completion_date type="Anticipated">October 31, 2021</completion_date>
   <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
   <phase>N/A</phase>
@@ -192,6 +192,11 @@ In this group the SpO2 was recorded any time with FreeO2 device - recording mode
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
+  <overall_official>
+    <last_name>Francois Lellouche</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IUCPQ-UL</affiliation>
+  </overall_official>
   <overall_contact>
     <last_name>François Lellouche</last_name>
     <phone>418-656-8711</phone>
@@ -204,6 +209,30 @@ In this group the SpO2 was recorded any time with FreeO2 device - recording mode
     <phone_ext>2712</phone_ext>
     <email>pierre-alexandre.bouchard@criucpq.ulaval.ca</email>
   </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Institut universitaire de cardiologie et de pneumologie de Québec - Université Laval</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G1V4G5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pierre-Alexandre Bouchard</last_name>
+      <phone>418-656-8711</phone>
+      <phone_ext>2712</phone_ext>
+      <email>pierre-alexandre.bouchard@criucpq.ulaval.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Francois Lellouche</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
   <link>
     <url>https://www.nytimes.com/2020/02/06/world/asia/chinese-doctor-Li-Wenliang-coronavirus.html</url>
     <description>Related Info</description>
@@ -436,13 +465,13 @@ In this group the SpO2 was recorded any time with FreeO2 device - recording mode
     <citation>As coronavirus spreads, the time to think about the next epidemic is now. Nature. 2020 Feb;578(7794):191. doi: 10.1038/d41586-020-00379-9.</citation>
     <PMID>32047314</PMID>
   </reference>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 19, 2020</study_first_submitted>
   <study_first_submitted_qc>March 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 24, 2020</study_first_posted>
-  <last_update_submitted>March 26, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 26, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 27, 2020</last_update_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

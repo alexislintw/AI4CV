@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="354">
+<clinical_study rank="545">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04334928</url>
   </required_header>
@@ -37,7 +37,7 @@
       Emtricitabine (FTC) (200 mg), a daily single dose of hydroxychloroquine (HC) (200 mg), a
       daily single dose of TDF (245 mg)/FTC (200 mg) plus HC (200 mg) versus placebo, during 12
       weeks in: (1) reducing the incidence of symptomatic disease and (2) reducing clinical
-      severity COVID-19 among hospital healthcare workers aged 18 to 65 years in public and private
+      severity COVID-19 among hospital healthcare workers aged 18 to 70 years in public and private
       hospitals in Spain.
     </textblock>
   </brief_summary>
@@ -57,7 +57,7 @@
       TDF (245 mg)/FTC (200 mg), a daily single dose of HC (200 mg), a daily single dose of TDF
       (245 mg)/FTC (200 mg) plus HC (200 mg) versus placebo, during 12 weeks in: (1) reducing the
       incidence of symptomatic disease and (2) reducing clinical severity COVID-19 among hospital
-      healthcare workers aged 18 to 65 years in public and private hospitals in Spain. Sample size
+      healthcare workers aged 18 to 70 years in public and private hospitals in Spain. Sample size
       calculations are based on the primary outcome; number of symptomatic confirmed infections by
       SARS-CoV-2. Briefly, 4.000 participants will be assigned to one of the 4 groups, through
       1:1:1:1 randomization. Duration of prophylactic treatment will be 12 weeks from early April
@@ -67,7 +67,7 @@
     </textblock>
   </detailed_description>
   <overall_status>Active, not recruiting</overall_status>
-  <start_date type="Actual">April 1, 2020</start_date>
+  <start_date type="Actual">April 15, 2020</start_date>
   <completion_date type="Anticipated">July 31, 2020</completion_date>
   <primary_completion_date type="Anticipated">June 30, 2020</primary_completion_date>
   <phase>Phase 3</phase>
@@ -166,7 +166,7 @@ Dose: one tablet once a day (both at dinner)</description>
              objectives, possible risks and acknowledging they have the right to withdraw from the
              study consent at any time, sing the informed consent for participation in the study.
 
-          -  Male or female aged 18-65 years.
+          -  Male or female aged 18-70years.
 
           -  Health care workers in public or private hospitals in Spain in areas of risk of
              SARS-CoV-2 transmission.
@@ -188,6 +188,8 @@ Dose: one tablet once a day (both at dinner)</description>
 
         Exclusion Criteria:
 
+          -  Having symptoms suggestive of COVID-19 infection
+
           -  HIV infection
 
           -  Active hepatitis B infection.
@@ -207,7 +209,10 @@ Dose: one tablet once a day (both at dinner)</description>
 
           -  Weight &lt; 40kg
 
-          -  Participant with any immunosuppressive condition or hematological disease
+          -  Participant with any immunosuppressive condition or hematological disease.
+
+          -  Have taken any medications such as PrEP against SARS-CoV-2 from March 1, 2020 until
+             trial entry (also includes PrEP for HIV).
 
           -  Treatment with drugs that may prolong QT in the last month before randomization for
              more than 7 days including: azithromycin, chlorpromazine, cisapride, clarithromycin,
@@ -222,7 +227,7 @@ Dose: one tablet once a day (both at dinner)</description>
     </criteria>
     <gender>All</gender>
     <minimum_age>18 Years</minimum_age>
-    <maximum_age>65 Years</maximum_age>
+    <maximum_age>70 Years</maximum_age>
     <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
   </eligibility>
   <overall_official>
@@ -237,10 +242,583 @@ Dose: one tablet once a day (both at dinner)</description>
   </overall_official>
   <location>
     <facility>
+      <name>Hospital Universitario de Ferrol</name>
+      <address>
+        <city>Ferrol</city>
+        <state>A Coruña</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico Universitario de Santiago</name>
+      <address>
+        <city>Santiago De Compostela</city>
+        <state>A Coruña</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General de Elche</name>
+      <address>
+        <city>Elche</city>
+        <state>Alicante</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Central de Asturias</name>
+      <address>
+        <city>Oviedo</city>
+        <state>Asturias</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sant Joan de Deu de Esplugues</name>
+      <address>
+        <city>Esplugues De Llobregat</city>
+        <state>Barcelona</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Parc Sanitari Sant Joan de Déu de Sant Boi</name>
+      <address>
+        <city>Sant Boi De Llobregat</city>
+        <state>Barcelona</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Infanta Margarita</name>
+      <address>
+        <city>Cabra</city>
+        <state>Córdoba</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Insular de Las Palmas</name>
+      <address>
+        <city>Las Palmas De Gran Canaria</city>
+        <state>Gran Canaria</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Canarias</name>
+      <address>
+        <city>Las Palmas De Gran Canaria</city>
+        <state>Gran Canaria</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Donostia</name>
+      <address>
+        <city>San Sebastián</city>
+        <state>Guipuzcoa</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital San Pedro</name>
+      <address>
+        <city>Logroño</city>
+        <state>La Rioja</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Principe de Asturias</name>
+      <address>
+        <city>Alcalá De Henares</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Fundación de Alcorcón</name>
+      <address>
+        <city>Alcorcón</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Colllado Villalba</name>
+      <address>
+        <city>Collado-Villalba</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Severo Ochoa</name>
+      <address>
+        <city>Leganés</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Rey Juan Carlos</name>
+      <address>
+        <city>Móstoles</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Quirón Pozuelo</name>
+      <address>
+        <city>Pozuelo De Alarcón</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Torrejón</name>
+      <address>
+        <city>Torrejón De Ardoz</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Infanta Elena</name>
+      <address>
+        <city>Valdemoro</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Virgen del Castillo</name>
+      <address>
+        <city>Yecla</city>
+        <state>Murcia</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Costa del Sol</name>
+      <address>
+        <city>Marbella</city>
+        <state>Málaga</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Arnau de Vilanova</name>
+      <address>
+        <city>Llíria</city>
+        <state>Valencia</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Araba</name>
+      <address>
+        <city>Alava</city>
+        <state>Vitoria</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario de Albacete</name>
+      <address>
+        <city>Albacete</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Médico Teknon</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital del Mar</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Dexeus</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Quirón Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Sagrat Cor</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Burgos</name>
+      <address>
+        <city>Burgos</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Virgen de la Luz</name>
+      <address>
+        <city>Cuenca</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico San Cecilio</name>
+      <address>
+        <city>Granada</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de León</name>
+      <address>
+        <city>León</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
       <name>Hospital Universitario Ramón y Cajal</name>
       <address>
         <city>Madrid</city>
         <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fundación Jiménez Díaz</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico San Carlos</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Infanta Leonor</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital La Princesa</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Gregorio Marañon</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Puerta de Hierro</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Reina Sofía</name>
+      <address>
+        <city>Murcia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen de la Arrixaca</name>
+      <address>
+        <city>Murcia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Virgen de la Victoria</name>
+      <address>
+        <city>Málaga</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Asistencial de Palencia</name>
+      <address>
+        <city>Palencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Salamanca</name>
+      <address>
+        <city>Salamanca</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General de Segovia</name>
+      <address>
+        <city>Segovia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Virgen del Rocio</name>
+      <address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Virgen Macarena</name>
+      <address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico Universitario</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Dr. Peset</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital La Fe</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Valladolid</name>
+      <address>
+        <city>Valladolid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Rio Hortega</name>
+      <address>
+        <city>Valladolid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Lozano Blesa</name>
+      <address>
+        <city>Zaragoza</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Miguel Servet</name>
+      <address>
+        <city>Zaragoza</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Nuestra Señora de Sonsoles</name>
+      <address>
+        <city>Ávila</city>
         <country>Spain</country>
       </address>
     </facility>
@@ -252,9 +830,9 @@ Dose: one tablet once a day (both at dinner)</description>
   <study_first_submitted>April 2, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 7, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

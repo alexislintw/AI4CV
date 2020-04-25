@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="14">
+<clinical_study rank="20">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04335123</url>
   </required_header>
@@ -39,7 +39,10 @@
       (detailed below) or complete 14 days of therapy.
 
       Patients and/or surrogate decision maker who do not give consent to treatment will be asked
-      to allow collection of data from their medical record for use as a control group.
+      to allow collection of data from their medical record for use as a control group. We will
+      also collect medical information relating to safety criteria on historical controls treated
+      at the University of Kansas Hospital in the 30 days prior to the study start date (3/25/2020)
+      and during the study period.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -87,7 +90,7 @@
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
     <intervention_model>Single Group Assignment</intervention_model>
-    <intervention_model_description>50 patients with COVID-19 and respiratory failure who meet criteria and agree to participation in the study will be placed on losartan 25 mg once daily on study day 0. If parameters are met the dose of losartan will be increased to 50 mg once daily on study day 3. Patients and/or surrogate decision maker who do not give consent to treatment will be asked to allow collection of data from their medical record for use as a control group.</intervention_model_description>
+    <intervention_model_description>50 patients with COVID-19 and respiratory failure who meet criteria and agree to participation in the study will be placed on losartan 25 mg once daily on study day 0. If parameters are met the dose of losartan will be increased to 50 mg once daily on study day 3. Patients and/or surrogate decision maker who do not give consent to treatment will be asked to allow collection of data from their medical record for use as a control group.We will also collect medical information relating to safety criteria on historical controls treated at the University of Kansas Hospital in the 30 days prior to the study start date (3/25/2020) and during the study period.</intervention_model_description>
     <primary_purpose>Treatment</primary_purpose>
     <masking>None (Open Label)</masking>
   </study_design_info>
@@ -308,9 +311,9 @@ The event does not necessarily have a causal relationship with the treatment. AE
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 10, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University of Kansas Medical Center</investigator_affiliation>

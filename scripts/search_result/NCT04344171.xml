@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="101">
+<clinical_study rank="159">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04344171</url>
   </required_header>
@@ -123,6 +123,11 @@
     <role>Principal Investigator</role>
     <affiliation>ClarData</affiliation>
   </overall_official>
+  <overall_official>
+    <last_name>Hans-Rudolf Tinneberg, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Giessen</affiliation>
+  </overall_official>
   <overall_contact>
     <last_name>Julia Ferencz, MD</last_name>
     <phone>+4917687607223</phone>
@@ -135,6 +140,71 @@
   </overall_contact_backup>
   <location>
     <facility>
+      <name>RoMed - Klinikum Bad Aibling</name>
+      <address>
+        <city>Bad Aibling</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefan Budweiser, Prof.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DONAUISAR Klinikum Deggendorf</name>
+      <address>
+        <city>Deggendorf</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Adi Kovacevic, Dr.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DONAUISAR Klinikum Dingolfing</name>
+      <address>
+        <city>Dingolfing</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Heribert Fröschl, Dr.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>RoMed - Klinikum Prien am Chiemsee</name>
+      <address>
+        <city>Prien</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefan Budweiser, Prof.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>RoMed - Klinikum Rosenheim</name>
+      <address>
+        <city>Rosenheim</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefan Budweiser, Prof.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
       <name>Universitätsklinikum Ulm</name>
       <address>
         <city>Ulm</city>
@@ -143,7 +213,20 @@
     </facility>
     <status>Recruiting</status>
     <contact>
-      <last_name>Thomas Seufferlein, Prof.</last_name>
+      <last_name>Thomas Seufferlein, Prof</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>RoMed - Klinikum Wasserburg Am Inn</name>
+      <address>
+        <city>Wasserburg Am Inn</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefan Budweiser, Prof.</last_name>
     </contact>
   </location>
   <location>
@@ -161,7 +244,7 @@
   </location>
   <location>
     <facility>
-      <name>Municipal Clinical Emergency Hospital of Timisoara</name>
+      <name>Timiş County Emergency Clinical Hospital</name>
       <address>
         <city>Timisoara</city>
         <country>Romania</country>
@@ -184,9 +267,9 @@
   <study_first_submitted>April 10, 2020</study_first_submitted>
   <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 14, 2020</study_first_posted>
-  <last_update_submitted>April 13, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

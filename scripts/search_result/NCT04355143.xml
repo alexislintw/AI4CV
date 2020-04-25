@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="100">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04355143</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-000685</org_study_id>
+    <nct_id>NCT04355143</nct_id>
+  </id_info>
+  <brief_title>Colchicine to Reduce Myocardial Injury in COVID-19 (COLHEART-19)</brief_title>
+  <acronym>COLHEART-19</acronym>
+  <official_title>Open-label (Unblinded) Randomized Trial of Colchicine to Reduce Myocardial Injury in COVID-19 (COLHEART-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, Los Angeles</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Participants will be randomized in a 1:1 ratio to receive Colchicine plus current care per
+      UCLA treating physicians versus current care per UCLA treating physicians alone (control
+      arm). Importantly, this adaptive trial design allows for patients in either study arm to
+      receive other investigational drugs for COVID-19 as new science emerges.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 25, 2020</start_date>
+  <completion_date type="Anticipated">April 25, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 25, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Random assignment to study arms in a 1:1 ratio</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum troponin level</measure>
+    <time_frame>up to 30 days</time_frame>
+    <description>Maximum level of troponin among multiple measures taken during hospitalization and at 30 days</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Delta (baseline to peak) troponin level</measure>
+    <time_frame>Baseline (Day 1), Day 30, Days 3 and 7 if hospitalized, First day of rehospitalization if admitted within 30 days of study enrollment</time_frame>
+    <description>Change from initial troponin level to maximum level of troponin among measures taken during hospitalization and at 30 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Delta (baseline to peak) brain natriuretic peptide (BNP) level</measure>
+    <time_frame>Baseline (Day 1), Day 30, Days 3 and 7 if hospitalized, First day of rehospitalization if admitted within 30 days of study enrollment</time_frame>
+    <description>Change from baseline BNP level (Day 1) to maximum level of BNP among measures taken during hospitalization and at 30 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in left ventricular ejection fraction (LVEF) on echocardiography</measure>
+    <time_frame>Baseline, Day 30</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Delta (baseline to peak) C-Reactive protein (CRP) inflammatory biomarker level</measure>
+    <time_frame>Baseline (Day 1), Day 30, Days 3 and 7 if hospitalized, First day of rehospitalization if admitted within 30 days of study enrollment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Delta (baseline to peak) D-Dimer inflammatory biomarker level</measure>
+    <time_frame>Baseline (Day 1), Day 30, Days 3 and 7 if hospitalized, First day of rehospitalization if admitted within 30 days of study enrollment</time_frame>
+    <description>D-Dimer is a small protein fragment present in the blood after a blood clot is degraded by fibrinolysis, so named because it contains two D fragments of the fibrin protein joined by a cross-link</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>Expected to be less than 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants requiring mechanical ventilation or ICU care</measure>
+    <time_frame>During hospitalization, expected to be up to 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Re-hospitalization</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of participants released and re-admitted to the hospital within 30 days of enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Colchicine plus current care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Colchicine 0.6 mg po BID x 30 days plus current care per UCLA treating physicians</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Current care alone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Current care per UCLA physicians alone (control arm)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Colchicine Tablets</intervention_name>
+    <description>COLCRYS (colchicine, USP) tablets for oral administration, containing 0.6 mg of the active ingredient colchicine USP, administered po every 12 hours x 30 days.</description>
+    <arm_group_label>Colchicine plus current care</arm_group_label>
+    <other_name>COLCRYS</other_name>
+    <other_name>AR 374</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Current care per UCLA treating physicians</intervention_name>
+    <description>Current care</description>
+    <arm_group_label>Colchicine plus current care</arm_group_label>
+    <arm_group_label>Current care alone</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Cardiac injury, including any of the following:
+
+               -  Elevated troponin level
+
+               -  Elevated BNP level
+
+               -  New ECG changes (ischemia or conduction issues)
+
+               -  New arrhythmia on telemetry
+
+               -  New drop in LVEF on echocardiogram
+
+          -  Able to provide informed consent
+
+        Exclusion Criteria:
+
+          -  Pregnancy, breastfeeding mothers, and women of childbearing age who are unable to use
+             adequate contraception, which includes:
+
+               -  Intrauterine devices (IUD), contraceptive implants, or tubal sterilization
+
+               -  Hormone methods with a barrier method
+
+               -  Two barrier methods
+
+               -  If a partner's vasectomy is the chosen method of contraception, a hormone or
+                  barrier method must also be used in conjunction
+
+          -  Co-administration of CYPA3A4 and P-glycoprotein transport inhibitor
+
+          -  History of end-stage renal disease (ESRD), cirrhosis, or neuromuscular disease
+
+          -  History of severe hematologic disease or coagulation disorders
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Reza Ardehali, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Los Angeles</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Amir B Rabbani, MD</last_name>
+    <phone>310-517-8578</phone>
+    <email>arabbani@mednet.ucla.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Reza Ardehali, MD, PhD</last_name>
+    <phone>310-825-9011</phone>
+    <email>rardehali@mednet.ucla.edu</email>
+  </overall_contact_backup>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 21, 2020</study_first_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colchicine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

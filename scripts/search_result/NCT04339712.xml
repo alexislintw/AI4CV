@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="280">
+<clinical_study rank="434">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04339712</url>
   </required_header>
@@ -165,7 +165,7 @@
     <description>Classification of immune function of screened patients who are not enrolled in study drug since they are not characterized with MAS or immune dysregulation</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
-  <enrollment type="Anticipated">20</enrollment>
+  <enrollment type="Anticipated">40</enrollment>
   <condition>COVID-19</condition>
   <condition>Virus Diseases</condition>
   <condition>Macrophage Activation Syndrome</condition>
@@ -304,7 +304,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Vassilios Koulouras, MD, PhD</last_name>
       <phone>+306972840476</phone>
@@ -337,7 +337,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Ioannis Baraboutis, MD</last_name>
       <phone>+306932623459</phone>
@@ -353,7 +353,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Maria Patrani, MD, PhD</last_name>
       <phone>+306946665991</phone>
@@ -385,7 +385,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Georgios Kofinas, MD, PhD</last_name>
       <phone>+306974501110</phone>
@@ -417,7 +417,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Aikaterini Ioakeimidou, MD</last_name>
       <phone>+306974579319</phone>
@@ -433,7 +433,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Nikolaos Markou, MD, PhD</last_name>
       <phone>+306973404627</phone>
@@ -449,7 +449,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Apostolos Komnos, MD, PhD</last_name>
       <phone>+306944670163</phone>
@@ -465,7 +465,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>George Dalekos, MD, PhD</last_name>
       <phone>+302410685701</phone>
@@ -481,7 +481,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Glykeria Vlachogianni, MD</last_name>
       <phone>+30 2313 322173</phone>
@@ -497,7 +497,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Eleni Antoniadou, MD</last_name>
       <phone>+30 2310 963321</phone>
@@ -513,7 +513,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Souzana Anisoglou, MD</last_name>
       <phone>+30 213 898200</phone>
@@ -529,7 +529,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Eleni Mouloudi, MD, PhD</last_name>
       <phone>+30 2310 892000</phone>
@@ -545,7 +545,7 @@ AST or ALT more than 1.5 x the upper normal limit</description>
         <country>Greece</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Eleni Geka, MD</last_name>
       <phone>+306976445521</phone>
@@ -559,9 +559,9 @@ AST or ALT more than 1.5 x the upper normal limit</description>
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 6, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 9, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

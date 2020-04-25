@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="582">
+<clinical_study rank="851">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348370</url>
   </required_header>
@@ -19,7 +19,7 @@
       <agency_class>Other</agency_class>
     </lead_sponsor>
     <collaborator>
-      <agency>Radbound University Medical Center</agency>
+      <agency>Texas A&amp;M University</agency>
       <agency_class>Other</agency_class>
     </collaborator>
     <collaborator>
@@ -351,7 +351,7 @@
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
     <allocation>Randomized</allocation>
-    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model>Parallel Assignment</intervention_model>
     <intervention_model_description>Participants will be randomized to BCG:placebo in a 1:1 ratio.</intervention_model_description>
     <primary_purpose>Prevention</primary_purpose>
     <masking>Double (Participant, Investigator)</masking>
@@ -365,12 +365,17 @@
   <secondary_outcome>
     <measure>COVID19-related disease severity (measured by ordinal severity scale) following BCG vaccination compared to placebo</measure>
     <time_frame>up to 6 months</time_frame>
-    <description>The ordinal severity scale that will be used is:
-Admitted to the hospital
+    <description>The ordinal severity scale that will be used is: Covid Severity Scale: Score 0-10; 10 is worse; 0 is best
+Admitted to hospital
 Required oxygen
 Treated in intensive care
 Required ventilation
-Death</description>
+Death
+Severe pneumonia
+Respiratory failure
+Acute respiratory distress syndrome
+Sepsis
+Septic shock</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">700</enrollment>
@@ -461,9 +466,24 @@ Death</description>
     <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
   </eligibility>
   <overall_official>
+    <last_name>Jeffrey Cirillo, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Texas A&amp;M University</affiliation>
+  </overall_official>
+  <overall_official>
     <last_name>Andrew DiNardo, MD</last_name>
     <role>Principal Investigator</role>
     <affiliation>Baylor College of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ashish Kamat, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Megan Murray, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Harvard University</affiliation>
   </overall_official>
   <overall_contact>
     <last_name>Andrew DiNardo, MD</last_name>
@@ -487,6 +507,26 @@ Death</description>
     </contact>
     <investigator>
       <last_name>Megan Murray, MD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas A&amp;M University</name>
+      <address>
+        <city>Bryan</city>
+        <state>Texas</state>
+        <zip>77807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jeffrey Cirillo, PhD</last_name>
+      <phone>979-436-0343</phone>
+      <email>jdcirillo@tamu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey Cirillo, PhD</last_name>
       <role>Principal Investigator</role>
     </investigator>
   </location>
@@ -533,6 +573,10 @@ Death</description>
       <phone>713-798-5553</phone>
       <email>slerner@bcm.edu</email>
     </contact>
+    <investigator>
+      <last_name>Seth Lerner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
   </location>
   <location>
     <facility>
@@ -549,6 +593,10 @@ Death</description>
       <phone>832-822-1038</phone>
       <email>Andrew.Dinardo@Bcm.Edu</email>
     </contact>
+    <investigator>
+      <last_name>Andrew DiNardo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
     <investigator>
       <last_name>Anna Mandalakas, MD</last_name>
       <role>Sub-Investigator</role>
@@ -660,10 +708,10 @@ Death</description>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>March 30, 2020</study_first_submitted>
   <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>Baylor College of Medicine</investigator_affiliation>

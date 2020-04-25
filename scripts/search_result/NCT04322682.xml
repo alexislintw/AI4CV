@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="586">
+<clinical_study rank="857">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04322682</url>
   </required_header>
@@ -209,6 +209,36 @@
   </overall_contact_backup>
   <location>
     <facility>
+      <name>University of California, San Francisco - San Francisco General Hospital</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Priscilla Hsue, MD</last_name>
+      <phone>628-206-8257</phone>
+      <email>priscilla.hsue@ucsf.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kelvin Moore</last_name>
+      <phone>628-206-5145</phone>
+      <email>kelvin.moorejr@ucsf.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Priscilla Hsue, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>David Waters, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
       <name>New York University School of Medecine</name>
       <address>
         <city>New York</city>
@@ -250,17 +280,39 @@
       <role>Principal Investigator</role>
     </investigator>
   </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz, IdiPaz</name>
+      <address>
+        <city>La Paz</city>
+        <state>Madrid</state>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose Lopez-Sendon, MD</last_name>
+      <phone>(+34) 639 148 765</phone>
+      <email>jlopezsendon@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jose Lopez-Sendon, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
   <location_countries>
     <country>Canada</country>
+    <country>Spain</country>
     <country>United States</country>
   </location_countries>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>March 23, 2020</study_first_submitted>
   <study_first_submitted_qc>March 25, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 26, 2020</study_first_posted>
-  <last_update_submitted>April 7, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

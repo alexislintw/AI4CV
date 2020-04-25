@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="90">
+<clinical_study rank="141">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04334980</url>
   </required_header>
@@ -78,11 +78,11 @@
   </study_design_info>
   <primary_outcome>
     <measure>Frequency of Adverse Events</measure>
-    <time_frame>From the time of administration of oral bacTRL-Spike up to 12 months post-vaccination.</time_frame>
-    <description>Adverse events following administration of oral bacTRL-Spike</description>
+    <time_frame>Up to12 months post-vaccination</time_frame>
+    <description>Adverse events (specifically including incidence of gastrointestinal-associated events) following administration of oral bacTRL-Spike</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>SARS-CoV-2 Antibodies</measure>
+    <measure>SARS-CoV-2 antibodies</measure>
     <time_frame>Baseline (pre-vaccination), and 1, 3 and 12 months post-vaccination</time_frame>
     <description>Antibody against SARS-CoV-2 Spike protein</description>
   </secondary_outcome>
@@ -96,23 +96,33 @@
     <time_frame>Days 7, 14, 21, and 1 and 3 months post-vaccination</time_frame>
     <description>Isolation of viable bacTRL-Spike from stool post-vaccination</description>
   </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion of circulating anti-Spike IgG antibodies &amp; stability of serum IgG titers</measure>
+    <time_frame>Up to 12 months post-vaccination</time_frame>
+    <description>Collection of biological samples for future studies to understand immunity against SARS-CoV-2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effectiveness of intestinal colonization of the probiotic-based bacTRL-Spike oral vaccine</measure>
+    <time_frame>Up to 12 months post-vaccination</time_frame>
+    <description>Collection of biological samples for future studies to understand immunity against SARS-CoV-2.</description>
+  </secondary_outcome>
   <number_of_arms>6</number_of_arms>
   <enrollment type="Anticipated">84</enrollment>
   <condition>COVID-19</condition>
   <arm_group>
     <arm_group_label>bacTRL-Spike Group 1A</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>• Group 1A (n=21): Single, 1 mL dose of bacTRL-Spike, equivalent to 1 billion colony forming units (cfu) of Bifidiobacterium longum;</description>
+    <description>• Group 1A (n=21): Single dose of bacTRL-Spike, equivalent to 1 billion colony forming units (cfu) of Bifidiobacterium longum;</description>
   </arm_group>
   <arm_group>
     <arm_group_label>bacTRL-Spike Group 2A</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>• Group 2A (n=21): Single, 3 mL dose of bacTRL-Spike, equivalent to 3 billion colony forming units (cfu) of Bifidobacterium longum;</description>
+    <description>• Group 2A (n=21): Single dose of bacTRL-Spike, equivalent to 3 billion colony forming units (cfu) of Bifidobacterium longum;</description>
   </arm_group>
   <arm_group>
     <arm_group_label>bacTRL-Spike Group 3A</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>• Group 3A (n=21): Single, 10 mL dose of bacTRL-Spike, equivalent to 10 billion colony forming units (cfu) of Bifidobacterium longum;</description>
+    <description>• Group 3A (n=21): Single dose of bacTRL-Spike, equivalent to 10 billion colony forming units (cfu) of Bifidobacterium longum;</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Placebo Group 1B</arm_group_label>
@@ -150,87 +160,103 @@
       <textblock>
         Inclusion Criteria:
 
-          -  Capable to and does provide written informed consent;
+          1. Age 19-45 years inclusive at time of enrolment;
 
-          -  Able to understand and agrees to comply with planned study procedures and be available
+          2. Capable to and does provide written informed consent;
+
+          3. Able to understand and agrees to comply with planned study procedures and be available
              for all study visits;
 
-          -  Body Mass Index 18-35 kg/square meter, inclusive, at screening;
+          4. Body Mass Index 18-35 kg/square meter, inclusive, at screening;
 
-          -  Women of childbearing potential must agree to use or have practiced true abstinence or
-             use at least one acceptable primary form of contraception.Note: These criteria are
-             applicable to females in a heterosexual relationship and child-bearing potential
-             (i.e., the criteria do not apply to participants in a same sex relationship).
+          5. Male or non-pregnant, non-breastfeeding females who agree to comply with applicable
+             contraceptive requirements of the protocol (see Table 1 Acceptable Contraceptive
+             Methods.) Women of childbearing potential must have a negative urine or serum
+             pregnancy test within 24 hours prior to initiation of vaccination;
 
-          -  Women of childbearing potential must have a negative urine or serum pregnancy test
-             within 24 hours prior to initiation of vaccination;
+          6. Pulse no greater than 100 beats per minute;
 
-          -  Male participants of childbearing potential: use of condoms to ensure effective
-             contraception with a female partner from first vaccination until 3 months after the
-             last vaccination.
+          7. Systolic blood pressure (BP) is 85 to 150 mmHg, inclusive;
 
-          -  Male participants agree to refrain from sperm donation from the time of first
-             vaccination until 3 months after the last vaccination.
-
-          -  Pulse no greater than 100 beats per minute;
-
-          -  Systolic blood pressure (BP) is 85 to 150 mmHg, inclusive;
-
-          -  Clinical screening laboratory evaluations (white blood cell (WBC), hemoglobin (Hgb),
+          8. Clinical screening laboratory evaluations [white blood cell (WBC), hemoglobin (Hgb),
              platelets (PLTs), alanine transaminase (ALT), aspartate transaminase (AST), creatinine
              (Cr), alkaline phosphatase (ALP), total bilirubin (T. Bili), Lipase, prothrombin time
-             (PT), and partial thromboplastin time (PTT)) are within acceptable normal reference
-             ranges at the clinical laboratory being used;
+             (PT), partial thromboplastin time (PTT), and C-reactive protein (CRP) reveal no
+             clinically significant abnormalities;
 
-          -  Agree to have samples stored for secondary research.
+          9. Agree to have samples stored for secondary research related to coronaviruses.
 
         Exclusion Criteria:
 
-          -  Positive pregnancy test either at screening or just prior to vaccine administration.
+          1. Positive pregnancy test either at screening or just prior to vaccine administration.
 
-          -  Female participant who is breastfeeding or plans to breastfeed from the time of the
-             first vaccination through 3 months after the last vaccination.
+          2. Female participant who is breastfeeding or plans to breastfeed from the time of the
+             study vaccination through 3 months after the study vaccination.
 
-          -  Has acute or chronic inflammatory condition of the gastrointestinal tract including,
+          3. Has acute or chronic inflammatory condition of the gastrointestinal tract including,
              but not limited to, Crohn's disease, ulcerative colitis, gastritis, proctitis, or any
-             other inflammatory bowel disorder
+             other inflammatory bowel disorder.
 
-          -  Has any medical disease or condition that, in the opinion of the site PI or
+          4. Has any medical disease or condition that, in the opinion of the site PI or
              appropriate sub-investigator, precludes study participation (including but not limited
              to acute, subacute, intermittent or chronic medical disease or condition that would
              place the participant at an unacceptable risk of injury, render the participant unable
              to meet the requirements of the protocol, or may interfere with the evaluation of
              responses or the participant's successful completion of this trial.)
 
-          -  Presence of self-reported or medically documented significant medical or psychiatric
+          5. Presence of self-reported or medically documented significant medical or psychiatric
              condition(s).
 
-          -  Significant medical or psychiatric conditions include but are not limited to:
+             Significant medical or psychiatric conditions include but are not limited to:
 
-        Respiratory disease, significant cardiovascular disease, neurological or neurodevelopmental
-        conditions, ongoing malignancy or recent diagnosis of malignancy in the last five years
-        (excluding basal cell and squamous cell carcinoma of the skin, which are allowed), an
-        autoimmune disease, including hypothyroidism without a defined non-autoimmune cause,
-        localized or history of psoriasis, an immunodeficiency of any cause.
+               -  Respiratory disease (e.g., chronic obstructive pulmonary disease, asthma)
+                  requiring daily medications currently or any treatment of respiratory disease
+                  exacerbations (e.g., asthma exacerbation) in the last 5 years. Asthma
+                  medications: inhaled, oral, or intravenous (IV) corticosteroids, leukotriene
+                  modifiers, long and short acting beta agonists, theophylline, ipratropium,
+                  biologics.
 
-          -  Presence of an indwelling prosthetic device or other foreign vaccination
+               -  Significant cardiovascular disease (e.g., congestive heart failure,
+                  cardiomyopathy, ischemic heart disease) or history of myocarditis or pericarditis
+                  as an adult.
 
-          -  Has a positive test result for hepatitis B surface antigen, hepatitis C virus
+               -  Neurological or neurodevelopmental conditions (e.g., migraines, epilepsy, stroke,
+                  seizures in the last 3 years, encephalopathy, focal neurologic deficits,
+                  Guillain-Barré syndrome, encephalomyelitis or transverse myelitis).
+
+               -  Ongoing malignancy or recent diagnosis of malignancy in the last five years
+                  excluding basal cell and squamous cell carcinoma of the skin, which are allowed.
+
+               -  An autoimmune disease, including hypothyroidism without a defined non-autoimmune
+                  cause, localized or history of psoriasis.
+
+               -  An immunodeficiency of any cause.
+
+               -  Presence of an indwelling prosthetic device or other foreign material.
+
+          6. Has an acute illness, as determined by the site PI or appropriate sub-investigator,
+             with or without fever (oral temperature &gt;38.0 degrees Celsius) within 72 hours prior
+             to the vaccination. (An acute illness which is nearly resolved with only minor
+             residual symptoms remaining is allowable if, in the opinion of the site PI or
+             appropriate sub-investigator, the residual symptoms will not interfere with the
+             ability to assess safety parameters as required by the protocol.)
+
+          7. Has a positive test result for hepatitis B surface antigen, hepatitis C virus
              antibody, or HIV types 1 or 2 antibodies at screening.
 
-          -  Has participated in another investigational study involving any investigational
+          8. Has participated in another investigational study involving any investigational
              product (study drug, biologic or device) within 60 days, or 5 half-lives, whichever is
-             longer, before the first vaccine administration.
+             longer, before the study vaccine administration.
 
-          -  Currently enrolled in or plans to participate in another clinical trial with an
+          9. Currently enrolled in or plans to participate in another clinical trial with an
              investigational agent (including licensed or unlicensed vaccine, drug, biologic,
              device, blood product, or medication) that will be received during the trial period.
 
-          -  Has a history of hypersensitivity or severe allergic reaction (e.g., anaphylaxis,
+         10. Has a history of hypersensitivity or severe allergic reaction (e.g., anaphylaxis,
              generalized urticaria, angioedema, other significant reaction) to any previous
              licensed or unlicensed vaccines.
 
-          -  Chronic use (more than 14 continuous days) of any medications that may be associated
+         11. Chronic use (more than 14 continuous days) of any medications that may be associated
              with impaired immune responsiveness. Including, but not limited to: systemic
              corticosteroids exceeding 10 mg/day of prednisone equivalent, allergy injections,
              immunoglobulin, interferon, immunomodulators, cytotoxic drugs, or other similar or
@@ -238,48 +264,46 @@
              1). The use of low dose topical, ophthalmic, inhaled and intranasal steroid
              preparations will be permitted.
 
-          -  Received immunoglobulins and/or any blood or blood products within the 4 months before
-             the first vaccine administration or at any time during the study.
+         12. Received immunoglobulins and/or any blood or blood products within the 4 months before
+             the study vaccine administration or at any time during the study.
 
-          -  Has any blood dyscrasias or significant disorder of coagulation.
+         13. Has any blood dyscrasias or significant disorder of coagulation.
 
-          -  Has any chronic liver disease, including fatty liver.
+         14. Has any chronic liver disease, including fatty liver.
 
-          -  Has a history of alcohol abuse or other recreational drug (excluding cannabis) use
-             within 6 months before the first vaccine administration.
+         15. Has a history of alcohol abuse or other recreational drug (excluding cannabis) use
+             within 6 months before the study vaccine administration.
 
-          -  Received or plans to receive a licensed, live vaccine within 4 weeks before or after
+         16. Received or plans to receive a licensed, live vaccine within 4 weeks before or after
              each vaccination.
 
-          -  Received or plans to receive a licensed, inactivated vaccine within 2 weeks before or
+         17. Received or plans to receive a licensed, inactivated vaccine within 2 weeks before or
              after each vaccination.
 
-          -  Receipt of any other SARS-CoV-2/COVID-19, or other experimental coronavirus vaccine at
+         18. Receipt of any other SARS-CoV-2/COVID-19, or other experimental coronavirus vaccine at
              any time prior to or during the study.
 
-          -  Known previous laboratory-confirmed SARS-CoV-2/COVID-19 infection.
+         19. Known current or previous laboratory-confirmed SARS CoV-1 OR SARS-CoV-2/COVID-19
+             infection as documented by a positive PCR test from a nasal swab OR positive serology.
 
-          -  Known close contact of anyone with laboratory-confirmed SARS-CoV-2/COVID-19 infection
+         20. Known close contact of anyone with laboratory-confirmed SARS-CoV-2/COVID-19 infection
              within 2 weeks prior to vaccine administration.
 
-          -  Has traveled outside Canada for any duration within 30 days before the first
+         21. Has traveled outside Canada for any duration within 30 days before the study
              vaccination.
 
-          -  Household contact with any medical condition or taking medications that may result in
-             immunosuppression.
+         22. Household contact including neonates up to the age of 28 days with any medical
+             condition or taking medications that may result in immunosuppression.
 
-          -  Current use of any antibiotics or probiotic supplements within 7 days prior to
+         23. Current use of any antibiotics or probiotic supplements within 7 days prior to
              vaccination and any anticipated use for 7 days post vaccination.
 
-          -  The participant must agree to refrain from donating blood or plasma during the study.
-
-          -  Oral temperature is greater than or equal to 37.8 degrees Celsius (temporary exclusion
-             criteria).
+         24. The participant must agree to refrain from donating blood or plasma during the study.
       </textblock>
     </criteria>
     <gender>All</gender>
     <minimum_age>19 Years</minimum_age>
-    <maximum_age>55 Years</maximum_age>
+    <maximum_age>45 Years</maximum_age>
     <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
   </eligibility>
   <overall_official>
@@ -309,7 +333,7 @@
   </overall_contact_backup>
   <location>
     <facility>
-      <name>Vaccine Evaluation Center, BC Children's Research Institute, University of British Columbia.</name>
+      <name>Vaccine Evaluation Center, BC Children's Hospital Research Institute, University of British Columbia.</name>
       <address>
         <city>Vancouver</city>
         <state>British Columbia</state>
@@ -372,9 +396,9 @@
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 8, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 8, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 10, 2020</last_update_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

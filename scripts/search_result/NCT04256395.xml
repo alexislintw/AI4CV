@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="399">
+<clinical_study rank="608">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04256395</url>
   </required_header>
@@ -200,13 +200,21 @@
   <location_countries>
     <country>China</country>
   </location_countries>
+  <link>
+    <url>http://2019-ncov.tsing-care.com/mental-p</url>
+    <description>Chinese Psychological Questionnaire</description>
+  </link>
+  <link>
+    <url>http://covid-19-en.tsing-care.com</url>
+    <description>self-test system</description>
+  </link>
   <verification_date>February 2020</verification_date>
   <study_first_submitted>February 1, 2020</study_first_submitted>
   <study_first_submitted_qc>February 3, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">February 5, 2020</study_first_posted>
-  <last_update_submitted>February 18, 2020</last_update_submitted>
-  <last_update_submitted_qc>February 18, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">February 20, 2020</last_update_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

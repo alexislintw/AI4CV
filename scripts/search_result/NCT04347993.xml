@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="12">
+<clinical_study rank="18">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04347993</url>
   </required_header>
@@ -18,10 +18,6 @@
       <agency>Hackensack Meridian Health</agency>
       <agency_class>Other</agency_class>
     </lead_sponsor>
-    <collaborator>
-      <agency>Cota Inc.</agency>
-      <agency_class>Industry</agency_class>
-    </collaborator>
   </sponsors>
   <source>Hackensack Meridian Health</source>
   <oversight_info>
@@ -199,9 +195,9 @@
   <study_first_submitted>April 13, 2020</study_first_submitted>
   <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 15, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

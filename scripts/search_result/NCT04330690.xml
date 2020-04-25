@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="62">
+<clinical_study rank="99">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04330690</url>
   </required_header>
@@ -288,6 +288,32 @@ death</description>
   </overall_contact_backup>
   <location>
     <facility>
+      <name>University of Alberta Hopsital</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberty</state>
+        <zip>T6G 2B7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nelson Lee, MD</last_name>
+      <phone>780-492-8547</phone>
+      <email>laishunn@ualberta.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kimberly Robertson</last_name>
+      <phone>780-407-6945</phone>
+      <email>Kimberly.Robertson2@albertahealthservices.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nelson Lee, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
       <name>Vancouver General Hospital, Vancouver Coastal Health, Univeristy of British Columbia</name>
       <address>
         <city>Vancouver</city>
@@ -337,6 +363,58 @@ death</description>
     </contact_backup>
     <investigator>
       <last_name>Natasha Press, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Island Health - Royal Jubilee Hospital</name>
+      <address>
+        <city>Victoria</city>
+        <state>British Columbia</state>
+        <zip>V8R 1J8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Ovekim, MD</last_name>
+      <phone>250-370-8261</phone>
+      <email>daniel.ovakim@viha.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Fiona Auld</last_name>
+      <phone>250-213-7778</phone>
+      <email>fiona.auld@viha.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Daniel Ovekim, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Island Health - Victoria General Hospital</name>
+      <address>
+        <city>Victoria</city>
+        <state>British Columbia</state>
+        <zip>V8Z 6R5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Ovekim, MD</last_name>
+      <phone>250-370-8261</phone>
+      <email>daniel.ovakim@viha.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Fiona Auld</last_name>
+      <phone>250-213-7778</phone>
+      <email>fiona.auld@viha.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Daniel Ovekim, MD</last_name>
       <role>Principal Investigator</role>
     </investigator>
   </location>
@@ -393,6 +471,32 @@ death</description>
     </contact_backup>
     <investigator>
       <last_name>Shane English, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North York General Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M2K 1E1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna Geagea, MD</last_name>
+      <phone>514-813-2211</phone>
+      <email>anna.geagea@nygh.on.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maria Scglag</last_name>
+      <phone>416-580-0791</phone>
+      <email>Maria.Schlag@nygh.on.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Anna Geagea, MD</last_name>
       <role>Principal Investigator</role>
     </investigator>
   </location>
@@ -566,9 +670,9 @@ death</description>
   <study_first_submitted>March 23, 2020</study_first_submitted>
   <study_first_submitted_qc>March 31, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 1, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

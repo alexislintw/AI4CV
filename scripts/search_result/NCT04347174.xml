@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="128">
+<clinical_study rank="195">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04347174</url>
   </required_header>
@@ -69,62 +69,62 @@
     <masking_description>Investigator, patient and study staff will be blinded to the study treatment.</masking_description>
   </study_design_info>
   <primary_outcome>
-    <measure>SOFA scores</measure>
-    <time_frame>Change in SOFA score from baseline to day 3</time_frame>
-    <description>To study the effect of Mw on recovery of organ function as assessed by SOFA scores</description>
+    <measure>Sequential Organ Failure Assessment (SOFA) scores</measure>
+    <time_frame>Change in Sequential Organ Failure Assessment (SOFA) score from baseline to day 3</time_frame>
+    <description>To study the effect of Mw on recovery of organ function as assessed by Sequential Organ Failure Assessment (SOFA) which is based on six different scores, one for each of the respiratory, cardiovascular, hepatic, coagulation, renal and neurological systems each scored from 0 to 4 with an increasing score reflecting worsening organ dysfunction</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>SOFA scores</measure>
-    <time_frame>Change in SOFA score from baseline to day 7</time_frame>
-    <description>To study the effect of Mw on recovery of organ function as assessed by SOFA scores</description>
+    <measure>Sequential Organ Failure Assessment (SOFA) scores</measure>
+    <time_frame>Change in Sequential Organ Failure Assessment (SOFA) score from baseline to day 7</time_frame>
+    <description>To study the effect of Mw on recovery of organ function as assessed by Sequential Organ Failure Assessment (SOFA) scores which is based on six different scores, one for each of the respiratory, cardiovascular, hepatic, coagulation, renal and neurological systems each scored from 0 to 4 with an increasing score reflecting worsening organ dysfunction</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>SOFA scores</measure>
-    <time_frame>Change in SOFA score from baseline to day 14</time_frame>
-    <description>To study the effect of Mw on recovery of organ function as assessed by SOFA scores</description>
+    <measure>Sequential Organ Failure Assessment (SOFA) scores</measure>
+    <time_frame>Change in Sequential Organ Failure Assessment (SOFA) score from baseline to day 14</time_frame>
+    <description>To study the effect of Mw on recovery of organ function as assessed by Sequential Organ Failure Assessment (SOFA) scores which is based on six different scores, one for each of the respiratory, cardiovascular, hepatic, coagulation, renal and neurological systems each scored from 0 to 4 with an increasing score reflecting worsening organ dysfunction</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>SOFA scores</measure>
-    <time_frame>Change in SOFA score from baseline to day 21</time_frame>
-    <description>To study the effect of Mw on recovery of organ function as assessed by SOFA scores</description>
+    <measure>Sequential Organ Failure Assessment (SOFA) scores</measure>
+    <time_frame>Change in Sequential Organ Failure Assessment (SOFA) score from baseline to day 21</time_frame>
+    <description>To study the effect of Mw on recovery of organ function as assessed by Sequential Organ Failure Assessment (SOFA) scores which is based on six different scores, one for each of the respiratory, cardiovascular, hepatic, coagulation, renal and neurological systems each scored from 0 to 4 with an increasing score reflecting worsening organ dysfunction</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>SOFA scores</measure>
-    <time_frame>Change in SOFA score from baseline to day 28</time_frame>
-    <description>To study the effect of Mw on recovery of organ function as assessed by SOFA scores</description>
+    <measure>Sequential Organ Failure Assessment (SOFA) scores</measure>
+    <time_frame>Change in Sequential Organ Failure Assessment (SOFA) score from baseline to day 28</time_frame>
+    <description>To study the effect of Mw on recovery of organ function as assessed by Sequential Organ Failure Assessment (SOFA) scores which is based on six different scores, one for each of the respiratory, cardiovascular, hepatic, coagulation, renal and neurological systems each scored from 0 to 4 with an increasing score reflecting worsening organ dysfunction</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>SOFA scores</measure>
-    <time_frame>Change in SOFA score from baseline to day of transfer from ICU, if earlier than 28 days.</time_frame>
-    <description>To study the effect of Mw on recovery of organ function as assessed by SOFA scores</description>
+    <measure>Sequential Organ Failure Assessment (SOFA) scores</measure>
+    <time_frame>Change in Sequential Organ Failure Assessment (SOFA) score from baseline to day of transfer from ICU, if earlier than 28 days.</time_frame>
+    <description>To study the effect of Mw on recovery of organ function as assessed by Sequential Organ Failure Assessment (SOFA) scores which is based on six different scores, one for each of the respiratory, cardiovascular, hepatic, coagulation, renal and neurological systems each scored from 0 to 4 with an increasing score reflecting worsening organ dysfunction</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Ordinal scale</measure>
+    <measure>7-category ordinal scale that ranges from 1 (not hospitalized with resumption of normal activities) to 7 (death)</measure>
     <time_frame>Change in Ordinal scale from baseline to day 3</time_frame>
     <description>To study the effect of Mw on recovery of organ function as assessed by Ordinal scale</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Ordinal scale</measure>
+    <measure>7-category ordinal scale that ranges from 1 (not hospitalized with resumption of normal activities) to 7 (death)</measure>
     <time_frame>Change in Ordinal scale from baseline to day 7</time_frame>
     <description>To study the effect of Mw on recovery of organ function as assessed by Ordinal scale</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Ordinal scale</measure>
+    <measure>7-category ordinal scale that ranges from 1 (not hospitalized with resumption of normal activities) to 7 (death)</measure>
     <time_frame>Change in Ordinal scale from baseline to day 14</time_frame>
     <description>To study the effect of Mw on recovery of organ function as assessed by Ordinal scale</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Ordinal scale</measure>
+    <measure>7-category ordinal scale that ranges from 1 (not hospitalized with resumption of normal activities) to 7 (death)</measure>
     <time_frame>Change in Ordinal scale from baseline to day 21</time_frame>
     <description>To study the effect of Mw on recovery of organ function as assessed by Ordinal scale</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Ordinal scale</measure>
+    <measure>7-category ordinal scale that ranges from 1 (not hospitalized with resumption of normal activities) to 7 (death)</measure>
     <time_frame>Change in Ordinal scale from baseline to day 28</time_frame>
     <description>To study the effect of Mw on recovery of organ function as assessed by Ordinal scale</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Ordinal scale</measure>
+    <measure>7-category ordinal scale that ranges from 1 (not hospitalized with resumption of normal activities) to 7 (death)</measure>
     <time_frame>Change in Ordinal scale from baseline to day of transfer from ICU, if earlier than 28 days.</time_frame>
     <description>To study the effect of Mw on recovery of organ function as assessed by Ordinal scale</description>
   </primary_outcome>
@@ -255,6 +255,11 @@
     <phone_ext>270</phone_ext>
     <email>sanjay.p@cadilapharma.co.in</email>
   </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anil Avhad, MBBS</last_name>
+    <phone>+919833454044</phone>
+    <email>anil.avhad@cadilapharma.co.in</email>
+  </overall_contact_backup>
   <location>
     <facility>
       <name>Postgraduate Institute of Medical Education and Research</name>
@@ -273,13 +278,13 @@
   <location_countries>
     <country>India</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>April 11, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 15, 2020</study_first_posted>
-  <last_update_submitted>April 11, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 11, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 17, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="226">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04358068</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG A5395</org_study_id>
+    <secondary_id>38720</secondary_id>
+    <nct_id>NCT04358068</nct_id>
+  </id_info>
+  <brief_title>Evaluating the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-controlled Trial to Evaluate the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Teva Pharmaceuticals Industries LTD</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy of hydroxychloroquine (HCQ) and
+      azithromycin (Azithro) to prevent hospitalization or death in symptomatic adult outpatients
+      with COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This Phase IIB study will evaluate the efficacy of hydroxychloroquine (HCQ) and azithromycin
+      (Azithro) to prevent hospitalization or death in symptomatic adult outpatients with COVID-19.
+
+      Participants will be randomized 1:1 to receive active/placebo study treatment as follows:
+      HCQ/Placebo 600 mg immediately followed by 200 mg three times a day for 7 days and
+      Azithro/Placebo 500 mg on the first day, followed by 250 mg daily for 4 days.
+
+      Stratification will be by &quot;high&quot; versus &quot;low&quot; risk of progression to severe COVID-19 disease,
+      where &quot;high risk&quot; is defined as a person age ≥60 years or having at least one of several
+      specified comorbidities.
+
+      Participants will receive study treatment for 7 days and will be followed for an additional
+      23 weeks. Assessments on a subset of 200 participants will include blood collection,
+      self-collected nasal swabs, and nasopharyngeal swabs.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2020</start_date>
+  <completion_date type="Anticipated">March 5, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 9, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants who died from any cause or were hospitalized</measure>
+    <time_frame>Measured during the 21-day period from and including the day of the first (confirmed) dose of study treatment</time_frame>
+    <description>Hospitalization is defined as requiring at least 24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted to address needs during the COVID-19 pandemic. Evaluation at a hospital or similar facility with less than 24 hours of acute care is not considered a hospitalization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who died from any cause</measure>
+    <time_frame>Measured during the 21-day period from and including the day of the first (confirmed) dose of study treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who died from any cause, or were hospitalized, or had an urgent visit to emergency room or clinic</measure>
+    <time_frame>Measured during the 21-day period from and including the day of the first (confirmed) dose of study treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who died from any cause or were hospitalized through the end of follow-up</measure>
+    <time_frame>Measured during the 24-week period from and including the day of the first (confirmed) dose of study treatment</time_frame>
+    <description>Hospitalization is defined as requiring at least 24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted to address needs during the COVID-19 pandemic. Evaluation at a hospital or similar facility with less than 24 hours of acute care is not considered a hospitalization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who prematurely discontinue study treatment due to an adverse event</measure>
+    <time_frame>Measured through Day 7</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who had any cardiac adverse events</measure>
+    <time_frame>Measured from start of study treatment through Day 20</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of fever</measure>
+    <time_frame>Measured through Day 20</time_frame>
+    <description>Defined as the last day in the participant's daily diary card on which a temperature greater than 100.4°F was recorded or a potentially antipyretic drug, such as acetaminophen or ibuprofen, was taken.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of symptoms associated with COVID-19 disease</measure>
+    <time_frame>Measured through Day 20</time_frame>
+    <description>Defined as the last day in the participant's daily diary card on which a moderate or worse symptom was recorded</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participant-specific area under the curve of total symptom score associated with COVID-19 disease over time</measure>
+    <time_frame>Measured through Day 20</time_frame>
+    <description>Defined as the sum of scores for the targeted symptoms (defined in the protocol) in the participant's daily diary record (each individual symptom is scored from 0 to 3).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to self-reported return to usual (pre-COVID) health.</measure>
+    <time_frame>Measured through Day 20</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 RNA detection status from self-collected nasal and site-collected NP swabs among subset</measure>
+    <time_frame>Measured at entry, Day 6, and Day 20</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 RNA level (continuous) from self-collected nasal and site-collected NP swabs among subset</measure>
+    <time_frame>Measured at entry, Day 6, and Day 20</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV 2</condition>
+  <arm_group>
+    <arm_group_label>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Day 0-6/7: Hydroxychloroquine 600 mg (administered as three 200 mg capsules) as a single dose on Day 0, then in 6-8 hours begin 200 mg (administered as one 200 mg capsule) three times daily for 21 doses (total of 4800 mg over 7 days).
+Days 0-4: Azithromycin 500 mg (administered as two 250 mg capsules) as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) once daily for 4 doses (4 days, Days 1-4).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Placebo for Hydroxychloroquine and Azithromycin</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Days 0-6/7: Placebo for Hydroxychloroquine (administered as three matching placebo capsules) as a single dose on Day 0, then in 6-8 hours begin 200 mg (administered as one 200 mg capsule) three times daily for 21 doses (7 days).
+Days 0-4: Placebo for Azithromycin (administered as two matching placebo capsules) as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) once daily for 4 doses (4 days, Days 1-4).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine (HCQ)</intervention_name>
+    <description>Administered orally</description>
+    <arm_group_label>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Azithromycin (Azithro)</intervention_name>
+    <description>Administered orally</description>
+    <arm_group_label>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for Hydroxychloroquine</intervention_name>
+    <description>Administered orally</description>
+    <arm_group_label>Arm B: Placebo for Hydroxychloroquine and Azithromycin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for Azithromycin</intervention_name>
+    <description>Administered orally</description>
+    <arm_group_label>Arm B: Placebo for Hydroxychloroquine and Azithromycin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Documentation of confirmed active severe acute respiratory syndrome coronavirus
+             (SARS-CoV-2) infection
+
+          -  Experiencing at least one of the following SARS-CoV-2 infection symptoms: fever (can
+             be subjective) OR cough OR shortness of breath.
+
+          -  Agrees to not participate in another clinical trial for the treatment of COVID-19 or
+             SARS-CoV-2 during the study period up until reaching hospitalization or 21 days,
+             whichever is earliest.
+
+          -  Agrees to not obtain study medications outside of the A5395 study.
+
+        Exclusion Criteria:
+
+          -  Need for hospitalization or immediate medical attention in the clinical opinion of the
+             study investigator.
+
+          -  History of or current hospitalization for COVID-19.
+
+          -  History of ventricular arrhythmia or on antiarrhythmics.
+
+          -  Personal or family history of Long QT syndrome.
+
+          -  History of kidney disease.
+
+          -  History of ischemic or structural heart disease.
+
+          -  Personal medical history of porphyria, retinopathy, severe hepatic impairment, or
+             glucose-6-phosphate dehydrogenase (G6PD) deficiency.
+
+          -  Use of drugs with possible anti-SARS-CoV-2 activity within 30 days prior to study
+             entry, e.g., remdesivir, lopinavir/ritonavir fixed dose combination, ribavirin,
+             chloroquine, hydroxychloroquine, and azithromycin, or participation in a clinical
+             trial involving any of these drugs whether for treatment or prophylaxis.
+
+          -  Use of antiepileptic drugs.
+
+          -  Requirement or expected requirement for a medication that significantly prolongs QT
+
+          -  Participating in a study where co-enrollment is not allowed.
+
+          -  Receipt of a SARS-CoV-2 vaccination prior to study entry.
+
+          -  Known allergy/sensitivity or any hypersensitivity to components of HCQ, azithromycin,
+             or their formulation.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Davey Smith, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of California, San Diego</affiliation>
+  </overall_official>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 22, 2020</study_first_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Azithromycin</mesh_term>
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie results in the publication, after deidentification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Beginning 3 months following publication and available throughout period of funding of the AIDS Clinical Trials Group by NIH.</ipd_time_frame>
+    <ipd_access_criteria>With whom?
+Researchers who provide a methodologically sound proposal for use of the data that is approved by the AIDS Clinical Trials Group.
+For what types of analyses?
+To achieve aims in the proposal approved by the AIDS Clinical Trials Group.
+By what mechanism will data be made available?
+Researchers may submit a request for access to data using the AIDS Clinical Trials Group &quot;Data Request&quot; form at: https://actgnetwork.org/about-actg/templates-and-forms. Researchers of approved proposals will need to sign an AIDS Clinical Trials Group Data Use Agreement before receiving the data.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

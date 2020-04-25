@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="113">
+<clinical_study rank="171">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04320615</url>
   </required_header>
@@ -35,8 +35,8 @@
   </brief_summary>
   <overall_status>Recruiting</overall_status>
   <start_date type="Actual">April 3, 2020</start_date>
-  <completion_date type="Anticipated">September 30, 2021</completion_date>
-  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <completion_date type="Anticipated">September 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2020</primary_completion_date>
   <phase>Phase 3</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
@@ -67,10 +67,6 @@
     <time_frame>Up to Day 28</time_frame>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Organ Failure-Free Days to Day 28</measure>
-    <time_frame>Up to Day 28</time_frame>
-  </secondary_outcome>
-  <secondary_outcome>
     <measure>Incidence of Intensive Care Unit (ICU) Stay</measure>
     <time_frame>Up to 60 days</time_frame>
   </secondary_outcome>
@@ -80,7 +76,7 @@
   </secondary_outcome>
   <secondary_outcome>
     <measure>Time to Clinical Failure</measure>
-    <time_frame>From first dose to time of death, mechanical ventilation, ICU admission, or study withdrawal (whichever occurs first, for up to 60 days)</time_frame>
+    <time_frame>From first dose to time of death, mechanical ventilation, ICU admission, or study withdrawal (whichever occurs first, for up to 60 days). If already in ICU on ventilation, failure = a one-category worsening on the ordinal scale, withdrawal, or death</time_frame>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Mortality Rate</measure>
@@ -178,7 +174,7 @@
              within the next 24 hours, irrespective of the provision of treatments
 
           -  Have received oral anti-rejection or immunomodulatory drugs (including TCZ) with the
-             past 6 months
+             past 3 months
 
           -  Participating in other drug clinical trials (participation in COVID-19 anti-viral
              trials may be permitted if approved by Medical Monitor)
@@ -194,11 +190,11 @@
              of the study
 
           -  Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) &gt; 10 x upper limit
-             of normal (ULN) detected within 24 hours at screening or at baseline (per local lab)
+             of normal (ULN) detected within 24 hours at screening (per local lab)
 
-          -  Absolute neutrophil count (ANC) &lt; 1000/mL at screening and baseline (per local lab)
+          -  Absolute neutrophil count (ANC) &lt; 1000/mL at screening (per local lab)
 
-          -  Platelet count &lt; 50,000/mL at screening and baseline (per local lab)
+          -  Platelet count &lt; 50,000/mL at screening (per local lab)
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -238,7 +234,7 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -250,7 +246,19 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -262,7 +270,7 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -286,7 +294,7 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -294,11 +302,11 @@
       <address>
         <city>Springfield</city>
         <state>Massachusetts</state>
-        <zip>01107</zip>
+        <zip>01199</zip>
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -310,7 +318,7 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -334,7 +342,7 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -358,7 +366,7 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -374,6 +382,18 @@
   </location>
   <location>
     <facility>
+      <name>Evergreen Health Infectious Disease</name>
+      <address>
+        <city>Kirkland</city>
+        <state>Washington</state>
+        <zip>98034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Swedish Hospital Medical Center</name>
       <address>
         <city>Seattle</city>
@@ -382,7 +402,7 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -406,7 +426,7 @@
         <country>Canada</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -418,7 +438,7 @@
         <country>Canada</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -429,7 +449,7 @@
         <country>Denmark</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -440,7 +460,7 @@
         <country>Denmark</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -451,7 +471,7 @@
         <country>Denmark</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -462,7 +482,7 @@
         <country>Denmark</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -473,7 +493,7 @@
         <country>France</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -495,7 +515,7 @@
         <country>France</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -514,6 +534,17 @@
       <address>
         <city>Paris</city>
         <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HOPITAL COCHIN university hospital</name>
+      <address>
+        <city>Paris</city>
+        <zip>75014</zip>
         <country>France</country>
       </address>
     </facility>
@@ -539,7 +570,7 @@
         <country>Germany</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -550,7 +581,7 @@
         <country>Germany</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -572,7 +603,7 @@
         <country>Germany</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -583,7 +614,7 @@
         <country>Germany</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -631,6 +662,18 @@
         <country>Italy</country>
       </address>
     </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera San Gerardo di Monza</name>
+      <address>
+        <city>Monza MI</city>
+        <state>Lombardia</state>
+        <zip>20900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
     <status>Not yet recruiting</status>
   </location>
   <location>
@@ -665,7 +708,7 @@
         <country>Netherlands</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -676,7 +719,7 @@
         <country>Netherlands</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -687,7 +730,7 @@
         <country>Netherlands</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -699,7 +742,7 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -710,7 +753,7 @@
         <country>Spain</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -758,6 +801,28 @@
   </location>
   <location>
     <facility>
+      <name>Hospital Universitario HM Sanchinarro-CIOCC</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28050</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Greater Glasgow and Clyde Health Board</name>
+      <address>
+        <city>Glasgow</city>
+        <zip>G12 8TA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Leeds Teaching Hospitals NHS Trust</name>
       <address>
         <city>Leeds</city>
@@ -765,7 +830,7 @@
         <country>United Kingdom</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -776,7 +841,7 @@
         <country>United Kingdom</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -798,7 +863,7 @@
         <country>United Kingdom</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -809,7 +874,7 @@
         <country>United Kingdom</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
   </location>
   <location_countries>
     <country>Canada</country>
@@ -826,9 +891,9 @@
   <study_first_submitted>March 23, 2020</study_first_submitted>
   <study_first_submitted_qc>March 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 25, 2020</study_first_posted>
-  <last_update_submitted>April 6, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
@@ -838,8 +903,9 @@
   </condition_browse>
   <patient_data>
     <sharing_ipd>Yes</sharing_ipd>
-    <ipd_description>Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.clinicalstudydatarequest.com).
-Further details on Roche's criteria for eligible studies are available here: https://clinicalstudydatarequest.com/Study-Sponsors/Study-Sponsors-Roche.aspx For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here: (https://www.roche.com/research_and_development/who_we_are_how_we_work/clinical_trials/our_commitment_to_data_sharing.htm</ipd_description>
+    <ipd_description>Qualified researchers may request access to individual patient level data through the clinical study data request platform https://vivli.org.
+Further details on Roche's criteria for eligible studies are available here: https://vivli.org.
+For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here: (https://www.roche.com/research_and_development/who_we_are_how_we_work/clinical_trials/our_commitment_to_data_sharing.htm</ipd_description>
   </patient_data>
   <!-- Results have not yet been posted for this study                                          -->
 </clinical_study>

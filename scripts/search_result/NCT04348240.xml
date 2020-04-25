@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="149">
+<clinical_study rank="228">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348240</url>
   </required_header>
@@ -12,7 +12,7 @@
     <secondary_id>20-D-0094</secondary_id>
     <nct_id>NCT04348240</nct_id>
   </id_info>
-  <brief_title>Transmissibility and Viral Load of SARS-CoV-2 Through Oral Secretions</brief_title>
+  <brief_title>Transmissibility and Viral Load of SARS-CoV-2 in Oral Secretions</brief_title>
   <official_title>Transmissibility and Viral Load of SARS-CoV-2 Through Oral Secretions</official_title>
   <sponsors>
     <lead_sponsor>
@@ -23,15 +23,53 @@
   <source>National Institutes of Health Clinical Center (CC)</source>
   <brief_summary>
     <textblock>
-      COVID-19 is a worldwide pandemic without an effective therapy. Recent reports have implicated
-      asymptomatic transmission accounts for at least 25% of SARS-CoV-2 cases. We hypothesize that
-      droplet emission from oral fluids generated during speaking could be an important and
-      actionable factor driving asymptomatic transmission. Recent data from our lab has suggested
-      salivary glands may be an early site of SARS-CoV-2 replication with presumably high viral
-      loads in oral secretions. We aim to collect nasal and oral secretions to test for viral load
-      and viral infectivity in 1) asymptomatic high-risk subjects with unknown SARS-CoV-2 status,
-      but with a history of close personal contact with a SARS-CoV-2 positive person and2)
-      asymptomatic or mildly symptomatic subjects who SARS-CoV-2 positive.
+      Background:
+
+      COVID-19 is a worldwide pandemic and currently there is no effective therapy or vaccine.
+      SARS-CoV-2, the virus that causes the COVID-19 respiratory infection, appears to be very
+      contagious however all the modes of transmission are unclear. Transmission may occur in up to
+      25 percent of cases when there are no symptoms (asymptomatic). Before there are any symptoms,
+      droplet spray during speaking may increase transmission from person to person; most of the
+      spray is saliva. Researchers at the NIH would like to test saliva for the virus before
+      symptoms are reported. Additionally, they would like to examine the importance of using masks
+      to prevent transmission. They hope to better understand how COVID-19 is spread among people
+      and how it can be prevented.
+
+      Objectives:
+
+      To determine if the SARS-CoV-2 virus is present in saliva in asymptomatic individuals who are
+      COVID-19 positive.
+
+      To determine if using masks can prevent transmission.
+
+      Eligibility:
+
+      People ages 18 and older without symptoms of COVID-19 who have been in close contact (e.g.
+      live in the same house) with someone who has tested positive for COVID-19 or NIH workers who
+      have tested positive for COVID-19 and have mild or no symptoms.
+
+      Design and Procedures:
+
+      For screening, interested participants will contact a study team member. The interested
+      participant will be asked to provide documentation of COVID-19 positive status, their
+      symptoms, or their contact to a COVID-19 positive person.
+
+      Participants will have weekly telephone calls to discuss their symptoms and 2-5 drive-up
+      visits to the NIH within 28 days.
+
+      At the drive-up facility, participants will participate in a speaking exercise with and
+      without wearing a mask. The droplets they produce while they speak will be collected.
+      Participants will spit into a cup and have saliva collected from different areas of the
+      mouth. They should not eat 90 minutes before this but drinking water or juice is acceptable.
+      They may have their tongue painted with a sour liquid to increase their saliva. Participants
+      will have a swab rubbed inside their nose. For those who are close contacts and need a
+      COVID-19 test, they will have a swab inserted through the nose to rub the back of their
+      throat.
+
+      Participants will complete questionnaires about their symptoms electronically at home.
+
+      If at any time the participants start to have moderate or severe respiratory symptoms, their
+      participation will end and they should seek care with their local provider.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -48,7 +86,7 @@
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
-  <start_date type="Anticipated">April 21, 2020</start_date>
+  <start_date type="Actual">April 16, 2020</start_date>
   <completion_date type="Anticipated">July 1, 2020</completion_date>
   <primary_completion_date type="Anticipated">July 1, 2020</primary_completion_date>
   <study_type>Observational</study_type>
@@ -127,9 +165,9 @@
     <affiliation>National Institute of Dental and Craniofacial Research (NIDCR)</affiliation>
   </overall_official>
   <overall_contact>
-    <last_name>Blake M Warner, D.D.S.</last_name>
-    <phone>(301) 496-4486</phone>
-    <email>blake.warner@nih.gov</email>
+    <last_name>Eileen M Pelayo</last_name>
+    <phone>(301) 594-3097</phone>
+    <email>eileen.pelayo@nih.gov</email>
   </overall_contact>
   <location>
     <facility>
@@ -168,13 +206,13 @@
     <citation>Fauci AS, Lane HC, Redfield RR. Covid-19 - Navigating the Uncharted. N Engl J Med. 2020 Mar 26;382(13):1268-1269. doi: 10.1056/NEJMe2002387. Epub 2020 Feb 28.</citation>
     <PMID>32109011</PMID>
   </reference>
-  <verification_date>April 14, 2020</verification_date>
+  <verification_date>April 22, 2020</verification_date>
   <study_first_submitted>April 15, 2020</study_first_submitted>
   <study_first_submitted_qc>April 15, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 15, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

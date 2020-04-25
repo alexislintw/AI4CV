@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="551">
+<clinical_study rank="811">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04336410</url>
   </required_header>
@@ -39,8 +39,8 @@
   </brief_summary>
   <overall_status>Recruiting</overall_status>
   <start_date type="Actual">April 3, 2020</start_date>
-  <completion_date type="Anticipated">November 2020</completion_date>
-  <primary_completion_date type="Anticipated">November 2020</primary_completion_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
   <phase>Phase 1</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
@@ -52,23 +52,23 @@
   </study_design_info>
   <primary_outcome>
     <measure>Percentage of Participants with Adverse Events (AEs)</measure>
-    <time_frame>Baseline up to Week 28</time_frame>
+    <time_frame>Baseline up to Week 52</time_frame>
   </primary_outcome>
   <primary_outcome>
     <measure>Percentage of Participants with Administration (Injection) Site Reactions</measure>
-    <time_frame>Day 0 up to Week 28</time_frame>
+    <time_frame>Day 0 up to Week 52</time_frame>
   </primary_outcome>
   <primary_outcome>
     <measure>Percentage of Participants with Adverse Events of Special Interest (AESIs)</measure>
-    <time_frame>Baseline up to Week 28</time_frame>
+    <time_frame>Baseline up to Week 52</time_frame>
   </primary_outcome>
   <primary_outcome>
     <measure>Change from Baseline in Antigen-Specific Binding Antibody Titers</measure>
-    <time_frame>Baseline up to Week 28</time_frame>
+    <time_frame>Baseline up to Week 52</time_frame>
   </primary_outcome>
   <primary_outcome>
     <measure>Change from Baseline in Antigen-Specific Interferon-Gamma (IFN-γ) Cellular Immune Response</measure>
-    <time_frame>Baseline up to Week 28</time_frame>
+    <time_frame>Baseline up to Week 52</time_frame>
   </primary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">40</enrollment>
@@ -110,8 +110,10 @@
           -  Screening laboratory results within normal limits or deemed not clinically significant
              by the Investigator.
 
+          -  Body Mass Index of 18-30 kg/m^2, inclusive, at screening.
+
           -  Negative serological tests for Hepatitis B surface antigen (HBsAg), Hepatitis C
-             antibody and Human Immunodeficiency Virus (HIV) antibody screening.
+             antibody and Human Immunodeficiency Virus (HIV) antibody at screening.
 
           -  Screening electrocardiogram (ECG) deemed by the Investigator as having no clinically
              significant findings (e.g. Wolff-Parkinson-White syndrome).
@@ -122,19 +124,27 @@
 
         Exclusion Criteria:
 
-          -  Pregnant or breastfeeding, or intending to become pregnant or father children within
+          -  Pregnant or breastfeeding or intending to become pregnant or father children within
              the projected duration of the trial from screening until 3 months following last dose.
 
           -  Is currently participating in or has participated in a study with an investigational
              product within 30 days preceding Day 0.
 
           -  Previous exposure to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) or
-             receipt of an investigational vaccine product for the prevention of COVID-19, middle
-             east respiratory syndrome (MERS) or severe acute respiratory syndrome (SARS).
+             receipt of an investigational product for the prevention or treatment of COVID-19,
+             middle east respiratory syndrome (MERS), or severe acute respiratory syndrome (SARS).
+
+          -  In a current occupation with high risk of exposure to SARS-CoV-2 (e.g., health care
+             workers or emergency response personnel having direct interactions with or providing
+             direct care to patients).
 
           -  Current or history of the following medical conditions:
 
                -  Respiratory diseases
+
+               -  Hypersensitivity or severe allergic reactions to vaccines or drugs
+
+               -  Diagnosis of diabetes mellitus
 
                -  Hypertension
 
@@ -148,20 +158,22 @@
 
                -  Long term use (≥7 days) of oral or parenteral glucocorticoids
 
-               -  Current or anticipated use of disease-modifying doses of anti-rheumatic drugs
-                  (and biologic disease-modifying drugs
+               -  Current or anticipated use of disease-modifying doses of anti-rheumatic drugs and
+                  biologic disease-modifying drugs
 
                -  History of solid organ or bone marrow transplantation
 
                -  Prior history of other clinically significant immunosuppressive or clinically
                   diagnosed autoimmune disease
 
-          -  Fewer than two acceptable sites are available for intradermal (ID) injection and
+          -  Fewer than two acceptable sites available for intradermal (ID) injection and
              electroporation (EP) considering the deltoid and anterolateral quadriceps muscles.
+
+          -  Reported smoking, vaping, or active drug, alcohol or substance abuse or dependence.
 
           -  Any physical examination findings and/or history of any illness that, in the opinion
              of the study investigator, might confound the results of the study or pose an
-             additional risk to the patient by their participation in the study.
+             additional risk to the patient by their participation in the study
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -218,9 +230,9 @@
   <study_first_submitted>April 3, 2020</study_first_submitted>
   <study_first_submitted_qc>April 3, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 7, 2020</study_first_posted>
-  <last_update_submitted>April 7, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

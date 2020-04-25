@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="159">
+<clinical_study rank="237">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04317040</url>
   </required_header>
@@ -36,7 +36,7 @@
       Arm A: CD24Fc/Best Available Treatment; Arm B: placebo/ Best Available Treatment. CD24Fc will
       be administered as single dose of 480 mg via IV infusion on Day 1. Total of 230 subjects will
       be enrolled and randomized in 1:1 ratio to receive CD24Fc or placebo. All subjects will be
-      treated with the best available treatment. The follow up period is 15 days.
+      treated with the best available treatment. The follow up period is 28 days.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -72,7 +72,8 @@
       from 83% to 33%. Therefore, CD24Fc maybe a prime candidate for non-antiviral biological
       modifier for COVID-19 therapy. The phase III trial will involve 230 patients randomized into
       blinded placebo and CD24Fc arms, with time to clinical improvement from severe to mild
-      symptom as the primary endpoint.
+      symptom, or disease progression to invasive mechanical ventilation or ESMO or death, as the
+      two co-primary endpoints.
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
@@ -93,6 +94,16 @@
     <time_frame>14 days</time_frame>
     <description>Time to improve in clinical status: the time (days) required from the start of treatment to the improvement of clinical status &quot;severe&quot; to &quot;moderate/mild&quot;; or improvement from &quot;scale 3 or 4&quot; to &quot;scale 5 or higher&quot; based on NIAID ordinal scales.</description>
   </primary_outcome>
+  <primary_outcome>
+    <measure>Disease progression of COVID-19</measure>
+    <time_frame>28 days</time_frame>
+    <description>Time for disease progression from NIAID scale 3 or 4 to scale 2 or 1, and patients need to be on invasive mechanical ventilation, or ESMO, or death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All cause of death</measure>
+    <time_frame>28 days</time_frame>
+    <description>All cause of death</description>
+  </secondary_outcome>
   <secondary_outcome>
     <measure>Conversion rate of clinical status at Day 8</measure>
     <time_frame>7 days</time_frame>
@@ -105,42 +116,37 @@
   </secondary_outcome>
   <secondary_outcome>
     <measure>Hospital discharge time</measure>
-    <time_frame>14 days</time_frame>
+    <time_frame>28 days</time_frame>
     <description>The discharge time or NEWS2 (National Early Warning Score 2) of ≤2 is maintained for 24 hours</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>All cause of death</measure>
-    <time_frame>14 days</time_frame>
-    <description>All cause of death</description>
-  </secondary_outcome>
-  <secondary_outcome>
     <measure>Duration of mechanical ventilation</measure>
-    <time_frame>14 days</time_frame>
+    <time_frame>28 days</time_frame>
     <description>Duration of mechanical ventilation (IMV, NIV) (days)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Duration of pressors</measure>
-    <time_frame>14 days</time_frame>
+    <time_frame>28 days</time_frame>
     <description>Duration of pressors (days)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Duration of ECMO</measure>
-    <time_frame>14 days</time_frame>
+    <time_frame>28 days</time_frame>
     <description>Duration of extracorporeal membrane oxygenation (days)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Duration of oxygen therapy</measure>
-    <time_frame>14 days</time_frame>
+    <time_frame>28 days</time_frame>
     <description>Duration of oxygen therapy (oxygen inhalation by nasal cannula or mask) (days)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Length of hospital stay</measure>
-    <time_frame>14 days</time_frame>
+    <time_frame>28 days</time_frame>
     <description>Length of hospital stay (days)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Absolute lymphocyte count</measure>
-    <time_frame>14 days</time_frame>
+    <time_frame>28 days</time_frame>
     <description>Changes of absolute lymphocyte count in peripheral blood</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
@@ -183,13 +189,13 @@
 
           4. Able to sign the consent form.
 
-          5. Severe COVID-19 (Appendix A), or NIAID 7-point ordinal score 3 to 4 (requiring
+          5. Severe COVID-19 (Appendix A), or NIAID 8-point ordinal score 3 to 4 (requiring
              non-invasive ventilation or oxygen, a SpO2 &lt;/= 94% or tachypnea (respiratory rate &gt;/=
              24 breaths/min), Appendix B).
 
         Exclusion Criteria:
 
-          1. Patients with COVID 19 in critical condition or ARDS (Appendix A) or NIAID 7-point
+          1. Patients with COVID 19 in critical condition or ARDS (Appendix A) or NIAID 8-point
              ordinal score 2 (Hospitalized, on invasive mechanical ventilation or extracorporeal
              membrane oxygenation (ECMO)).
 
@@ -231,6 +237,42 @@
   </overall_contact_backup>
   <location>
     <facility>
+      <name>Baptist Health Research Institute</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Martin Army Community Hospital</name>
+      <address>
+        <city>Fort Benning</city>
+        <state>Georgia</state>
+        <zip>31905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Anne Anundel Medical Center</name>
+      <address>
+        <city>Annapolis</city>
+        <state>Maryland</state>
+        <zip>21401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Institute of Human Virology, University of Maryland Baltimore</name>
       <address>
         <city>Baltimore</city>
@@ -240,6 +282,78 @@
       </address>
     </facility>
     <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>White Oak Medical Center</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cooper University Hospital</name>
+      <address>
+        <city>Camden</city>
+        <state>New Jersey</state>
+        <zip>08103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals of Cleveland</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State University Medical Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University Medical Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Vermont Medical Center</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location_countries>
     <country>United States</country>
@@ -268,9 +382,9 @@
   <study_first_submitted>March 19, 2020</study_first_submitted>
   <study_first_submitted_qc>March 19, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 20, 2020</study_first_posted>
-  <last_update_submitted>April 8, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 8, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 10, 2020</last_update_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

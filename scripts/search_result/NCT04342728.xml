@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="619">
+<clinical_study rank="852">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04342728</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>IRB 20-361</org_study_id>
     <nct_id>NCT04342728</nct_id>
   </id_info>
-  <brief_title>Coronavirus 2019- Using Ascorbic Acid and Zinc Supplementation</brief_title>
+  <brief_title>Coronavirus 2019 (COVID-19)- Using Ascorbic Acid and Zinc Supplementation</brief_title>
   <acronym>COVIDAtoZ</acronym>
   <official_title>Coronavirus Disease 2019- Using Ascorbic Acid and Zinc Supplementation (COVIDAtoZ) Research Study A Randomized, Open Label Single Center Study</official_title>
   <sponsors>
@@ -204,6 +204,8 @@
         Current known pregnancy Positive pregnancy test (women of child bearing potential who have
         not had previous sterilization as defined as hysterectomy or tubal ligation)
 
+          -  Lactating women
+
           -  End stage CKD (Chronic kidney disease)
 
           -  Advanced liver disease awaiting transplant
@@ -239,9 +241,9 @@
   <study_first_submitted>April 8, 2020</study_first_submitted>
   <study_first_submitted_qc>April 8, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 13, 2020</study_first_posted>
-  <last_update_submitted>April 10, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 17, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>The Cleveland Clinic</investigator_affiliation>

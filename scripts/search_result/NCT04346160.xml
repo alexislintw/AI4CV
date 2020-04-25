@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="534">
+<clinical_study rank="788">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04346160</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>UChieti03</org_study_id>
     <nct_id>NCT04346160</nct_id>
   </id_info>
-  <brief_title>A Study to Assess the Virus, RNA, and miRNA Levels Related to Viral Infection, and Inflammatory Response in Tears of Patients Affected by COVID-19 Disease</brief_title>
+  <brief_title>A Study to Assess the Virus RNA, and miRNA Levels Related to Viral Infection, and Inflammatory Response in Tears of Patients Affected by COVID-19 Disease</brief_title>
   <official_title>Tear Fluid miRNA Analysis in Sars-Cov2 Conjunctivitis</official_title>
   <sponsors>
     <lead_sponsor>
@@ -26,7 +26,7 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      The aim of this study is to assess the virus, RNA, and mRNA levels related to viral
+      The aim of this study is to assess the virus RNA, and miRNA levels related to viral
       infection, and inflammatory response in tears of hospitalized patients with a diagnosis of
       COVID-19 with and without conjunctivitis and to correlate them with clinical condition.
 
@@ -62,12 +62,14 @@
     <time_perspective>Prospective</time_perspective>
   </study_design_info>
   <primary_outcome>
-    <measure>virus RNA and miRNA levels in tears</measure>
+    <measure>virus molecular analysis</measure>
     <time_frame>2 weeks</time_frame>
+    <description>- to asses virus RNA and miRNA levels in tears</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>inflammatory response in tears</measure>
+    <measure>host molecular analysis</measure>
     <time_frame>2 weeks</time_frame>
+    <description>- to asses inflammatory response molecules</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Epidemiologic data</measure>
@@ -180,9 +182,9 @@
   <study_first_submitted>April 10, 2020</study_first_submitted>
   <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 15, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>G. d'Annunzio University</investigator_affiliation>

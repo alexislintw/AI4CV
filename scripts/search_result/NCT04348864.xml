@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="330">
+<clinical_study rank="508">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348864</url>
   </required_header>
@@ -29,19 +29,20 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      The goal of the research is to assess candidate rapid (5-15 min) antibody tests in order to
-      judge their clinical accuracy compared to Centers for Disease Control (CDC)-recommended
-      molecular genetic testing and clinical diagnosis. Second, it is our goal to determine if
-      self-testing assisted by a mobile device camera acquisition software and telemedicine support
-      (virtual point-of-care) improves the ease of use and interpretation of the tests, thus making
-      self-testing comparable to testing in a clinical setting. The overall purpose of the study is
-      to dramatically increase the capacity of COVID-19 testing by establishing the safety,
-      ease-of-use and validity of finger-stick capillary blood self-testing assisted by mobile
-      device imaging and telemedicine remote support..
+      The goal of the research is to assess candidate COVID-19 rapid (5-15 min) antibody tests in
+      order to judge their clinical accuracy compared to Centers for Disease Control
+      (CDC)-recommended molecular genetic testing and clinical diagnosis. Second, it is our goal to
+      determine if self-testing assisted by a mobile device camera acquisition software and
+      telemedicine clinical/technical support (virtual point-of-care) improves the ease of use and
+      interpretation of the tests, thus making self-testing comparable in accuracy and safety to
+      testing in a clinical setting. The overall purpose of the study is to dramatically increase
+      the capacity of COVID-19 testing by establishing the safety, ease-of-use and validity of
+      finger-stick capillary blood self-testing assisted by mobile device imaging and telemedicine
+      remote support.
     </textblock>
   </brief_summary>
   <overall_status>Recruiting</overall_status>
-  <start_date type="Anticipated">April 2020</start_date>
+  <start_date type="Actual">April 16, 2020</start_date>
   <completion_date type="Anticipated">April 2021</completion_date>
   <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
   <phase>N/A</phase>
@@ -73,7 +74,7 @@
   <secondary_outcome>
     <measure>Ease of self-testing procedure</measure>
     <time_frame>1 year</time_frame>
-    <description>Subjects will complete a survey to rate the testing procedure for ease of use and convenience.</description>
+    <description>Subjects will complete a survey to rate the testing procedure for ease of use and convenience. The survey will ask subjects to rate the ease of use on a scale from 1 (easiest procedure to complete and understand) to 10 (most complicated and confusing procedure)</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">100</enrollment>
@@ -86,17 +87,17 @@
   <arm_group>
     <arm_group_label>Positive-PCR swab for SARS-COV-2</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Subjects who have tested positive for the presence of SARS-COV-2 viral antigen using nasal pharyngeal swab administered in a clinical setting by a trained clinician. PCR-based testing occurs in an advanced laboratory.</description>
+    <description>Subjects who have tested positive for the presence of SARS-COV-2 viral antigen using nasal pharyngeal self-swab or a swab administered in a clinical setting by a trained clinician. PCR-based testing occurs in an advanced laboratory.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Negative-PCR swab for SARS-COV-2</arm_group_label>
     <arm_group_type>Sham Comparator</arm_group_type>
-    <description>Subjects who have tested negative for the presence of SARS-COV-2 viral antigen using nasal pharyngeal swabs for viral antigen using nasal pharyngeal swab administered in a clinical setting by a trained clinician. PCR-based testing occurs in an advanced laboratory</description>
+    <description>Subjects who have tested negative for the presence of SARS-COV-2 viral antigen using nasal pharyngeal self-swab or a swab administered in a clinical setting by a trained clinician. PCR-based testing occurs in an advanced laboratory.</description>
   </arm_group>
   <intervention>
     <intervention_type>Diagnostic Test</intervention_type>
     <intervention_name>COVID-19 IgM/IgG Rapid Testing, mobile device image capture and telemedicine support</intervention_name>
-    <description>An immunodiagnostic rapid (10-20 minute) test detects circulating antibodies (IgM and IgG) in the blood, serum or plasma of individuals who have been infected with the novel coronavirus SARS-COV-2 in the past.</description>
+    <description>An immunodiagnostic rapid (5-20 minute) test detects circulating antibodies (IgM and IgG) in the blood, serum or plasma of individuals who have been infected with the novel coronavirus SARS-COV-2 in the past.</description>
     <arm_group_label>Negative-PCR swab for SARS-COV-2</arm_group_label>
     <arm_group_label>Positive-PCR swab for SARS-COV-2</arm_group_label>
   </intervention>
@@ -111,24 +112,34 @@
   <eligibility>
     <criteria>
       <textblock>
-        Inclusion Criteria: Individuals who have experienced symptoms of COVID-19 and have been
-        tested using a CDC approved or FDA registered and listed nucleic acid based test within 1
-        year of Feb 1, 2020. Individuals who are at the time of enrollment in the study currently
-        or in the recent past (3 weeks) exhibiting symptoms of COVID-19. Individuals capable of
-        performing a finger stick blood drop draw and placing it on the sample well. Individuals
-        that have interacted with a COVID-19 positive individual and are still exhibiting symptoms
-        will be tested by the Colorado Department of Public Health with a CDC approved or FDA
-        registered nucleic acid based device. Individuals must be capable of navigating a mobile
-        device to take an image of the test using the camera and enter information into fields on
-        the device and wireless/cellular capability to upload one or more images to a website
-        server.
+        Inclusion Criteria:
+
+          -  Individuals who have experienced symptoms of COVID-19 and have been tested using a CDC
+             approved or FDA registered and listed nucleic acid based test within 1 year of Feb 1,
+             2020.
+
+          -  Individuals who are at the time of enrollment in the study currently or in the recent
+             past (3 weeks) exhibiting symptoms of COVID-19.
+
+          -  Individuals capable of performing a finger stick blood drop draw and placing it on the
+             sample well.
+
+          -  Individuals that have interacted with a COVID-19 positive individual and are still
+             exhibiting symptoms will be tested by the Colorado Department of Public Health with a
+             CDC approved or FDA registered nucleic acid based device.
+
+          -  Individuals must be capable of navigating a mobile device to take an image of the test
+             using the camera and enter information into fields on the device and wireless/cellular
+             capability to upload one or more images to a website server.
 
         Exclusion Criteria: Individuals incapable of pricking their finger and placing a drop of
-        blood into a sample well. Individuals who cannot navigate a mobile device and see the
-        screen to navigate and enter information in fields or align the camera with the test image.
-        Pregnant woman are not excluded if they meet the inclusion criteria and age requirements.
+        blood into a sample well.
 
-        -
+          -  Individuals who cannot navigate a mobile device and see the screen to navigate and
+             enter information in fields or align the camera with the test image.
+
+          -  Pregnant woman are not excluded if they meet the inclusion criteria and age
+             requirements.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -136,14 +147,19 @@
     <maximum_age>99 Years</maximum_age>
     <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
   </eligibility>
+  <overall_official>
+    <last_name>Donald Cooper, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Neuroganics LLC</affiliation>
+  </overall_official>
   <overall_contact>
     <last_name>Donald Cooper, Ph.D.</last_name>
     <phone>7204313495</phone>
-    <email>drdon@neuroganicslabs.com</email>
+    <email>COVID19study@protonmail.com</email>
   </overall_contact>
   <overall_contact_backup>
     <last_name>Joe Ramos, MD/JD</last_name>
-    <email>drjoe@neuroganicslabs.com</email>
+    <email>COVID19study@protonmail.com</email>
   </overall_contact_backup>
   <location>
     <facility>
@@ -159,11 +175,11 @@
     <contact>
       <last_name>Donald Cooper, Ph.D.</last_name>
       <phone>720-431-3495</phone>
-      <email>drdon@neuroganicslabs.com</email>
+      <email>covid19study@protonmail.com</email>
     </contact>
     <contact_backup>
       <last_name>Joe Ramos, MD/JD</last_name>
-      <email>DrJoe@@neuroganicslabs.com</email>
+      <email>covid19study@protonmail.com</email>
     </contact_backup>
   </location>
   <location_countries>
@@ -172,10 +188,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 13, 2020</study_first_submitted>
   <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 13, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

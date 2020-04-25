@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="224">
+<clinical_study rank="347">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04347681</url>
   </required_header>
@@ -147,7 +147,7 @@
       from the medical community to treat COVID-19 patients.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
+  <overall_status>Recruiting</overall_status>
   <start_date type="Anticipated">April 12, 2020</start_date>
   <completion_date type="Anticipated">April 11, 2021</completion_date>
   <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
@@ -296,6 +296,7 @@
         <country>Saudi Arabia</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Yem Abulhamayel, MD</last_name>
     </contact>
@@ -316,6 +317,7 @@
         <country>Saudi Arabia</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Arwa Nabhan, MD</last_name>
     </contact>
@@ -332,6 +334,19 @@
         <country>Saudi Arabia</country>
       </address>
     </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Hani Al-Hashmi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Afra Al-Dayel, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ahmed Albahrani, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
   </location>
   <location>
     <facility>
@@ -341,6 +356,7 @@
         <country>Saudi Arabia</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Rehab Al-Ansari, MD</last_name>
     </contact>
@@ -357,6 +373,7 @@
         <country>Saudi Arabia</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Mohammed Albalawi, MD</last_name>
     </contact>
@@ -373,6 +390,7 @@
         <country>Saudi Arabia</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Mona Alfaraj, MD</last_name>
     </contact>
@@ -389,6 +407,14 @@
         <country>Saudi Arabia</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ahmed Al Askar, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Ahmed Al Askar, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
   </location>
   <location>
     <facility>
@@ -398,6 +424,7 @@
         <country>Saudi Arabia</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Nawal AlShehry, MD</last_name>
     </contact>
@@ -414,6 +441,7 @@
         <country>Saudi Arabia</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Jawaher AlOtaibi, MD</last_name>
     </contact>
@@ -434,6 +462,7 @@
         <country>Saudi Arabia</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Nour AlMozain, MD</last_name>
     </contact>
@@ -453,9 +482,9 @@
   <study_first_submitted>April 8, 2020</study_first_submitted>
   <study_first_submitted_qc>April 12, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 15, 2020</study_first_posted>
-  <last_update_submitted>April 12, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 12, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

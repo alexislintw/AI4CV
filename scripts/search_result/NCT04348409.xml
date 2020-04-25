@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="91">
+<clinical_study rank="142">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348409</url>
   </required_header>
@@ -56,7 +56,7 @@
       This is a proof of concept study to evaluate the efficacy of nitazoxanide (600 mg BID) to
       treat hospitalized patients with moderate COVID-19.
 
-      We aim to demonstrate decrease in hospital related complications among patients who are
+      The aim is to demonstrate a decrease in hospital related complications among patients who are
       hospitalized with moderate COVID-19 by treating them with nitazoxanide for 7 days on top of
       standard care compared to patients who receive standard care and placebo.
 
@@ -64,7 +64,7 @@
       either nitazoxanide or placebo.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
+  <overall_status>Recruiting</overall_status>
   <start_date type="Anticipated">April 12, 2020</start_date>
   <completion_date type="Anticipated">June 30, 2020</completion_date>
   <primary_completion_date type="Anticipated">May 31, 2020</primary_completion_date>
@@ -91,7 +91,7 @@
   <secondary_outcome>
     <measure>Change in Clinical Condition</measure>
     <time_frame>21 days</time_frame>
-    <description>WHO ordinal scale that measures illness severity over time</description>
+    <description>WHO Ordinal Scale for Clinical Improvement that measures illness severity over time (0=uninfected; ambulatory, no limitation of activities=1; ambulatory, limitation of activities=2, hospitalized no oxygen therapy=3; hospitalized oxygen by mask or nasal prongs=4; hospitalized non invasive ventilation or high-flow oxygen=5; hospitalized intubation or mechanical ventilation=6; hospitalized ventilation + additional organ support=7; death=8)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Hospital discharge</measure>
@@ -187,12 +187,28 @@
   </overall_contact_backup>
   <location>
     <facility>
+      <name>Hospital Vera Cruz</name>
+      <address>
+        <city>Campinas</city>
+        <state>São Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Florentino de Araujo Cardoso Filho</last_name>
+      <email>florentino.cardoso@hospitalcare.com.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
       <name>Centro de Genomas</name>
       <address>
         <city>São Paulo</city>
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <contact>
       <last_name>Ricardo Diaz, MD, PhD</last_name>
       <phone>+55 11 991090445</phone>
@@ -207,6 +223,7 @@
         <country>Brazil</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <contact>
       <last_name>Sérgio Cimerman, MD, PhD</last_name>
       <phone>+55 11 98377-7272</phone>
@@ -219,10 +236,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 3, 2020</study_first_submitted>
   <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 13, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

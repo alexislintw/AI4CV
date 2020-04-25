@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="600">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04360096</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RLF-100_002</org_study_id>
+    <nct_id>NCT04360096</nct_id>
+  </id_info>
+  <brief_title>Inhaled Aviptadil for the Treatment of Non-Acute Lung Injury in COVID-19</brief_title>
+  <acronym>AVINALI</acronym>
+  <official_title>Inhaled Aviptadil for the Treatment of Non-Acute Lung Injury in COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NeuroRx, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NeuroRx, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Brief Summary:
+
+      SARS-CoV-2 virus infection is known to cause Lung Injury that begins as dyspnea and exercise
+      intolerance, but may rapidly progress to Acute Respiratory Distress Syndrome and the need for
+      mechanical ventilation. Mortality rates as high as 80% have been reported among those who
+      develop ARDS, despite intensive care and mechanical ventilation.
+
+      Patients with COVID-19 induced non-Acute Lung Injury who have demonstrated reduction in blood
+      oxygenation, dyspnea, and exercise intolerance but do not require endotracheal intubation and
+      mechanical ventilation will be treated with Aviptadil, a synthetic version of Vasoactive
+      Intestinal Polypeptide (VIP) plus Standard of Care vs. placebo + Standard of Care. Patients
+      will be randomized to intravenous Aviptadil will receive inhaled Aviptadil, 100 μg 3x daily
+      vs. placebo 3x daily. The primary outcome will be progression to ARDS over 28 days. Secondary
+      outcomes will include blood oxygenation as measured by pulse oximetry, dyspnea, exercise
+      tolerance, and levels of TNFα IL-6 and other cytokines.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Detailed Description:
+
+      Acute Respiratory Distress Syndrome (ARDS) is a known lethal complication of Corona Virus
+      (SARS-CoV-2) infection. Conventional medical therapy, including intensive care and
+      respiratory support is associated with an 80% mortality.
+
+      The objective of this study is to identify patients with non-Acute Lung Injury (NALI) in
+      COVID-19 and treat them with inhaled Vasoactive Intestinal Polypeptide (VIP) in the hope of
+      preventing progression from NALI to Acute Lung Injury and ARDS. Aviptadil, a synthetic form
+      of Vasoactive Intestinal Polypeptide (VIP) has been awarded FDA Orphan Drug Designation for
+      the treatment of ARDS.
+
+      Nonclinical studies demonstrate that VIP is highly concentrated in the lung, where it
+      prevents NMDA-induced caspase-3 activation in the lung, inhibits IL6 and TNFa production,
+      protects against HCl-induced pulmonary edema, These and other effects have been observed in
+      numerous animal model systems of lung injury in mice, rats, guinea pigs, sheep, swine, and
+      dogs. In these models, Aviptadil restores barrier function at the endothelial/alveolar
+      interface and thereby protects the lung and other organs from failure.
+
+      Aviptadil is approved for human use in Europe and has a demonstrated 20 year history of
+      safety in numerous trials for Sarcoid, Pulmonary Fibrosis, Bronchospasm, Erectile
+      Dysfunction, and a phase I trial in ARDS. In that phase I trial, 8 patients with severe ARDS
+      on mechanical ventilation were treated with ascending doses of VIP. Seven of the 8 patients
+      were successfully extubated and were alive at the five day timepoint. Six left the hospital
+      and one died of an unrelated cardiac event.
+
+      Five phase 2 trials of aviptadil have been conducted under European regulatory authority.
+      Numerous healthy volunteer studies have shown that i.v. infusion of Aviptadil is well
+      tolerated with few adverse effects including alterations in blood pressure, heart rate, or
+      ECG. In addition to published studies of human use, Aviptadil has been used on a compounded
+      basis in certain ICUs for many years in the belief that it preserves life and restores
+      function in pulmonary hypertension, ARDS, and Acute Lung Injury (ALI).
+
+      In this study, patients who are hospitalized for COVID-19 infection with NALI but no evidence
+      of ARDS will be randomly allocated to Aviptadil administered by inhalation in addition to
+      Standard of Care vs. Placebo plus Standard of Care. Primary endpoints will be progression to
+      ARDS over 28 days and improvement in blood oxygenation. Secondary outcomes will include blood
+      oxygenation as measured by pulse oximetry, dyspnea, exercise tolerance, and levels of TNFα
+      IL-6 and other cytokines.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2020</start_date>
+  <completion_date type="Anticipated">October 1, 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2020</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Multicenter Randomized Placebo-controlled Trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Only the study pharmacist will be aware of treatment assignment</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression to ARDS</measure>
+    <time_frame>28 days</time_frame>
+    <description>Progression to ARDS is defined as the need for mechanical ventilation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Blood oxygenation</measure>
+    <time_frame>28 days</time_frame>
+    <description>Blood PO2 as measured by pulse oximetry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>RDP Dsypnea Scale</measure>
+    <time_frame>28 days</time_frame>
+    <description>0 = no shortness of breath at all 0.5 = very, very slight shortness of breath
+= very mild shortness of breath
+= mild shortness of breath
+= moderate shortness of breath or breathing difficulty
+= somewhat severe shortness of breath
+= strong or hard breathing
+7 = severe shortness of breath or very hard breathing 8 9 = extremely severe shortness of breath 10 = shortness of breath so severe you need to stop the exercise or activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Distance walked in six minutes</measure>
+    <time_frame>28 days</time_frame>
+    <description>Distance walked in six minutes</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">144</enrollment>
+  <condition>SARS-CoV 2</condition>
+  <condition>COVID</condition>
+  <condition>ARDS</condition>
+  <condition>ALI</condition>
+  <condition>Acute Lung Injury/Acute Respiratory Distress Syndrome (ARDS)</condition>
+  <condition>Dyspnea</condition>
+  <arm_group>
+    <arm_group_label>Inhaled Aviptadil (VIP)+Standard of Care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients to be treated with inhaled Aviptadil 100μg 3x daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo+Standard of Care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients to be treated with inhaled placebo 3x daily</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aviptadil (VIP)</intervention_name>
+    <description>Inhaled Aviptadil 100μg 3x daily</description>
+    <arm_group_label>Inhaled Aviptadil (VIP)+Standard of Care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Normal Saline Inhalation</description>
+    <arm_group_label>Placebo+Standard of Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. COVID-19 with evidence of Lung Injury as demonstrated by PO2 of &lt;90 measured by pulse
+             oximetry.
+
+          2. Physician determination that patient is on maximal SOC therapy-
+
+        Exclusion Criteria:
+
+          1. Evidence of ARDS or need for mechanical ventilation
+
+          2. Impending ICU admission
+
+          3. Pregnancy;
+
+          4. Age &lt;18 years;
+
+          5. Diastolic pressure &lt; 65 mm Hg;
+
+          6. Irreversible underlying condition with projected fatal course;
+
+          7. Immunosuppressive treatment for transplant or other reasons;
+
+          8. Cancer, renal failure, congestive heart failure, neurological disorder
+
+          9. Recent myocardial infarction
+
+         10. Diarrhea
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonathan C Javitt, MD, MPH</last_name>
+    <role>Study Chair</role>
+    <affiliation>NeuroRx</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Robert E Besthof, MIM</last_name>
+    <phone>+48425461134</phone>
+    <email>rbesthof@neurorxpharma.com</email>
+  </overall_contact>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Corona Virus</keyword>
+  <keyword>VIP</keyword>
+  <keyword>Aviptadil</keyword>
+  <keyword>Vasoactive Intestinal Polypeptide</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Dyspnea</mesh_term>
+    <mesh_term>Lung Injury</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

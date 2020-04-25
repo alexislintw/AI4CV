@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="26">
+<clinical_study rank="39">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04344145</url>
   </required_header>
@@ -118,8 +118,8 @@
       26.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 15, 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 16, 2020</start_date>
   <completion_date type="Anticipated">July 15, 2020</completion_date>
   <primary_completion_date type="Anticipated">June 15, 2020</primary_completion_date>
   <study_type>Observational</study_type>
@@ -146,7 +146,7 @@
   <secondary_outcome>
     <measure>Needs and difficulties in work situations</measure>
     <time_frame>1 assessment time, at inclusion</time_frame>
-    <description>Measured with the Needs and Difficulties Inventory (developed for the study). This scale has been set up for this study. This is a 19-item scale, divided into 5 sub-scales: information/communication (3 items), practical (6 items), physical (4 items), emotional (4 items) and ethical (2 items). The NDI has a 4-point Likert scale. Responses options range from &quot; Not at all agree &quot; to &quot; Totally agree &quot; (0-3 score range). The NDI provides 5 sub-scales scores by summing all sub-scales items: information/communication, 0-9; practical, 0-18; physical, 0-12; emotional, 0-12 and ethical, 0-6. As a no-validated scale, scores and their treatment will be taken into account with caution. In order to compare sub-scales with each other, each sub-scale score must be divided by its maximum value, providing a coefficient (0-1).</description>
+    <description>Measured with the Needs and Difficulties Inventory (developed for the study). This scale has been set up for this study. This is a 17-item scale, divided into 5 sub-scales: information/communication (3 items), practical (4 items), physical (4 items), emotional (4 items) and ethical (2 items). The NDI has a 4-point Likert scale. Responses options range from &quot; Not at all agree &quot; to &quot; Totally agree &quot; (0-3 score range). The NDI provides 5 sub-scales scores by summing all sub-scales items: information/communication, 0-9; practical, 0-12; physical, 0-12; emotional, 0-12 and ethical, 0-6. As a no-validated scale, scores and their treatment will be taken into account with caution. In order to compare sub-scales with each other, each sub-scale score must be divided by its maximum value, providing a coefficient (0-1).</description>
   </secondary_outcome>
   <number_of_groups>2</number_of_groups>
   <enrollment type="Anticipated">200</enrollment>
@@ -204,6 +204,36 @@
     <phone>+3225553557</phone>
     <email>Andree.Marcoen@erasme.ulb.ac.be</email>
   </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Erasme Hospital CUB</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julien Tiete, PhD</last_name>
+      <phone>25555265</phone>
+      <phone_ext>+32</phone_ext>
+      <email>julien.tiete@erasme.ulb.ac.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Andrée Marcoen</last_name>
+      <phone>25555206</phone>
+      <phone_ext>+32</phone_ext>
+      <email>andree.marcoen@erasme.ulb.ac.be</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Julien Tiete, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
   <results_reference>
     <citation>Vandenbroeck S, Van Gerven E, De Witte H, Vanhaecht K, Godderis L. Burnout in Belgian physicians and nurses. Occup Med (Lond). 2017 Oct 1;67(7):546-554. doi: 10.1093/occmed/kqx126.</citation>
     <PMID>29016982</PMID>
@@ -281,9 +311,9 @@
   <study_first_submitted>April 9, 2020</study_first_submitted>
   <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 14, 2020</study_first_posted>
-  <last_update_submitted>April 9, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Université Libre de Bruxelles</investigator_affiliation>

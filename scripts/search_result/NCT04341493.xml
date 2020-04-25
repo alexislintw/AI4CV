@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="475">
+<clinical_study rank="716">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04341493</url>
   </required_header>
@@ -96,12 +96,12 @@
   <arm_group>
     <arm_group_label>Nitazoxanide + hydroxychloroquine</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Hydroxychloroquine 200 mg twice daily every 12 hours for 10 days plus Nitazoxanide 500 mg twice daily every 12 hours for 10 days.</description>
+    <description>Hydroxychloroquine 400 mg PO every 12 hours for two days and then 200 mg PO every 12 hours for four days + Nitazoxanide 500 mg PO every 6 hours for six days</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Hydroxychloroquine</arm_group_label>
     <arm_group_type>Active Comparator</arm_group_type>
-    <description>Hydroxychloroquine 200 mg twice daily every 12 hours for 10 days</description>
+    <description>Hydroxychloroquine 200 mg PO every 12 hours for 7 days</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
@@ -144,8 +144,13 @@
     <role>Principal Investigator</role>
     <affiliation>Hospital Materno-Perinatal &quot;Mónica Pretelini Sáenz&quot;</affiliation>
   </overall_official>
+  <overall_official>
+    <last_name>Srivatsan Padmanabhan, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>St. Joseph Medical Center</affiliation>
+  </overall_official>
   <overall_contact>
-    <last_name>Hugo Mendieta Zerón, PhD.</last_name>
+    <last_name>Hugo Mendieta Zerón, MD, PhD.</last_name>
     <phone>+52-722-276-5540</phone>
     <phone_ext>90712</phone_ext>
     <email>drmendietaz@yahoo.com</email>
@@ -190,9 +195,9 @@
   <study_first_submitted>April 7, 2020</study_first_submitted>
   <study_first_submitted_qc>April 7, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 10, 2020</study_first_posted>
-  <last_update_submitted>April 7, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 10, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>Materno-Perinatal Hospital of the State of Mexico</investigator_affiliation>

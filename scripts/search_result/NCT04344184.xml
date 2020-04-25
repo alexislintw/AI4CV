@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="277">
+<clinical_study rank="437">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04344184</url>
   </required_header>
@@ -46,19 +46,15 @@
       Vitamin C is a safe and possibly effective treatment for ARDS and has been described to be
       effective for ARDS of viral origin.
 
-      A double-blind, placebo-controlled randomized control trial from our institution involving
-      167 patients with ARDS who were randomized to receive 50 mg/kg every 6 hours of HDIVC for 4
-      days versus placebo showed a statistically significant difference in 28-day all-cause
-      mortality. The 28-day mortality was 29.8% in the vitamin C group versus 46.3% in the placebo
-      group, although this was a secondary outcome.
+      A double-blind, placebo-controlled randomized control trial involving 167 patients with ARDS
+      who were randomized to receive 50 mg/kg every 6 hours of HDIVC for 4 days versus placebo
+      showed a statistically significant difference in 28-day all-cause mortality. The 28-day
+      mortality was 29.8% in the vitamin C group versus 46.3% in the placebo group, although this
+      was a secondary outcome.
 
       This can be translated as a Number Needed to Treat (NNT) of 6-8 patients to save one life
       from ARDS. The statistical effect on mortality remained up to 60-days following trial
       completion.
-
-      We, therefore, cannot withhold the treatment from patients with ARDS. It remains unknown if
-      HDIVC given early can prevent the progression to ARDS and if it is effective in COVID-19
-      ARDS.
 
       The first study, published in 1986, treated 16 ARDS patients with intravenous vitamin C (1000
       mg IV every 6 hours) plus antioxidants versus 16 ARDS patients who received the standard care
@@ -76,8 +72,8 @@
 
       To assess the treatment effect of a 72-hour intravenous vitamin C infusion protocol (100
       mg/kg every 8 hours) in patients with hypoxemia and suspected COVID-19 (Novel Coronavirus
-      ID-19). In the course of performing this phase 2 trial we will explore three following
-      hypotheses:
+      ID-19). In the course of performing this phase 2 trial researchers will explore three
+      following hypotheses:
 
       Primary Endpoint: HDIVC infusion will increase 28-day ventilator-free days. Secondary
       Endpoint A: HDIVC infusion will reduce 28-day all-cause hospital mortality.
@@ -90,9 +86,9 @@
     </textblock>
   </detailed_description>
   <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 22, 2020</start_date>
+  <start_date type="Anticipated">June 2020</start_date>
   <completion_date type="Anticipated">May 2021</completion_date>
-  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
   <phase>Phase 2</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
@@ -141,8 +137,13 @@
     <intervention_name>L-ascorbic acid</intervention_name>
     <description>100 mg/kg intravenous vitamin C infusion every 8 hours for up to 72 hours</description>
     <arm_group_label>Infusion</arm_group_label>
-    <arm_group_label>Standard of care</arm_group_label>
     <other_name>Vitamin C, Intravenous</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Dextrose 5% Water</description>
+    <arm_group_label>Standard of care</arm_group_label>
   </intervention>
   <eligibility>
     <criteria>
@@ -273,9 +274,9 @@
   <study_first_submitted>April 9, 2020</study_first_submitted>
   <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 14, 2020</study_first_posted>
-  <last_update_submitted>April 9, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

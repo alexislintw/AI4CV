@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="561">
+<clinical_study rank="824">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04349371</url>
   </required_header>
@@ -178,7 +178,7 @@
   </overall_contact>
   <overall_contact_backup>
     <last_name>Tommy Chen</last_name>
-    <phone>347-788-7856</phone>
+    <phone>212-342-9051</phone>
     <email>tkc2120@cumc.columbia.edu</email>
   </overall_contact_backup>
   <location>
@@ -199,12 +199,20 @@
     </contact>
     <contact_backup>
       <last_name>Tommy Chen</last_name>
-      <phone>347-788-7856</phone>
+      <phone>2123429051</phone>
       <email>tkc2120@cumc.columbia.edu</email>
     </contact_backup>
     <investigator>
       <last_name>Anca D. Askanase, MD, MPH</last_name>
       <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Deborah A Theodore, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Yevgeniya Gartshyten, MD</last_name>
+      <role>Sub-Investigator</role>
     </investigator>
   </location>
   <location_countries>
@@ -213,10 +221,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 12, 2020</study_first_submitted>
   <study_first_submitted_qc>April 15, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 15, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Columbia University</investigator_affiliation>

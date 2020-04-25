@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="515">
+<clinical_study rank="761">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04321278</url>
   </required_header>
@@ -98,12 +98,17 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
   <primary_outcome>
     <measure>Evaluation of the clinical status</measure>
     <time_frame>15 days after randomization</time_frame>
-    <description>Evaluation of the clinical status of patients on the 15th day after randomization defined by the Ordinal Scale of 7 points (score ranges from 1 to 7, with 7 being the worst score)</description>
+    <description>Evaluation of the clinical status of patients on the 15th day after randomization defined by the Ordinal Scale of 6 points (score ranges from 1 to 6, with 6 being the worst score)</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>All-cause mortality</measure>
     <time_frame>29 days after randomization</time_frame>
     <description>All-cause mortality rates at 29 days after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the clinical status</measure>
+    <time_frame>7 and 29 days after randomization</time_frame>
+    <description>Evaluation of the clinical status of patients on the 7th and 29th day after randomization defined by the Ordinal Scale of 6 points (score ranges from 1 to 6, with 6 being the worst score)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Number of days free from mechanical ventilation</measure>
@@ -130,6 +135,26 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
     <time_frame>7, 15 and 29 days after randomization</time_frame>
     <description>Time from treatment start to death</description>
   </secondary_outcome>
+  <other_outcome>
+    <measure>QT interval prolongation</measure>
+    <time_frame>7, 15 and 29 days after randomization</time_frame>
+    <description>Occurrence of QT interval prolongation</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Gastrointestinal intolerance</measure>
+    <time_frame>7, 15 and 29 days after randomization</time_frame>
+    <description>Occurrence of gastrointestinal intolerance</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Laboratory albnormalities</measure>
+    <time_frame>7, 15 and 29 days after randomization</time_frame>
+    <description>Occurrence of laboratory albnormalities in red blood cell count, creatinine and bilirubin</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>7, 15 and 29 days after randomization</time_frame>
+    <description>Occurrence of adverse events related to the use of the investigational products</description>
+  </other_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">440</enrollment>
   <condition>Coronavirus Infections</condition>
@@ -191,23 +216,24 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
              times the upper limit values (alanine aminotransferase -ALT and aspartate
              aminotransferase - AST);
 
-          7. Renal dysfunction (estimated glomerular filtration rate [eGFR] &lt;30 mL/min/1.73m2,
-             using the MDRD or CKD-EPI methods);
+          7. Patients with retinopathy or macular degeneration;
 
-          8. Patients with retinopathy or macular degeneration;
+          8. Patients with pancreatitis;
 
-          9. Patients with pancreatitis;
+          9. Patients using drugs that prolong the QT interval;
 
-         10. Patients using drugs that prolong the QT interval;
-
-         11. Patients with concomitant use of medications that alter the absorption or excretion of
+         10. Patients with concomitant use of medications that alter the absorption or excretion of
              azithromycin or hydroxychloroquine;
 
-         12. Breastfeeding women;
+         11. Breastfeeding women;
 
-         13. Patients using psychoactive drugs;
+         12. Patients using psychoactive drugs;
 
-         14. Pregnancy.
+         13. Pregnancy;
+
+         14. Patients using the study drugs for more than 48 hrs;
+
+         15. Patients with the beginning of symptoms for more than 14 days.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -257,7 +283,7 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
         <country>Brazil</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Rodrigo C Figueiredo, MD</last_name>
     </contact>
@@ -293,7 +319,7 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
         <country>Brazil</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Frederico TC DallOrto, MD</last_name>
     </contact>
@@ -322,6 +348,42 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
   </location>
   <location>
     <facility>
+      <name>Hospital Adventista de Belém</name>
+      <address>
+        <city>Belém</city>
+        <state>Pará</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edgar B Sobrinho, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Edgar B Sobrinho, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Giselda Trigueiro</name>
+      <address>
+        <city>Natal</city>
+        <state>Rio Grande Do Norte</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eveline P Milan, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Eveline P Milan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
       <name>Hospital Universitário Onofre Lopes</name>
       <address>
         <city>Natal</city>
@@ -340,6 +402,24 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
   </location>
   <location>
     <facility>
+      <name>Hospital Moinhos de Vento</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Regis G Rosa, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Regis G Rosa, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
       <name>Irmandade da Santa Casa de Misericordia de Porto Alegre</name>
       <address>
         <city>Porto Alegre</city>
@@ -347,7 +427,7 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
         <country>Brazil</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Thiago C Lisboa, MD</last_name>
     </contact>
@@ -401,7 +481,7 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
         <country>Brazil</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Cristina P Amendola, MD</last_name>
     </contact>
@@ -419,7 +499,7 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
         <country>Brazil</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Mauro E Hernandes, MD</last_name>
     </contact>
@@ -516,6 +596,23 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
     </contact>
     <investigator>
       <last_name>Fernado G Zampieri, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Vila Santa Catarina</name>
+      <address>
+        <city>São Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adriano J Pereira, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Adriano J Pereira, MD</last_name>
       <role>Principal Investigator</role>
     </investigator>
   </location>
@@ -629,7 +726,7 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
         <country>Brazil</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Luciano CP Azevedo, MD</last_name>
     </contact>
@@ -662,9 +759,9 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
   <study_first_submitted>March 23, 2020</study_first_submitted>
   <study_first_submitted_qc>March 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 25, 2020</study_first_posted>
-  <last_update_submitted>March 30, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 30, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 1, 2020</last_update_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
@@ -683,6 +780,7 @@ Active Control Group: Hydroxychloroquine. After randomization, Hydroxychloroquin
   </condition_browse>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Azithromycin</mesh_term>
     <mesh_term>Hydroxychloroquine</mesh_term>
   </intervention_browse>
   <patient_data>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="340">
+<clinical_study rank="521">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04324606</url>
   </required_header>
@@ -27,15 +27,15 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      A phase I/II single-blinded, randomised, placebo controlled, multi-centre study to determine
-      efficacy, safety and immunogenicity of the candidate Coronavirus Disease (COVID-19) vaccine
-      ChAdOx1 nCoV-19 in UK healthy adult volunteers aged 18-55 years. The vaccine will be
-      administered intramuscularly (IM).
+      A phase I/II single-blinded, randomised, multi-centre study to determine efficacy, safety and
+      immunogenicity of the candidate Coronavirus Disease (COVID-19) vaccine ChAdOx1 nCoV-19 in UK
+      healthy adult volunteers aged 18-55 years. The vaccine will be administered intramuscularly
+      (IM).
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
-      There will be 5 study groups and it is anticipated that a total of 510 volunteers will be
+      There will be 4 study groups and it is anticipated that a total of 1112 volunteers will be
       enrolled. Volunteers will participate in the study for approximately 6 months, with the
       option to come for an additional follow up visit at Day 364.
     </textblock>
@@ -116,65 +116,84 @@
   <secondary_outcome>
     <measure>Assess cellular and humoral immunogenicity of ChAdOx1 nCoV-19</measure>
     <time_frame>6 months</time_frame>
-    <description>Enzyme-linked immunosorbent assay (ELISA) to quantify antibodies against SARS-CoV-2 spike protein (seroconversion rates)</description>
+    <description>Quantify antibodies against SARS-CoV-2 spike protein (seroconversion rates)</description>
   </secondary_outcome>
   <other_outcome>
     <measure>Assess cellular and humoral immunogenicity of ChAdOx1 nCoV-19 through Virus neutralising antibody assays</measure>
     <time_frame>6 months</time_frame>
     <description>Virus neutralising antibody (NAb) assays against live and/or pseudotype SARS-CoV-2 virus</description>
   </other_outcome>
-  <number_of_arms>5</number_of_arms>
-  <enrollment type="Anticipated">510</enrollment>
+  <number_of_arms>7</number_of_arms>
+  <enrollment type="Anticipated">1112</enrollment>
   <condition>Coronavirus</condition>
   <arm_group>
     <arm_group_label>Group 1a</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Volunteers will receive a single dose of 5x10^10vp ChAdOx1 nCoV-19. Volunteers will be blinded and will not know if they have received the IMP or the placebo.</description>
+    <description>Volunteers will receive a single dose of 5x10^10vp ChAdOx1 nCoV-19. Volunteers will be blinded and will not know if they have received the IMP or the MenACWY comparator.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Group 1b</arm_group_label>
-    <arm_group_type>Placebo Comparator</arm_group_type>
-    <description>Volunteers will receive a standard single dose of MenACWY vaccine delivered intramuscularly. Volunteers will be blinded and will not know if they have received the IMP or the placebo.</description>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Volunteers will receive a standard single dose of MenACWY vaccine delivered intramuscularly. Volunteers will be blinded and will not know if they have received the IMP or the MenACWY comparator.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Group 2a</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Volunteers will receive a single dose of 5x10^10vp ChAdOx1 nCoV-19. Volunteers will be blinded and will not know if they have received the IMP or the placebo.</description>
+    <description>Volunteers will receive a single dose of 5x10^10vp ChAdOx1 nCoV-19. Volunteers will be blinded and will not know if they have received the IMP or the MenACWY comparator.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Group 2b</arm_group_label>
-    <arm_group_type>Placebo Comparator</arm_group_type>
-    <description>Volunteers will receive a standard single dose of MenACWY vaccine delivered intramuscularly. Volunteers will be blinded and will not know if they have received the IMP or the placebo.</description>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Volunteers will receive a standard single dose of MenACWY vaccine delivered intramuscularly. Volunteers will be blinded and will not know if they have received the IMP or the MenACWY comparator.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Group 3</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Volunteers will receive two doses of 5x10^10vp ChAdOx1 nCoV-19 at week 0 and week 4.</description>
+    <description>Volunteers will receive one dose of 5x10^10vp ChAdOx1 nCoV-19 at week 0 and one dose of 2.5x10^10vp ChAdOx1 nCoV-19 at week 4.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4a</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Volunteers will receive a single dose of 5x10^10vp ChAdOx1 nCoV-19. Volunteers will be blinded and will not know if they have received the IMP or the MenACWY comparator.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4b</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Volunteers will receive a standard single dose of MenACWY vaccine delivered intramuscularly. Volunteers will be blinded and will not know if they have received the IMP or the MenACWY comparator.</description>
   </arm_group>
   <intervention>
     <intervention_type>Biological</intervention_type>
     <intervention_name>ChAdOx1 nCoV-19</intervention_name>
-    <description>5x10^10vp of ChAdOx1 nCoV-19</description>
+    <description>A single dose of 5x10^10vp of ChAdOx1 nCoV-19</description>
     <arm_group_label>Group 1a</arm_group_label>
     <arm_group_label>Group 2a</arm_group_label>
-    <arm_group_label>Group 3</arm_group_label>
+    <arm_group_label>Group 4a</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Biological</intervention_type>
-    <intervention_name>MenACWY Placebo</intervention_name>
+    <intervention_name>MenACWY</intervention_name>
     <description>Standard single dose of MenACWY vaccine delivered intramuscularly</description>
     <arm_group_label>Group 1b</arm_group_label>
     <arm_group_label>Group 2b</arm_group_label>
+    <arm_group_label>Group 4b</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ChAdOx1 nCoV-19 boost</intervention_name>
+    <description>A single dose of 5x10^10vp of ChAdOx1 nCoV-19 followed by a boost dose of 2.5x10^10vp of ChAdOx1 nCoV-19</description>
+    <arm_group_label>Group 3</arm_group_label>
   </intervention>
   <eligibility>
     <criteria>
       <textblock>
-        Inclusion Criteria:
+        Inclusion Criteria
+
+        The volunteer must satisfy all the following criteria to be eligible for the study:
 
           -  Healthy adults aged 18-55 years.
 
-          -  Able and willing (in the Investigator's opinion) to comply with all study
-             requirements.
+          -  Able and willing (in the Investigator's opinion) to comply with all study requirements
+             (participants must not rely on public transport or taxis).
 
           -  Willing to allow the investigators to discuss the volunteer's medical history with
              their General Practitioner and access all medical records when relevant to study
@@ -188,7 +207,7 @@
 
           -  Provide written informed consent.
 
-        Exclusion Criteria:
+        Exclusion Criteria
 
         The volunteer may not enter the study if any of the following apply:
 
@@ -205,22 +224,31 @@
              preceding the planned administration of the vaccine candidate.
 
           -  Any confirmed or suspected immunosuppressive or immunodeficient state, including HIV
-             infection; asplenia; recurrent severe infections and chronic use (more than 14 days)
-             immunosuppressant medication within the past 6 months (topical steroids are allowed).
+             infection; asplenia; recurrent severe infections and use of immunosuppressant
+             medication within the past 6 months, except topical steroids or short-term oral
+             steroids (course lasting &lt;14 days) .
+
+          -  Any autoimmune conditions, except mild psoriasis, well-controlled autoimmune thyroid
+             disease, vitiligo or stable coeliac disease not requiring immunosuppressive or
+             immunomodulatory therapy.
 
           -  History of allergic disease or reactions likely to be exacerbated by any component of
              the ChAdOx1 nCoV-19 or MenACWY vaccines.
 
-          -  Any history of hereditary angioedema or idiopathic angioedema.
+          -  Any history of angioedema .
 
-          -  Any history of anaphylaxis in relation to vaccination.
+          -  Any history of anaphylaxis .
 
           -  Pregnancy, lactation or willingness/intention to become pregnant during the study.
 
           -  History of cancer (except basal cell carcinoma of the skin and cervical carcinoma in
              situ).
 
-          -  History of serious psychiatric condition likely to affect participation in the study.
+          -  History of serious psychiatric condition likely to affect participation in the study
+             (e.g. ongoing severe depression, history of admission to an in-patient psychiatric
+             facility, recent suicidal ideation, history of suicide attempt, bipolar disorder,
+             personality disorder, alcohol and drug dependency, severe eating disorder, psychosis,
+             use of mood stabilisers or antipsychotic medication).
 
           -  Bleeding disorder (e.g. factor deficiency, coagulopathy or platelet disorder), or
              prior history of significant bleeding or bruising following IM injections or
@@ -228,12 +256,14 @@
 
           -  Any other serious chronic illness requiring hospital specialist supervision.
 
-          -  Chronic respiratory diseases, including mild asthma
+          -  Chronic respiratory diseases, including mild asthma (resolved childhood asthma is
+             allowed)
 
-          -  Chronic cardiovascular disease, gastrointestinal disease, liver disease, renal
-             disease, endocrine disorder and neurological illness
+          -  Chronic cardiovascular disease (including hypertension), gastrointestinal disease,
+             liver disease (except Gilberts Syndrome), renal disease, endocrine disorder (including
+             diabetes) and neurological illness (excluding migraine)
 
-          -  Seriously overweight (BMI≥40 Kg/m2)
+          -  Seriously overweight (BMI≥40 Kg/m2) or underweight (BMI≤18 Kg/m2)
 
           -  Suspected or known current alcohol abuse as defined by an alcohol intake of greater
              than 42 units every week.
@@ -249,15 +279,21 @@
 
           -  History of laboratory confirmed COVID-19.
 
-          -  New onset of fever or a cough or shortness of breath in the 60 days preceding
-             screening and/or enrolment
+          -  New onset of fever or a cough or shortness of breath or anosmia/ageusia since February
+             2020. Should a reliable test become available, this exclusion criteria will be
+             replaced with seropositivity for SARS-CoV-2 before enrolment.
 
-          -  Travel history to China since January 2020
+          -  Those who have been at high risk of exposure before enrolment, including but not
+             limited to: close contacts of confirmed COVID-19 cases, anyone who had to self-isolate
+             as a result of a symptomatic household member, frontline healthcare professionals
+             working in A&amp;E, ICU and other higher risk areas. Should a reliable test become
+             available, this exclusion criteria will be replaced with seropositivity for SARS-CoV-2
+             before enrolment.
 
           -  Living in the same household as any vulnerable groups at risk of severe COVID-19
-             disease
+             disease (as per PHE guidance)
 
-        Re-Vaccination Exclusion Criteria
+        Re-vaccination exclusion criteria
 
           -  Anaphylactic reaction following administration of vaccine
 
@@ -297,6 +333,35 @@
       <last_name>Saul Faust</last_name>
       <role>Principal Investigator</role>
     </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St Georges University Hospital NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <state>Tooting</state>
+        <zip>SW17 0QT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Paul Heath</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Bristol and Weston NHS Foundation Trust</name>
+      <address>
+        <city>Bristol</city>
+        <zip>BS1 3NU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rajeka Lazarus</last_name>
+    </contact>
   </location>
   <location>
     <facility>
@@ -343,9 +408,9 @@
   <study_first_submitted>March 20, 2020</study_first_submitted>
   <study_first_submitted_qc>March 26, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="405">
+<clinical_study rank="617">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04320277</url>
   </required_header>
@@ -54,11 +54,11 @@
       predictor of progression to ARDS; to assess the type and incidence of adverse events (AEs).
     </textblock>
   </detailed_description>
-  <overall_status>Recruiting</overall_status>
-  <start_date type="Anticipated">March 16, 2020</start_date>
-  <completion_date type="Anticipated">April 30, 2020</completion_date>
-  <primary_completion_date type="Anticipated">April 30, 2020</primary_completion_date>
-  <phase>Phase 3</phase>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 16, 2020</start_date>
+  <completion_date type="Anticipated">July 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2020</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
@@ -80,12 +80,12 @@ Controls. All consecutive patients with mild to moderate COVID-19 infection, old
     <description>CRP values will be evaluated for prediction of disease worsening.</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
-  <enrollment type="Anticipated">60</enrollment>
+  <enrollment type="Anticipated">200</enrollment>
   <condition>Pharmacological Action</condition>
   <arm_group>
     <arm_group_label>Patients</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>All patients received baricitinib combined to antiviral therapy ritonavir for 2 weeks.</description>
+    <description>All patients received baricitinib combined to antiviral therapy lopinavir/ritonavir for 2 weeks.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Controls</arm_group_label>
@@ -98,7 +98,7 @@ Controls. All consecutive patients with mild to moderate COVID-19 infection, old
     <description>Baricitinib 4 mg/day/orally combined to antiviral therapy ritonavir for 2 weeks. Baricitinib tablets 4 mg were administered in the morning.</description>
     <arm_group_label>Controls</arm_group_label>
     <arm_group_label>Patients</arm_group_label>
-    <other_name>Ritonavir 600 mg/bid</other_name>
+    <other_name>Lopinavir/Ritonavir tablets 250 mg/bid</other_name>
   </intervention>
   <eligibility>
     <criteria>
@@ -158,7 +158,6 @@ Controls. All consecutive patients with mild to moderate COVID-19 infection, old
         <country>Italy</country>
       </address>
     </facility>
-    <status>Recruiting</status>
     <contact>
       <last_name>Fabrizio Cantini</last_name>
       <phone>+39 3408075607</phone>
@@ -200,13 +199,13 @@ Controls. All consecutive patients with mild to moderate COVID-19 infection, old
     <citation>Stebbing J, Phelan A, Griffin I, Tucker C, Oechsle O, Smith D, Richardson P. COVID-19: combining antiviral and anti-inflammatory treatments. Lancet Infect Dis. 2020 Apr;20(4):400-402. doi: 10.1016/S1473-3099(20)30132-8. Epub 2020 Feb 27.</citation>
     <PMID>32113509</PMID>
   </reference>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 20, 2020</study_first_submitted>
   <study_first_submitted_qc>March 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 24, 2020</study_first_posted>
-  <last_update_submitted>March 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 24, 2020</last_update_posted>
+  <last_update_submitted>April 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Hospital of Prato</investigator_affiliation>
@@ -220,6 +219,7 @@ Controls. All consecutive patients with mild to moderate COVID-19 infection, old
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Ritonavir</mesh_term>
+    <mesh_term>Lopinavir</mesh_term>
   </intervention_browse>
   <patient_data>
     <sharing_ipd>No</sharing_ipd>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="72">
+<clinical_study rank="120">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04331795</url>
   </required_header>
@@ -139,6 +139,11 @@ Time to CRP normalization: Calculated as the number of hours between tocilizumab
     <time_frame>Hospitalization, up to 4 weeks after tocilizumab administration</time_frame>
     <description>Number of ICU days is defined as the time period when a patient is admitted to the ICU (defined as the timestamp on the first vital signs collected in an ICU) until they are transferred from the ICU to a non-ICU setting such as a general acute care bed (defined as the timestamp on the first vital signs collected outside an ICU, excepting any &quot;off the floor&quot; vital signs charted from operating rooms or procedure or imaging suites). Death in the ICU will be a competing risk.</description>
   </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Increased Supplemental Oxygen Requirement from Baseline</measure>
+    <time_frame>Assessed over hospitalization, up to 4 weeks after tocilizumab administration</time_frame>
+    <description>Duration of increased supplemental oxygen requirement from baseline is defined as the time period (number of days) during which the participant requires supplemental oxygen in excess of his/her baseline supplemental oxygen requirement. The supplemental oxygen requirement is defined as the highest liters-per-minute flow of supplemental oxygen required by the patient each day over the course of the hospitalization.</description>
+  </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">50</enrollment>
   <condition>COVID-19</condition>
@@ -185,6 +190,10 @@ Second dose is provisioned if evidence of clinical worsening or lack of C-reacti
           -  Radiographic evidence of infiltrates on chest radiograph (CXR) or computed tomography
              (CT)
 
+          -  Ability to provide written informed consent on the part of the subject or, in the
+             absence of decisional capacity of the subject, an appropriate surrogate (e.g. a
+             legally authorized representative).
+
         Exclusion Criteria:
 
           -  Concurrent use of invasive mechanical ventilation (patients receiving non-invasive
@@ -210,7 +219,76 @@ Second dose is provisioned if evidence of clinical worsening or lack of C-reacti
 
           -  Thrombocytopenia (Platelets &lt; 50,000/uL).
 
-          -  On active therapy with a biologic immunosuppressive agent.
+          -  On active therapy with a biologic immunosuppressive agent, which include the following
+             biologics and any biosimilar versions thereof:
+
+          -  Alemtuzumab
+
+          -  Blinatumomab
+
+          -  Brentuximab
+
+          -  Daratumumab
+
+          -  Elotuzumab
+
+          -  Ibritumomab
+
+          -  Obinutuzumab
+
+          -  Ofatumumab
+
+          -  Ocrelizumab
+
+          -  Rituximab
+
+          -  Inotuzumab
+
+          -  Gemtuzumab
+
+          -  Tositumumab
+
+          -  Moxetumomab
+
+          -  Polatuzumab
+
+          -  Abatacept
+
+          -  Adalimumab
+
+          -  Belimumab
+
+          -  Certolizumab
+
+          -  Eculizumab
+
+          -  Etanercept
+
+          -  Golimumab
+
+          -  Infliximab
+
+          -  Ixekizumab
+
+          -  Rituximab
+
+          -  Sarilumab
+
+          -  Secukinumab
+
+          -  Tocilizumab
+
+          -  Ustekinumab
+
+          -  On active therapy with a JAK2-targeted agent, which include the following:
+
+          -  Tofacitinib
+
+          -  Baricitinib
+
+          -  Upadacitinib
+
+          -  Ruxolitinib
 
           -  History of bone marrow transplantation or solid organ transplant.
 
@@ -274,6 +352,10 @@ Second dose is provisioned if evidence of clinical worsening or lack of C-reacti
 
           -  End-stage renal disease (ESRD) requiring peritoneal or hemodialysis
 
+          -  History of cerebrovascular accident with residual, patient-reported neurologic deficit
+
+          -  BMI &gt;30 kg/m2
+
         All other eligible patients assigned to Group B
       </textblock>
     </criteria>
@@ -314,9 +396,9 @@ Second dose is provisioned if evidence of clinical worsening or lack of C-reacti
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 1, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 2, 2020</study_first_posted>
-  <last_update_submitted>April 8, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 8, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 9, 2020</last_update_posted>
+  <last_update_submitted>April 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

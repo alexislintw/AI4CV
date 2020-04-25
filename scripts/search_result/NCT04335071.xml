@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="242">
+<clinical_study rank="373">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04335071</url>
   </required_header>
@@ -85,8 +85,8 @@
       induced by IL-6 may reduce mortality in patients with severe COVID-19 prone to CRS and ARDS.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 22, 2020</start_date>
   <completion_date type="Anticipated">October 2020</completion_date>
   <primary_completion_date type="Anticipated">October 2020</primary_completion_date>
   <phase>Phase 2</phase>
@@ -295,6 +295,7 @@
         <country>Switzerland</country>
       </address>
     </facility>
+    <status>Recruiting</status>
   </location>
   <location>
     <facility>
@@ -305,6 +306,18 @@
         <country>Switzerland</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Regionale di Lugano (EOC)</name>
+      <address>
+        <city>Viganello</city>
+        <zip>6962</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -315,6 +328,7 @@
         <country>Switzerland</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location_countries>
     <country>Switzerland</country>
@@ -376,16 +390,16 @@
     <PMID>32007143</PMID>
   </reference>
   <reference>
-    <citation>Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 Mar 3. doi: 10.1007/s00134-020-05991-x. [Epub ahead of print]</citation>
+    <citation>Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 Mar 3. doi: 10.1007/s00134-020-05991-x. [Epub ahead of print] Erratum in: Intensive Care Med. 2020 Apr 6;:.</citation>
     <PMID>32125452</PMID>
   </reference>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 2, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 6, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

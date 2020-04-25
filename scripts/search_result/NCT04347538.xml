@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="184">
+<clinical_study rank="280">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04347538</url>
   </required_header>
   <id_info>
-    <org_study_id>pending IRB</org_study_id>
+    <org_study_id>200693</org_study_id>
     <nct_id>NCT04347538</nct_id>
   </id_info>
   <brief_title>Impact of Nasal Saline Irrigations on Viral Load in Patients With COVID-19</brief_title>
@@ -112,24 +112,24 @@
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
     <allocation>Randomized</allocation>
-    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model>Parallel Assignment</intervention_model>
     <intervention_model_description>Patients enrolled will be randomized to one of three treatment groups (1. control- no intervention, 2. intervention 1 - nasal saline irrigations BID, 3. intervention 2- nasal saline irrigations with ½ teaspoon surfactant (Johnson's baby shampoo) BID).</intervention_model_description>
     <primary_purpose>Treatment</primary_purpose>
     <masking>None (Open Label)</masking>
   </study_design_info>
   <primary_outcome>
     <measure>Change in SARS-CoV-2 mucosal immune response in the nasopharynx</measure>
-    <time_frame>baseline to day 20</time_frame>
+    <time_frame>Day 1 to day 21</time_frame>
     <description>Viral RNA will be extracted using a standard Qiagen viral RNA isolation kit. An established, high-throughput CoV genome sequencing pipeline will be used to perform overlapping long-range RT-PCR across the viral genome for each viral genome proposed in this project.</description>
   </primary_outcome>
   <primary_outcome>
     <measure>Change in microbial load in the nasopharynx</measure>
-    <time_frame>baseline to day 20</time_frame>
+    <time_frame>Day 1 to day 21</time_frame>
     <description>Evaluate microbial sequence data in the context of SARS-CoV-2 infection status to determine taxonomic profiles and their distributions within and between samples.</description>
   </primary_outcome>
   <primary_outcome>
     <measure>Change in Viral Load in the nasopharynx over the course of COVID-19 infection</measure>
-    <time_frame>baseline to day 20</time_frame>
+    <time_frame>Day 1 to day 21</time_frame>
     <description>Perform qPCR Analysis to asses viral copy number.</description>
   </primary_outcome>
   <secondary_outcome>
@@ -233,9 +233,9 @@
   <study_first_submitted>April 11, 2020</study_first_submitted>
   <study_first_submitted_qc>April 11, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 15, 2020</study_first_posted>
-  <last_update_submitted>April 11, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 11, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Vanderbilt University Medical Center</investigator_affiliation>

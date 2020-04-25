@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="134">
+<clinical_study rank="202">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04341389</url>
   </required_header>
@@ -60,7 +60,7 @@
       respectively. Immunogenicity will be tested on days 0, 14, 28 and 6 months after vaccination
     </textblock>
   </detailed_description>
-  <overall_status>Recruiting</overall_status>
+  <overall_status>Active, not recruiting</overall_status>
   <start_date type="Actual">April 12, 2020</start_date>
   <completion_date type="Anticipated">January 31, 2021</completion_date>
   <primary_completion_date type="Anticipated">January 31, 2021</primary_completion_date>
@@ -219,11 +219,6 @@
     <role>Principal Investigator</role>
     <affiliation>Jiangsu Province Centers of Disease Control and Prevention</affiliation>
   </overall_official>
-  <overall_contact>
-    <last_name>Wenjuan Wang, MD</last_name>
-    <phone>8625-83759911</phone>
-    <email>wangwj@jscdc.cn</email>
-  </overall_contact>
   <location>
     <facility>
       <name>Hubei Provincial Center for Disease Control and Prevention</name>
@@ -233,12 +228,6 @@
         <country>China</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Zhao Wang, MD</last_name>
-      <phone>13476011311</phone>
-      <email>markwangzhao@qq.com</email>
-    </contact>
   </location>
   <location_countries>
     <country>China</country>
@@ -247,9 +236,9 @@
   <study_first_submitted>April 7, 2020</study_first_submitted>
   <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 10, 2020</study_first_posted>
-  <last_update_submitted>April 13, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

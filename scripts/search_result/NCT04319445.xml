@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="317">
+<clinical_study rank="492">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04319445</url>
   </required_header>
@@ -142,7 +142,7 @@
   <overall_contact>
     <last_name>Rebecca E Wells, MD, MPH</last_name>
     <phone>336-716-2357</phone>
-    <email>rewells@wakehealth.edu</email>
+    <email>WFBH_Mindfulness@wakehealth.edu</email>
   </overall_contact>
   <location>
     <facility>
@@ -157,19 +157,19 @@
     <status>Recruiting</status>
     <contact>
       <last_name>Rebecca Wells, MD</last_name>
-      <email>rewells@wakehealth.edu</email>
+      <email>WFBH_Mindfulness@wakehealth.edu</email>
     </contact>
   </location>
   <location_countries>
     <country>United States</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 20, 2020</study_first_submitted>
   <study_first_submitted_qc>March 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 24, 2020</study_first_posted>
-  <last_update_submitted>April 6, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

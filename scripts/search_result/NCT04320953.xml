@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="542">
+<clinical_study rank="800">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04320953</url>
   </required_header>
@@ -26,12 +26,11 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      The outbreak of Covid-19 at late 2019 in China and subsequent spread throughout the world now
-      constitutes a global public health emergency. Direct contact between doctors and patients in
-      daily practice bears potential risk of Covid-19 infection, and telemedicine, or non-contact
-      medicine, in this circumstance, offers an ideal solution. Remote controlling capsule
-      endoscopy system for gastric examination was recently developed and applicated in clinical
-      practice.
+      The COVID-19 outbreak and spread throughout the world now constitutes a global public health
+      emergency. Direct contact between doctors and patients in daily practice bears potential risk
+      of Covid-19 infection, and telemedicine, or non-contact medicine, in this circumstance,
+      offers an ideal solution. Remote controlling capsule endoscopy system for gastric examination
+      was recently developed and applicated in clinical practice.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -47,8 +46,8 @@
   </detailed_description>
   <overall_status>Completed</overall_status>
   <start_date type="Actual">March 16, 2020</start_date>
-  <completion_date type="Actual">March 16, 2020</completion_date>
-  <primary_completion_date type="Actual">March 16, 2020</primary_completion_date>
+  <completion_date type="Actual">April 9, 2020</completion_date>
+  <primary_completion_date type="Actual">March 26, 2020</primary_completion_date>
   <phase>N/A</phase>
   <study_type>Interventional</study_type>
   <has_expanded_access>No</has_expanded_access>
@@ -73,7 +72,7 @@
     <description>Adverse events during and after the procedure</description>
   </secondary_outcome>
   <number_of_arms>1</number_of_arms>
-  <enrollment type="Actual">1</enrollment>
+  <enrollment type="Actual">5</enrollment>
   <condition>Gastrointestinal Disease</condition>
   <condition>Infectious Disease</condition>
   <arm_group>
@@ -152,18 +151,18 @@
     <citation>Jiang X, Qian YY, Liu X, Pan J, Zou WB, Zhou W, Luo YY, Chen YZ, Li ZS, Liao Z. Impact of magnetic steering on gastric transit time of a capsule endoscopy (with video). Gastrointest Endosc. 2018 Oct;88(4):746-754. doi: 10.1016/j.gie.2018.06.031. Epub 2018 Jul 11.</citation>
     <PMID>30005825</PMID>
   </reference>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 21, 2020</study_first_submitted>
   <study_first_submitted_qc>March 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 25, 2020</study_first_posted>
-  <last_update_submitted>March 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 25, 2020</last_update_posted>
+  <last_update_submitted>April 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 17, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Changhai Hospital</investigator_affiliation>
     <investigator_full_name>Zhuan Liao</investigator_full_name>
-    <investigator_title>Vice President</investigator_title>
+    <investigator_title>Principal Investigator</investigator_title>
   </responsible_party>
   <condition_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->

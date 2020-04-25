@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="409">
+<clinical_study rank="227">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04347889</url>
   </required_header>
@@ -11,8 +11,8 @@
     <org_study_id>IRB2020-00222</org_study_id>
     <nct_id>NCT04347889</nct_id>
   </id_info>
-  <brief_title>Prophylactic Hydroxychloroquine vs Vitamin C in Healthcare Workers:RCT</brief_title>
-  <official_title>Prophylactic Hydroxychloroquine vs Vitamin C in Healthcare Workers:RCT</official_title>
+  <brief_title>Preventing COVID-19 in Healthcare Workers With HCQ: A RCT</brief_title>
+  <official_title>Prophylactic Hydroxychloroquine vs Vitamin C in Healthcare Workers at Risk of COVID-19: A RCT</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Stony Brook University</agency>
@@ -131,9 +131,9 @@
   <study_first_submitted>April 13, 2020</study_first_submitted>
   <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 15, 2020</study_first_posted>
-  <last_update_submitted>April 13, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 17, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Stony Brook University</investigator_affiliation>

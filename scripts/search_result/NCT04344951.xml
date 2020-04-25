@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="219">
+<clinical_study rank="339">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04344951</url>
   </required_header>
@@ -279,7 +279,7 @@ Need for treatment with CPAP or mechanical ventilation</description>
     <PMID>32125458</PMID>
   </results_reference>
   <results_reference>
-    <citation>Devaux CA, Rolain JM, Colson P, Raoult D. New insights on the antiviral effects of chloroquine against coronavirus: what to expect for COVID-19? Int J Antimicrob Agents. 2020 Mar 11:105938. doi: 10.1016/j.ijantimicag.2020.105938. [Epub ahead of print]</citation>
+    <citation>Devaux CA, Rolain JM, Colson P, Raoult D. New insights on the antiviral effects of chloroquine against coronavirus: what to expect for COVID-19? Int J Antimicrob Agents. 2020 Mar 12:105938. doi: 10.1016/j.ijantimicag.2020.105938. [Epub ahead of print]</citation>
     <PMID>32171740</PMID>
   </results_reference>
   <results_reference>

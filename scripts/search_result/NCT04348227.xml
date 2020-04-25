@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="438">
+<clinical_study rank="665">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348227</url>
   </required_header>
   <id_info>
-    <org_study_id>Malek Khemili</org_study_id>
+    <org_study_id>KM2020-1</org_study_id>
     <nct_id>NCT04348227</nct_id>
   </id_info>
   <brief_title>How COVID-19 Virus Outbreak Affects Antimicrobial Resistance in a Low-middle-income Country's ICU?</brief_title>
@@ -39,25 +39,25 @@
       the Department of Microbiology of our Hospital.
     </textblock>
   </detailed_description>
-  <overall_status>Recruiting</overall_status>
-  <start_date type="Actual">March 1, 2020</start_date>
-  <completion_date type="Anticipated">July 4, 2020</completion_date>
-  <primary_completion_date type="Anticipated">April 30, 2020</primary_completion_date>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 1, 2019</start_date>
+  <completion_date type="Anticipated">February 4, 2021</completion_date>
+  <primary_completion_date type="Actual">January 1, 2020</primary_completion_date>
   <study_type>Observational [Patient Registry]</study_type>
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
     <observational_model>Cohort</observational_model>
-    <time_perspective>Prospective</time_perspective>
+    <time_perspective>Other</time_perspective>
   </study_design_info>
-  <target_duration>4 Months</target_duration>
+  <target_duration>2 Years</target_duration>
   <primary_outcome>
     <measure>MDR pathogens in endotracheal aspirates</measure>
-    <time_frame>2 months</time_frame>
+    <time_frame>1 year</time_frame>
     <description>Incidence of MDR bacteria in endotracheal aspirates</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Microorganisms in endotracheal aspirates</measure>
-    <time_frame>2 months</time_frame>
+    <time_frame>1 year</time_frame>
     <description>Incidence of microorganisms in endotracheal aspirates</description>
   </secondary_outcome>
   <number_of_groups>2</number_of_groups>
@@ -65,11 +65,11 @@
   <condition>Ventilator Associated Pneumonia</condition>
   <arm_group>
     <arm_group_label>Before pandemic is declared</arm_group_label>
-    <description>Positive endotracheal aspirates addressed from January 1st 2020 to February 29th 2020</description>
+    <description>Positive endotracheal aspirates addressed from January 1st 2019 to January 1st 2020</description>
   </arm_group>
   <arm_group>
     <arm_group_label>After pandemic is declared</arm_group_label>
-    <description>Positive endotracheal aspirates addressed from March 1st 2020 to May 30th 2020</description>
+    <description>Positive endotracheal aspirates addressed from February1st 2020 to February 1st 2021</description>
   </arm_group>
   <intervention>
     <intervention_type>Behavioral</intervention_type>
@@ -112,11 +112,6 @@
     <role>Principal Investigator</role>
     <affiliation>Department of anesthesia and intensive care, Fattouma Bourguiba Hospital</affiliation>
   </overall_official>
-  <overall_contact>
-    <last_name>Malek Khemili, Resident</last_name>
-    <phone>+2194875882</phone>
-    <email>malek.khemili@gmail.com</email>
-  </overall_contact>
   <location>
     <facility>
       <name>Department of anesthesia and intensive care, Fattouma Bourguiba Hospital</name>
@@ -126,12 +121,6 @@
         <country>Tunisia</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Malek Khemili, Resident</last_name>
-      <phone>+21694875882</phone>
-      <email>malek.khemili@gmail.com</email>
-    </contact>
   </location>
   <location_countries>
     <country>Tunisia</country>
@@ -139,10 +128,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 10, 2020</study_first_submitted>
   <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 17, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Hôpital Universitaire Fattouma Bourguiba</investigator_affiliation>

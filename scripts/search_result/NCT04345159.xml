@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="375">
+<clinical_study rank="611">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04345159</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>GDE_2020_11</org_study_id>
     <nct_id>NCT04345159</nct_id>
   </id_info>
-  <brief_title>Prevalence of COVID-19 Symptoms History in Patients With Autoimmune Diseases</brief_title>
+  <brief_title>Association Between Long-term Hydroxychloroquine Treatment and Outcome of a History of Symptoms Suggestive of COVID-19 Infection During the Epidemic Period in France in Patients With Autoimmune Disease</brief_title>
   <acronym>COVCALL</acronym>
-  <official_title>Prevalence of COVID-19 Symptoms History in Patients With Systemic Lupus Erythematosus, Rheumatoid Arthritis, Sjogren's Syndrome or Psoriatic Arthritis, With or Without Hydroxychloroquine Long-term Treatment</official_title>
+  <official_title>Association Between Long-term Hydroxychloroquine Treatment and Outcome of a History of Symptoms Suggestive of COVID-19 Infection During the Epidemic Period in France in Patients With Autoimmune Disease</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Fondation Ophtalmologique Adolphe de Rothschild</agency>
@@ -49,7 +49,7 @@
     <time_frame>4 months after inclusion</time_frame>
     <description>Adjusted Odds Ratio measuring the association between an exposure to long-term hydroxychloroquine intake and a history of symptoms compatible with a COVID-19 infection.</description>
   </primary_outcome>
-  <number_of_groups>2</number_of_groups>
+  <number_of_groups>1</number_of_groups>
   <enrollment type="Anticipated">1500</enrollment>
   <condition>SARS-CoV-2</condition>
   <condition>Systemic Lupus Erythematosus</condition>
@@ -57,17 +57,14 @@
   <condition>Sjogren's Syndrome</condition>
   <condition>Psoriatic Arthritis</condition>
   <arm_group>
-    <arm_group_label>Patient previously treated with hydroxychloroquine</arm_group_label>
-  </arm_group>
-  <arm_group>
-    <arm_group_label>Patients not previously treated with hydroxychloroquine</arm_group_label>
+    <arm_group_label>Patient with autoimmune disease</arm_group_label>
+    <description>Selected using appropriate keywords in the Foundation Rothschild Hospital EMR, consenting to participate in the study.</description>
   </arm_group>
   <intervention>
     <intervention_type>Other</intervention_type>
     <intervention_name>Questionnaire by phone call</intervention_name>
-    <description>2 questionnaires : at inclusion et 4 months later The exposure to hydroxychloroquine is determined during the phone call. The symptoms presented by the patient are classified in &quot;Probable COVID-19 infection&quot; or &quot;Unlikely COVID-19 infection&quot; in a blind-manner by a team of internists and infectiologists, by studying the questionnaires after the completion.</description>
-    <arm_group_label>Patient previously treated with hydroxychloroquine</arm_group_label>
-    <arm_group_label>Patients not previously treated with hydroxychloroquine</arm_group_label>
+    <description>2 questionnaires : at inclusion and 4 months later. The exposure to hydroxychloroquine and the history of autoimmune disease is determined during the phone call along with other exposure factors. The symptoms presented by the patient are classified in &quot;Suggestive of a COVID-19 infection&quot; or &quot;Not suggestive of COVID-19 infection&quot; by a team of internists and infectious diseases specialists, by studying the questionnaires after the completion in a blind-manner regarding the hydroxychloroquine intake.</description>
+    <arm_group_label>Patient with autoimmune disease</arm_group_label>
   </intervention>
   <eligibility>
     <study_pop>
@@ -137,9 +134,9 @@
   <study_first_submitted>April 10, 2020</study_first_submitted>
   <study_first_submitted_qc>April 10, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 14, 2020</study_first_posted>
-  <last_update_submitted>April 10, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
@@ -147,11 +144,10 @@
   <condition_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Arthritis</mesh_term>
-    <mesh_term>Arthritis, Rheumatoid</mesh_term>
     <mesh_term>Arthritis, Psoriatic</mesh_term>
     <mesh_term>Sjogren's Syndrome</mesh_term>
     <mesh_term>Lupus Erythematosus, Systemic</mesh_term>
-    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Autoimmune Diseases</mesh_term>
   </condition_browse>
   <!-- Results have not yet been posted for this study                                          -->
 </clinical_study>

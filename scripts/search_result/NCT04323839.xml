@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="364">
+<clinical_study rank="568">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04323839</url>
   </required_header>
@@ -41,7 +41,7 @@
   </brief_summary>
   <detailed_description>
     <textblock>
-      The investigators will recruit women age 18 or older under investigation for COVID-19 or with
+      The investigators will recruit women age 13 or older under investigation for COVID-19 or with
       confirmed COVID-19 at any clinical state across the United States. Eligible participants will
       be identified through voluntary physician referrals.
 
@@ -49,10 +49,9 @@
       study coordinator will follow-up by phone with the patient and consent verbally. The
       participant will be asked to complete an approval to release medical information. The
       investigators will use patient questionnaires to assess symptoms, maternal clinical course,
-      pregnancy outcomes, and neonatal outcomes from initial investigation of COVID-19 to 6 weeks
-      postpartum or 8 weeks following investigation for non-pregnant women enrolled within 6 weeks
-      of pregnancy. The investigators will also obtain all medical records for the participant to
-      data abstract key clinical and pregnancy outcomes.
+      pregnancy outcomes, and neonatal outcomes from initial investigation of COVID-19 to 12
+      months. The investigators will also obtain all medical records for the participant to data
+      abstract key clinical and pregnancy outcomes.
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
@@ -97,7 +96,7 @@
     <description>Transmission of COVID-19 from mother to infant</description>
   </primary_outcome>
   <number_of_groups>2</number_of_groups>
-  <enrollment type="Anticipated">1000</enrollment>
+  <enrollment type="Anticipated">2000</enrollment>
   <condition>Pregnancy</condition>
   <condition>Coronavirus</condition>
   <condition>COVID-19</condition>
@@ -142,18 +141,18 @@
 
         Exclusion Criteria:
 
-        1. &lt;18 years of age.
+        1. &lt;13 years of age.
       </textblock>
     </criteria>
     <gender>Female</gender>
     <gender_based>Yes</gender_based>
     <gender_description>Persons assigned gender female at birth.</gender_description>
-    <minimum_age>18 Years</minimum_age>
+    <minimum_age>13 Years</minimum_age>
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
   <overall_official>
-    <last_name>Vanessa Vacoby, MD, MAS</last_name>
+    <last_name>Vanessa Jacoby, MD, MAS</last_name>
     <role>Principal Investigator</role>
     <affiliation>University of California, San Francisco</affiliation>
   </overall_official>
@@ -191,9 +190,9 @@
   <study_first_submitted>March 24, 2020</study_first_submitted>
   <study_first_submitted_qc>March 24, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>April 3, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

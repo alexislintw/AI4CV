@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="387">
+<clinical_study rank="596">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04311697</url>
   </required_header>
@@ -40,22 +40,24 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      Novel Corona Virus (COVID-19) is known to cause Acute Respiratory Distress Syndrome, that
-      results in death of approximately 50% of those who develop ARDS, despite intensive care and
-      mechanical ventilation. Patients with COVID-19 induced Acute Respiratory Distress Syndrome
-      who are admitted for intensive care including endotracheal intubation and mechanical
-      ventilation will be treated with Aviptadil, a synthetic version of Vasoactive Intestinal
-      Polypeptide (VIP) plus maximal intensive care vs. placebo + maximal intensive care. Patients
-      will be randomized to intravenous Aviptadil will receive escalating doses from 50 -150
-      pmol/kg/hr over 12 hours.
+      Novel Corona Virus (COVID-19) is known to cause Acute Lung Injury/Acute Respiratory Distress
+      Syndrome, that results in death of approximately 80% of those who develop ARDS, despite
+      intensive care and mechanical ventilation. Patients with COVID-19 induced Acute Respiratory
+      Distress Syndrome who are admitted for intensive care including endotracheal intubation and
+      mechanical ventilation will be treated with Aviptadil, a synthetic form of Human Vasoactive
+      Intestinal Polypeptide (VIP) plus maximal intensive care vs. placebo + maximal intensive
+      care. Patients will be randomized to intravenous Aviptadil will receive escalating doses from
+      50 -150 pmol/kg/hr over 12 hours.
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
-      Acute Respiratory Distress Syndrome is a known lethal complication of Corona Virus (COVID-19)
-      infection. Conventional medical therapy, including intensive care and respiratory support is
-      associated with a 50% mortality. Aviptadil, a synthetic form of Vasoactive Intestinal
-      Polypeptide (VIP) has been awarded FDA Orphan Drug Designation for the treatment of ARDS.
+      Acute Lung Injury, which causes Acute Respiratory Distress Syndrome (ARDS) is a known lethal
+      complication of Corona Virus (COVID-19) infection. Conventional medical therapy, including
+      intensive care and respiratory support is associated with an 80% mortality. Aviptadil, a
+      synthetic form of Human Vasoactive Intestinal Polypeptide (VIP) has been awarded FDA Orphan
+      Drug Designation for the treatment of ARDS and admitted to the FDA CoronaVirus Technology
+      Accelerator Program.
 
       Nonclinical studies demonstrate that VIP is highly concentrated in the lung, where it
       prevents NMDA-induced caspase-3 activation in the lung, inhibits IL6 and TNFa production,
@@ -65,11 +67,11 @@
       interface and thereby protects the lung and other organs from failure.
 
       Aviptadil is approved for human use in Europe and has a demonstrated 20 year history of
-      safety in numerous trials for Sarcoid, Pulmonary Fibrosis, Bronchospasm, Erectile
-      Dysfunction, and a phase I trial in ARDS. In that phase I trial, 8 patients with severe ARDS
-      on mechanical ventilation were treated with ascending doses of VIP. Seven of the 8 patients
-      were successfully extubated and were alive at the five day timepoint. Six left the hospital
-      and one died of an unrelated cardiac event.
+      safety in phase 2 trials for Sarcoid, Pulmonary Fibrosis, Bronchospasm, Erectile Dysfunction,
+      and a phase I trial in ARDS. In that phase I trial, 8 patients with severe ARDS on mechanical
+      ventilation were treated with ascending doses of VIP. Seven of the 8 patients were
+      successfully extubated and were alive at the five day timepoint. Six left the hospital and
+      one died of an unrelated cardiac event.
 
       Five phase 2 trials of aviptadil have been conducted under European regulatory authority.
       Numerous healthy volunteer studies have shown that i.v. infusion of Aviptadil is well
@@ -189,11 +191,15 @@
       </address>
     </facility>
     <investigator>
-      <last_name>Daniel H Kett, MD</last_name>
+      <last_name>Dushyanatha Jayaweera, MD</last_name>
       <role>Principal Investigator</role>
     </investigator>
     <investigator>
-      <last_name>Richard B Silverman, MD</last_name>
+      <last_name>Daniel H Kett, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Daniel D Yeh, MD</last_name>
       <role>Sub-Investigator</role>
     </investigator>
   </location>
@@ -249,13 +255,13 @@
     <country>Israel</country>
     <country>United States</country>
   </location_countries>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 14, 2020</study_first_submitted>
   <study_first_submitted_qc>March 14, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 17, 2020</study_first_posted>
-  <last_update_submitted>April 8, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 8, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 10, 2020</last_update_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

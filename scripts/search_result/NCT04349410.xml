@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="247">
+<clinical_study rank="382">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04349410</url>
   </required_header>
@@ -127,7 +127,7 @@ Simultaneous Immune and ventilatory RX. Ventilatory support per ARDS protocol. A
   <secondary_outcome>
     <measure>Ventilator status</measure>
     <time_frame>7 days</time_frame>
-    <description>Off ventilator</description>
+    <description>Extubation</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Survival status</measure>
@@ -196,68 +196,67 @@ ANY PATIENT DEMONSTRATING CYTOKINE RELEASE SYNDROME WILL HAVE THIS TREATMENT ARM
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Hydroxychloroquine, Azithromycin</intervention_name>
-    <description>Planar, SPECT, PET</description>
+    <description>FMTVDM Planar, SPECT, PET</description>
     <arm_group_label>Treatment 1</arm_group_label>
-    <arm_group_label>Treatment 5</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Hydroxychloroquine, Doxycycline</intervention_name>
-    <description>Planar, SPECT, PET</description>
+    <description>FMTVDM Planar, SPECT, PET</description>
     <arm_group_label>Treatment 2</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Hydroxychloroquine, Clindamycin</intervention_name>
-    <description>Planar, SPECT, PET</description>
+    <description>FMTVDM Planar, SPECT, PET</description>
     <arm_group_label>Treatment 3</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Hydroxychloroquine, Clindamycin, Primaquine - low dose.</intervention_name>
-    <description>Planar, SPECT, PET</description>
+    <description>FMTVDM Planar, SPECT, PET</description>
     <arm_group_label>Treatment 4</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Hydroxychloroquine, Clindamycin, Primaquine - high dose.</intervention_name>
-    <description>Planar, SPECT, PET</description>
+    <description>FMTVDM Planar, SPECT, PET</description>
     <arm_group_label>Treatment 5</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Remdesivir</intervention_name>
-    <description>Planar, SPECT, PET</description>
+    <description>FMTVDM Planar, SPECT, PET</description>
     <arm_group_label>Treatment 6</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Tocilizumab</intervention_name>
-    <description>Planar, SPECT, PET</description>
+    <description>FMTVDM Planar, SPECT, PET</description>
     <arm_group_label>Treatment 7</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Methylprednisolone</intervention_name>
-    <description>Planar, SPECT, PET</description>
+    <description>FMTVDM Planar, SPECT, PET</description>
     <arm_group_label>Treatment 8</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Interferon-Alpha2B</intervention_name>
-    <description>Planar, SPECT, PET</description>
+    <description>FMTVDM Planar, SPECT, PET</description>
     <arm_group_label>Treatment 9</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Losartan</intervention_name>
-    <description>Planar, SPECT, PET</description>
+    <description>FMTVDM Planar, SPECT, PET</description>
     <arm_group_label>Treatment 10</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Convalescent Serum</intervention_name>
-    <description>Planar, SPECT, PET</description>
+    <description>FMTVDM Planar, SPECT, PET</description>
     <arm_group_label>Treatment 11</arm_group_label>
   </intervention>
   <eligibility>
@@ -294,13 +293,29 @@ ANY PATIENT DEMONSTRATING CYTOKINE RELEASE SYNDROME WILL HAVE THIS TREATMENT ARM
   <location_countries>
     <country>United States</country>
   </location_countries>
+  <link>
+    <url>https://patents.google.com/patent/US9566037B2/en</url>
+    <description>FMTVDM Patent # 9566037</description>
+  </link>
+  <link>
+    <url>https://rdcu.be/b22Dd</url>
+    <description>The Critical Importance of Quantifying Tissue Change instead of using qualitative or semi-quanitified results.</description>
+  </link>
+  <link>
+    <url>https://www.mdedge.com/fedprac/issue/73998/federal-practitioner-276</url>
+    <description>FMTVDM quantification.</description>
+  </link>
+  <link>
+    <url>https://www.ncbi.nlm.nih.gov/pubmed/10667648</url>
+    <description>Infection and Inflammation reversal by treatment of pathogens with associated reductions in IL-6.</description>
+  </link>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 11, 2020</study_first_submitted>
   <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 17, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>The Camelot Foundation</investigator_affiliation>
@@ -312,8 +327,9 @@ ANY PATIENT DEMONSTRATING CYTOKINE RELEASE SYNDROME WILL HAVE THIS TREATMENT ARM
     <mesh_term>Interferons</mesh_term>
     <mesh_term>Interferon-alpha</mesh_term>
     <mesh_term>Interferon alpha-2</mesh_term>
-    <mesh_term>Doxycycline</mesh_term>
+    <mesh_term>Azithromycin</mesh_term>
     <mesh_term>Hydroxychloroquine</mesh_term>
+    <mesh_term>Doxycycline</mesh_term>
     <mesh_term>Clindamycin</mesh_term>
     <mesh_term>Clindamycin palmitate</mesh_term>
     <mesh_term>Clindamycin phosphate</mesh_term>

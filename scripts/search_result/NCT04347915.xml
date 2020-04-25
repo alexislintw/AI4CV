@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="5">
+<clinical_study rank="10">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04347915</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>BK-CLV-201</org_study_id>
     <nct_id>NCT04347915</nct_id>
   </id_info>
-  <brief_title>The Randomized, Open, Phase 2 Study to Evaluate the Safety and Efficacy of Clevudine in Patients With Moderate COVID-19</brief_title>
+  <brief_title>The Phase 2 Study to Evaluate the Safety and Efficacy of Clevudine in Patients With Moderate COVID-19</brief_title>
   <official_title>The Randomized, Open, Phase 2 Study to Evaluate the Safety and Efficacy of Clevudine in Patients With Moderate COVID-19</official_title>
   <sponsors>
     <lead_sponsor>
@@ -125,6 +125,11 @@
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
+  <overall_official>
+    <last_name>Woo-Joo Kim, M.D.,Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Korea University Guro Hospital</affiliation>
+  </overall_official>
   <overall_contact>
     <last_name>Bukwang Bukwang</last_name>
     <phone>+82-2-828-8114</phone>
@@ -134,9 +139,9 @@
   <study_first_submitted>April 14, 2020</study_first_submitted>
   <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 15, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 17, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

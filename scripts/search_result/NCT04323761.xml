@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="319">
+<clinical_study rank="495">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04323761</url>
   </required_header>
@@ -152,6 +152,18 @@
   </location>
   <location>
     <facility>
+      <name>The Regents of the University of California, on behalf of its San Francisco campus</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Regional Medical Center</name>
       <address>
         <city>San Jose</city>
@@ -176,11 +188,83 @@
   </location>
   <location>
     <facility>
+      <name>Santa Rosa Memorial Hospital</name>
+      <address>
+        <city>Santa Rosa</city>
+        <state>California</state>
+        <zip>95405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Los Robles Regional Medical Center</name>
+      <address>
+        <city>Thousand Oaks</city>
+        <state>California</state>
+        <zip>91360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>PIH Health Whittier Hospital</name>
       <address>
         <city>Whittier</city>
         <state>California</state>
         <zip>90602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Medical Center Of Aurora</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Greenwich Hospital</name>
+      <address>
+        <city>Greenwich</city>
+        <state>Connecticut</state>
+        <zip>06830</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stamford Infectious Diseases LLC</name>
+      <address>
+        <city>Stamford</city>
+        <state>Connecticut</state>
+        <zip>06904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>George Washington University Hospital</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -212,6 +296,18 @@
   </location>
   <location>
     <facility>
+      <name>Mount Sinai Medical Center</name>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <zip>33140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Sarasota Memorial Hospital Clinical Research Center</name>
       <address>
         <city>Sarasota</city>
@@ -224,11 +320,59 @@
   </location>
   <location>
     <facility>
+      <name>Piedmont Atlanta Hospital</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Piedmont Fayette Hospital</name>
       <address>
         <city>Fayetteville</city>
         <state>Georgia</state>
         <zip>10043</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern Lake Forest Hospital</name>
+      <address>
+        <city>Lake Forest</city>
+        <state>Illinois</state>
+        <zip>60045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern Medicine Central DuPage Hospital</name>
+      <address>
+        <city>Winfield</city>
+        <state>Illinois</state>
+        <zip>60190</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Vincent Hospital and Health Care Center, Inc.</name>
+      <address>
+        <city>Carmel</city>
+        <state>Indiana</state>
+        <zip>46032</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -272,6 +416,18 @@
   </location>
   <location>
     <facility>
+      <name>University of Massachusetts</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>St. Joseph Mercy Hospital Health System</name>
       <address>
         <city>Ann Arbor</city>
@@ -284,11 +440,47 @@
   </location>
   <location>
     <facility>
+      <name>Huron Valley-Sinai Hospital</name>
+      <address>
+        <city>Commerce</city>
+        <state>Michigan</state>
+        <zip>48382</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health System</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Bronson Methodist Hospital</name>
       <address>
         <city>Kalamazoo</city>
         <state>Michigan</state>
         <zip>49007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clara Maass Medical Center</name>
+      <address>
+        <city>Belleville</city>
+        <state>New Jersey</state>
+        <zip>07109</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -332,11 +524,35 @@
   </location>
   <location>
     <facility>
+      <name>Jersey City Medical Center</name>
+      <address>
+        <city>Jersey City</city>
+        <state>New Jersey</state>
+        <zip>07302</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Monmouth Medical Center</name>
       <address>
         <city>Long Branch</city>
         <state>New Jersey</state>
         <zip>07740</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Atlantic Health System/ Morristown Medical Center</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07960</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -356,11 +572,35 @@
   </location>
   <location>
     <facility>
+      <name>Ocean Medical Center</name>
+      <address>
+        <city>Oakhurst</city>
+        <state>New Jersey</state>
+        <zip>07755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>The Valley Hospital</name>
       <address>
         <city>Ridgewood</city>
         <state>New Jersey</state>
         <zip>07450</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Atlantic Health System/Overlook Medical Center</name>
+      <address>
+        <city>Summit</city>
+        <state>New Jersey</state>
+        <zip>07901</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -380,11 +620,59 @@
   </location>
   <location>
     <facility>
+      <name>Capital Health System</name>
+      <address>
+        <city>Trenton</city>
+        <state>New Jersey</state>
+        <zip>08638</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Virtua Voorhees</name>
       <address>
         <city>Voorhees</city>
         <state>New Jersey</state>
         <zip>08043</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Peter's Hospital</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Good Samaritan Hospital Medical Center</name>
+      <address>
+        <city>Bay Shore</city>
+        <state>New York</state>
+        <zip>11706</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>St Barnabus Hospital</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10457</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -409,6 +697,42 @@
         <city>Flushing</city>
         <state>New York</state>
         <zip>11355</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Glens Falls Hospital</name>
+      <address>
+        <city>Glens Falls</city>
+        <state>New York</state>
+        <zip>12801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Special Surgery</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -452,11 +776,59 @@
   </location>
   <location>
     <facility>
+      <name>Staten Island University Hopsital- Northwell Health (North Campus)</name>
+      <address>
+        <city>Staten Island</city>
+        <state>New York</state>
+        <zip>10305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook University Hospital/ Stony Brook Children's</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Francis Hospital</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Einstein Medical Center Philadelphia</name>
       <address>
         <city>Philadelphia</city>
         <state>Pennsylvania</state>
         <zip>19141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. David's Medical Center</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -470,6 +842,110 @@
         <state>Texas</state>
         <zip>75231</zip>
         <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Covenant Medical Group - Covenant Medical Center Lubbock</name>
+      <address>
+        <city>Lubbock</city>
+        <state>Texas</state>
+        <zip>79410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Mansfield Medical</name>
+      <address>
+        <city>Mansfield</city>
+        <state>Texas</state>
+        <zip>76063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Mark's Hospital</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Inova Fairfax Medical Campus</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Henrico Doctors Hospital</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jessa Ziekenhuis</name>
+      <address>
+        <city>Hasselt</city>
+        <zip>3500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Groeninge</name>
+      <address>
+        <city>Kortrijk</city>
+        <zip>8500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Avicenne</name>
+      <address>
+        <city>Bobigny</city>
+        <zip>93009</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Regional Universitaire Brest Hôpital de la Cavale Blanche à Brest</name>
+      <address>
+        <city>Brest Cedex</city>
+        <zip>29609</zip>
+        <country>France</country>
       </address>
     </facility>
     <status>Available</status>
@@ -509,11 +985,88 @@
   </location>
   <location>
     <facility>
+      <name>Centre Hospitalier Régional d'Orléans</name>
+      <address>
+        <city>Orléans</city>
+        <zip>45100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Centre Hospitalier Universitaire de Poitiers</name>
       <address>
         <city>Poitiers</city>
         <zip>86021</zip>
         <country>France</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Charles-Nicolle</name>
+      <address>
+        <city>Rouen</city>
+        <zip>76031</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Josef Hospital Ruhr Universitaet Bochum</name>
+      <address>
+        <city>Bochum</city>
+        <zip>44791</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum</name>
+      <address>
+        <city>Essen</city>
+        <zip>45147</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Freiburg</name>
+      <address>
+        <city>Freiburg</city>
+        <zip>79106</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsmedizin Göttingen</name>
+      <address>
+        <city>Göttingen</city>
+        <zip>37075</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Hochschule Hannover</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
       </address>
     </facility>
     <status>Available</status>
@@ -542,6 +1095,17 @@
   </location>
   <location>
     <facility>
+      <name>Sheba Medical Center at Tel Hashomer</name>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>52621</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Azienda Ospedaliero Universitaria Ospedali Riuniti di Ancona</name>
       <address>
         <city>Ancona</city>
@@ -564,6 +1128,39 @@
   </location>
   <location>
     <facility>
+      <name>Azienda Ospedaliero - Universitaria Careggi</name>
+      <address>
+        <city>Florence</city>
+        <zip>50134</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Gerardo di Monza</name>
+      <address>
+        <city>Monza</city>
+        <zip>20900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera dei Colli</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Azienda Ospedaliero-Universitaria Pisana</name>
       <address>
         <city>Pisa</city>
@@ -575,10 +1172,109 @@
   </location>
   <location>
     <facility>
+      <name>Azienda Ospedaliero Universitaria</name>
+      <address>
+        <city>Turin</city>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Radboud Universitair Medisch Centrum</name>
+      <address>
+        <city>Nijmegen</city>
+        <zip>6525 GA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>HagaZiekenhuis</name>
+      <address>
+        <city>The Hague</city>
+        <zip>2545 AA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Germans Trias i Pujol</name>
+      <address>
+        <city>Badalona</city>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Central de Asturias</name>
+      <address>
+        <city>Oviedo</city>
+        <zip>33011</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Hospital Universitario Son Espases</name>
       <address>
         <city>Palma de Mallorca</city>
         <zip>07120</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico Universitario de Salamanca</name>
+      <address>
+        <city>Salamanca</city>
+        <zip>37007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Donostia</name>
+      <address>
+        <city>San Sebastian</city>
+        <zip>20014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Virgen De La Salud</name>
+      <address>
+        <city>Toledo</city>
+        <zip>45004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico Universitario de Valladolid</name>
+      <address>
+        <city>Valladolid</city>
+        <zip>47003</zip>
         <country>Spain</country>
       </address>
     </facility>
@@ -597,10 +1293,43 @@
   </location>
   <location>
     <facility>
+      <name>Kantonsspital Aarau</name>
+      <address>
+        <city>Aarau</city>
+        <zip>5000</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>University Hospital Basel</name>
       <address>
         <city>Basel</city>
         <zip>4051</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalzentrum Biel</name>
+      <address>
+        <city>Biel</city>
+        <zip>2502</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Graubünden</name>
+      <address>
+        <city>Chur</city>
+        <zip>7000</zip>
         <country>Switzerland</country>
       </address>
     </facility>
@@ -619,10 +1348,43 @@
   </location>
   <location>
     <facility>
+      <name>Luzerner Kantonsspital</name>
+      <address>
+        <city>Luzern</city>
+        <zip>6000</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>University Hospital of Wales, Cardiff and Vale NHS Trust</name>
       <address>
         <city>Cardiff</city>
         <zip>CF14 4XW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Guy's and St Thomas' NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <zip>SE1 7EH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. George's Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>SW17 0QT</zip>
         <country>United Kingdom</country>
       </address>
     </facility>
@@ -640,9 +1402,12 @@
     <status>Available</status>
   </location>
   <location_countries>
+    <country>Belgium</country>
     <country>France</country>
     <country>Germany</country>
+    <country>Israel</country>
     <country>Italy</country>
+    <country>Netherlands</country>
     <country>Spain</country>
     <country>Switzerland</country>
     <country>United Kingdom</country>
@@ -652,9 +1417,9 @@
   <study_first_submitted>March 24, 2020</study_first_submitted>
   <study_first_submitted_qc>March 24, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

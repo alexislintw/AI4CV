@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="19">
+<clinical_study rank="25">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04321421</url>
   </required_header>
@@ -169,7 +169,7 @@
     <country>Italy</country>
   </location_countries>
   <reference>
-    <citation>Chen L, Xiong J, Bao L, Shi Y. Convalescent plasma as a potential therapy for COVID-19. Lancet Infect Dis. 2020 Feb 27. pii: S1473-3099(20)30141-9. doi: 10.1016/S1473-3099(20)30141-9. [Epub ahead of print]</citation>
+    <citation>Chen L, Xiong J, Bao L, Shi Y. Convalescent plasma as a potential therapy for COVID-19. Lancet Infect Dis. 2020 Apr;20(4):398-400. doi: 10.1016/S1473-3099(20)30141-9. Epub 2020 Feb 27.</citation>
     <PMID>32113510</PMID>
   </reference>
   <reference>

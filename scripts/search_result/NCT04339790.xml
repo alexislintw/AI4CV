@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="416">
+<clinical_study rank="631">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04339790</url>
   </required_header>
@@ -71,6 +71,8 @@
 
       Participants will get links to mental health resources, such as hotlines. They will also get
       guidance on steps to take to seek care or support.
+
+      Study website: nimhcovidstudy.ctss.nih.gov
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -106,7 +108,7 @@
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
-  <start_date type="Anticipated">April 20, 2020</start_date>
+  <start_date type="Anticipated">April 29, 2020</start_date>
   <completion_date type="Anticipated">April 1, 2022</completion_date>
   <primary_completion_date type="Anticipated">March 1, 2022</primary_completion_date>
   <study_type>Observational</study_type>
@@ -180,9 +182,9 @@
     <affiliation>National Institute of Mental Health (NIMH)</affiliation>
   </overall_official>
   <overall_contact>
-    <last_name>Alison Gibbons</last_name>
-    <phone>(240) 665-0697</phone>
-    <email>alison.gibbons@nih.gov</email>
+    <last_name>Joyce Y Chung, M.D.</last_name>
+    <phone>(301) 443-8466</phone>
+    <email>chungj@mail.nih.gov</email>
   </overall_contact>
   <location>
     <facility>
@@ -195,11 +197,6 @@
       </address>
     </facility>
     <status>Recruiting</status>
-    <contact>
-      <last_name>Alison Gibbons</last_name>
-      <phone>240-665-0697</phone>
-      <email>alison.gibbons@nih.gov</email>
-    </contact>
   </location>
   <location_countries>
     <country>United States</country>
@@ -212,13 +209,13 @@
     <citation>Kendler KS, Hettema JM, Butera F, Gardner CO, Prescott CA. Life event dimensions of loss, humiliation, entrapment, and danger in the prediction of onsets of major depression and generalized anxiety. Arch Gen Psychiatry. 2003 Aug;60(8):789-96.</citation>
     <PMID>12912762</PMID>
   </reference>
-  <verification_date>April 7, 2020</verification_date>
+  <verification_date>April 22, 2020</verification_date>
   <study_first_submitted>April 8, 2020</study_first_submitted>
   <study_first_submitted_qc>April 8, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 9, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

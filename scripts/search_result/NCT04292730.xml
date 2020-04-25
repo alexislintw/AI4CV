@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="95">
+<clinical_study rank="150">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04292730</url>
   </required_header>
@@ -157,6 +157,18 @@
         <city>Anaheim</city>
         <state>California</state>
         <zip>92806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mills-Peninsula Medical Center</name>
+      <address>
+        <city>Burlingame</city>
+        <state>California</state>
+        <zip>94010</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -404,6 +416,18 @@
   </location>
   <location>
     <facility>
+      <name>Kaiser Permanente-Oakland/San Francisco, 1200 El Camino Real</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94080</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>California Pacific Medical Center-Infectious Disease Associates Medical Group</name>
       <address>
         <city>San Francisco</city>
@@ -421,6 +445,42 @@
         <city>San Francisco</city>
         <state>California</state>
         <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Oakland/San Francisco, 250 Hospital Parkway, Suite 850</name>
+      <address>
+        <city>San Jose</city>
+        <state>California</state>
+        <zip>95119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Oakland/San Francisco, 2500 Merced St</name>
+      <address>
+        <city>San Leandro</city>
+        <state>California</state>
+        <zip>94577</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Oakland/San Francisco, 700 Lawrence Expressway</name>
+      <address>
+        <city>Santa Clara</city>
+        <state>California</state>
+        <zip>95051</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -529,6 +589,18 @@
         <city>New Haven</city>
         <state>Connecticut</state>
         <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Hawaii Moanalua Medical Center</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96819</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -1088,6 +1160,18 @@
   </location>
   <location>
     <facility>
+      <name>Prisma Health Richland Hospital, 701 Grove Road</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>The Liver Institute of Methodist Dallas Medical Center</name>
       <address>
         <city>Dallas</city>
@@ -1342,7 +1426,7 @@
   </location>
   <location>
     <facility>
-      <name>CHU de BORDEAUX</name>
+      <name>CHU Pellegrin</name>
       <address>
         <city>Bordeaux</city>
         <zip>33076</zip>
@@ -1353,7 +1437,7 @@
   </location>
   <location>
     <facility>
-      <name>Chu Montpellier</name>
+      <name>CHU de Montpellier-Hopital Gui de Chauliac</name>
       <address>
         <city>Montpelier Cedex 5</city>
         <zip>34295</zip>
@@ -1364,7 +1448,7 @@
   </location>
   <location>
     <facility>
-      <name>CHU de Nantes</name>
+      <name>CHU de Nantes-Hotel Dieu</name>
       <address>
         <city>Nantes</city>
         <zip>44035</zip>
@@ -1375,7 +1459,7 @@
   </location>
   <location>
     <facility>
-      <name>Saint Louis hospital</name>
+      <name>Hopital Saint-Louis</name>
       <address>
         <city>Paris</city>
         <zip>75010</zip>
@@ -1515,7 +1599,7 @@
   </location>
   <location>
     <facility>
-      <name>Clinica Universitaria Malattie Infettive, Ospedale Amedeo di Savoia</name>
+      <name>UOC Malattie Infettive, ASST Papa Giovanni XXIII</name>
       <address>
         <city>Bergamo</city>
         <zip>24127</zip>
@@ -1657,7 +1741,7 @@
   </location>
   <location>
     <facility>
-      <name>Nagoya City Easter Medical Center</name>
+      <name>Nagoya City East Medical Center</name>
       <address>
         <city>Nagoya</city>
         <zip>464-8547</zip>
@@ -1790,6 +1874,17 @@
   </location>
   <location>
     <facility>
+      <name>Complejo Hospitalario Universitario A Coruña</name>
+      <address>
+        <city>A Coruña</city>
+        <zip>15006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Hospital Clinic de Barcelona</name>
       <address>
         <city>Barcelona</city>
@@ -1823,6 +1918,17 @@
   </location>
   <location>
     <facility>
+      <name>Hospital Universitario Fundación Jiménez Díaz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Hospital Universitario 12 de Octubre</name>
       <address>
         <city>Madrid</city>
@@ -1849,6 +1955,17 @@
       <address>
         <city>Málaga</city>
         <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen del Rocio</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
         <country>Spain</country>
       </address>
     </facility>
@@ -1967,19 +2084,7 @@
   </location>
   <location>
     <facility>
-      <name>Manchester Royal</name>
-      <address>
-        <city>Manchester</city>
-        <state>M13 9wl</state>
-        <zip>M13 9WL</zip>
-        <country>United Kingdom</country>
-      </address>
-    </facility>
-    <status>Recruiting</status>
-  </location>
-  <location>
-    <facility>
-      <name>Royal infirmary edinburgh</name>
+      <name>NHS Lothian, Royal lnfirmary of Edinburgh</name>
       <address>
         <city>Edinburgh</city>
         <zip>EH4 2XU</zip>
@@ -2081,6 +2186,17 @@
       <name>Manchester University NHS Foundation Trust</name>
       <address>
         <city>Manchester</city>
+        <zip>M13 9WL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Manchester University NHS Foundation Trust</name>
+      <address>
+        <city>Manchester</city>
         <zip>M23 9LT</zip>
         <country>United Kingdom</country>
       </address>
@@ -2144,9 +2260,9 @@
   <study_first_submitted>February 28, 2020</study_first_submitted>
   <study_first_submitted_qc>February 28, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 3, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

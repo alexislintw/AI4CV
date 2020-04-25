@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="576">
+<clinical_study rank="844">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04061382</url>
   </required_header>
@@ -29,18 +29,22 @@
   <brief_summary>
     <textblock>
       This is a pilot study to assess the feasibility of establishing a national
-      seroepidemiological survey in England in individuals aged 0-24 years, focusing on Diphtheria,
-      Group C invasive Meningococcal disease and novel coronavirus (COVID-19). The investigators
-      are aiming to recruit around 2300 individuals and the investigators are aiming to ensure that
-      sample is broadly representative of the region according to IMD (Index of Multiple
-      Deprivation scores). PHE have generated a list of all postcodes in recruiting regions and
-      determining the quintiles of IMD within that region. Participants interested in taking part
-      in the study will contact sites to arrange a visits. Basic demographic characteristics will
-      be collected by questionnaire and/ or case report form (CRF) and will include : DOB, gender,
-      GP details, Ethnic group, association with communities of special interest, household income,
-      recent history of any upper respiratory tract infections and vaccination history. One study
-      visit will be conducted by research study staff and blood sampling will be carried out in
-      line with local SOP
+      sero-epidemiological survey in England in individuals aged 0-24 years, focusing on assessing
+      humoral immunity against diphtheria, Group C invasive Meningococcus and SARS-CoV-2. The
+      investigators will recruit 3500 individuals, divided into two groups:
+
+      Group one (N- 2300):
+
+      This will include all age groups (0-24years), with recruitment restricted by postcodes
+      provided by Public Health England (PHE) to recruit a representative population for the region
+      as assessed by the IMD (Index of Multiple Deprivation scores).
+
+      Group two (N=1200):
+
+      This group has been added following additional funding to enhance the sample size in response
+      to the COVID-19 pandemic. This will recruit 0-19 year olds and will not be restricted by post
+      code sampling. Instead recruitment will be by public promotion within the normal recruiting
+      regions for each site.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -55,26 +59,28 @@
       representative cross section of society. This type of approach would address the limitations
       of using residual serum samples and allows the collection of additional relevant history e.g.
       number of family members and previous vaccines received. The investigators are therefore
-      proposing a pilot study to assess the feasibility of establishing a national
-      sero-epidemiological survey in England in individuals aged 0 - 24 years. The investigators
-      will be focusing initially on Diphtheria and Group C invasive meningococcal disease, both of
-      which are vaccine preventable. This will involve enrolling 2300 participants in the study
-      from different geographical and socioeconomic backgrounds across our test sites and taking a
-      blood sample. This blood will be analysed to look at the level of immunity to vaccine
-      preventable diseases.
+      proposing a pilot study to assess the feasibility of establishing a national sero-
+      epidemiological survey in England in individuals aged 0 - 24 years. The investigators will be
+      focusing initially on Diphtheria and Group C invasive meningococcal disease, both of which
+      are vaccine preventable. This will involve enrolling 2300 participants in the study from
+      different geographical and socioeconomic backgrounds across our test sites and taking a blood
+      sample. This blood will be analysed to look at the level of immunity to vaccine preventable
+      diseases.
 
-      The original Protocol has been amendment to include the testing of antibodies against other
-      infectious diseases, specifically novel coronavirus (COVID-19). No additional samples will be
-      required from participants. Having a large number of blood samples from a range of age groups
+      The original protocol has been amendment to include the testing of antibodies against other
+      infectious diseases, specifically COVID-19. A second group has been added to recruit an
+      additional 1200 participants between the ages of 0-19 years. The additional funding will be
+      used to open sites to recruit to group two across regions on England that are currently not
+      represented by this study. Having a large number of blood samples from a range of age groups
       is useful when gathering information about an emerging disease such as the current novel
       coronavirus (COVID-19). These samples can help provide answers regarding the true number of
-      infections in the population.
+      infections in this population.
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
   <start_date type="Actual">October 15, 2019</start_date>
   <completion_date type="Anticipated">November 30, 2020</completion_date>
-  <primary_completion_date type="Anticipated">April 30, 2020</primary_completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2020</primary_completion_date>
   <study_type>Observational</study_type>
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
@@ -82,19 +88,24 @@
     <time_perspective>Prospective</time_perspective>
   </study_design_info>
   <primary_outcome>
-    <measure>Feasibility of developing a UK based sero-epidemiological programme in 0-24 year olds</measure>
+    <measure>Feasibility of developing an England based sero-epidemiological programme in 0-24 year olds</measure>
     <time_frame>11months</time_frame>
     <description>Measure the representativeness of participants as compared to the census data for the study region.</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Feasibility of developing a UK based sero epidemiological survey in 0-24 year olds</measure>
+    <measure>Feasibility of developing an England based sero epidemiological survey in 0-24 year olds</measure>
     <time_frame>11 months</time_frame>
-    <description>Test serological markers of immunity for vaccine preventable diseases starting with Diphtheria.</description>
+    <description>Test serological markers of immunity for vaccine preventable diseases starting with diphtheria.</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Feasibility of developing a UK based sero epidemiological survey in 0-24 year olds</measure>
+    <measure>Feasibility of developing an England based sero epidemiological survey in 0-24 year olds</measure>
     <time_frame>11 months</time_frame>
     <description>Test serological markers of immunity for vaccine preventable diseases including Invasive Meningococcal type C.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of developing an England based sero epidemiological survey in 0-24 year olds</measure>
+    <time_frame>11 months</time_frame>
+    <description>Test serological markers of immunity for COVID-19.</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Recruitment rate</measure>
@@ -104,7 +115,7 @@
   <secondary_outcome>
     <measure>Cost</measure>
     <time_frame>11 months</time_frame>
-    <description>Cost per sample obtained of 'disease specific correlates of protection/markers of immunity, e.g. Anti-Diphtheria Toxoid IgG concentrations and capsular Group C meningococcal Serum bactericidal activity (SBA) titres</description>
+    <description>Cost per sample obtained of 'disease specific correlates of protection/markers of immunity, e.g. Anti-Diphtheria Toxoid IgG concentrations and capsular Group C meningococcal Serum bactericidal activity (SBA) titres and IgG to COVID-19 spike protein (as measured by ELISA and/or neutralising assay)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>To assess, in relevant age groups, immunity against infections and vaccine preventable diseases</measure>
@@ -116,20 +127,31 @@
     <time_frame>11 months</time_frame>
     <description>A collection of anonymised sera from participants with appropriate consent and known demographic details and immunisation history</description>
   </secondary_outcome>
-  <number_of_groups>1</number_of_groups>
-  <enrollment type="Anticipated">2300</enrollment>
+  <secondary_outcome>
+    <measure>Exploratory</measure>
+    <time_frame>11 months</time_frame>
+    <description>Representativeness of participants sampled, in terms of the local population's ethnicity, community identity, migrant population and socioeconomic background in group 1 and group 2.
+Differences in immunological read outs</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">3500</enrollment>
   <condition>Serogroup C Meningococcal Meningitis</condition>
   <condition>Diphtheria</condition>
   <condition>COVID-19</condition>
   <arm_group>
-    <arm_group_label>Randomised selection of poplulation</arm_group_label>
-    <description>This is a pilot study to assess the feasibility of establishing a national seroepidemiological survey in England in individuals aged 0-24 years, focusing initially on Diphtheria and Group C invasive Meningococcal disease. The investigators are aiming to recruit around 2300 individuals and the investigators are aiming to ensure that sample is broadly representative of the region according to IMD (Index of Multiple Deprivation scores). PHE have generated a list of all postcodes in recruiting regions and determining the quintiles of IMD within that region. Participants interested in taking part in the study will contact sites to arrange a visits. Basic demographic characteristics will be collected by questionnaire and/ or case report form (CRF) and will include : DOB, gender, GP details, Ethnic group, association with communities of special interest, household income and vaccination history.</description>
+    <arm_group_label>Randomised selection of population - Group 1</arm_group_label>
+    <description>Group 1 will be focusing on COVID-19, Diphtheria and Group C invasive Meningococcal disease. The investigators are aiming to recruit around 2300 individuals and the investigators are aiming to ensure that sample is broadly representative of the region according to IMD (Index of Multiple Deprivation scores). PHE have generated a list of all postcodes in recruiting regions and determining the quintiles of IMD within that region. Participants interested in taking part in the study will contact sites to arrange a visits. Basic demographic characteristics will be collected by questionnaire and/ or case report form (CRF) and will include: DOB, gender, GP details, Ethnic group, association with communities of special interest, household income and vaccination history.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <description>Group two will focus on 0-19 year olds only. They will not be restricted to the post code sampling. Instead this will include standard recruitment methods such as social media advertisements within the normal recruiting regions for each site.</description>
   </arm_group>
   <intervention>
     <intervention_type>Procedure</intervention_type>
-    <intervention_name>venepuncture</intervention_name>
-    <description>One study visit will be conducted by research study staff and blood sampling will be carried out. The blood sample will initially focus initially on looking at population immunity to Diphtheria, Group C invasive Meningococcal disease and COVID-19.</description>
-    <arm_group_label>Randomised selection of poplulation</arm_group_label>
+    <intervention_name>Venepuncture</intervention_name>
+    <description>One study visit will be conducted by research study staff and blood sampling will be carried out. The blood sample will initially focus on looking at population immunity to Diphtheria, Group C invasive Meningococcal disease and COVID-19.</description>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_label>Randomised selection of population - Group 1</arm_group_label>
   </intervention>
   <biospec_retention>Samples With DNA</biospec_retention>
   <biospec_descr>
@@ -165,14 +187,16 @@
           -  Parents/legal guardians or adult participant* is willing and able to give informed
              consent for participation in the study.
 
-          -  Male or Female, aged 0 - 24 years inclusive.
+          -  Male or Female, aged 0 - 24 years inclusive (Group 1)
+
+          -  Male or Female, aged 0 - 19 years inclusive (Group 2)
 
           -  Parents/legal guardians or adult participants are willing to allow their General
              Practitioner or relevant NHS databases to be contacted for a full immunisation history
 
         Exclusion Criteria:
 
-          -  If participants do not live in the postcode districts selected by PHE
+          -  If participants do not live in the postcode districts selected by PHE (Group 1 only)
 
           -  Medically diagnosed bleeding disorder
 
@@ -184,6 +208,11 @@
 
           -  If another member of their household is participating who is within 5 years of age of
              the potential participants age
+
+        Temporary exclusion criteria:
+
+        The participant may not enter the study if they or any member of their household is under
+        temporary isolation measures for suspected SARS-CoV-2 infection.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -230,9 +259,9 @@
   <study_first_submitted>July 30, 2019</study_first_submitted>
   <study_first_submitted_qc>August 16, 2019</study_first_submitted_qc>
   <study_first_posted type="Actual">August 19, 2019</study_first_posted>
-  <last_update_submitted>March 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 24, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

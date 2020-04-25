@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="430">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04358406</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BTI-202</org_study_id>
+    <nct_id>NCT04358406</nct_id>
+  </id_info>
+  <brief_title>Rhu-pGSN for Severe Covid-19 Pneumonia</brief_title>
+  <official_title>A Phase 2 Randomized, Double-Blind, Placebo-Controlled, Proof-Of-Concept Study To Evaluate Efficacy And Safety Of Recombinant Human Plasma Gelsolin (Rhu-pGSN) Added To Standard Of Care In Subjects With Severe Covid-19 Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioAegis Therapeutics Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BioAegis Therapeutics Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study Objectives:
+
+      Primary
+
+        -  To assess the efficacy (survival without organ failure) of three doses of rhu-pGSN to
+           hospitalized subjects with a primary diagnosis of COVID-19 pneumonia
+
+        -  To evaluate the safety and tolerability of three doses of rhu-pGSN
+
+      Secondary
+
+        -  To examine individual components of the primary composite endpoint
+
+        -  To assess the relationship of pGSN levels at baseline with clinical outcomes
+
+        -  To assess changes in WHO 9 point severity score
+
+      Immunogenicity
+
+      • To investigate the development of antibodies against pGSN post-treatment
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Efficacy and safety of intravenous rhu-pGSN on top of standard of care will be evaluated
+      initially in 60 participants representative of the drug target population: high-risk subjects
+      with acute severe pneumonia due to COVID-19. The rhu-pGSN dose will be based on actual body
+      weight given at 12 mg/kg. Three doses will be given at 0, 12 and 24 hours intervals promptly
+      after enrollment by IV infusion through a 0.2 µ filter. Participants will be randomized 1:1
+      rhu-pGSN or placebo. Interim safety analyses will be conducted after enrollment of 12, 24,
+      36, and 48 patients.
+
+      The primary efficacy outcome will be the proportion of patients surviving on Day 14 without
+      mechanical ventilation, vasopressors or dialysis. Secondary analyses will examine mortality
+      and the composite endpoint at 14, 28 and 90 days. In addition, exploratory analyses will
+      involve the number of days up to day 28 without respiratory, vasopressor or renal support
+      separately, duration of IV and total antimicrobial therapy, medical costs, and outcomes by
+      pathogen type. Baseline and sequential levels of pGSN and inflammatory biomarkers will be
+      measured. On days 0, 28, and 90, immunogenicity due to the formation of anti-pGSN antibodies
+      will be assessed.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2020</start_date>
+  <completion_date type="Anticipated">September 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Randomized, blinded, placebo controlled interventional</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Treatment blinded to all but unblinded pharmacist</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Efficacy: Proportion of subjects alive not on vasopressors, mechanical ventilator, and dialysis</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Proportion of subjects alive not on vasopressors, mechanical ventilator, and dialysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and Tolerability: Proportion of subjects with serious adverse events (SAEs)</measure>
+    <time_frame>Continuous through Day 28</time_frame>
+    <description>Proportion of subjects with SAEs as judged by the investigator</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: All cause mortality rate though Day 28</measure>
+    <time_frame>Continuous through Day 28</time_frame>
+    <description>All cause mortality rate using Kaplan-Meier survival analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Change in World Health Organisation (WHO) 9-point severity score</measure>
+    <time_frame>Daily through at least Day 14</time_frame>
+    <description>Change in the 9-point Severity Score (ordinal scale) proposed by a special WHO committee for COVID-19 pneumonia where a score of 8 indicates death and 0 is no clinical or virological evidence of COVID-19 infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Proportion of subjects discharged to home or immediate prior residence</measure>
+    <time_frame>Continuous through Day 28</time_frame>
+    <description>Proportion of subjects discharged to home or immediate prior residence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Number of days alive and off the ventilator</measure>
+    <time_frame>Continuous through Day 28</time_frame>
+    <description>Number of days alive and off the ventilator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Length of stay (LOS) of surviving subjects in the hospital</measure>
+    <time_frame>Continous through day 28</time_frame>
+    <description>LOS in hospital (days) of surviving subjects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Proportion of subjects readmitted to the hospital</measure>
+    <time_frame>Up to 90 days</time_frame>
+    <description>Proportion of subjects readmitted to the hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability: Proportion of subjects with Grade 3-4 clinically significant laboratory abnormalities.</measure>
+    <time_frame>Continuous through Day 28</time_frame>
+    <description>Clinically significant laboratory abnormalities graded according to the National Cancer Institute (NCI) as follows: Grade 0: No abnormalities, Grade 3: Moderate, Grade 4:Severe</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability: Proportion of subjects with non-serious adverse events (AEs)</measure>
+    <time_frame>Continuous through Day 28</time_frame>
+    <description>Proportion of subjects with non-serious adverse events (AEs)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity: Proportion of subjects with anti-pGSN antibodies</measure>
+    <time_frame>Days 0, 28, and 90</time_frame>
+    <description>Proportion of subjects with anti-pGSN antibodies</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Sars-CoV2</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Normal saline in matched volume to treatment arm. Undistinguishable in syringe.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Rhu-pGSN</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Recombinant human plasma gelsolin reconstituted for slow bolus injection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Recombinant human plasma gelsolin (Rhu-pGSN)</intervention_name>
+    <description>Intravenous administration of rhu-pGSN at 12 mg/kg, 3 doses</description>
+    <arm_group_label>Rhu-pGSN</arm_group_label>
+    <other_name>gelsolin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Normal saline in matched volume to treatment arm. Undistinguishable in syringe.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Weight ≤100 kg
+
+          2. Within 24 hours of reaching a WHO severity score of 4-6 either:
+
+               1. At admission
+
+               2. While already hospitalized
+
+          3. Informed consent obtained from subject/next of kin/legal proxy
+
+          4. Primary admitting diagnosis of pneumonia supported by a compatible clinical
+             presentation with a documented infiltrate consistent with pneumonia on chest
+             radiograph, CT, or MRI, as assessed by the admitting emergency-department (ED),
+             clinic, or ward physician or equivalent caregiver
+
+        Recommended (not mandatory) guidance/discretionary criteria defining patients with
+        pneumonia satisfying all 4 categories below:
+
+          -  At least 2 symptoms: difficulty breathing, cough, production of purulent sputum, or
+             chest pain
+
+          -  At least 2 vital sign abnormalities: fever, tachycardia, or tachypnea (thresholds --
+             fever: oral or core temperature &gt;100.4 F [38 C]; heart rate &gt;100 beats/min;
+             respiratory rate &gt;24/min)
+
+          -  At least one finding of other clinical signs and laboratory abnormalities: hypoxemia
+             (O2 saturation &lt;90%), clinical evidence of pulmonary consolidation, or leukocytosis or
+             leukopenia
+
+          -  Chest imaging, CT, or MRI showing new (or presumed new or worsening) pulmonary
+             infiltrates PI to note radiologic findings in the CRF Radiology report to be placed in
+             the CRF A copy of the radiograph attached to be saved for review
+
+        Exclusion Criteria:
+
+          1. Requiring ECMO or WHO score &gt;6 or &lt;4
+
+          2. Pregnant or lactating women
+
+          3. Unable to understand and provide informed consent (written consent can be provided by
+             next of kin or legal guardian on the patient's behalf)
+
+          4. CURB-65 score &lt;3
+
+          5. Use of any investigational drug in the past 30 days
+
+          6. Hospitalization during the last 30 days
+
+          7. Active underlying cancer treated with systemic chemotherapy or radiation therapy
+             during the last 30 days
+
+          8. Transplantation of hematopoietic or solid organs
+
+          9. Chronic mechanical ventilation or dialysis
+
+         10. Active symptomatic congestive heart failure worse than stable baseline
+
+         11. Myocardial infarction, pulmonary embolism, or cardiopulmonary arrest in last 30 days
+
+         12. Weight &gt;100 kg
+
+         13. Otherwise unsuitable for study participation because of chronic, severe, end-stage,
+             life-limiting underlying disease likely to interfere with management and assessment of
+             acute pneumonia, is to receive only comfort or limited (non-aggressive) care, or has a
+             life expectancy &lt;6 months unrelated to acute pneumonia in the opinion of the
+             investigator
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Mark J DiNubile, MD</last_name>
+    <phone>609-706-5866</phone>
+    <email>mdinubile@bioaegistx.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Susan L Levinson, PhD</last_name>
+    <phone>19735394552</phone>
+    <email>slevinson@bioaegistx.com</email>
+  </overall_contact_backup>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>pneumonia</keyword>
+  <keyword>severe</keyword>
+  <keyword>cytokine storm</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

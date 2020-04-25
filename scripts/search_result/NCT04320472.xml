@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="308">
+<clinical_study rank="477">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04320472</url>
   </required_header>
@@ -166,6 +166,21 @@
   </overall_contact>
   <location>
     <facility>
+      <name>Jackson Memorial Health System; University of Miami, Miller School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ayham Alkhachroum, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
       <name>Centre Hospitalier d'Argenteuil</name>
       <address>
         <city>Argenteuil</city>
@@ -201,6 +216,19 @@
     <status>Recruiting</status>
     <contact>
       <last_name>Guillaume Geri, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de Bourg en Bresse</name>
+      <address>
+        <city>Bourg-en-Bresse</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicolas Sedillot, MD</last_name>
     </contact>
   </location>
   <location>
@@ -254,6 +282,23 @@
     <contact>
       <last_name>Damien Roux, MD, PhD</last_name>
     </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Henri Mondor</name>
+      <address>
+        <city>Créteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Arnaud Meffert, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Nicolas Mongardon, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
   </location>
   <location>
     <facility>
@@ -402,6 +447,19 @@
     <status>Recruiting</status>
     <contact>
       <last_name>Wulfran Bougouin, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Sud Ile-de-France</name>
+      <address>
+        <city>Melun</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mehran Monchi, MD, PhD</last_name>
     </contact>
   </location>
   <location>
@@ -577,16 +635,31 @@
       <last_name>Carole Ruault, MD</last_name>
     </contact>
   </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic Universitari</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rafael Badenes, MD, PhD, DESA, MSc</last_name>
+    </contact>
+  </location>
   <location_countries>
     <country>France</country>
+    <country>Spain</country>
+    <country>United States</country>
   </location_countries>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>March 22, 2020</study_first_submitted>
   <study_first_submitted_qc>March 22, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 25, 2020</study_first_posted>
-  <last_update_submitted>April 13, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="259">
+<clinical_study rank="401">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04318431</url>
   </required_header>
@@ -75,7 +75,7 @@
   <primary_outcome>
     <measure>Proportion of asymptomatic children or children with mild respiratory symptoms</measure>
     <time_frame>14 days</time_frame>
-    <description>Proportion of asymptomatic children or children with mild respiratory symptoms (mildly-symptomatic children) with a positive SARS-Cov2 Reverse Transcriptase Polymerase Chain Reaction (RT-PCR) on rhino pharyngeal swab in the Ile-de-France region during an epidemic period.</description>
+    <description>Proportion of asymptomatic children or children with mild respiratory symptoms (mildly-symptomatic children) with a positive SARS-Cov2 Reverse Transcriptase Polymerase Chain Reaction (RT-PCR) on rhino pharyngeal swab or/and IgM/IgG positive serology in the Ile-de-France region during an epidemic period.</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Confirmed Cov2-SARS cases by age</measure>
@@ -119,8 +119,9 @@ During the same consultation, a rhinopharyngeal swab will be taken for the detec
   <intervention>
     <intervention_type>Diagnostic Test</intervention_type>
     <intervention_name>Data collection and rhinopharyngeal swab</intervention_name>
-    <description>Testing for SARS -Cov2 and other respiratory pathogens by PCR via nasopharyngeal swabbing</description>
+    <description>Testing for SARS -Cov2 and other respiratory pathogens by PCR via nasopharyngeal swabbing and IgM/IgG rapid serology</description>
     <arm_group_label>Data collection and rhinopharyngeal swab</arm_group_label>
+    <other_name>IgM/IgG rapid serology</other_name>
   </intervention>
   <eligibility>
     <criteria>
@@ -229,6 +230,24 @@ During the same consultation, a rhinopharyngeal swab will be taken for the detec
   </location>
   <location>
     <facility>
+      <name>14 Av rené Samuel</name>
+      <address>
+        <city>Clamart</city>
+        <zip>92140</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eliane CAMBIER NAPPO</last_name>
+    </contact>
+    <investigator>
+      <last_name>Chantal CHARTIER ALBRECH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
       <name>Cabinet du Dr Corrard</name>
       <address>
         <city>Combs-la-Ville</city>
@@ -243,17 +262,21 @@ During the same consultation, a rhinopharyngeal swab will be taken for the detec
   </location>
   <location>
     <facility>
-      <name>53 Boulevard De La Liberté</name>
+      <name>10 rue Delambre</name>
       <address>
-        <city>Les Lilas</city>
-        <zip>93260</zip>
+        <city>Lagny-sur-Marne</city>
+        <zip>77400</zip>
         <country>France</country>
       </address>
     </facility>
     <status>Recruiting</status>
     <contact>
-      <last_name>Elisa SEROR</last_name>
+      <last_name>Roxana CONDOR</last_name>
     </contact>
+    <investigator>
+      <last_name>Murielle LOUVEL</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
   </location>
   <location>
     <facility>
@@ -271,16 +294,16 @@ During the same consultation, a rhinopharyngeal swab will be taken for the detec
   </location>
   <location>
     <facility>
-      <name>Cabinet du Dr Bodin</name>
+      <name>21 Grande Rue Charles de Gaulle</name>
       <address>
-        <city>Montgeron</city>
-        <zip>91230</zip>
+        <city>Nogent-sur-Marne</city>
+        <zip>94130</zip>
         <country>France</country>
       </address>
     </facility>
     <status>Recruiting</status>
     <contact>
-      <last_name>Marie-José Bodin</last_name>
+      <last_name>AKOU'OU Marie Hélène</last_name>
     </contact>
   </location>
   <location>
@@ -313,6 +336,28 @@ During the same consultation, a rhinopharyngeal swab will be taken for the detec
   </location>
   <location>
     <facility>
+      <name>4 allée des Norottes</name>
+      <address>
+        <city>Noisy-le-Grand</city>
+        <zip>93160</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anne AUVRIGNON</last_name>
+    </contact>
+    <investigator>
+      <last_name>Brigitte DE BRITO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Stéphanie GORDE-GROSJEAN</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
       <name>Cabinet du Dr D'acremont</name>
       <address>
         <city>Paris</city>
@@ -323,6 +368,34 @@ During the same consultation, a rhinopharyngeal swab will be taken for the detec
     <status>Recruiting</status>
     <contact>
       <last_name>Gwenaelle D'acremont</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>146 Avenue Ledru Rollin</name>
+      <address>
+        <city>Paris</city>
+        <zip>75011</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elisa SEROR</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>132 Boulevard du Montparnasse</name>
+      <address>
+        <city>Paris</city>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anne DELATOUR</last_name>
     </contact>
   </location>
   <location>
@@ -355,6 +428,20 @@ During the same consultation, a rhinopharyngeal swab will be taken for the detec
   </location>
   <location>
     <facility>
+      <name>15 Quai Louis Blériot</name>
+      <address>
+        <city>Paris</city>
+        <zip>75016</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anne-Sylvestre MICHOT-COTTIAS</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
       <name>Cabinet du Dr Michot</name>
       <address>
         <city>Paris</city>
@@ -365,6 +452,20 @@ During the same consultation, a rhinopharyngeal swab will be taken for the detec
     <status>Recruiting</status>
     <contact>
       <last_name>Anne-Sylvestre Michot</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>24 rue Volta</name>
+      <address>
+        <city>Puteaux</city>
+        <zip>92800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fabienne CAHN-SELLEM</last_name>
     </contact>
   </location>
   <location>
@@ -386,10 +487,6 @@ During the same consultation, a rhinopharyngeal swab will be taken for the detec
     </investigator>
     <investigator>
       <last_name>Nadia D'Ovidio</last_name>
-      <role>Sub-Investigator</role>
-    </investigator>
-    <investigator>
-      <last_name>Marc Koskas</last_name>
       <role>Sub-Investigator</role>
     </investigator>
     <investigator>
@@ -432,9 +529,9 @@ During the same consultation, a rhinopharyngeal swab will be taken for the detec
   <study_first_submitted>March 20, 2020</study_first_submitted>
   <study_first_submitted_qc>March 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 24, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

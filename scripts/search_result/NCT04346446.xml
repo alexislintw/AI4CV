@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="480">
+<clinical_study rank="720">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04346446</url>
   </required_header>
@@ -37,7 +37,7 @@
       from the COVID-19 infected recovered patient after 14 days of clinical and radiological
       recovery with two consecutive COVID-19 negative tests by PCR. We will further test the sample
       from the collected plasma for COVID-19 specific antibodies and their titer. This plasma will
-      be frozen and sent to the treating center (MAMC). Up to 500ml of convalescent plasma will be
+      be frozen and sent to the treating center (MAMC). 200-600 ml of convalescent plasma will be
       transfused to patients who fit the eligibility criteria and are randomized to the
       convalescent plasma group. This will be done in severely sick patients. Data will be
       collected for the benefit and adverse events related to convalescent plasma transfusion.
@@ -59,7 +59,7 @@
       incubated at 37 °C for 60 minutes. After 5 washes, 100 μL of tetramethylbenzidine substrate
       will be added at room temperature in the dark. After 15 minutes, the reaction will be stopped
       with a2MH2SO4 solution (sulfuric acid). The absorbance will be measured at 450nm. All samples
-      will be run in triplicate. The ELISA titers were determined by endpoint dilution.
+      will be run in triplicate. The IgG titers will be determined by endpoint dilution.
 
       Serum Neutralization Assay Vero cells (104) will be seeded 24 hours before the infection in a
       96-well plate. On the day of infection, the cells will be washed twice. Serum samples from
@@ -77,15 +77,15 @@
 
       The serum of each recipient will be obtained and enzyme-linked immunosorbent assay (ELISA)
       and neutralizing antibody titers will be tested one day prior to the convalescent plasma
-      transfusion. Changes of Receptor Binding Domain-Specific IgG and IgM ELISA and neutralizing
-      antibody titers before and after convalescent plasma transfusion in patients will be obtained
-      on day 0, day 1, day 3 and day 7.
+      transfusion. Changes of Receptor Binding Domain-Specific IgG titre and neutralizing antibody
+      titers before and after convalescent plasma transfusion in patients will be obtained on day
+      0, day 1, day 3 and day 7. if possible.
 
       All included patients would be randomized to receive either standard medical therapy
-      (supportive therapy) or up to 500 ml of convalescent plasma and standard medical therapy
-      Clinical information of all enrolled patients including symptoms at presentation, time to
-      presentation to the hospital and development of pulmonary symptoms would be recorded. The
-      details of comorbid diseases as measured by the Charlson index of comorbidity and Acute
+      (supportive therapy) with random donor plasma versus convalescent plasma and standard medical
+      therapy Clinical information of all enrolled patients including symptoms at presentation,
+      time to presentation to the hospital and development of pulmonary symptoms would be recorded.
+      The details of comorbid diseases as measured by the Charlson index of comorbidity and Acute
       Physiology and Chronic Health Evaluation II (APACHE II). Details of cross-sectional imaging,
       chest-x-ray, bacterial or fungal co-infections and details of antibiotic treatment would be
       recorded. Development of complications including acute kidney injury, acute coronary
@@ -97,7 +97,7 @@
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
-  <start_date type="Anticipated">April 14, 2020</start_date>
+  <start_date type="Actual">April 21, 2020</start_date>
   <completion_date type="Anticipated">June 30, 2020</completion_date>
   <primary_completion_date type="Anticipated">June 30, 2020</primary_completion_date>
   <phase>Phase 2</phase>
@@ -155,15 +155,15 @@
   <arm_group>
     <arm_group_label>Convalescent Plasma+Supportive Care</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Convalescent Plasma+SC Convalescent plasma from recovered COVID-19 patients will be transfused to severely sick COVID-19 infected patients</description>
+    <description>Convalescent Plasma+Supportive Care Convalescent plasma from recovered COVID-19 patients will be transfused to severely sick COVID-19 infected patients</description>
   </arm_group>
   <arm_group>
-    <arm_group_label>Supportive Care</arm_group_label>
+    <arm_group_label>Random Donor Plasma+Supportive Care</arm_group_label>
     <arm_group_type>Active Comparator</arm_group_type>
-    <description>Supportive Care</description>
+    <description>Random Donor Plasma+Supportive Care</description>
   </arm_group>
   <intervention>
-    <intervention_type>Biological</intervention_type>
+    <intervention_type>Drug</intervention_type>
     <intervention_name>Convalescent Plasma Transfusion</intervention_name>
     <description>Convalescent Plasma Transfusion</description>
     <arm_group_label>Convalescent Plasma+Supportive Care</arm_group_label>
@@ -173,7 +173,13 @@
     <intervention_name>Supportive Care</intervention_name>
     <description>Supportive Care</description>
     <arm_group_label>Convalescent Plasma+Supportive Care</arm_group_label>
-    <arm_group_label>Supportive Care</arm_group_label>
+    <arm_group_label>Random Donor Plasma+Supportive Care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Random Donor Plasma</intervention_name>
+    <description>Random Donor Plasma will be transfuse from 200 to 600 mL according to the patient requirement</description>
+    <arm_group_label>Random Donor Plasma+Supportive Care</arm_group_label>
   </intervention>
   <eligibility>
     <criteria>
@@ -239,6 +245,28 @@
     <phone>01146300000</phone>
     <email>meenubajpai@hotmail.com</email>
   </overall_contact>
+  <overall_contact_backup>
+    <last_name>Dr Ankit Bhardwaj, Masters-CT</last_name>
+    <phone>01146300000</phone>
+    <email>bhardwaj.ankit3@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Maulana Azad medical College</name>
+      <address>
+        <city>New Delhi</city>
+        <state>Delhi</state>
+        <zip>110002</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dr Suresh Kumar, MD</last_name>
+      <phone>9891158991</phone>
+      <email>drskumar31@yahoo.co.in</email>
+    </contact>
+  </location>
   <location>
     <facility>
       <name>Institute of Liver and Biliary Sciences</name>
@@ -263,12 +291,13 @@
   <study_first_submitted>April 14, 2020</study_first_submitted>
   <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 15, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
+  <keyword>convalescent plasma,COVID,SARS-COV -2</keyword>
   <patient_data>
     <sharing_ipd>Undecided</sharing_ipd>
   </patient_data>

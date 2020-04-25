@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="82">
+<clinical_study rank="147">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348435</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>Allogeneic COVID-19 Protection</org_study_id>
     <nct_id>NCT04348435</nct_id>
   </id_info>
-  <brief_title>A Randomized, Double-Blind, Single Center, Efficacy and Safety Study of Allogeneic HB-adMSCs to Provide Immune Support Against COVID-19</brief_title>
+  <brief_title>A Randomized, Double-Blind, Placebo-Controlled Clinical Trial to Determine the Safety and Efficacy of Hope Biosciences Allogeneic Mesenchymal Stem Cell Therapy (HB-adMSCs) to Provide Protection Against COVID-19</brief_title>
   <official_title>A Randomized, Double-Blind, Single Center, Efficacy and Safety Study of Allogeneic HB-adMSCs to Provide Immune Support Against COVID-19</official_title>
   <sponsors>
     <lead_sponsor>
@@ -64,12 +64,12 @@
   </study_design_info>
   <primary_outcome>
     <measure>Incidence of hospitalization for COVID-19</measure>
-    <time_frame>week 0 through week 26 end of study</time_frame>
+    <time_frame>week 0 through week 26 (end of study)</time_frame>
     <description>Number of subjects that must be hospitalized for COVID-19 during the conduct of this study</description>
   </primary_outcome>
   <primary_outcome>
     <measure>Incidence of symptoms associated with COVID-19</measure>
-    <time_frame>week 0 through week 26 end of study</time_frame>
+    <time_frame>week 0 through week 26 (end of study)</time_frame>
     <description>Number of subjects who experience symptoms defined to be associated with COVID-19, such as fever, shortness of breath/difficulty breathing, cough.</description>
   </primary_outcome>
   <secondary_outcome>
@@ -323,59 +323,73 @@
     <intervention_name>Placebos</intervention_name>
     <description>Saline</description>
     <arm_group_label>Placebo</arm_group_label>
-    <other_name>Vehicle</other_name>
   </intervention>
   <eligibility>
     <criteria>
       <textblock>
         Inclusion Criteria:
 
-          -  1. Men, and women 18 years of age or older 2. Participant works in a capacity that is
-             characterized as high-risk or very high-risk
+          -  Men, and women 18 years of age or older
 
-             a. High-Risk Exposure jobs are those with high potential for exposure to known or
+          -  Participant works in a capacity that is characterized as high-risk or very high-risk
+
+          -  High-Risk Exposure jobs are those with high potential for exposure to known or
              suspected sources of COVID-19.
 
-             i. First responders, health care delivery and support staff (e.g., law enforcement,
-             fire fighters, paramedics, doctors, nurses, and other hospital staff who must enter
-             patients' rooms) exposed to individuals potentially having COVID-19.
+               -  First responders, health care delivery and support staff (e.g., law enforcement,
+                  fire fighters, paramedics, doctors, nurses, and other hospital staff who must
+                  enter patients' rooms) exposed to individuals potentially having COVID-19.
 
-        ii. Mortuary workers involved in preparing (e.g., for burial or cremation) the bodies of
-        people who are known to have, or suspected of having, COVID-19 at the time of their death
-        b. Very High-Risk Exposure jobs are those with high potential for exposure to known or
-        suspected sources of COVID-19 during specific medical, postmortem or laboratory procedures.
+               -  Mortuary workers involved in preparing (e.g., for burial or cremation) the bodies
+                  of people who are known to have, or suspected of having, COVID-19 at the time of
+                  their death
 
-        i. Health care workers (e.g., doctors, nurses, dentists, paramedics, emergency medical
-        technicians) performing aerosol-generating procedures (e.g., intubation, cough induction
-        procedures, bronchoscopies, some dental procedures and exams or invasive specimen
-        collection) on known or suspected COVID-19 patients ii. Health care or laboratory personnel
-        collecting or handling specimens from known or suspected COVID-19 patients (e.g.,
-        manipulating cultures from known or suspected COVID-19 patients) iii. Morgue workers
-        performing autopsies, which generally involve aerosol-generating procedures, on the bodies
-        of people who are known to have, or suspected of having, COVID-19 at the time of their
-        death 3. No signs or symptoms of infection, including but not limited to, body temperature
-        &gt;100 F and pulse rate &gt; 100 BPM.
+          -  Very High-Risk Exposure jobs are those with high potential for exposure to known or
+             suspected sources of COVID-19 during specific medical, postmortem or laboratory
+             procedures.
 
-        4. Subject provides written informed consent prior to initiation of any study procedures.
+               -  Health care workers (e.g., doctors, nurses, dentists, paramedics, emergency
+                  medical technicians) performing aerosol-generating procedures (e.g., intubation,
+                  cough induction procedures, bronchoscopies, some dental procedures and exams or
+                  invasive specimen collection) on known or suspected COVID-19 patients
 
-        5. Agrees to the collection of venous blood per protocol. 6. Agrees to conformational
-        testing for SARS-CoV-2 before end of study.
+               -  Health care or laboratory personnel collecting or handling specimens from known
+                  or suspected COVID-19 patients (e.g., manipulating cultures from known or
+                  suspected COVID-19 patients)
+
+               -  Morgue workers performing autopsies, which generally involve aerosol-generating
+                  procedures, on the bodies of people who are known to have, or suspected of
+                  having, COVID-19 at the time of their death
+
+          -  No signs or symptoms of infection, including but not limited to, body temperature &gt;100
+             F and pulse rate &gt; 100 BPM.
+
+          -  Subject provides written informed consent prior to initiation of any study
+             procedures.--Agrees to the collection of venous blood per protocol.
+
+          -  Agrees to conformational testing for SARS-CoV-2 before end of study.
 
         Exclusion Criteria:
 
-        - 1. Women who are pregnant or lactating, or those who are not pregnant but do not take
-        effective contraceptive measures 2. Patients who are participating in other clinical trials
-        or have intake of investigational drug within the previous 30 days; 3. Inability to provide
-        informed consent or to comply with test requirements; 4. Any medical disease or condition
-        that, in the opinion of the site PI or sub-investigator, precludes study participation.
-        Including acute, subacute, intermittent or chronic medical disease or condition that would
-        place the subject at an unacceptable risk of injury, render the subject unable to meet the
-        requirements of the protocol, or may interfere with the evaluation of responses or the
-        subject's successful completion of this trial.
+          -  Women who are pregnant or lactating, or those who are not pregnant but do not take
+             effective contraceptive measures
 
-        5. Patients who have received a stem cell treatment within one year. 6. Receipt of any
-        other SARS-CoV-2 or other experimental coronavirus vaccine at any time prior to or during
-        the study.
+          -  Patients who are participating in other clinical trials or have intake of
+             investigational drug within the previous 30 days;
+
+          -  Inability to provide informed consent or to comply with test requirements;
+
+          -  Any medical disease or condition that, in the opinion of the site PI or
+             sub-investigator, precludes study participation. Including acute, subacute,
+             intermittent or chronic medical disease or condition that would place the subject at
+             an unacceptable risk of injury, render the subject unable to meet the requirements of
+             the protocol, or may interfere with the evaluation of responses or the subject's
+             successful completion of this trial.
+
+          -  Patients who have received a stem cell treatment within one year.
+
+          -  Receipt of any other SARS-CoV-2 or other experimental coronavirus vaccine at any time
+             prior to or during the study.
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -405,10 +419,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 14, 2020</study_first_submitted>
   <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

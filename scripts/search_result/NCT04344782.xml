@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="207">
+<clinical_study rank="319">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04344782</url>
   </required_header>
@@ -75,6 +75,7 @@
   <secondary_outcome>
     <measure>CT-scan score</measure>
     <time_frame>day 14</time_frame>
+    <description>based on a Likert scale with scores ranging from 1 to 5 (1—definitely no; 2—probably no; 3—equivocal; 4—probably yes; 5—definitely yes)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>dyspnea</measure>
@@ -169,9 +170,9 @@
   <study_first_submitted>April 9, 2020</study_first_submitted>
   <study_first_submitted_qc>April 12, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 14, 2020</study_first_posted>
-  <last_update_submitted>April 12, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 12, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 17, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

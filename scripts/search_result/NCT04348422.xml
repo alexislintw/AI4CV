@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="56">
+<clinical_study rank="88">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348422</url>
   </required_header>
@@ -101,10 +101,10 @@
       developing anti-SARS-CoV-2 antibodies in the asymptomatic cases, in a household study design.
 
       We plan to evaluate over 1000 patients with positive COVID-19 results and their households.
-      We will evaluate their symptoms, viral load and immune response every 10 days in a period of
-      12 weeks. Next, we will analyze the cause of the immune response differences between subjects
-      by sequencing their DNA and most importantly of the ACE2 gene - the receptor the virus
-      attacks.
+      The plan includes evaluation of their symptoms, viral load and immune response every 10 days
+      in a period of 12 weeks. Next, Analysis of the cause of the immune response differences
+      between subjects by sequencing their DNA and most importantly of the ACE2 gene - the receptor
+      the virus attacks.
 
       This will shed the needed light on the connection between symptoms, viral load and immune
       response. The association between viral load, symptoms and immune response will enable:
@@ -319,15 +319,15 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 13, 2020</study_first_submitted>
   <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 13, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Assaf-Harofeh Medical Center</investigator_affiliation>
     <investigator_full_name>Prof. Shay Efrati</investigator_full_name>
-    <investigator_title>Prof. Shai Efrati</investigator_title>
+    <investigator_title>Head of Research and Development Unit, Shamir Medical Center</investigator_title>
   </responsible_party>
   <patient_data>
     <sharing_ipd>Undecided</sharing_ipd>

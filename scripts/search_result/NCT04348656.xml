@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="40">
+<clinical_study rank="63">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348656</url>
   </required_header>
@@ -136,12 +136,20 @@
 
         -  A delay of at least 14 days since resolution of COVID-19 symptoms
 
+        -  A maximum of 12 weeks since resolution of COVID-19 symptoms
+
         -  Male donors, or female donors with no pregnancy history or with negative anti-HLA
            antibodies
 
         -  At least 6 days since last plasma donation
 
         -  Provided informed consent
+
+      As well as: A. A complete resolution of symptoms at least 28 days prior to randomization OR
+      B. Complete resolution of symptoms at least 14 days prior to donation AND negative results
+      for COVID-19 either from one or more nasopharyngeal swab specimens OR by a molecular
+      diagnostic test from blood. (In the absence of any approved diagnostic test for blood
+      specimens, a research test will be used).
 
       Randomization procedures: Patients will be randomized in a 2:1 ratio (convalescent plasma vs
       standard of care). Patients will be randomized using a secure, concealed, computer-generated,
@@ -202,7 +210,7 @@
     <description>Endpoint of the need for intubation or patient death in hospital</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>Intubation</measure>
+    <measure>Need for Intubation</measure>
     <time_frame>Day 30</time_frame>
     <description>Endpoint of the need for intubation before 30 days</description>
   </secondary_outcome>
@@ -252,7 +260,7 @@
     <description>Need for renal replacement therapy</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Myocarditis</measure>
+    <measure>Development of myocarditis</measure>
     <time_frame>Day 30</time_frame>
     <description>New myocarditis</description>
   </secondary_outcome>
@@ -300,7 +308,7 @@
 
         Exclusion Criteria:
 
-          -  Onset of symptoms &gt;12 days prior to screening
+          -  Onset of symptoms &gt;12 days prior to randomization
 
           -  Intubated or plan in place for intubation
 
@@ -748,10 +756,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 13, 2020</study_first_submitted>
   <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 13, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 16, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 16, 2020</study_first_posted>
+  <last_update_submitted>April 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

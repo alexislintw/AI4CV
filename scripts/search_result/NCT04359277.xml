@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="90">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04359277</url>
+  </required_header>
+  <id_info>
+    <org_study_id>s20-00479</org_study_id>
+    <nct_id>NCT04359277</nct_id>
+  </id_info>
+  <brief_title>A Randomized Trial of Anticoagulation Strategies in COVID-19</brief_title>
+  <official_title>A Randomized Trial of Anticoagulation Strategies in COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized open label trial to compare effectiveness of two dosing regimens
+      currently used for prevention of clotting events in COVID-19 positive inpatients. Both doses
+      and routes of anticoagulation regimens are currently used in COVID-19 positive inpatients at
+      NYU Langone Health.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 16, 2020</start_date>
+  <completion_date type="Anticipated">April 16, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 16, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The proposed study is designed as an open label randomized trial of patients hospitalized COVID-19 positive patients with a D-dimer &gt;500 ng/ml. Patients will be randomized to higher-dose anticoagulation versus lower-dose (e.g. prophylactic-dose) anticoagulation in 1:1 ratio.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Cardiac Arrest</measure>
+    <time_frame>21 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of symptomatic Deep Venous Thrombosis</measure>
+    <time_frame>21 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Pulmonary Embolism</measure>
+    <time_frame>21 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Arterial thromboembolism</measure>
+    <time_frame>21 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of myocardial infarction</measure>
+    <time_frame>21 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of hemodynamic shock</measure>
+    <time_frame>21 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Renal failure</measure>
+    <time_frame>21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of hypoxemia</measure>
+    <time_frame>21 days</time_frame>
+    <description>SpO2 &lt;93% on room air, or requiring supplemental oxygen, or mechanical ventilatory support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiac injury (e.g. troponin, NTproBNP)</measure>
+    <time_frame>21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hypercoagulability (e.g. D-dimer, fibrinogen)</measure>
+    <time_frame>21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DIC score</measure>
+    <time_frame>21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of major bleeding</measure>
+    <time_frame>21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to change in NEWS2 from baseline</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement of invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO)</measure>
+    <time_frame>21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement of non-invasive ventilation or high flow oxygen devices</measure>
+    <time_frame>21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement of supplemental oxygen</measure>
+    <time_frame>21 days</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>21 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of days requiring invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO)</measure>
+    <time_frame>21 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of days requiring non-invasive ventilation or high flow oxygen devices</measure>
+    <time_frame>21 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of days requiring supplemental oxygen</measure>
+    <time_frame>21 days</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Higher-dose anticoagulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lower-dose prophylactic anticoagulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Enoxaparin Higher Dose</intervention_name>
+    <description>Enoxaparin will be preferred in non-intubated patients with a Cr Clearance of &gt; 30
+Enoxaparin 1mg/kg q12 SQ hours for weight 50-150kg
+Enoxaparin 0.75mg/kg q12 SQ hours for weight &gt;150kg or BMI &gt;40
+Unfractionated IV heparin titrated to a goal antiXa of 0.3-0.5 unit/mL (will be preferred in intubated patients)
+For Enoxaparin, AntiXA testing will be done after fourth injection only for participants with BMI &gt;40 or weight &gt; 150 kg as per institutional policy.</description>
+    <arm_group_label>Higher-dose anticoagulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lower-dose prophylactic anticoagulation</intervention_name>
+    <description>Heparin 5000 units every 12 or every 8 hours or 7500 units every 8 hours for BMI &gt; 40 or weight &gt; 150 kg, or
+Enoxaparin 40mg every 24 hours or 30mg every 12 hours or every 24 hours (with CrCl &lt; 30mL/min) SQ or
+Enoxaparin 40mg every 12 hours SQ for weight &gt;150kg or BMI &gt;40-50
+Enoxaparin 60 mg every 12 hours SQ for BMI &gt;50 For Enoxaparin, AntiXA testing will be done after fourth injection only for participants with BMI &gt;40 or weight &gt; 150kg as per institutional policy.
+For patients that develop acute kidney injury, and received enoxaparin, transition to IV unfractionated heparin by checking antiXa when next dose of enoxaparin would be due and initiating IV heparin when antiXa &lt;0.7 IU/mL</description>
+    <arm_group_label>Lower-dose prophylactic anticoagulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        In order to be eligible to participate in this study, an individual must meet all of the
+        following criteria:
+
+          1. &gt;18 years of age
+
+          2. Hospitalized patient with a diagnosis of COVID-19
+
+          3. Consistent with the institution guidelines, D-dimer &gt; 500ng/ml
+
+               1. If a D-Dimer is between 500ng/ml to 2,000ng/ml - there appears to be clinical
+                  equipoise by the NYU medical community
+
+               2. If a D-Dimer is &gt;2,000 and &lt; 10,000 and is not on a higher dose anticoagulation
+                  and a blood clot is not suspected and there is clinical equipoise, a patient may
+                  be approached for enrollment
+
+        Exclusion Criteria:
+
+        An individual who meets any of the following criteria will be excluded from participation
+        in this study:
+
+          1. Meeting alternative indication for higher-dose anticoagulation
+
+               1. Prevalent blood clot at the time of enrollment
+
+               2. On renal replacement therapies (CRRT, CVVH)
+
+               3. D-dimer &gt;10,000 ng/ml
+
+               4. Change in D-dimer &gt;6X over the admission lab value
+
+               5. Renal failure requiring renal replacement therapy
+
+               6. Prior VTE
+
+               7. Atrial fibrillation (with a CHADS2 Score &gt;1) on oral anticoagulant therapy
+                  already
+
+          2. Prior Heparin induced thrombocytopenia within 100 days
+
+          3. Stroke within 30 days
+
+          4. Prior hemorrhagic stroke (ever)
+
+          5. GI bleed within the past 6 months
+
+          6. Platelet count &lt;100,000
+
+          7. Pregnancy
+
+          8. Anemia with a hemoglobin &lt;9mg/dl
+
+          9. Signs of active bleeding (e.g. requirement of a blood transfusion in the past 30 days)
+
+         10. Other high bleeding risk (I.e. trauma, use of dual antiplatelet therapy)
+
+         11. Renal failure on admission (by RIFLE criteria 3X change in serum creatinine from
+             baseline or &gt;75% reduction in GFR or urine output &lt;0.3ml/kg over 24 hours or anuria
+             for 12 hours)
+
+         12. Subjects who have no capacity to consent for themselves.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeffrey Berger, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jeffrey Berger, MD</last_name>
+    <phone>212-263-4004</phone>
+    <email>jeffrey.berger@nyumc.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey S Berger, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Enoxaparin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The de-identified participant data from the final research dataset used in the published manuscript will be shared upon reasonable request beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research provided the investigator who proposes to use the data executes a data use agreement with NYU Langone Health. Requests may be directed to: jeffrey.berger@nyumc.org. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research.</ipd_time_frame>
+    <ipd_access_criteria>Requests may be directed to: jeffrey.berger@nyumc.org. To gain access, data requestors will need to sign a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

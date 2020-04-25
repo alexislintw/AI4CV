@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="268">
+<clinical_study rank="420">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04330300</url>
   </required_header>
@@ -297,15 +297,15 @@
     <mesh_term>Captopril</mesh_term>
     <mesh_term>Nicardipine</mesh_term>
     <mesh_term>Nimodipine</mesh_term>
-    <mesh_term>Quinapril</mesh_term>
     <mesh_term>Indapamide</mesh_term>
+    <mesh_term>Quinapril</mesh_term>
     <mesh_term>Trandolapril</mesh_term>
     <mesh_term>Metolazone</mesh_term>
     <mesh_term>Fosinopril</mesh_term>
     <mesh_term>Eprosartan</mesh_term>
-    <mesh_term>Nitrendipine</mesh_term>
     <mesh_term>Chlorothiazide</mesh_term>
     <mesh_term>Bendroflumethiazide</mesh_term>
+    <mesh_term>Nitrendipine</mesh_term>
     <mesh_term>Nifedipine</mesh_term>
     <mesh_term>Calcium Channel Blockers</mesh_term>
     <mesh_term>Angiotensin Receptor Antagonists</mesh_term>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="211">
+<clinical_study rank="327">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04343001</url>
   </required_header>
@@ -34,7 +34,7 @@
   </brief_summary>
   <detailed_description>
     <textblock>
-      We will evaluate the effect of aspirin (75mg once daily), losartan (100mg once daily), and
+      We will evaluate the effect of aspirin (150mg once daily), losartan (100mg once daily), and
       simvastatin (80mg once daily) in patients with COVID-19 infection.
 
       Eligible patients will be randomly allocated to one of eight study arms (aspirin only;
@@ -124,12 +124,12 @@
   <arm_group>
     <arm_group_label>Aspirin</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Aspirin 75mg once daily</description>
+    <description>Aspirin 150mg once daily</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Losartan</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Losartan 100mg once daily</description>
+    <description>Losartan 100mg once daily. Dose may be stopped or reduced if patient is hypotensive and can be restarted anytime during the treatment period.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Simvastatin</arm_group_label>
@@ -139,27 +139,27 @@
   <arm_group>
     <arm_group_label>Aspirin and Losartan</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Aspirin 75mg once daily and Losartan 100mg once daily</description>
+    <description>Aspirin 150mg once daily and Losartan 100mg once daily. Losartan dose may be stopped or reduced if patient is hypotensive and can be restarted anytime during the treatment period.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Aspirin and Simvastatin</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Aspirin 75mg once daily and Simvastatin 80mg once daily</description>
+    <description>Aspirin 150mg once daily and Simvastatin 80mg once daily</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Losartan and Simvastatin</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Losartan 100mg once daily and Simvastatin 80mg once daily</description>
+    <description>Losartan 100mg once daily and Simvastatin 80mg once daily. Losartan dose may be stopped or reduced if patient is hypotensive and can be restarted anytime during the treatment period.</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Aspirin, Losartan and Simvastatin</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Aspirin 75mg once daily, Losartan 100mg once daily and Simvastatin 80mg once daily</description>
+    <description>Aspirin 150mg once daily, Losartan 100mg once daily and Simvastatin 80mg once daily. Losartan dose may be stopped or reduced if patient is hypotensive and can be restarted anytime during the treatment period.</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Aspirin</intervention_name>
-    <description>Aspirin 75mg</description>
+    <description>Aspirin 150mg</description>
     <arm_group_label>Aspirin</arm_group_label>
     <arm_group_label>Aspirin and Losartan</arm_group_label>
     <arm_group_label>Aspirin and Simvastatin</arm_group_label>
@@ -188,28 +188,37 @@
       <textblock>
         Inclusion Criteria:
 
-          -  Adults admitted to hospital with suspected or confirmed acute COVID-19 infection who
-             are believed to be ≥50 years old are eligible. Acute COVID-19 infection is suspected
-             in the presence of a fever and at least one symptom of respiratory disease e.g. cough,
-             difficulty breathing, signs of hypoxia, requiring hospitalization. The clinician may
-             suspect COVID-19 infection if i) the patient lives in or has recently travelled to an
-             area with COVID-19 transmission; ii) the patient had recent contact with a confirmed
-             or probable COVID-19 case, or iii) no alternative diagnosis fully explains the
-             clinical presentation. Patients hospitalised without symptoms of acute COVID-19
-             infection should not be recruited even if they test positive for COVID-19.
+          -  Adults age 40 years and older
+
+          -  with suspected or confirmed acute COVID-19 infection. Acute COVID-19 infection is
+             suspected in the presence of a fever and at least one symptom of respiratory disease
+             e.g. cough, difficulty breathing, signs of hypoxia. The clinician may suspect COVID-19
+             infection if i) the patient lives in or has recently travelled to an area with
+             COVID-19 transmission; ii) the patient had recent contact with a confirmed or probable
+             COVID-19 case, or iii) no alternative diagnosis fully explains the clinical
+             presentation
+
+          -  requiring hospitalisation
 
         Exclusion Criteria:
 
-          -  Women known to be pregnant and patients already receiving or with a definite
-             indication or contraindication for any of the trial treatments are excluded. Patients
-             who are very severely frail (completely dependent and approaching end of life who
-             typically they could not recover even from a mild illness) or terminally ill should
-             not be recruited. Patients with a clinical indication for or contraindication to any
-             of the trial drugs should not be recruited
+          -  Women known to be pregnant
+
+          -  Patients hospitalised without symptoms of acute COVID-19 infection should not be
+             recruited even if they test positive for COVID-19
+
+          -  Patients already receiving mechanical ventilation
+
+          -  Patients with a definite indication or contraindication for any of the trial
+             treatments.
+
+          -  Patients who are very severely frail (completely dependent and approaching end of life
+             who typically they could not recover even from a mild illness) or terminally ill
+             should not be recruited.
       </textblock>
     </criteria>
     <gender>All</gender>
-    <minimum_age>50 Years</minimum_age>
+    <minimum_age>40 Years</minimum_age>
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
@@ -282,9 +291,9 @@
   <study_first_submitted>April 8, 2020</study_first_submitted>
   <study_first_submitted_qc>April 10, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 13, 2020</study_first_posted>
-  <last_update_submitted>April 10, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
+  <last_update_submitted>April 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

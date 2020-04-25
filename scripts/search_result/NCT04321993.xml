@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="30">
+<clinical_study rank="46">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 16, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04321993</url>
   </required_header>
@@ -40,8 +40,8 @@
       participation.
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 2020</start_date>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">April 17, 2020</start_date>
   <completion_date type="Anticipated">July 2021</completion_date>
   <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
   <phase>Phase 2</phase>
@@ -139,7 +139,7 @@ Death.</description>
     <measure>Quantitative SARS-CoV-2 viral load in blood at days 3, 5, 8, and 11, 15, 29, and 180.</measure>
     <time_frame>Up to 180 days</time_frame>
   </other_outcome>
-  <number_of_arms>5</number_of_arms>
+  <number_of_arms>4</number_of_arms>
   <enrollment type="Anticipated">1000</enrollment>
   <condition>COVID-19</condition>
   <arm_group>
@@ -155,23 +155,19 @@ Death.</description>
     <arm_group_type>Experimental</arm_group_type>
   </arm_group>
   <arm_group>
-    <arm_group_label>Sarilumab</arm_group_label>
-    <arm_group_type>Experimental</arm_group_type>
-  </arm_group>
-  <arm_group>
     <arm_group_label>Clinical standard of care</arm_group_label>
     <arm_group_type>No Intervention</arm_group_type>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Lopinavir/ritonavir</intervention_name>
-    <description>Lopinavir/ritonavir tablet 200mg/50mg 2 tables by mouth, every 12 hours for 10 days</description>
+    <description>Lopinavir/ritonavir tablet 200mg/50mg 2 tables by mouth twice daily for 10 days</description>
     <arm_group_label>Lopinavir/ritonavir</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Hydroxychloroquine sulfate</intervention_name>
-    <description>Hydroxychloroquine sulfate sulfate tablet 200 mg 2 tablets by mouth, every 12 hours for 10 days</description>
+    <description>Hydroxychloroquine sulfate tablet 200 mg 2 tablets by mouth twice daily for 10 days</description>
     <arm_group_label>Hydroxychloroquine sulfate</arm_group_label>
   </intervention>
   <intervention>
@@ -179,12 +175,6 @@ Death.</description>
     <intervention_name>Baricitinib (janus kinase inhibitor)</intervention_name>
     <description>Baricitinib 2 mg po daily for 10 days</description>
     <arm_group_label>Baricitinib</arm_group_label>
-  </intervention>
-  <intervention>
-    <intervention_type>Drug</intervention_type>
-    <intervention_name>Sarilumab (anti-IL-6 receptor)</intervention_name>
-    <description>Sarilumab 200mg subcutaneous injection once</description>
-    <arm_group_label>Sarilumab</arm_group_label>
   </intervention>
   <eligibility>
     <criteria>
@@ -239,16 +229,6 @@ Death.</description>
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
-  <overall_contact>
-    <last_name>Barbara Goodall</last_name>
-    <phone>(902) 292-0132</phone>
-    <email>barbara.goodall@nshealth.ca</email>
-  </overall_contact>
-  <overall_contact_backup>
-    <last_name>Lisa Barrett</last_name>
-    <phone>(902) 473-6446</phone>
-    <email>lisa.barrett@nshealth.ca</email>
-  </overall_contact_backup>
   <location>
     <facility>
       <name>Nova Scotia Health Authority</name>
@@ -267,9 +247,9 @@ Death.</description>
   <study_first_submitted>March 24, 2020</study_first_submitted>
   <study_first_submitted_qc>March 24, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 26, 2020</study_first_posted>
-  <last_update_submitted>April 4, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 4, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>Nova Scotia Health Authority</investigator_affiliation>
