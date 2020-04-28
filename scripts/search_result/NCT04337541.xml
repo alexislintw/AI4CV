@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="86">
+<clinical_study rank="96">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04337541</url>
   </required_header>
@@ -285,7 +285,7 @@ Participants will be instructed in using the facial mask consistently when outsi
     <PMID>32203710</PMID>
   </reference>
   <reference>
-    <citation>van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN, Tamin A, Harcourt JL, Thornburg NJ, Gerber SI, Lloyd-Smith JO, de Wit E, Munster VJ. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1. N Engl J Med. 2020 Mar 17. doi: 10.1056/NEJMc2004973. [Epub ahead of print]</citation>
+    <citation>van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN, Tamin A, Harcourt JL, Thornburg NJ, Gerber SI, Lloyd-Smith JO, de Wit E, Munster VJ. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1. N Engl J Med. 2020 Apr 16;382(16):1564-1567. doi: 10.1056/NEJMc2004973. Epub 2020 Mar 17.</citation>
     <PMID>32182409</PMID>
   </reference>
   <reference>

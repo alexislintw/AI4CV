@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="450">
+<clinical_study rank="504">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04359927</url>
   </required_header>
@@ -32,9 +32,9 @@
       cardiovascular adverse events, including death from cardiovascular causes. Unfortunately,
       there are no reliable statistics on the frequency and severity of these complications during
       the index hospitalization. Moreover, the long-term cardiovascular outcomes of these patients
-      are entirely unknown. We aim to perform a registry of patients who have undergone a
-      diagnostic nasopharyngeal swab for SARS-CoV-2 and determine their long-term cardiovascular
-      outcomes.
+      are entirely unknown. The investigators aim to perform a registry of patients who have
+      undergone a diagnostic nasopharyngeal swab for SARS-CoV-2 and determine their long-term
+      cardiovascular outcomes.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -61,11 +61,11 @@
       12 years of follow-up, altered lipid metabolism was found. Similarly, viral diseases such as
       influenza A are associated with increased cardiovascular mortality after infection.
 
-      For the reasons stated above, we consider that patients who presented COVID-19 have a high
-      risk of long-term cardiovascular adverse events such as cardiac death, myocardial infarction,
-      stroke, heart failure, and cardiac arrhythmias. To test this hypothesis, we aimed to perform
-      a registry of patients who have undergone a diagnostic nasopharyngeal swab for SARS-CoV-2 and
-      determine their long-term cardiovascular outcomes.
+      For the reasons stated above, the investigators consider that patients who presented COVID-19
+      have a high risk of long-term cardiovascular adverse events such as cardiac death, myocardial
+      infarction, stroke, heart failure, and cardiac arrhythmias. To test this hypothesis, the
+      investigators aimed to perform a registry of patients who have undergone a diagnostic
+      nasopharyngeal swab for SARS-CoV-2 and determine their long-term cardiovascular outcomes.
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
@@ -207,10 +207,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 21, 2020</study_first_submitted>
   <study_first_submitted_qc>April 22, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 22, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Hospital Clinic of Barcelona</investigator_affiliation>

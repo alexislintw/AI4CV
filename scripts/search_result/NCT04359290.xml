@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="792">
+<clinical_study rank="877">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04359290</url>
   </required_header>
@@ -41,7 +41,7 @@
       potent and selective inhibitor of Janus kinase (JAK)1 and JAK2, with modest to marked
       selectivity against tyrosine kinase (TYK)2 and JAK3, respectively. Ruxolitinib interferes
       with the signaling of a number of cytokines and growth factors that are important for
-      hematopoiesis and immune function (9).
+      hematopoiesis and immune function.
 
       Ruxolitinib (JAKAVI®) is currently approved in the European Union (EU) for the treatment of
       disease-related splenomegaly or symptoms in adult patients with primary myelofibrosis (PMF)
@@ -66,13 +66,13 @@
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
     <intervention_model>Single Group Assignment</intervention_model>
-    <intervention_model_description>Ruxolitinib will be administered p.o. or by gavage feeding starting with 2 x 10mg qd. Dose can be increased to up to 2 x 15mg qd for 28 days, open design, sinlge arm</intervention_model_description>
+    <intervention_model_description>Ruxolitinib will be administered p.o. or by gavage feeding starting with 2 x 10mg bid dose at day 1 and can be increased up to 2 x 15mg bid from day 2 to day 28 (max) (depending on platelet counts and renal function). Ruxolitinib will be adminstered in the morning and evening. Dosing will be adjusted according to toxicity and kidney function; open design, sinlge arm</intervention_model_description>
     <primary_purpose>Treatment</primary_purpose>
     <masking>None (Open Label)</masking>
   </study_design_info>
   <primary_outcome>
     <measure>Overall survival</measure>
-    <time_frame>90 days after registration into trial</time_frame>
+    <time_frame>28 days after registration into trial</time_frame>
     <description>To determine the efficacy of ruxolitinib measured by overall survival</description>
   </primary_outcome>
   <secondary_outcome>
@@ -105,6 +105,11 @@
     <time_frame>registration unitl 90 days after registration into trial</time_frame>
     <description>To assess pulmonary function (time point discharge from hospital) by CT scan</description>
   </secondary_outcome>
+  <secondary_outcome>
+    <measure>overall survival</measure>
+    <time_frame>90 days after registration into trial</time_frame>
+    <description>To determine the efficacy of ruxolitinib measured by overall survival</description>
+  </secondary_outcome>
   <number_of_arms>1</number_of_arms>
   <enrollment type="Anticipated">15</enrollment>
   <condition>ARDS, Human</condition>
@@ -112,12 +117,12 @@
   <arm_group>
     <arm_group_label>Ruxolitinib treatment</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Ruxolitinib will be administered p.o. or by gavage feeding for 28 days</description>
+    <description>Ruxolitinib will be administered p.o. or by gavage feeding for max 28 days</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Ruxolitinib administration</intervention_name>
-    <description>Ruxolitinib will be administered p.o. or by gavage feeding starting with 2 x 10mg qd. Dose can be increased to up to 2 x 15mg qd (depending on platelet counts and renal function). Treatment duration: 28 days</description>
+    <description>Ruxolitinib will be administered p.o. or by gavage feeding starting with 2 x 10mg bid dose at day 1 and can be increased up to 2 x 15mg bid from day 2 to day 28 (max) (depending on platelet counts and renal function). Ruxolitinib will be adminstered in the morning and evening. Dosing will be adjusted according to toxicity and kidney function;</description>
     <arm_group_label>Ruxolitinib treatment</arm_group_label>
   </intervention>
   <eligibility>
@@ -129,7 +134,7 @@
 
           2. laboratory-confirmed SARS-CoV-2 infection as determined by PCR or other commercial or
              public health assay (result of the PCR is not necessary for inclusion, but has to
-             approved latest within 40 hours after enrollment)
+             approved latest within 48-72 hours after registration)
 
           3. severe lung disease as defined by following:
 
@@ -242,10 +247,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 15, 2020</study_first_submitted>
   <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

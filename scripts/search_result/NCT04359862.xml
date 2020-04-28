@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="448">
+<clinical_study rank="546">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04359862</url>
   </required_header>
@@ -62,9 +62,24 @@
     <description>To evaluate the effect of 48-hour treatment with inhaled sevoflurane on arterial oxygenation, assessed by PaO2/FiO2 on day two, in patients with ARDS-CoVid19</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>pro-inflammatory cytokine</measure>
+    <measure>TNFα</measure>
     <time_frame>Day 2</time_frame>
-    <description>to quantify the effects of sevoflurane on pro-inflammatory cytokine levels during ARDS-CoVid19</description>
+    <description>To quantify the effects of sevoflurane on pro-inflammatory cytokine levels during ARDS-CoVid19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IL-1b</measure>
+    <time_frame>Day 2</time_frame>
+    <description>To quantify the effects of sevoflurane on pro-inflammatory cytokine levels during ARDS-CoVid19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IL-6</measure>
+    <time_frame>Day 2</time_frame>
+    <description>To quantify the effects of sevoflurane on pro-inflammatory cytokine levels during ARDS-CoVid19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IL-8</measure>
+    <time_frame>Day 2</time_frame>
+    <description>To quantify the effects of sevoflurane on pro-inflammatory cytokine levels during ARDS-CoVid19</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Mortality</measure>
@@ -73,7 +88,8 @@
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">50</enrollment>
-  <condition>Acute Respiratory Distress Syndrome Caused by COVID19 Infection</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>COVID19 Infection</condition>
   <arm_group>
     <arm_group_label>SEVOFLURANE Group</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
@@ -212,10 +228,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 21, 2020</study_first_submitted>
   <study_first_submitted_qc>April 21, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

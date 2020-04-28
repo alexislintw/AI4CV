@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="224">
+<clinical_study rank="249">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04328493</url>
   </required_header>
@@ -365,7 +365,7 @@ The total duration of treatment with Chloroquine will be 10 days</description>
     <PMID>32074550</PMID>
   </reference>
   <reference>
-    <citation>Gordon CJ, Tchesnokov EP, Feng JY, Porter DP, Gotte M. The antiviral compound remdesivir potently inhibits RNA-dependent RNA polymerase from Middle East respiratory syndrome coronavirus. J Biol Chem. 2020 Feb 24. pii: jbc.AC120.013056. doi: 10.1074/jbc.AC120.013056. [Epub ahead of print]</citation>
+    <citation>Gordon CJ, Tchesnokov EP, Feng JY, Porter DP, Götte M. The antiviral compound remdesivir potently inhibits RNA-dependent RNA polymerase from Middle East respiratory syndrome coronavirus. J Biol Chem. 2020 Apr 10;295(15):4773-4779. doi: 10.1074/jbc.AC120.013056. Epub 2020 Feb 24.</citation>
     <PMID>32094225</PMID>
   </reference>
   <reference>

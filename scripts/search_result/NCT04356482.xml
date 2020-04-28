@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="476">
+<clinical_study rank="533">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04356482</url>
   </required_header>
@@ -24,11 +24,27 @@
       <agency_class>Other</agency_class>
     </collaborator>
     <collaborator>
-      <agency>Hospital General de Mexico</agency>
+      <agency>CENTRO ESTATAL DE LA TRANSFUSION SANGUINEA</agency>
       <agency_class>Other</agency_class>
     </collaborator>
     <collaborator>
       <agency>HOSPITAL CENTRAL NACIONAL PEMEX NORTE</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>HOSPITAL DE ZONA No. 2 IMSS</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>HOSPITAL DE ZONA No.14 IMSS</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>HOSPITAL ANGELES DE CHIHUAHUA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>HOSPITAL GENERAL DEL ESTADO DE SONORA</agency>
       <agency_class>Other</agency_class>
     </collaborator>
   </sponsors>
@@ -359,9 +375,9 @@ In phase 2, both clinical, laboratory, imaging and viral presence (effectiveness
   <study_first_submitted>April 17, 2020</study_first_submitted>
   <study_first_submitted_qc>April 17, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 22, 2020</study_first_posted>
-  <last_update_submitted>April 17, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 17, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado</investigator_affiliation>

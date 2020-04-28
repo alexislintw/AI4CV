@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="614">
+<clinical_study rank="286">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04347512</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>7783</org_study_id>
     <nct_id>NCT04347512</nct_id>
   </id_info>
-  <brief_title>Azithromycin-Hydroxychloroquine Combination in Sars-CoV-2 Pneumonia Study</brief_title>
+  <brief_title>EVALUATION OF THE EFFICACY OF THE HYDROXYCHLOROQUINE-AZITHROMYCIN COMBINATION IN THE IN THE PREVENTION OF COVID-19 RELATED SDRA</brief_title>
   <acronym>TEACHCOVID</acronym>
-  <official_title>Evaluation of Azithromycin-Hydroxychloroquine Combination in Sars-CoV-2 Pneumonia</official_title>
+  <official_title>EVALUATION OF THE EFFICACY OF THE HYDROXYCHLOROQUINE-AZITHROMYCIN COMBINATION IN THE IN THE PREVENTION OF COVID-19 RELATED SDRA</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>University Hospital, Strasbourg, France</agency>
@@ -59,7 +59,7 @@
   </primary_outcome>
   <number_of_arms>3</number_of_arms>
   <enrollment type="Anticipated">405</enrollment>
-  <condition>Sars-CoV-2, Community-Acquired Pneumonia</condition>
+  <condition>Sars-CoV-2, Community-Acquired Pneumonia,COVID-19</condition>
   <arm_group>
     <arm_group_label>Hydroxychloroquine</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
@@ -168,9 +168,9 @@ Every patient receives as well antibiotic (ceftriaxone 1-2 g per day IV), and st
   <study_first_submitted>April 11, 2020</study_first_submitted>
   <study_first_submitted_qc>April 11, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 15, 2020</study_first_posted>
-  <last_update_submitted>April 11, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 11, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 15, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

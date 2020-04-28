@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="365">
+<clinical_study rank="407">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04359537</url>
   </required_header>
@@ -44,10 +44,11 @@
       Study design:
 
       Phase 2 proof of concept study Study Type: Interventional (Clinical Trial) Estimated
-      Enrollment : at least 200 participants Since we have no current data on pre-exposure
-      prophylaxis to calculate sample size statistically, so a minimum of 50 in each arm will be
-      recruited including 20% attrition rate. We will be recruiting a minimum of 200 participants
-      in the study , that is at least 50 in each of the four arms.
+      Enrollment : at least 200 participants Since the investigators have no current data on
+      pre-exposure prophylaxis to calculate sample size statistically, so a minimum of 50
+      participants in each arm will be recruited including 20% attrition rate. The investigators
+      will be recruiting a minimum of 200 participants in the study , that is at least 50 in each
+      of the four arms.
 
       Allocation: Randomized Intervention Model: Parallel Assignment Study model: Parallel group
       interventional study Location: SZABMU/PIMS Study duration: a minimum of 12 weeks from
@@ -59,8 +60,10 @@
       consent will be taken from all participants. Participants fulfilling the eligibility criteria
       will be randomized to 4 arms.
 
-      Arm Intervention /treatment Experimental group 1: Hydroxychloroquine 400 mg twice a day
-      1,followed by 400 mg weekly for a total of 12 weeks Drug: Hydroxychloroquin HCQ 200 mg, oral
+      Arm Intervention /treatment
+
+      Experimental group 1: Hydroxychloroquine 400 mg twice a day 1,followed by 400 mg weekly for a
+      total of 12 weeks Drug: Hydroxychloroquin HCQ 200 mg, oral
 
       Experimental group 2:Hydroxychloroquine 400 mg on day 1 followed by 400mg once every 3 weeks
       for a total of 12 weeks Drug: Hydroxychloroquin HCQ 200 mg, oral
@@ -186,29 +189,57 @@ Control Group :Placebo 200mg will be given on day 1 followed by Placebo 200mg ev
 
           -  A healthcare worker at high risk for COVID19 exposure (defined below):
 
-        Persons primarily working in emergency departments (physicians, nurses, ancillary staff,
-        triage personnel) ; Persons primarily working in intensive care units (physicians, nurses,
-        ancillary staff, respiratory therapists) ; Persons performing aerosol generating procedures
-        (i.e. anesthesiologists, nurse anesthetists, gastroenterologists performing endoscopy,
-        Pulmonolgists performing bronchoscopy); First responders (i.e. EMTs, paramedics) ; Persons
-        working in the departments of General Medicine, Pulmonology, Infectious disease and
-        Isolation wards.
+               -  Persons primarily working in emergency departments (physicians, nurses, ancillary
+                  staff, triage personnel) ;
+
+               -  Persons primarily working in intensive care units (physicians, nurses, ancillary
+                  staff, respiratory therapists) ;
+
+               -  Persons performing aerosol generating procedures (i.e. anesthesiologists, nurse
+                  anesthetists, gastroenterologists performing endoscopy, Pulmonologists performing
+                  bronchoscopy);
+
+               -  First responders (i.e. EMTs, paramedics) ;
+
+               -  Persons working in the departments of General Medicine, Pulmonology, Infectious
+                  disease and Isolation wards.
 
         Exclusion Criteria:
 
-        Active COVID-19 disease; Confirmed prior COVID-19 disease; Current fever, cough, shortness
-        of breath; Contraindication or hypersensitivity to chloroquine or hydroxychloroquine ad
-        hypersensitivity to 4-aminoquinoline compounds; Pregnancy; Lactation; Prior retinal eye
-        disease; Known Chronic Kidney disease, Stage 4 or 5 or dialysis; Known glucose-6 phosphate
-        dehydrogenase (G-6-PD) deficiency ; Weight &lt;40 kg; Current use of
-        chloroquine,hydroxychloroquine or cardiac medicines like flecainide, amiodarone, digoxin,
-        procainamide, or propafenone; Current use of medications with known significant drug-drug
-        interactions: artemether, lumefantrine, mefloquine,tamoxifen or methotrexate; Current use
-        of medications causing QT interval prolongation like:
-        macrolides,antipsychotics,quinolones,antihistamines,SSRIs,tricyclic antidepressants,
-        antifungals; Recent Myocardial Infarction; History of Epilepsy
+          -  Active COVID-19 disease;
 
-        -
+          -  Confirmed prior COVID-19 disease;
+
+          -  Current fever, cough, shortness of breath;
+
+          -  Contraindication or hypersensitivity to chloroquine or hydroxychloroquine ad
+             hypersensitivity to 4-aminoquinoline compounds;
+
+          -  Pregnancy;
+
+          -  Lactation;
+
+          -  Prior retinal eye disease;
+
+          -  Known Chronic Kidney disease, Stage 4 or 5 or dialysis;
+
+          -  Known glucose-6 phosphate dehydrogenase (G-6-PD) deficiency ;
+
+          -  Weight &lt;40 kg;
+
+          -  Current use of chloroquine,hydroxychloroquine or cardiac medicines like flecainide,
+             amiodarone, digoxin, procainamide, or propafenone;
+
+          -  Current use of medications with known significant drug-drug interactions: artemether,
+             lumefantrine, mefloquine, tamoxifen or methotrexate;
+
+          -  Current use of medications causing QT interval prolongation like:
+             macrolides,antipsychotics,quinolones,antihistamines,SSRIs,tricyclic antidepressants,
+             antifungals;
+
+          -  Recent Myocardial Infarction;
+
+          -  History of Epilepsy
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -262,10 +293,10 @@ Control Group :Placebo 200mg will be given on day 1 followed by Placebo 200mg ev
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 20, 2020</study_first_submitted>
   <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Shaheed Zulfiqar Ali Bhutto Medical University</investigator_affiliation>

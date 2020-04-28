@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="851">
+<clinical_study rank="921">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348370</url>
   </required_header>
   <id_info>
-    <org_study_id>H-47454</org_study_id>
+    <org_study_id>2020-0432F</org_study_id>
     <nct_id>NCT04348370</nct_id>
   </id_info>
-  <brief_title>BCG Vaccine for Health Care Workers as Defense Against SARS-COV2</brief_title>
+  <brief_title>BCG Vaccine for Health Care Workers as Defense Against COVID 19</brief_title>
+  <acronym>BADAS</acronym>
   <official_title>Bacillus Calmette-Guerin Vaccination as Defense Against SARS-CoV-2: A Randomized Controlled Trial to Protect Health Care Workers by Enhanced Trained Immune Responses</official_title>
   <sponsors>
     <lead_sponsor>
-      <agency>Andrew Dinardo</agency>
+      <agency>Texas A&amp;M University</agency>
       <agency_class>Other</agency_class>
     </lead_sponsor>
     <collaborator>
-      <agency>Texas A&amp;M University</agency>
+      <agency>Baylor College of Medicine</agency>
       <agency_class>Other</agency_class>
     </collaborator>
     <collaborator>
@@ -27,11 +28,15 @@
       <agency_class>Other</agency_class>
     </collaborator>
     <collaborator>
+      <agency>Cedars-Sinai Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
       <agency>Harvard University</agency>
       <agency_class>Other</agency_class>
     </collaborator>
   </sponsors>
-  <source>Baylor College of Medicine</source>
+  <source>Texas A&amp;M University</source>
   <oversight_info>
     <has_dmc>Yes</has_dmc>
     <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
@@ -54,6 +59,15 @@
   </brief_summary>
   <detailed_description>
     <textblock>
+      Study design: A placebo-controlled adaptive multi-center randomized controlled trial.
+
+      Study population: High risk HCW with direct patient contacts, defined as physician
+      assistants, respiratory therapists, nurses, physicians or other HCWs working at emergency
+      rooms, ICUs and in locations within hospitals where COVID-infected patients are treated.
+
+      Intervention: Participants will be randomized between intradermal administration of BCG
+      vaccine or placebo in a 1:1 ratio.
+
       Recruitment, Randomization, treatment allocation, and blinding
 
       A standardized, IRB approved email will be sent to department chairs describing the study. A
@@ -342,8 +356,8 @@
       vaccine/placebo.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 20, 2020</start_date>
   <completion_date type="Anticipated">November 2021</completion_date>
   <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
   <phase>Phase 4</phase>
@@ -358,30 +372,19 @@
     <masking_description>Randomization will be done centrally and computer generated with stratification per hospital in random blocks of 2, 4 and 6. The BCG vaccine will be administered by research nurses. Participants and investigators will be blinded. The research nurse that administers the BCG vaccine or placebo will not be blinded. This research nurse will not be involved in the collection of outcome data.</masking_description>
   </study_design_info>
   <primary_outcome>
-    <measure>incidence (measured by confirmed positive test) of SARS-CoV2 infection following BCG vaccination compared to placebo</measure>
-    <time_frame>Measured daily for up to 6 months</time_frame>
-    <description>defined as number of new cases during the 6 month time period</description>
+    <measure>Incidence of COVID 19 Infection</measure>
+    <time_frame>6 months</time_frame>
+    <description>The primary outcome measure is the development of COVID19 infection. We will use the Cox proportional-hazards model to calculate hazard ratios for the development of Covid-19. This will be reported as the proportion of individuals receiving the intervention who are PCR-positive or seroconvert. defined as number of new cases during the 6 month time period</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>COVID19-related disease severity (measured by ordinal severity scale) following BCG vaccination compared to placebo</measure>
+    <measure>Disease Severity</measure>
     <time_frame>up to 6 months</time_frame>
-    <description>The ordinal severity scale that will be used is: Covid Severity Scale: Score 0-10; 10 is worse; 0 is best
-Admitted to hospital
-Required oxygen
-Treated in intensive care
-Required ventilation
-Death
-Severe pneumonia
-Respiratory failure
-Acute respiratory distress syndrome
-Sepsis
-Septic shock</description>
+    <description>The secondary outcome measure is disease severity calculated using the Covid Severity Scale Scoring of 0 -10. A score of 10 is worse and a score of 0 is best. Disease severity score will be based on the level of care required for individuals who test positive for COVID19 as follows: non-hospital-based care; patient hospitalized but no oxygen required; hospitalized and oxygen required; patient treated in intensive care and/or on mechanical ventilation; patient died. Additional WHO criteria for severity include severe pneumonia, respiratory failure, acute respiratory distress syndrome, sepsis and septic shock.</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
-  <enrollment type="Anticipated">700</enrollment>
+  <enrollment type="Anticipated">1800</enrollment>
   <condition>Coronavirus</condition>
   <condition>Coronavirus Infection</condition>
-  <condition>Coronavirus Sars-Associated as Cause of Disease Classified Elsewhere</condition>
   <condition>Coronavirus as the Cause of Diseases Classified Elsewhere</condition>
   <arm_group>
     <arm_group_label>BCG Group</arm_group_label>
@@ -462,11 +465,11 @@ Septic shock</description>
     </criteria>
     <gender>All</gender>
     <minimum_age>18 Years</minimum_age>
-    <maximum_age>74 Years</maximum_age>
+    <maximum_age>75 Years</maximum_age>
     <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
   </eligibility>
   <overall_official>
-    <last_name>Jeffrey Cirillo, PhD</last_name>
+    <last_name>Jeffrey D Cirillo, PhD</last_name>
     <role>Principal Investigator</role>
     <affiliation>Texas A&amp;M University</affiliation>
   </overall_official>
@@ -476,20 +479,51 @@ Septic shock</description>
     <affiliation>Baylor College of Medicine</affiliation>
   </overall_official>
   <overall_official>
-    <last_name>Ashish Kamat, MD</last_name>
+    <last_name>Ashish M Kamat, MD</last_name>
     <role>Principal Investigator</role>
     <affiliation>M.D. Anderson Cancer Center</affiliation>
   </overall_official>
   <overall_official>
-    <last_name>Megan Murray, MD, MPH</last_name>
+    <last_name>Moshe Arditi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cedars-Sinai Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Megan D Murray, MD, MPH</last_name>
     <role>Principal Investigator</role>
     <affiliation>Harvard University</affiliation>
   </overall_official>
   <overall_contact>
-    <last_name>Andrew DiNardo, MD</last_name>
-    <phone>832-822-1038</phone>
-    <email>Andrew.Dinardo@Bcm.Edu</email>
+    <last_name>Jeffrey D Cirillo, PhD</last_name>
+    <phone>979 436-0343</phone>
+    <email>jdcirillo@tamu.edu</email>
   </overall_contact>
+  <overall_contact_backup>
+    <last_name>Andrew DiNardo, MD</last_name>
+    <phone>832 822-1038</phone>
+    <email>Andrew.Dinardo@Bcm.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pablo Avalos, MD</last_name>
+      <phone>310-248-8571</phone>
+      <email>Pablo.Avalos@cshs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Moshe Arditi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
   <location>
     <facility>
       <name>Harvard T.H. Chan School of Public Health</name>
@@ -500,6 +534,7 @@ Septic shock</description>
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Megan Murray, MD, MPH</last_name>
       <phone>617-432-2781</phone>
@@ -512,21 +547,27 @@ Septic shock</description>
   </location>
   <location>
     <facility>
-      <name>Texas A&amp;M University</name>
+      <name>Texas A&amp;M Family Care Clinic</name>
       <address>
         <city>Bryan</city>
         <state>Texas</state>
-        <zip>77807</zip>
+        <zip>77802</zip>
         <country>United States</country>
       </address>
     </facility>
+    <status>Recruiting</status>
     <contact>
-      <last_name>Jeffrey Cirillo, PhD</last_name>
-      <phone>979-436-0343</phone>
-      <email>jdcirillo@tamu.edu</email>
+      <last_name>Gabriel A Neal, MD</last_name>
+      <phone>979-436-0431</phone>
+      <email>gneal@tamu.edu</email>
     </contact>
+    <contact_backup>
+      <last_name>George Udeani, PharmD</last_name>
+      <phone>361 221-0701</phone>
+      <email>udeani@tamu.edu</email>
+    </contact_backup>
     <investigator>
-      <last_name>Jeffrey Cirillo, PhD</last_name>
+      <last_name>Jeffrey D Cirillo, PhD</last_name>
       <role>Principal Investigator</role>
     </investigator>
   </location>
@@ -540,6 +581,7 @@ Septic shock</description>
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Andrew DiNardo, MD</last_name>
       <phone>832-822-1038</phone>
@@ -568,6 +610,7 @@ Septic shock</description>
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Seth Lerner, MD</last_name>
       <phone>713-798-5553</phone>
@@ -588,6 +631,7 @@ Septic shock</description>
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Andrew DiNardo, MD</last_name>
       <phone>832-822-1038</phone>
@@ -612,6 +656,7 @@ Septic shock</description>
         <country>United States</country>
       </address>
     </facility>
+    <status>Not yet recruiting</status>
     <contact>
       <last_name>Marisa Lozano</last_name>
       <phone>713-794-4397</phone>
@@ -709,14 +754,11 @@ Septic shock</description>
   <study_first_submitted>March 30, 2020</study_first_submitted>
   <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
-    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
-    <investigator_affiliation>Baylor College of Medicine</investigator_affiliation>
-    <investigator_full_name>Andrew Dinardo</investigator_full_name>
-    <investigator_title>Principal Investigator / Assistant Professor</investigator_title>
+    <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
   <keyword>BACILLUS CALMETTE-GUÉRIN VACCINATION</keyword>
   <keyword>BCG Vaccine</keyword>

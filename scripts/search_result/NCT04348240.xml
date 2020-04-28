@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="228">
+<clinical_study rank="259">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348240</url>
   </required_header>
@@ -46,7 +46,8 @@
 
       People ages 18 and older without symptoms of COVID-19 who have been in close contact (e.g.
       live in the same house) with someone who has tested positive for COVID-19 or NIH workers who
-      have tested positive for COVID-19 and have mild or no symptoms.
+      have tested positive for COVID-19 and have mild or no symptoms. Retested individuals may be
+      enrolled to understand how the disease has progressed and resolved.
 
       Design and Procedures:
 
@@ -68,21 +69,25 @@
 
       Participants will complete questionnaires about their symptoms electronically at home.
 
+      Subjects may be asked to return to the NIH more frequently by the study team based on testing
+      results.
+
       If at any time the participants start to have moderate or severe respiratory symptoms, their
       participation will end and they should seek care with their local provider.
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
-      COVID-19 is a worldwide pandemic without an effective therapy. Recent reports have implicated
-      asymptomatic transmission accounts for at least 25% of SARS-CoV-2 cases. We hypothesize that
-      droplet emission from oral fluids generated during speaking could be an important and
-      actionable factor driving asymptomatic transmission. Recent data from our lab has suggested
-      salivary glands may be an early site of SARS-CoV-2 replication with presumably high viral
-      loads in oral secretions. We aim to collect nasal and oral secretions to test for viral load
-      and viral infectivity in 1) asymptomatic high-risk subjects with unknown SARS-CoV-2 status,
-      but with a history of close personal contact with a SARS-CoV-2 positive person and2)
-      asymptomatic or mildly symptomatic subjects who SARS-CoV-2 positive.
+      COVID-19 is a worldwide pandemic without an effective therapy. A series of reports have
+      implicated that asymptomatic transmission occurs in at least 25% SARS-CoV-2 cases. We
+      hypothesize that droplet emission from oral fluids generated during speaking could be an
+      important and actionable factor driving asymptomatic transmission. We aim to collect oral and
+      nasal secretions to test for viral load and viral infectivity in 1) asymptomatic high-risk
+      subjects with unknown SARS-CoV-2 status, but with a history of close personal contact with a
+      SARSCoV- 2 positive person and 2) asymptomatic or mildly symptomatic subjects who are
+      SARS-CoV-2 positive. COVID-19 positive individuals re-testing as negative can be enrolled to
+      complete the electronic questionnaire(s) assessment and allow for evaluation of history of
+      symptoms.
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
@@ -96,29 +101,34 @@
     <time_perspective>Prospective</time_perspective>
   </study_design_info>
   <primary_outcome>
-    <measure>To determine SARS-CoV-2 viral load and infectivity insaliva that may contribute to asymptomatic transmission</measure>
+    <measure>To determine SARS-CoV-2 viral load and infectivity in saliva that may contribute to asymptomatic transmission</measure>
     <time_frame>Ongoing</time_frame>
     <description>Detection of virus in saliva</description>
   </primary_outcome>
-  <secondary_outcome>
-    <measure>Viral load of salivary droplets generated from speaking</measure>
-    <time_frame>Ongoing</time_frame>
-    <description>Detection of virus in saliva</description>
-  </secondary_outcome>
-  <number_of_groups>1</number_of_groups>
-  <enrollment type="Anticipated">30</enrollment>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
   <condition>COVID-19</condition>
   <arm_group>
     <arm_group_label>1</arm_group_label>
-    <description>Mildly symptomatic subjects who are COVID-19 positive or high-risk subjects with known history of personal contact with a COVID-19 positive person.</description>
+    <description>asymptomatic high-risk subjects with close contact w/ COVID-19 positive person</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <description>asymptomatic or mildly symptomatic subjects who are COVID-19 positive</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3</arm_group_label>
+    <description>COVID-19 positive individuals retesting negative</description>
   </arm_group>
   <eligibility>
     <study_pop>
       <textblock>
         1) asymptomatic high-risk subjects with known history of close personal contact with a
-        COVID-19 positive person not tested (SARS-CoV2 status unknown); 2) asymptomatic or mildly
+        COVID-19 positive person not tested (SARS-CoV2 status unknown)2) asymptomatic or mildly
         symptomatic (fever without cough, sneezing or shortness of breath) subjects who are
-        COVID-19 positive.
+        COVID-19 positive 3) COVID-19 positive individuals retesting negative can be enrolled to
+        complete the electronic questionnaire(s) assessment and allow evaluation of history of
+        symptoms.
       </textblock>
     </study_pop>
     <sampling_method>Non-Probability Sample</sampling_method>
@@ -137,21 +147,23 @@
 
           4. NIH employee who is COVID-19 positive (verbal confirmation followed by documented test
              results, sent electronically) and asymptomatic or have mild symptoms (e.g., fever,
-             mild malaise, sore throat or sneezing) OR
+             mild malaise, sore throat or sneezing) individuals who have re-tested and are negative
+             may be enrolled to understand progression and resolution of disease OR
 
           5. Persons considered high risk for COVID-19 due to personal contact within the past 7
              days with a COVID-19 positive individual (e.g., co-habitating family member of NIH
-             employee who is COVID-19 positive) and has no symptoms of COVID-19 - verbal
-             confirmation followed by documented test results of positive individual, sent
+             employee who is COVID-19 positive) and has no symptoms or mild symptoms of COVID-19 -
+             verbal confirmation followed by documented test results of positive individual, sent
              electronically
 
-        EXCLUSION CRITERIA:
+        EXCLUSION CRITERION:
 
         An individual who meets any of the following criteria will be excluded from participation
         in this study:
 
-        1. COVID-19 positive subjects with moderate or severe symptoms of cough or shortness of
-        breath (upper and lower respiratory symptoms) or requiring hospitalization
+        1. COVID-19 positive subjects with active moderate or severe symptoms of cough or shortness
+        of breath (upper and lower respiratory symptoms) or currently requiring hospitalization
+        (recovering COVID-19 positive patients can be enrolled).
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -206,13 +218,13 @@
     <citation>Fauci AS, Lane HC, Redfield RR. Covid-19 - Navigating the Uncharted. N Engl J Med. 2020 Mar 26;382(13):1268-1269. doi: 10.1056/NEJMe2002387. Epub 2020 Feb 28.</citation>
     <PMID>32109011</PMID>
   </reference>
-  <verification_date>April 22, 2020</verification_date>
+  <verification_date>April 23, 2020</verification_date>
   <study_first_submitted>April 15, 2020</study_first_submitted>
   <study_first_submitted_qc>April 15, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <last_update_submitted>April 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

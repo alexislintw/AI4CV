@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="97">
+<clinical_study rank="109">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04341675</url>
   </required_header>
@@ -40,7 +40,7 @@
     </textblock>
   </brief_summary>
   <overall_status>Recruiting</overall_status>
-  <start_date type="Actual">April 15, 2020</start_date>
+  <start_date type="Actual">April 24, 2020</start_date>
   <completion_date type="Anticipated">September 2020</completion_date>
   <primary_completion_date type="Anticipated">July 2020</primary_completion_date>
   <phase>Phase 2</phase>
@@ -59,6 +59,51 @@
     <description>Progression to respiratory failure requiring advanced support measures, either due to inadequate ventilation (non-invasive or invasive mechanical ventilation) or inadequate oxygenation (CPAP* or high flow supplemental oxygen at rates ≥ 15 liters/minute), in patients given sirolimus compared to the placebo group.
 * CPAP use for known obstructive sleep apnea will not be considered as disease progression.</description>
   </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients who require escalation in care</measure>
+    <time_frame>14 days</time_frame>
+    <description>Progression to a higher level of care, e.g. ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change over time in study-specific biomarkers (LDH, Ferritin, D-dimer, lymphocyte count)</measure>
+    <time_frame>14 days</time_frame>
+    <description>Change over time in study-specific biomarkers (LDH, Ferritin, D-dimer, lymphocyte count)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients surviving to hospital discharge</measure>
+    <time_frame>days</time_frame>
+    <description>Survival to hospital discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Drug safety profile</measure>
+    <time_frame>14 days</time_frame>
+    <description>Incidence and type of adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of advanced respiratory support</measure>
+    <time_frame>days</time_frame>
+    <description>Number of days spent on advanced respiratory support measures</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospital stay</measure>
+    <time_frame>days</time_frame>
+    <description>Length of hospitalization (in patients who survive to discharge)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time from treatment initiation to death</measure>
+    <time_frame>days</time_frame>
+    <description>Number of days between study initiation and death (in the subset of patients who die during the hospitalization)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of fever</measure>
+    <time_frame>14 days</time_frame>
+    <description>Time (in days) to resolution of fever</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients who require initiation of off-label therapies</measure>
+    <time_frame>14 days</time_frame>
+    <description>Patients needing off-label treatments such as Anti-IL-6 inhibitors at the discretion of primary clinicians</description>
+  </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">30</enrollment>
   <condition>COVID-19</condition>
@@ -77,12 +122,14 @@
     <intervention_name>Sirolimus</intervention_name>
     <description>Sirolimus 6mg daily on Day 1 followed by 2mg daily for the next 13 days for a total treatment duration of 14 days or hospital discharge, whatever happens sooner.</description>
     <arm_group_label>Sirolimus</arm_group_label>
+    <other_name>Rapamycin</other_name>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Placebo</intervention_name>
     <description>Matching placebo</description>
     <arm_group_label>Placebo</arm_group_label>
+    <other_name>placebo capsules</other_name>
   </intervention>
   <eligibility>
     <criteria>
@@ -186,9 +233,9 @@
   <study_first_submitted>April 5, 2020</study_first_submitted>
   <study_first_submitted_qc>April 8, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 10, 2020</study_first_posted>
-  <last_update_submitted>April 17, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 17, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
+  <last_update_submitted>April 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University of Cincinnati</investigator_affiliation>

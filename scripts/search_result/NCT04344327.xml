@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="787">
+<clinical_study rank="811">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04344327</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>2020-02</org_study_id>
     <nct_id>NCT04344327</nct_id>
   </id_info>
-  <brief_title>COVID-19 in Cardiology Unit in France : Risk Factors for Mortality (CCF)</brief_title>
+  <brief_title>Early Risk Stratification of Patient Hospitalized for SARS-CoV2 Infection: Critical COVID-19 France CCF</brief_title>
   <acronym>CCF</acronym>
-  <official_title>SARS-CoV2 in Cardiology Unit in France : Risk Factors for Mortality</official_title>
+  <official_title>Early Risk Stratification of Patient Hospitalized for SARS-CoV2 Infection: Critical COVID-19 France CCF</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>French Cardiology Society</agency>
@@ -54,10 +54,10 @@
       department.
     </textblock>
   </detailed_description>
-  <overall_status>Recruiting</overall_status>
+  <overall_status>Completed</overall_status>
   <start_date type="Actual">April 10, 2020</start_date>
-  <completion_date type="Anticipated">July 9, 2020</completion_date>
-  <primary_completion_date type="Anticipated">April 19, 2020</primary_completion_date>
+  <completion_date type="Actual">April 21, 2020</completion_date>
+  <primary_completion_date type="Actual">April 21, 2020</primary_completion_date>
   <study_type>Observational</study_type>
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
@@ -67,7 +67,7 @@
   <primary_outcome>
     <measure>Death rate</measure>
     <time_frame>Through study completion, an average of 4 weeks</time_frame>
-    <description>Survival analysis (all-cause death) in relation with clinical patient profile</description>
+    <description>Analysis of all-cause death in relation with clinical patient profile</description>
   </primary_outcome>
   <primary_outcome>
     <measure>Transfer to intensive care unit</measure>
@@ -85,7 +85,7 @@
     <description>Description of clinical and biological patient profile leading to a worse prognosis</description>
   </secondary_outcome>
   <number_of_groups>1</number_of_groups>
-  <enrollment type="Anticipated">500</enrollment>
+  <enrollment type="Actual">2878</enrollment>
   <condition>Infection Viral</condition>
   <condition>Infection, Hospital</condition>
   <condition>COVID</condition>
@@ -130,29 +130,105 @@
     <role>Principal Investigator</role>
     <affiliation>CHU de Nancy</affiliation>
   </overall_official>
-  <overall_contact>
-    <last_name>Guillaume BONNET, MD</last_name>
-    <phone>+33 6 22 70 15 01</phone>
-    <email>guillaume.bonnetccf@gmail.com</email>
-  </overall_contact>
-  <overall_contact_backup>
-    <last_name>Tessa BERGOT</last_name>
-    <phone>+33 1 44 90 70 33</phone>
-    <email>tessa.bergot@sfcardio.fr</email>
-  </overall_contact_backup>
   <location>
     <facility>
-      <name>CHU de Lille</name>
+      <name>CHU d'Amiens</name>
+      <address>
+        <city>Amiens</city>
+        <zip>80054</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Annecy</name>
+      <address>
+        <city>Annecy</city>
+        <zip>74374</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Bordeaux</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33404</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Caen</name>
+      <address>
+        <city>Caen</city>
+        <zip>14033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cotentin hospital</name>
+      <address>
+        <city>Cherbourg</city>
+        <zip>50100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Dijon</name>
+      <address>
+        <city>Dijon</city>
+        <zip>21079</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Elbeuf Louviers Val de Reuil</name>
+      <address>
+        <city>Elbeuf</city>
+        <zip>76500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Fréjus / Saint-Raphael</name>
+      <address>
+        <city>Fréjus</city>
+        <zip>83608</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lille Catholic Institute Hospital Group, Lille</name>
       <address>
         <city>Lille</city>
         <zip>59000</zip>
         <country>France</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
-    <contact>
-      <last_name>Clémence DOCQ</last_name>
-    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Lyon</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69229</zip>
+        <country>France</country>
+      </address>
+    </facility>
   </location>
   <location>
     <facility>
@@ -163,71 +239,65 @@
         <country>France</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Vassili PANAGIDES, MD</last_name>
-    </contact>
   </location>
   <location>
     <facility>
-      <name>CHU de Massy</name>
+      <name>Jacques Cartier Private Hospital, Massy</name>
       <address>
         <city>Massy</city>
         <zip>91300</zip>
         <country>France</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Alexandre GAUTIER, MD</last_name>
-    </contact>
   </location>
   <location>
     <facility>
-      <name>APHP - Bichat</name>
+      <name>CHR d'Orléans</name>
+      <address>
+        <city>Orléans</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bichat (APHP)</name>
       <address>
         <city>Paris</city>
         <zip>75000</zip>
         <country>France</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Arthur DARMON, MD</last_name>
-    </contact>
   </location>
   <location>
     <facility>
-      <name>Aphp - Hegp</name>
+      <name>Georges Pompidou European Hospital (AP-HP)</name>
       <address>
         <city>Paris</city>
         <zip>75000</zip>
         <country>France</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Guillaume BONNET, MD</last_name>
-      <email>guillaume.bonnetccf@gmail.com</email>
-    </contact>
-    <investigator>
-      <last_name>Joffrey CELLIER, MD</last_name>
-      <role>Sub-Investigator</role>
-    </investigator>
   </location>
   <location>
     <facility>
-      <name>IMM</name>
+      <name>Institut Mutualiste Montsouris, Paris</name>
       <address>
         <city>Paris</city>
         <zip>75000</zip>
         <country>France</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Sophie RIBEYROLLES, MD</last_name>
-    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Reims</name>
+      <address>
+        <city>Reims</city>
+        <zip>51092</zip>
+        <country>France</country>
+      </address>
+    </facility>
   </location>
   <location>
     <facility>
@@ -238,10 +308,16 @@
         <country>France</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Corentin CHAUMONT, MD</last_name>
-    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Saint Etienne</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <zip>42055</zip>
+        <country>France</country>
+      </address>
+    </facility>
   </location>
   <location>
     <facility>
@@ -252,10 +328,6 @@
         <country>France</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Antonin TRIMAILLE, MD</last_name>
-    </contact>
   </location>
   <location>
     <facility>
@@ -266,10 +338,16 @@
         <country>France</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Clément KARSENTY, MD</last_name>
-    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Gatien hospital</name>
+      <address>
+        <city>Tours</city>
+        <zip>3540</zip>
+        <country>France</country>
+      </address>
+    </facility>
   </location>
   <location>
     <facility>
@@ -280,10 +358,6 @@
         <country>France</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <last_name>Orianne WEIZMAN, MD</last_name>
-    </contact>
   </location>
   <location_countries>
     <country>France</country>
@@ -292,9 +366,9 @@
   <study_first_submitted>April 9, 2020</study_first_submitted>
   <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 14, 2020</study_first_posted>
-  <last_update_submitted>April 13, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 13, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

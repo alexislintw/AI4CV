@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="216">
+<clinical_study rank="244">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04341116</url>
   </required_header>
@@ -260,7 +260,7 @@
   </location>
   <location>
     <facility>
-      <name>Oschner Medical Center</name>
+      <name>Ochsner Medical Center</name>
       <address>
         <city>New Orleans</city>
         <state>Louisiana</state>
@@ -303,9 +303,9 @@
   <study_first_submitted>April 4, 2020</study_first_submitted>
   <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 10, 2020</study_first_posted>
-  <last_update_submitted>April 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

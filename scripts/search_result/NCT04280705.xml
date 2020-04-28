@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="636">
+<clinical_study rank="709">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04280705</url>
   </required_header>
@@ -237,7 +237,7 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
     <description>The NEW score has demonstrated an ability to discriminate patients at risk of poor outcomes. This score is based on 7 clinical parameters (respiration rate, oxygen saturation, any supplemental oxygen, temperature, systolic blood pressure, heart rate, level of consciousness). The NEW Score is being used as an efficacy measure.</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
-  <enrollment type="Anticipated">572</enrollment>
+  <enrollment type="Anticipated">800</enrollment>
   <condition>Corona Virus Infection</condition>
   <arm_group>
     <arm_group_label>Placebo</arm_group_label>
@@ -252,7 +252,7 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
   <intervention>
     <intervention_type>Other</intervention_type>
     <intervention_name>Placebo</intervention_name>
-    <description>The supplied placebo lyophilized formulation is identical in physical appearance to the active lyophilized formulation and contains the same inactive ingredients. Alternatively, a matching placebo of normal saline of equal volume may be given if there are limitations on placebo supplies.</description>
+    <description>The supplied placebo lyophilized formulation is identical in physical appearance to the active lyophilized formulation and contains the same inactive ingredients. Alternatively, a placebo of normal saline of equal volume may be given if there are limitations on matching placebo supplies.</description>
     <arm_group_label>Placebo</arm_group_label>
   </intervention>
   <intervention>
@@ -497,6 +497,18 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
       </address>
     </facility>
     <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta VA Medical Center - Infectious Diseases Clinic</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
   </location>
   <location>
     <facility>
@@ -1099,6 +1111,18 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
   </location>
   <location>
     <facility>
+      <name>Royal Victoria Infirmary - Department of Infectious Diseases</name>
+      <address>
+        <city>Level 6, Ward 19</city>
+        <state>Newcastle Upon Tyne</state>
+        <zip>NE1 4LP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>St. James's University Hospital - Infectious Diseases</name>
       <address>
         <city>Leeds</city>
@@ -1120,17 +1144,6 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
     </facility>
     <status>Recruiting</status>
   </location>
-  <location>
-    <facility>
-      <name>Royal Victoria Infirmary - Department of Infectious Diseases</name>
-      <address>
-        <city>Newcastle Upon Tyne</city>
-        <zip>NE1 4LP</zip>
-        <country>United Kingdom</country>
-      </address>
-    </facility>
-    <status>Recruiting</status>
-  </location>
   <location_countries>
     <country>Denmark</country>
     <country>Germany</country>
@@ -1143,13 +1156,13 @@ Grade 4 AEs are defined as events that are potentially life threatening.</descri
     <country>United Kingdom</country>
     <country>United States</country>
   </location_countries>
-  <verification_date>April 8, 2020</verification_date>
+  <verification_date>April 16, 2020</verification_date>
   <study_first_submitted>February 20, 2020</study_first_submitted>
   <study_first_submitted_qc>February 20, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">February 21, 2020</study_first_posted>
-  <last_update_submitted>April 16, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 20, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

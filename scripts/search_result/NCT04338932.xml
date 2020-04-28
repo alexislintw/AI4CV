@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="242">
+<clinical_study rank="270">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04338932</url>
   </required_header>
@@ -57,7 +57,7 @@
       admitted in the ICU for COVID-19 at our hospital, a large deep vein thrombosis (DVT) proximal
       in both common femoral veins was noticed in a patient. Since there were no clinical signs of
       DVT present in this patient, every patient at the ICU unit at that moment was screened on the
-      presence of DVTs. We found one or several deep vein thromboses in 5 out of 12 patients at 1
+      presence of DVTs. We found one or several deep vein thromboses in 8 out of 12 patients at 1
       ICU unit. Since this was a unusual high incidence, we want to further investigate this
       prevalence and evaluate possible causes of these DVTs.
 
@@ -102,10 +102,65 @@
     <time_perspective>Retrospective</time_perspective>
   </study_design_info>
   <primary_outcome>
-    <measure>to investigate the prevalence and identify possible risk factors of the occurrence of a DVT in these patients at the ICU.</measure>
+    <measure>the prevalence of a DVT in patients at the ICU.</measure>
     <time_frame>1 day at ICU</time_frame>
-    <description>to investigate the prevalence and identify possible risk factors of the occurrence of a DVT in these patients at the ICU.</description>
+    <description>to investigate the prevalence of a DVT in patients at the ICU.</description>
   </primary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen partial pressure and Carbon dioxide partial pressure levels in the blood</measure>
+    <time_frame>1 day at ICU</time_frame>
+    <description>evaluate pO2 and pCO2 (mmHg) in patients with and without a DVT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Potassium, Sodium, Calcium, Bicarbonate, Base excess, Lactate levels in the blood</measure>
+    <time_frame>1 day at ICU</time_frame>
+    <description>evaluate Potassium, Sodium, Calcium, Bicarbonate, Base excess, Lactate levels (mmol/l) in patients with and without a DVT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>glucose, haemoglobin, ureum, creatinine, total bilirubin levels in the blood</measure>
+    <time_frame>1 day at ICU</time_frame>
+    <description>evaluate glucose, haemoglobin, ureum, creatinine, total bilirubin levels (mg/dl) in patients with and without a DVT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>oxygen saturation, basophils, eosinophils, monocytes, neutrophils, haematocrit and prothrombine levels in the blood</measure>
+    <time_frame>1 day at ICU</time_frame>
+    <description>evaluate oxygen saturation, basophils, eosinophils, monocytes, neutrophils, haematocrit and prothrombine levels in the blood (%) in patients with and without a DVT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>white blood cells, red blood cells and platelets in the blood</measure>
+    <time_frame>1 day at ICU</time_frame>
+    <description>evaluate white blood cells (x 10*9/L), red blood cells (x 10*12/L) and platelets levels (x 109/L) in the blood in patients with and without a DVT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PT (%)aPTT (sec)Fibrinogen (g/L)D-dimers (mg/L) PT (INR) (ratio) AST (U/L)ALT (U/L)Lactate dehydrogenase (U/L)Troponin T (ng/L)CRP (mg/L)Ferritin (mg/L)in the blood</measure>
+    <time_frame>1 day at ICU</time_frame>
+    <description>evaluate PT (%)aPTT (sec)Fibrinogen (g/L)D-dimers (mg/L) PT (INR) (ratio) AST (U/L)ALT (U/L)Lactate dehydrogenase (U/L)Troponin T (ng/L)CRP (mg/L)Ferritin (mg/L) in the blood in patients with and without a DVT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>prevalence of co-morbidities</measure>
+    <time_frame>1 day at ICU</time_frame>
+    <description>revalence of co morbidities such as Cardiovascular disease, n (%) Hypertension, n (%) Diabetes, n (%) Respiratory disease, n (%) Malignancy, n (%) Chronic renal disease, n (%) Chronic liver disease, n (%) Chronic bowel disease, n (%) Chronic nerve disease, n (%) Cerebrovascular disease, n (%) HIV/AIDS, n (%) Haematological disease, n (%) Obesity, n (%) Rheumatological disease, n (%) Dementia, n (%) in patients with and without a DVT admitted at the ICU in 1 day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>prevalence of vital signs at icu admission</measure>
+    <time_frame>at ICU admission</time_frame>
+    <description>prevalence of vital signs such Temperature (°C) Breathing rate (#/min) Systolic blood pressure (mmHg) Mean arterial blood pressure (mmHg) Heart rate (#/min) Glasgow Coma Scale in patients with and without a DVT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>prevalence of complications during icu stay</measure>
+    <time_frame>from ICU admission to cross sectional moment (29/3/2020)</time_frame>
+    <description>prevalance of complications such as ARDS Acute kidney failure Acute heart failure Septic shock Secondary infection Seizure Stroke Hyperglaecemia Hypoglaecemia during ICU stay in patients with and without DVT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>evaluation of treatment</measure>
+    <time_frame>from ICU admission to cross sectional moment (29/3/2020)</time_frame>
+    <description>evaluation of treatment such as Antiviral treatment Antibiotic treatment Antifungal treatment Corticosteroid treatment CRRT IVIg treatment Plaquenil treatment during ICU stay in patients with and without DVT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>evaluation of the oxygen therapy</measure>
+    <time_frame>from ICU admission to cross sectional moment (29/3/2020)</time_frame>
+    <description>evaluation of the oxygen therapy such as Invasive mechanical ventilation FiO2 (mmHg) PEEP Length of ventilationA ECMO Invasive mechanical ventilation + ECMO Vasopressor/inotropic support Neuromuscular blocking agents Prone ventilation in patients with and without DVT</description>
+  </secondary_outcome>
   <enrollment type="Anticipated">12</enrollment>
   <condition>COVID-19</condition>
   <condition>Deep Vein Thrombosis (DVT)/Thrombophlebitis</condition>
@@ -148,9 +203,9 @@
   <study_first_submitted>April 7, 2020</study_first_submitted>
   <study_first_submitted_qc>April 7, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 8, 2020</study_first_posted>
-  <last_update_submitted>April 7, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 7, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Jessa Hospital</investigator_affiliation>

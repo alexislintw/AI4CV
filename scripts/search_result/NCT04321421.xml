@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="25">
+<clinical_study rank="27">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04321421</url>
   </required_header>
@@ -23,14 +23,6 @@
       <agency>OSPEDALE CARLO POMA ASST MANTOVA</agency>
       <agency_class>Other</agency_class>
     </collaborator>
-    <collaborator>
-      <agency>OSPEDALE MAGGIORE LODI</agency>
-      <agency_class>Other</agency_class>
-    </collaborator>
-    <collaborator>
-      <agency>OSPEDALE ASST CREMONA</agency>
-      <agency_class>Other</agency_class>
-    </collaborator>
   </sponsors>
   <source>Foundation IRCCS San Matteo Hospital</source>
   <oversight_info>
@@ -42,8 +34,8 @@
     <textblock>
       The outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has become
       pandemic. To date, no specific treatment has been proven to be effective. Promising results
-      were obtained in China using Hyperimmune plasma from patients recovered from the disease.We
-      plan to treat critical Covid-19 patients with hyperimmune plasma.
+      were obtained in China using Hyperimmune plasma from patients recovered from the disease.The
+      investigators plan to treat critical Covid-19 patients with hyperimmune plasma.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -51,7 +43,7 @@
       Apheresis from recovered donors will be performed with a cell separator device , with 500-600
       mL of plasma obtained from each donor. Donors are males, age 18 yrs or more, evaluated for
       transmissible diseases according to the italian law. Adjunctive tests will be for hepatitis A
-      virus, hepatatis E virusand Parvovirus B-19. All donors will be tested for the Covid-19
+      virus, hepatitis E virus and Parvovirus B-19. All donors will be tested for the Covid-19
       neutralizing title. Each plasma bag obtained from plasmapheresis will be immediately divided
       in two units and frozen according to the national standards and stored separately.
 
@@ -59,7 +51,7 @@
       treat each of the recruited patients at most 3 times over 5 days.
     </textblock>
   </detailed_description>
-  <overall_status>Active, not recruiting</overall_status>
+  <overall_status>Recruiting</overall_status>
   <start_date type="Actual">March 17, 2020</start_date>
   <completion_date type="Anticipated">May 31, 2020</completion_date>
   <primary_completion_date type="Anticipated">May 31, 2020</primary_completion_date>
@@ -154,6 +146,16 @@
     <role>Principal Investigator</role>
     <affiliation>Foundation IRCCS San Matteo Hospital</affiliation>
   </overall_official>
+  <overall_contact>
+    <last_name>Cesare Perotti, MD</last_name>
+    <phone>+39 0382 503578</phone>
+    <email>c.perotti@smatteo.pv.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Claudia Del Fante, MD</last_name>
+    <phone>+39 0382 503094</phone>
+    <email>c.delfante@smatteo.pv.it</email>
+  </overall_contact_backup>
   <location>
     <facility>
       <name>Catherine Klersy</name>
@@ -164,6 +166,33 @@
         <country>Italy</country>
       </address>
     </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Catherine Klersy, MD</last_name>
+      <phone>+39 0382 503557</phone>
+      <email>c.klersy@smatteo.pv.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Annalisa De Silvestri, MSc</last_name>
+      <phone>+39 0382 503672</phone>
+      <email>a.desilvestri@smatteo.pv.it</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Asst Carlo Poma Mantova</name>
+      <address>
+        <city>Mantova</city>
+        <zip>46100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>MASSIMO FRANCHINI, MD</last_name>
+      <phone>0039 0376 201234</phone>
+      <email>massimo.franchini@asst-mantova.it</email>
+    </contact>
   </location>
   <location_countries>
     <country>Italy</country>
@@ -194,18 +223,18 @@
     <citation>Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J, Bruce H, Spitters C, Ericson K, Wilkerson S, Tural A, Diaz G, Cohn A, Fox L, Patel A, Gerber SI, Kim L, Tong S, Lu X, Lindstrom S, Pallansch MA, Weldon WC, Biggs HM, Uyeki TM, Pillai SK; Washington State 2019-nCoV Case Investigation Team. First Case of 2019 Novel Coronavirus in the United States. N Engl J Med. 2020 Mar 5;382(10):929-936. doi: 10.1056/NEJMoa2001191. Epub 2020 Jan 31.</citation>
     <PMID>32004427</PMID>
   </reference>
-  <verification_date>March 2020</verification_date>
+  <verification_date>April 2020</verification_date>
   <study_first_submitted>March 23, 2020</study_first_submitted>
   <study_first_submitted_qc>March 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 25, 2020</study_first_posted>
-  <last_update_submitted>March 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 25, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Foundation IRCCS San Matteo Hospital</investigator_affiliation>
     <investigator_full_name>Cesare Perotti</investigator_full_name>
-    <investigator_title>Medical Doctor</investigator_title>
+    <investigator_title>Head, Immunohematology &amp; Transfusion Service</investigator_title>
   </responsible_party>
   <keyword>hyperimmune plasma</keyword>
   <keyword>COVID-19</keyword>

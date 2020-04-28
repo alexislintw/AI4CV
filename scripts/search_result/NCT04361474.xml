@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="564">
+<clinical_study rank="636">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04361474</url>
   </required_header>
@@ -32,31 +32,33 @@
   <brief_summary>
     <textblock>
       The initial symptoms described in the first cases of COVID-19 were mainly fever and
-      respiratory signs. Recently, there has been an increase in cases of hyposmia (1) without
+      respiratory signs. Recently, there has been an increase in cases of hyposmia without
       associated nasal obstruction or rhinorrhea. Although we do not yet know the long-term
       consequences of COVID-19 on olfaction, there is evidence in the literature demonstrating that
       post-viral hyposmias are an important source of long-term olfactory disorders, impacting
-      quality of life (2).
+      quality of life.
 
       Usually, the treatment of viral hyposmias is based on local and/or general corticosteroid
       treatment combined with saline nasal irrigation at the onset of signs. Because of the
       possible development of severe forms of the SARS-Cov-2 infection, the French Society of
       Otorhinolaryngology has advised against treatment by corticosteroid therapy and nasal
-      irrigation. However, as the virus is present in the nasal fossae on average for 20 days (3),
+      irrigation. However, as the virus is present in the nasal fossae on average for 20 days,
       persistent hyposmia at 30 days would probably result from an inflammatory or neurological
       damage to the nasal slits or olfactory bulb. Local treatment with corticosteroids could then
       be instituted from 30 days after the onset of symptoms of COVID-19 without risk of
       dissemination.
 
-      In persistent hyposmia other than chronic rhinosinusitis, the only treatment (4) that has
-      proven its efficacy is nasal irrigation associated with budesonide and olfactory
-      rehabilitation (5). However, this drug does not have marketing authorisation in France for
-      this indication.
-
-      We wish to conduct a multicenter randomized trial to evaluate the efficacy of local
-      budesonide (nasal irrigation) in the management of persistent hyposmia in COVID-19 patients.
+      In persistent hyposmia other than chronic rhinosinusitis, the only treatment that has proven
+      its efficacy is nasal irrigation associated with budesonide and olfactory rehabilitation.
+      However, this drug does not have marketing authorisation in France for this indication.
     </textblock>
   </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multicenter randomized trial to evaluate the efficacy of local budesonide (nasal
+      irrigation) in the management of persistent hyposmia in COVID-19 patients.
+    </textblock>
+  </detailed_description>
   <overall_status>Not yet recruiting</overall_status>
   <start_date type="Anticipated">April 25, 2020</start_date>
   <completion_date type="Anticipated">May 25, 2021</completion_date>
@@ -66,14 +68,14 @@
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
     <allocation>Randomized</allocation>
-    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model>Parallel Assignment</intervention_model>
     <intervention_model_description>Patients with persistent hyposmia related to a SARS-CoV-2 infection</intervention_model_description>
     <primary_purpose>Treatment</primary_purpose>
     <masking>Single (Participant)</masking>
     <masking_description>Patients with persistent hyposmia related to a SARS-CoV-2 infection</masking_description>
   </study_design_info>
   <primary_outcome>
-    <measure>improvement of more than 2 points on the ODORATEST</measure>
+    <measure>Patient with more than 2 points on the ODORATEST</measure>
     <time_frame>30 days</time_frame>
     <description>Percentage of patients with an improvement of more than 2 points on the ODORATEST score (5) after 30 days of treatment</description>
   </primary_outcome>
@@ -168,10 +170,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 22, 2020</study_first_submitted>
   <study_first_submitted_qc>April 23, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

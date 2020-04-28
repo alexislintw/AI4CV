@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="662">
+<clinical_study rank="739">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04360954</url>
   </required_header>
@@ -29,6 +29,9 @@
       commercial or prototype test kits for antibody to SARS-CoV-2. The focus will be on
       rapid-format, point-of-care antibody test kits that detect both IgM and IgG antibodies to
       recombinant viral proteins.
+
+      Note: No voluntary enrolment into this study will be conducted; all testing is to be
+      conducted anonymously.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -84,6 +87,9 @@
       be tested if that is necessary to achieve study objectives. The tests and research are for
       research only, and we will not report test results from individual patient samples to
       clinicians to support patient care.
+
+      Note: No voluntary enrolment into this study will be conducted; all testing is to be
+      conducted anonymously.
 
       Antibody test kits. Marketed commercial or prototype antibody detection kits will be obtained
       by donation or purchase. Tests to be evaluated are to be determined, but this will depend on
@@ -214,6 +220,9 @@
 
           -  Sera/plasma from from healthy humans in the US and from rural areas of low and middle
              income countries
+
+        Note: No voluntary enrolment into this study will be conducted; all testing is to be
+        conducted anonymously.
       </textblock>
     </study_pop>
     <sampling_method>Non-Probability Sample</sampling_method>
@@ -307,10 +316,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 20, 2020</study_first_submitted>
   <study_first_submitted_qc>April 22, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 22, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

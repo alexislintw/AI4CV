@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="106">
+<clinical_study rank="117">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04333355</url>
   </required_header>
@@ -227,7 +227,7 @@
     <country>Mexico</country>
   </location_countries>
   <reference>
-    <citation>Casadevall A, Pirofski LA. The convalescent sera option for containing COVID-19. J Clin Invest. 2020 Mar 13. pii: 138003. doi: 10.1172/JCI138003. [Epub ahead of print]</citation>
+    <citation>Casadevall A, Pirofski LA. The convalescent sera option for containing COVID-19. J Clin Invest. 2020 Apr 1;130(4):1545-1548. doi: 10.1172/JCI138003.</citation>
     <PMID>32167489</PMID>
   </reference>
   <verification_date>April 2020</verification_date>

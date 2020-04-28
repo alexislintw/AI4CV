@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="152">
+<clinical_study rank="240">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04362124</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>PEC03_2020</org_study_id>
     <nct_id>NCT04362124</nct_id>
   </id_info>
-  <brief_title>Performance Evaluation of BCG vs COVID-19</brief_title>
+  <brief_title>Performance Evaluation of BCG Vaccination in Healthcare Personnel to Reduce the Severity of SARS-COV-2 Infection</brief_title>
   <official_title>Performance Evaluation of BCG Vaccination in Healthcare Personnel to Reduce the Severity of SARS-COV-2 Infection in Medellín, Colombia, 2020</official_title>
   <sponsors>
     <lead_sponsor>
@@ -373,10 +373,10 @@ Follow-up of the participant up to day 360. The frequency and intensity of possi
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 21, 2020</study_first_submitted>
   <study_first_submitted_qc>April 23, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
@@ -384,6 +384,10 @@ Follow-up of the participant up to day 360. The frequency and intensity of possi
   <keyword>BCG</keyword>
   <keyword>COVID-19</keyword>
   <keyword>SARS-COV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>BCG Vaccine</mesh_term>

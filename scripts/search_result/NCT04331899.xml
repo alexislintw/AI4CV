@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="69">
+<clinical_study rank="151">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04331899</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>55619</org_study_id>
     <nct_id>NCT04331899</nct_id>
   </id_info>
-  <brief_title>Mild COVID-19 Peginterferon Lambda</brief_title>
+  <brief_title>Single-Blind Study of a Single Dose of Peginterferon Lambda-1a Compared With Placebo in Outpatients With Mild COVID-19</brief_title>
   <acronym>COVID-Lambda</acronym>
-  <official_title>A Phase 2 Randomized, Open Label Study of a Single Dose of Peginterferon Lambda-1a Compared With Placebo in Outpatients With Mild COVID-19</official_title>
+  <official_title>A Phase 2 Randomized, Single Blind Study of a Single Dose of Peginterferon Lambda-1a Compared With Placebo in Outpatients With Mild COVID-19</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Stanford University</agency>
@@ -28,19 +28,18 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      To evaluate the efficacy of subcutaneous injections of 180 ug of Peginterferon Lambda-1a once
-      weekly, for up to two weeks (2 injections at most), compared with standard supportive care,
-      in reducing the duration of oral shedding of SARS-CoV-2 virus in patients with uncomplicated
-      COVID-19 disease.
+      To evaluate the efficacy of a single dose of subcutaneous injections of 180 ug of
+      Peginterferon Lambda-1a, compared with placebo in reducing the duration of viral shedding of
+      SARS-CoV-2 virus in patients with uncomplicated COVID-19 disease.
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
-      Patients will attend up to 8 study visits over a period of up to 28 days.
+      Patients will attend up to 9 study visits over a period of up to 28 days.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">April 15, 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 24, 2020</start_date>
   <completion_date type="Anticipated">May 31, 2022</completion_date>
   <primary_completion_date type="Anticipated">May 31, 2021</primary_completion_date>
   <phase>Phase 2</phase>
@@ -48,10 +47,11 @@
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
     <allocation>Randomized</allocation>
-    <intervention_model>Single Group Assignment</intervention_model>
-    <intervention_model_description>An open-label randomized controlled trial. Study participants will be randomly assigned 1:1 to a single subcutaneous dose of Peginterferon Lambda-1a or standard of care.</intervention_model_description>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>An open-label, single-blind randomized controlled trial. Study participants will be randomly assigned 1:1 to a single subcutaneous dose of Peginterferon Lambda-1a or placebo along with the standard of care.</intervention_model_description>
     <primary_purpose>Treatment</primary_purpose>
-    <masking>None (Open Label)</masking>
+    <masking>Single (Participant)</masking>
+    <masking_description>Single-blind study in which only patients are blinded.</masking_description>
   </study_design_info>
   <primary_outcome>
     <measure>Duration of Viral shedding of SARS-CoV-2 by qRT-PCR</measure>
@@ -67,22 +67,21 @@
     <description>Study participants assigned to study drug will receive a single subcutaneous dose of Peginterferon Lambda-1a in addition to standard of care treatment.</description>
   </arm_group>
   <arm_group>
-    <arm_group_label>Standard of care</arm_group_label>
-    <arm_group_type>Active Comparator</arm_group_type>
-    <description>Study participants will receive standard of care treatment.</description>
+    <arm_group_label>Placebo injection</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Study participants will receive a placebo along with the standard of care treatment.</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Peginterferon Lambda-1a</intervention_name>
-    <description>Peginterferon Lambda-1a (180 ug subcutaneous injection) single dose</description>
+    <description>Peginterferon Lambda-1a (180 ug subcutaneous injection) single dose along with Standard of Care</description>
     <arm_group_label>Study drug Peginterferon Lambda-1a</arm_group_label>
   </intervention>
   <intervention>
     <intervention_type>Other</intervention_type>
-    <intervention_name>Standard of Care Treatment</intervention_name>
-    <description>Standard of Care Treatment for COVID-19 Infection</description>
-    <arm_group_label>Standard of care</arm_group_label>
-    <arm_group_label>Study drug Peginterferon Lambda-1a</arm_group_label>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo subcutaneous injection along with Standard of Care Treatment for COVID-19 Infection</description>
+    <arm_group_label>Placebo injection</arm_group_label>
   </intervention>
   <eligibility>
     <criteria>
@@ -106,7 +105,7 @@
 
                1. Patients with a known allergy to Peginterferon Lambda-1a or any component thereof
 
-               2. Room air oxygen saturation of &lt;92%
+               2. Room air oxygen saturation of &lt;94%
 
                3. Participation in a clinical trial with or use of any investigational agent within
                   30 days before screening, or treatment with interferons (IFN) or immunomodulators
@@ -123,7 +122,7 @@
                7. Current or previous history of decompensated liver disease (Child-Pugh Class B or
                   C) or hepatocellular carcinoma
 
-               8. Co-infected with human immunodeficiency virus (HIV) or hepatitis C virus (HCV)
+               8. Co-infected with human immunodeficiency virus (HIV).
 
                9. Significant abnormal laboratory test results at screening.
 
@@ -148,9 +147,6 @@
                     7. Long-term treatment (&gt; 2 weeks) with agents that have a high risk for
                        nephrotoxicity or hepatotoxicity unless it is approved by the medical
                        monitor
-
-                    8. Receipt of systemic immunosuppressive therapy within 3 months before
-                       screening
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -173,13 +169,38 @@
     <phone>6507254561</phone>
     <email>parsonnt@stanford.edu</email>
   </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Stanford University School of Medicine</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Savita Kamble</last_name>
+      <phone>650-736-7388</phone>
+      <email>skamble@stanford.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Prasanna Jagannathan</last_name>
+      <phone>6507245343</phone>
+      <email>prasj@stanford.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
   <verification_date>March 2020</verification_date>
   <study_first_submitted>March 27, 2020</study_first_submitted>
   <study_first_submitted_qc>April 1, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 2, 2020</study_first_posted>
-  <last_update_submitted>April 1, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 1, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 2, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Stanford University</investigator_affiliation>

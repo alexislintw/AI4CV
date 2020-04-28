@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="39">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04362813</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CACZ885D2310</org_study_id>
+    <secondary_id>2020-001370-30</secondary_id>
+    <nct_id>NCT04362813</nct_id>
+  </id_info>
+  <brief_title>Study of Efficacy and Safety of Canakinumab Treatment for CRS in Participants With COVID-19-induced Pneumonia</brief_title>
+  <acronym>CAN-COVID</acronym>
+  <official_title>Phase 3 Multicenter, Randomized, Double-blind, Placebo-controlled Study to Assess the Efficacy and Safety of Canakinumab on Cytokine Release Syndrome in Patients With COVID-19-induced Pneumonia (CAN-COVID)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter, randomized, double-blind, placebo-controlled study to assess the
+      efficacy and safety of canakinumab plus standard-of-care (SOC) compared with placebo plus SOC
+      in adult patients with COVID-19-induced pneumonia and cytokine release syndrome (CRS).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase III, multicenter, randomized, double-blind, placebo-controlled study to
+      assess the efficacy and safety of canakinumab in patients with COVID-19-induced pneumonia and
+      cytokine release syndrome (CRS). The study will enroll patients to canakinumab or placebo, in
+      addition to standard of care (SOC) per local practice, which may include anti-viral
+      treatment, corticosteroids and/or supportive care.
+
+      Patients who meet the inclusion/exclusion criteria will be randomized in a 1:1 ratio to
+      either canakinumab + SOC or placebo + SOC and can be dosed immediately after ensuring that
+      the patient has met all eligibility criteria. Patients in the canakinumab arm will be dosed
+      on Day 1 with canakinumab 450 mg for body weight of 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg
+      for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Patients in the placebo arm will
+      be administered with 250 mL of 5% dextrose infused IV over 2 hours.
+
+      The study will include:
+
+        -  Screening period of 0-1 day
+
+        -  Study period from initial dose on Day 1 to Day 29 or hospital discharge
+
+        -  Follow-up to Day 127 The primary objective is to demonstrate the benefit of canakinumab
+           + SOC in increasing the chance of survival without ever requiring invasive mechanical
+           ventilation among patients with COVID-19-induced pneumonia and CRS.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 30, 2020</start_date>
+  <completion_date type="Anticipated">October 5, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 5, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of patients with clinical response</measure>
+    <time_frame>Day 3 to Day 29</time_frame>
+    <description>Clinical response is defined as survival without ever requiring invasive mechanical ventilation from Day 3 to Day 29 (both inclusive). A patient will be defined as a non-responder if the worst clinical status at any time from Day 3 to Day 29 is score 6, 7 or 8 on a 9-point ordinal scale ranging from 0 up to 8.
+Scores 6, 7 and 8 in the 9-point ordinal scale are defined as follows: Hospitalized patients with severe disease have score 6 if they need intubation and mechanical ventilation and score 7 if they need ventilation + additional organ support (pressors, renal replacement therapy, extracorporeal membrane oxygenation). Patients who die have score 8.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19-related death rate during the 4-week period after study treatment</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>COVID-19-related death during the 4-week period after study treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ratio to baseline in the C-reactive protein (CRP)</measure>
+    <time_frame>Baseline, Day 29</time_frame>
+    <description>Clinical chemistry measurement in a blood sample.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ratio to baseline in the serum ferritin</measure>
+    <time_frame>Baseline, Day 29</time_frame>
+    <description>Clinical chemistry measurement in a blood sample.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ratio to baseline in the D-dimer</measure>
+    <time_frame>Baseline, Day 29</time_frame>
+    <description>Clinical chemistry measurement in a blood sample.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with Adverse Event (AE), serious adverse events (SAE), clinically significant changes in laboratory measures, and vital signs</measure>
+    <time_frame>127 days</time_frame>
+    <description>Safety will be monitored from the canakinumab or placebo dose (Day 1) up to 126 days post-dose (Day 127).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">450</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Canakinumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Canakinumab</intervention_name>
+    <description>Canakinumab 450 mg for body weight 40-&lt;60 kg, 600 mg for 60-80 kg or 750 mg for &gt;80 kg in 250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+    <arm_group_label>Canakinumab</arm_group_label>
+    <other_name>ACZ885</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>250 mL of 5% dextrose infused IV over 2 hours. Single dose on Day 1.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key inclusion Criteria:
+
+          -  Adults (≥ 18 years old)
+
+          -  Body weight ≥40 kg
+
+          -  Informed consent must be obtained prior to participation in this study.
+
+          -  Clinically diagnosed with SARS-CoV-2 virus by PCR or by other approved diagnostic
+             methodology
+
+          -  Hospitalized with COVID-19-induced pneumonia evidenced by chest x-ray or CT scan with
+             pulmonary infiltrates
+
+          -  SpO2 ≤ 93% on room air or arterial oxygen partial pressure (PaO2)/ fraction of
+             inspired oxygen (FiO2) &lt; 300mmHg
+
+          -  C-reactive protein ≥20 mg/L or ferritin level ≥600 µg/L
+
+        Key exclusion Criteria:
+
+          -  History of hypersensitivity to canakinumab or to biologic drugs
+
+          -  Intubated and on mechanical ventilation (invasive) at time of randomization
+
+          -  Treatment with immunomodulators or immunosuppressant drugs, including but not limited
+             to tocilizumab, TNF inhibitors and anti-IL-17 agents within 5 half-lives or 30 days
+             (whichever is longer) prior to randomization with the exception of anakinra which is
+             excluded within 5 half-lives only. Note: Immunomodulators (topical or inhaled) for
+             asthma and atopic dermatitis and corticosteroids (any route of administration) are
+             permitted.
+
+          -  Suspected or known untreated active bacterial, fungal, viral, or parasitic infection
+             with the exception of COVID-19
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>1-888-669-6682</phone>
+    <email>novartis.email@novartis.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>+41613241111</phone>
+  </overall_contact_backup>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 27, 2020</study_first_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 pneumonia</keyword>
+  <keyword>cytokine release syndrome</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>canakinumab</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Novartis is committed to sharing with qualified external researchers, access to patient-level data and supporting clinical documents from eligible studies. These requests are reviewed and approved by an independent review panel on the basis of scientific merit. All data provided is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations. This trial data availability is according to the criteria and process described on www.clinicalstudydatarequest.com.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

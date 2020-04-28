@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="255">
+<clinical_study rank="284">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04351581</url>
   </required_header>
   <id_info>
-    <org_study_id>H-20026205</org_study_id>
+    <org_study_id>H-20026484</org_study_id>
     <secondary_id>2020-001544-26</secondary_id>
     <nct_id>NCT04351581</nct_id>
   </id_info>
@@ -58,7 +58,7 @@
       with ACE inhibitors or ARBs in hospitalised patients with COVID-19.
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
+  <overall_status>Recruiting</overall_status>
   <start_date type="Anticipated">April 2020</start_date>
   <completion_date type="Anticipated">December 2020</completion_date>
   <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
@@ -94,9 +94,9 @@ Death</description>
     <description>Occurrence and time to occurrence of each of the components of the key-secondary composite endpoint</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Kidney function</measure>
+    <measure>Kidney function assessed by plasma creatinine</measure>
     <time_frame>30 days</time_frame>
-    <description>Kidney function assessed by plasma creatinine and eGFR</description>
+    <description>Kidney function assessed by plasma creatinine</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Duration of index hospitalisation</measure>
@@ -114,14 +114,19 @@ Death</description>
     <description>Number of days alive during the intervention period</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Discharge beyond 30 days</measure>
+    <measure>Number of participants not yet discharged at day 30</measure>
     <time_frame>30 days</time_frame>
-    <description>Discharge beyond 30 days from randomisation</description>
+    <description>Number of participants not yet discharged at day 30</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Number of readmissions after 30 days.</measure>
     <time_frame>30 days</time_frame>
     <description>Number of readmissions after 30 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kidney function as assessed by eGFR</measure>
+    <time_frame>30 days</time_frame>
+    <description>Kidney function as assessed by eGFR</description>
   </secondary_outcome>
   <other_outcome>
     <measure>Support for clinical findings via relevant blood markers</measure>
@@ -220,14 +225,37 @@ Death</description>
   </overall_contact>
   <location>
     <facility>
-      <name>Center for Clinical Metabolic Research, Gentofte Hospital</name>
+      <name>Department of Medicine, Gentofte Hospital, University of Copenhagen</name>
       <address>
         <city>Hellerup</city>
-        <state>Capital Region</state>
+        <state>Capital Region Of Denmark</state>
         <zip>2900</zip>
         <country>Denmark</country>
       </address>
     </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vivian Kliim-Hansen, MD</last_name>
+      <phone>+45 3867 3867</phone>
+      <email>vivian.kliim-hansen@regionh.dk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Medicine, Herlev Hospital, University of Copenhagen</name>
+      <address>
+        <city>Herlev</city>
+        <state>Capital Region Of Denmark</state>
+        <zip>2730</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hans J N Lorentsson, MD</last_name>
+      <phone>+45 3868 3868</phone>
+      <email>hans.johan.niklas.lorentsson.02@regionh.dk</email>
+    </contact>
   </location>
   <location_countries>
     <country>Denmark</country>
@@ -252,9 +280,9 @@ Death</description>
   <study_first_submitted>April 14, 2020</study_first_submitted>
   <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 17, 2020</study_first_posted>
-  <last_update_submitted>April 14, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 14, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 17, 2020</last_update_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University Hospital, Gentofte, Copenhagen</investigator_affiliation>

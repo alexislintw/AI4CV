@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="267">
+<clinical_study rank="289">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04359212</url>
   </required_header>
   <id_info>
-    <org_study_id>VTE COVID</org_study_id>
+    <org_study_id>VTE-COVID</org_study_id>
     <nct_id>NCT04359212</nct_id>
   </id_info>
-  <brief_title>Increased Risk of Venous Thromboembolism and Higher Hypercoagulable State in Patients Recovered in Intensive Care Unit and in Medical Ward for Coronavirus Disease 2019 (COVID-19)</brief_title>
-  <acronym>VTE COVID</acronym>
+  <brief_title>Increased Risk of VTE and Higher Hypercoagulability in Patients Recovered in ICU and in Medical Ward for COVID-19</brief_title>
+  <acronym>VTE-COVID</acronym>
   <official_title>Increased Risk of Venous Thromboembolism and Higher Hypercoagulable State in Patients Recovered in Intensive Care Unit and in Medical Ward for Coronavirus Disease 2019 (COVID-19)</official_title>
   <sponsors>
     <lead_sponsor>
@@ -67,12 +67,12 @@
     <time_perspective>Prospective</time_perspective>
   </study_design_info>
   <primary_outcome>
-    <measure>primary VTE events</measure>
+    <measure>the cumulative proportion of any distal or proximal deep venous thrombosis or of symptomatic pulmonary embolism</measure>
     <time_frame>28 days</time_frame>
     <description>the cumulative proportion of any distal or proximal deep venous thrombosis or of symptomatic pulmonary embolism</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>secondary VTE events</measure>
+    <measure>the cumulative proportion of any distal or proximal deep venous thrombosis or of symptomatic pulmonary embolism plus the asymptomatic incidentally detected pulmonary embolism</measure>
     <time_frame>28 days</time_frame>
     <description>the cumulative proportion of any distal or proximal deep venous thrombosis or of symptomatic pulmonary embolism plus the asymptomatic incidentally detected pulmonary embolism</description>
   </secondary_outcome>
@@ -94,6 +94,7 @@
     <description>thromboprophylaxis with low-molecular-weight heparin or fondaparinux</description>
     <arm_group_label>Intensive</arm_group_label>
     <arm_group_label>Medical</arm_group_label>
+    <other_name>thromboprophylaxis</other_name>
   </intervention>
   <eligibility>
     <study_pop>
@@ -139,10 +140,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 21, 2020</study_first_submitted>
   <study_first_submitted_qc>April 21, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
@@ -154,7 +155,6 @@
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Thromboembolism</mesh_term>
     <mesh_term>Venous Thromboembolism</mesh_term>
-    <mesh_term>Thrombophilia</mesh_term>
   </condition_browse>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->

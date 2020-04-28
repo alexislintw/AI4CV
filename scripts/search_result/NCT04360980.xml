@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="196">
+<clinical_study rank="217">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04360980</url>
   </required_header>
@@ -56,49 +56,48 @@
     <masking>Double (Participant, Investigator)</masking>
   </study_design_info>
   <primary_outcome>
-    <measure>CRPxN/R ratio increase to 3 x upper limit of normal</measure>
+    <measure>CRPxN/R ratio change</measure>
     <time_frame>2 weeks</time_frame>
     <description>increasing inflammatory status</description>
   </primary_outcome>
   <primary_outcome>
     <measure>Clinical deterioration by the WHO definition</measure>
     <time_frame>2 weeks</time_frame>
-    <description>including persisting fever or deteriorating O2 Saturation</description>
+    <description>including change in fever or O2 Saturation</description>
   </primary_outcome>
   <primary_outcome>
     <measure>PCR Viral Load</measure>
     <time_frame>2 weeks</time_frame>
-    <description>increasing RT-PCR</description>
+    <description>change in RT-PCR</description>
   </primary_outcome>
   <primary_outcome>
     <measure>CT severity involvement index</measure>
     <time_frame>2weeks</time_frame>
-    <description>Increasing CT involvement</description>
+    <description>change in CT involvement</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>LDH increase to 2 x ULN</measure>
+    <measure>LDH change</measure>
     <time_frame>2 weeks</time_frame>
-    <description>Rising in LDH</description>
+    <description>change in LDH</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">80</enrollment>
   <condition>COVID-19</condition>
   <arm_group>
-    <arm_group_label>Colchicine add on standard therapy</arm_group_label>
-    <arm_group_type>Experimental</arm_group_type>
-    <description>40 RT-PCR positive COVID-19 patients without hypoxemia</description>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>40 RT-PCR positive COVID-19 patients without hypoxemia administered Colchicine plus standard treatment</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Standard treatment</arm_group_label>
-    <arm_group_type>Active Comparator</arm_group_type>
+    <arm_group_type>No Intervention</arm_group_type>
     <description>40 RT-PCR positive COVID-19 patients without hypoxemia receiving vitamin C 3grams daily , 400 mg Tiamine, Selenium , Omega-3 500 mg daily, Vit A , Vit D, Azithromycine, Ceftriaxone, Kaletra 400 BID 10 days</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Colchicine Tablets</intervention_name>
     <description>1.5 mg loading then 0.5 mg BID P.O</description>
-    <arm_group_label>Colchicine add on standard therapy</arm_group_label>
-    <arm_group_label>Standard treatment</arm_group_label>
+    <arm_group_label>Intervention</arm_group_label>
     <other_name>Colchicine</other_name>
   </intervention>
   <eligibility>
@@ -175,15 +174,15 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 22, 2020</study_first_submitted>
   <study_first_submitted_qc>April 23, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
   <last_update_submitted>April 23, 2020</last_update_submitted>
   <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Shahid Beheshti University of Medical Sciences</investigator_affiliation>
     <investigator_full_name>nooshin dalili</investigator_full_name>
-    <investigator_title>Nooshin Dalili</investigator_title>
+    <investigator_title>Principal Investigator</investigator_title>
   </responsible_party>
   <condition_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->

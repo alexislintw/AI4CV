@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="570">
+<clinical_study rank="641">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04335084</url>
   </required_header>
@@ -13,7 +13,7 @@
   </id_info>
   <brief_title>A Study of Hydroxychloroquine, Vitamin C, Vitamin D, and Zinc for the Prevention of COVID-19 Infection</brief_title>
   <acronym>HELPCOVID-19</acronym>
-  <official_title>An Open Label Phase II Pilot Study of Hydroxychloroquine, Vitamin C, Vitamin D, and Zinc for the Prevention of COVID-19 Infection</official_title>
+  <official_title>An Open Label Phase II Study of Hydroxychloroquine, Vitamin C, Vitamin D, and Zinc for the Prevention of COVID-19 Symptoms</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>ProgenaBiome</agency>
@@ -54,19 +54,14 @@
     <masking>None (Open Label)</masking>
   </study_design_info>
   <primary_outcome>
-    <measure>Prevention of COVID-19 measured by negative testing with RT-PCR</measure>
+    <measure>Prevention of COVID-19 symptoms as recorded in a daily diary</measure>
     <time_frame>24 weeks</time_frame>
-    <description>To determine if treatment with these therapies in combination can prevent COVID-19</description>
+    <description>Any symptoms of COVID-19 will be recorded in a daily diary. Symptoms (including fever measured in degrees Fahrenheit, dry cough, productive cough, difficulty speaking, wheezing, dry mouth, headache, chest tightness, difficulty with exertion, shortness of breath, sore throat, malaise, and diarrhea) will be rated as not present, mild, moderate, or severe.</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Safety as determined by blood pressure readings</measure>
+    <measure>Safety as determined by presence or absence of Adverse Events and Serious Adverse Events</measure>
     <time_frame>24 weeks</time_frame>
-    <description>To determine the safety of these therapies in combination</description>
-  </primary_outcome>
-  <primary_outcome>
-    <measure>Safety as determined by presence of side effects</measure>
-    <time_frame>24 weeks</time_frame>
-    <description>To assess the presence or absence of side effects, and whether they are tolerable.</description>
+    <description>To assess the presence or absence of side effects (graded 1-5), and whether they are tolerable (grade 1-2). AE and SAE will be recorded.</description>
   </primary_outcome>
   <number_of_arms>1</number_of_arms>
   <enrollment type="Anticipated">600</enrollment>
@@ -129,7 +124,7 @@
 
         Exclusion Criteria:
 
-          1. 1. Refusal to provide informed consent
+          1. Refusal to provide informed consent
 
           2. Any previous positive test for COVID-19 by RT-PCR
 
@@ -207,7 +202,7 @@
     <contact>
       <last_name>Sabine Hazan, MD</last_name>
       <phone>805-339-0549</phone>
-      <email>sabinehazan@aim.com</email>
+      <email>drsabinehazan@progenabiome.com</email>
     </contact>
     <contact_backup>
       <last_name>Jordan Daniels, MS</last_name>
@@ -226,9 +221,9 @@
   <study_first_submitted>April 2, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <last_update_submitted>April 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

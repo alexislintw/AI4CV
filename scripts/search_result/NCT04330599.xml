@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="104">
+<clinical_study rank="120">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04330599</url>
   </required_header>
   <id_info>
-    <org_study_id>COVIDENCE</org_study_id>
+    <org_study_id>COVIDENCE UK</org_study_id>
     <nct_id>NCT04330599</nct_id>
   </id_info>
   <brief_title>Longitudinal Population-based Observational Study of COVID-19 in the UK Population</brief_title>
-  <acronym>COVIDENCE</acronym>
+  <acronym>COVIDENCE UK</acronym>
   <official_title>Longitudinal Population-based Observational Study of COVID-19 in the UK Population</official_title>
   <sponsors>
     <lead_sponsor>
@@ -52,19 +52,20 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      COVIDENCE is a population-based observational longitudinal study that has the following
+      COVIDENCE UK is a population-based observational longitudinal study that has the following
       objectives:
 
         1. To determine risk factors for incident COVID-19 and for adverse outcomes of COVID-19 in
-           the UK population;
+           the UK population
 
-        2. To characterise the natural history of COVID-19 in the UK population;
+        2. To characterise the natural history of COVID-19 in the UK population
 
-        3. To evaluate the impact of COVID-19 on the mental and economic well-being of the UK
-           population; and
+        3. To evaluate the impact of COVID-19 on the physical and mental health of the UK
+           population
 
-        4. To establish a platform for the future conduct of randomised controlled trials of
-           interventions to prevent COVID-19 in the UK population.
+        4. To provide a resource from which to identify potential participants for future clinical
+           trials, and to use data collected in COVIDENCE as comparison or control data for trial
+           participants who have been randomised to receive one or more interventions.
     </textblock>
   </brief_summary>
   <overall_status>Not yet recruiting</overall_status>
@@ -122,15 +123,19 @@
     <time_frame>5 years</time_frame>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Impact of COVID-19 on participants' financial status</measure>
+    <measure>Impact of the COVID-19 pandemic and the societal response on participants' financial status</measure>
     <time_frame>5 years</time_frame>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Incidence of physical complications of COVID-19</measure>
+    <measure>Incidence of COVID-19 on participant's physical health</measure>
     <time_frame>5 years</time_frame>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Impact of COVID-19 on participants' mental well-being</measure>
+    <measure>Impact of COVID-19 on participants' mental health</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact of COVID-19 on physical health of offspring born to participants during follow-up</measure>
     <time_frame>5 years</time_frame>
   </secondary_outcome>
   <enrollment type="Anticipated">12000</enrollment>
@@ -171,9 +176,9 @@
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>March 31, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 1, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

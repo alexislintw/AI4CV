@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="56">
+<clinical_study rank="112">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04361643</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>COVID19-EC01</org_study_id>
     <nct_id>NCT04361643</nct_id>
   </id_info>
-  <brief_title>LENALIDOMIDE COVID-19 TRIAL</brief_title>
+  <brief_title>Low-dose Lenalidomide for Non-severe COVID-19 Treatment Trial</brief_title>
   <acronym>GETAFE</acronym>
-  <official_title>DOUBLE-BLIND RANDOMIZED CONTROLLED CLINICAL TRIAL OF LOW-DOSE LENALIDOMIDE IN THE TREATMENT OF COVID-19 DISEASE</official_title>
+  <official_title>Double-blind Randomized Controlled Clinical Trial of Low-dose Lenalidomide in the Treatment of COVID-19 Disease</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Hospital Universitario Getafe</agency>
@@ -162,10 +162,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 23, 2020</study_first_submitted>
   <study_first_submitted_qc>April 23, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

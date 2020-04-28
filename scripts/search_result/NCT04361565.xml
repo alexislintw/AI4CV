@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="303">
+<clinical_study rank="338">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04361565</url>
   </required_header>
@@ -27,7 +27,7 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      A novel coronavirus SARS-CoV-2 HAS arised in 2019 in Wuhan, China. Beside the classical
+      A novel coronavirus SARS-CoV-2 HAS arose in 2019 in Wuhan, China. Beside the classical
       semiology of this infection, numerous patients described olfactory and teste disorders. These
       symptoms are not described in this coronavirus, neurotropism of coronaviridae has been
       documented before. The aim of the study is to evaluate prevalence of anosmia and dysgeusia
@@ -101,10 +101,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 22, 2020</study_first_submitted>
   <study_first_submitted_qc>April 22, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 22, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

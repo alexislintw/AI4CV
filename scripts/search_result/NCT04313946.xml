@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="565">
+<clinical_study rank="637">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04313946</url>
   </required_header>
@@ -21,6 +21,10 @@
     </lead_sponsor>
     <collaborator>
       <agency>Falcon Trading Iasi</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Romanian Academy of Medical Sciences</agency>
       <agency_class>Other</agency_class>
     </collaborator>
   </sponsors>
@@ -213,9 +217,9 @@
   <study_first_submitted>March 17, 2020</study_first_submitted>
   <study_first_submitted_qc>March 17, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 18, 2020</study_first_posted>
-  <last_update_submitted>April 1, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 1, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 2, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>Grigore T. Popa University of Medicine and Pharmacy</investigator_affiliation>

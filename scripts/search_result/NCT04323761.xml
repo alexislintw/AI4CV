@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="495">
+<clinical_study rank="556">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04323761</url>
   </required_header>
@@ -104,11 +104,47 @@
   </overall_contact>
   <location>
     <facility>
+      <name>Banner Health</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Community Medical Centers</name>
       <address>
         <city>Fresno</city>
         <state>California</state>
         <zip>93721</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Jude Medical Center</name>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Scripps Memorial Hospital La Jolla</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -236,6 +272,18 @@
   </location>
   <location>
     <facility>
+      <name>Rose Medical Center</name>
+      <address>
+        <city>Boulder</city>
+        <state>Colorado</state>
+        <zip>80304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Greenwich Hospital</name>
       <address>
         <city>Greenwich</city>
@@ -301,6 +349,18 @@
         <city>Miami Beach</city>
         <state>Florida</state>
         <zip>33140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>AdventHealth Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -416,6 +476,30 @@
   </location>
   <location>
     <facility>
+      <name>Steward St. Elizabeth Medical Center of Boston</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cambridge Health Alliance</name>
+      <address>
+        <city>Cambridge</city>
+        <state>Massachusetts</state>
+        <zip>02141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>University of Massachusetts</name>
       <address>
         <city>Worcester</city>
@@ -500,6 +584,18 @@
   </location>
   <location>
     <facility>
+      <name>Englewood Health</name>
+      <address>
+        <city>Englewood</city>
+        <state>New Jersey</state>
+        <zip>07631</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Hunterdon Medical Center</name>
       <address>
         <city>Flemington</city>
@@ -529,6 +625,18 @@
         <city>Jersey City</city>
         <state>New Jersey</state>
         <zip>07302</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Christ Hospital</name>
+      <address>
+        <city>Jersey City</city>
+        <state>New Jersey</state>
+        <zip>07306</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -668,6 +776,18 @@
   </location>
   <location>
     <facility>
+      <name>Lincoln Medical Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10451</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>St Barnabus Hospital</name>
       <address>
         <city>Bronx</city>
@@ -680,11 +800,59 @@
   </location>
   <location>
     <facility>
+      <name>Kingsbrook Jewish Medical Center</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kings County Hospital</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>New York Presbyterian Brooklyn Methodist Hospital</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Maimonides Medical Center</name>
       <address>
         <city>Brooklyn</city>
         <state>New York</state>
         <zip>11219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>New York City Health and Hospitals - Coney Island</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11235</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -721,6 +889,18 @@
         <city>New York</city>
         <state>New York</state>
         <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>New York City Health and Hospitals/Harlem</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10037</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -800,6 +980,18 @@
   </location>
   <location>
     <facility>
+      <name>MetroHealth Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Saint Francis Hospital</name>
       <address>
         <city>Tulsa</city>
@@ -817,6 +1009,30 @@
         <city>Philadelphia</city>
         <state>Pennsylvania</state>
         <zip>19141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lexington Medical Center</name>
+      <address>
+        <city>West Columbia</city>
+        <state>South Carolina</state>
+        <zip>29169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>TriStar Centennial Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -848,6 +1064,18 @@
   </location>
   <location>
     <facility>
+      <name>HCA Houston Healthcare West</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77082</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Covenant Medical Group - Covenant Medical Center Lubbock</name>
       <address>
         <city>Lubbock</city>
@@ -865,6 +1093,18 @@
         <city>Mansfield</city>
         <state>Texas</state>
         <zip>76063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Healthcare System of San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -923,6 +1163,17 @@
       <address>
         <city>Kortrijk</city>
         <zip>8500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Leuven</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
         <country>Belgium</country>
       </address>
     </facility>
@@ -1095,6 +1346,28 @@
   </location>
   <location>
     <facility>
+      <name>Shaare Zedek Medical Center</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>9103102</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hasharon Hospital</name>
+      <address>
+        <city>Petah Tikva</city>
+        <zip>49372</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Sheba Medical Center at Tel Hashomer</name>
       <address>
         <city>Ramat Gan</city>
@@ -1205,10 +1478,32 @@
   </location>
   <location>
     <facility>
+      <name>Institutul National de Boli Infectioase Prof. Dr. Matei Bals</name>
+      <address>
+        <city>Bucharest</city>
+        <zip>21105</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Hospital Universitari Germans Trias i Pujol</name>
       <address>
         <city>Badalona</city>
         <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario Gregorio Maranon</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
         <country>Spain</country>
       </address>
     </facility>
@@ -1253,6 +1548,17 @@
       <address>
         <city>San Sebastian</city>
         <zip>20014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Virgen De La Salud</name>
+      <address>
+        <city>Santa Cruz de Tenerife</city>
+        <zip>38010</zip>
         <country>Spain</country>
       </address>
     </facility>
@@ -1408,6 +1714,7 @@
     <country>Israel</country>
     <country>Italy</country>
     <country>Netherlands</country>
+    <country>Romania</country>
     <country>Spain</country>
     <country>Switzerland</country>
     <country>United Kingdom</country>
@@ -1417,9 +1724,9 @@
   <study_first_submitted>March 24, 2020</study_first_submitted>
   <study_first_submitted_qc>March 24, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

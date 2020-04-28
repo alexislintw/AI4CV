@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="256">
+<clinical_study rank="203">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04355533</url>
   </required_header>
@@ -12,7 +12,7 @@
     <secondary_id>2020-A00999-30</secondary_id>
     <nct_id>NCT04355533</nct_id>
   </id_info>
-  <brief_title>Immunity Against SARS-CoV2 in Children and Their Parents</brief_title>
+  <brief_title>Immunity Against SARS-CoV2 in Children and Their Parents / COVID-19</brief_title>
   <acronym>PED-COVID</acronym>
   <official_title>Seroprevalence and Antibody Profiling Against SARS-CoV2 in Children and Their Parents</official_title>
   <sponsors>
@@ -208,12 +208,12 @@
   <secondary_outcome>
     <measure>correlation of LIPS, the NGBiotech rapid test with the classical serological result</measure>
     <time_frame>Until 12 months of follow-up</time_frame>
-    <description>in PCR positive children</description>
+    <description>in positive PCR children</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>COVID-19 Symptom</measure>
+    <measure>Presence of COVID-19 Symptom</measure>
     <time_frame>Until 12 months of follow-up</time_frame>
-    <description>in PCR positive children</description>
+    <description>Clinical examination and questioning in positive PCR children</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>seroconversion against SARS-CoV2 in parents of the Parisian area</measure>
@@ -380,9 +380,9 @@
   <study_first_submitted>April 17, 2020</study_first_submitted>
   <study_first_submitted_qc>April 17, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 21, 2020</study_first_posted>
-  <last_update_submitted>April 17, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 17, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

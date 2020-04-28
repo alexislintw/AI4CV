@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="876">
+<clinical_study rank="970">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04331808</url>
   </required_header>
@@ -42,8 +42,8 @@
       treated with other immune modulators.
     </textblock>
   </brief_summary>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">March 31, 2020</start_date>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">March 30, 2020</start_date>
   <completion_date type="Anticipated">December 31, 2021</completion_date>
   <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
   <phase>Phase 2</phase>
@@ -56,26 +56,26 @@
     <masking>None (Open Label)</masking>
   </study_design_info>
   <primary_outcome>
-    <measure>Survival without needs of ventilator utilization at day 14.</measure>
+    <measure>Survival without needs of ventilator utilization at day 14. Group 1</measure>
     <time_frame>14 days</time_frame>
-    <description>Survival without needs of ventilator utilization (including non invasive ventilation and high flow) at day 14. Thus, events considered are needing ventilator utilization (including Non Invasive Ventilation, NIV or high flow), or death. New DNR order (if given after the inclusion of the patient) will be considered as an event at the date of the DNR.</description>
+    <description>Group 1. Survival without needs of ventilator utilization (including non invasive ventilation and high flow) at day 14. Thus, events considered are needing ventilator utilization (including Non Invasive Ventilation, NIV or high flow), or death. New DNR order (if given after the inclusion of the patient) will be considered as an event at the date of the DNR.</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>WHO progression scale &lt;=5 at day 4</measure>
+    <measure>WHO progression scale &lt;=5 at day 4. Group 1.</measure>
     <time_frame>4 days</time_frame>
-    <description>Proportion of patients alive without non-invasive ventilation of high low at day 4 (WHO progression scale ≤ 5). A patient with new DNR order at day 4 will be considered as with a score &gt; 5.
+    <description>Group 1. Proportion of patients alive without non-invasive ventilation of high low at day 4 (WHO progression scale ≤ 5). A patient with new DNR order at day 4 will be considered as with a score &gt; 5.
 WHO progression scale:
 Uninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2&gt;=150 OR SpO2/FIO2&gt;=200: 7 Mechanical ventilation, (pO2/FIO2&lt;150 OR SpO2/FIO2&lt;200) OR vasopressors (norepinephrine &gt;0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2&lt;150 AND vasopressors (norepinephrine &gt;0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Cumulative incidence of successful tracheal extubation (defined as duration extubation &gt; 48h) at day 14</measure>
+    <measure>Cumulative incidence of successful tracheal extubation (defined as duration extubation &gt; 48h) at day 14. Group 2.</measure>
     <time_frame>14 days</time_frame>
-    <description>Cumulative incidence of successful tracheal extubation (defined as duration extubation &gt; 48h) at day 14 if patients have been intubated before day 14 ; or removal of NIV or high flow (for &gt; 48h) if they were included under oxygen by NIV or High flow (score 6) and remained without intubation. Death or new DNR order (if given after the inclusion of the patient) will be considered as a competing event.</description>
+    <description>Group 2. Cumulative incidence of successful tracheal extubation (defined as duration extubation &gt; 48h) at day 14 if patients have been intubated before day 14 ; or removal of NIV or high flow (for &gt; 48h) if they were included under oxygen by NIV or High flow (score 6) and remained without intubation. Death or new DNR order (if given after the inclusion of the patient) will be considered as a competing event.</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>WHO progression scale at day 4</measure>
+    <measure>WHO progression scale at day 4. Group 2.</measure>
     <time_frame>4 days</time_frame>
-    <description>Early end point: proportion of patients with a decrease of WHO score of at least 1 point at day 4.
+    <description>Group 2 Early end point : proportion of patients with a decrease of WHO score of at least 1 point at day 4.
 WHO progression scale:
 Uninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2&gt;=150 OR SpO2/FIO2&gt;=200: 7 Mechanical ventilation, (pO2/FIO2&lt;150 OR SpO2/FIO2&lt;200) OR vasopressors (norepinephrine &gt;0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2&lt;150 AND vasopressors (norepinephrine &gt;0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10</description>
   </primary_outcome>
@@ -130,7 +130,7 @@ Uninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Sympto
     <description>time to hospital discharge</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
-  <enrollment type="Anticipated">240</enrollment>
+  <enrollment type="Actual">228</enrollment>
   <condition>Corona Virus Infection</condition>
   <arm_group>
     <arm_group_label>TOCILIZUMAB</arm_group_label>
@@ -156,31 +156,22 @@ Uninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Sympto
 
           2. Patients belonging to one of the 2 following groups:
 
-               -  Group 1: patients not requiring ICU at admission with moderate and severe
-                  pneumopathy according to the OMS Criteria of severity of COVID pneumopathy.
+               -  Group 1: Cases meeting all of the following criteria
 
-        Moderate cases :
+                    -  Requiring more than 3L/min of oxygen
 
-        Cases meeting all of the following criteria:
+                    -  OMS/WHO progression scale = 5
 
-          -  Showing fever and respiratory symptoms with radiological findings of pneumonia.
+                    -  No NIV or High flow
 
-          -  Requiring between 3L/min and 5L/min of oxygen to maintain SpO2 &gt;97% Severe cases
+               -  Group 2: Cases meeting all of the following criteria
 
-        Cases meeting any of the following criteria:
+                    -  Respiratory failure AND (requiring mechanical ventilation OR NIV OR High
+                       flow)
 
-          -  Respiratory distress (≧30 breaths/ min);
+                    -  WHO progression scale &gt;=6
 
-          -  Oxygen saturation≤93% at rest in ambient air; or Oxygen saturation ≤97 % with O2 &gt;
-             5L/min.
-
-          -  PaO2/FiO2≦300mmHg
-
-          -  Group 2: patients requiring ICU based on Criteria of severity of COVID pneumopathy.
-
-          -  Respiratory failure and requiring mechanical ventilation
-
-          -  No do-not-resuscitate order (DNR order)
+                    -  No do-not-resuscitate order (DNR order)
 
         Exclusion Criteria:
 
@@ -209,25 +200,89 @@ Uninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Sympto
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
-  <overall_contact>
-    <last_name>Olivier HERMINE, MD-PhD</last_name>
-    <phone>603707920</phone>
-    <phone_ext>+33</phone_ext>
-    <email>ohermine@gmail.com</email>
-  </overall_contact>
-  <overall_contact_backup>
-    <last_name>Matthieu RESCHE-RIGON, MD PhD</last_name>
-    <phone>142499742</phone>
-    <phone_ext>+33</phone_ext>
-    <email>matthieu.resche-rigon@u-paris.fr</email>
-  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>APHP- Hopital Tenon</name>
+      <address>
+        <city>Paris</city>
+        <zip>75012</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Beaujon</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Bichat</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hopital Necker</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Pitié Salpêtrière</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Saint Louis</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Strasbourg</name>
+      <address>
+        <city>Strasbourg</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Gustave Roussy</name>
+      <address>
+        <city>Villejuif</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
   <verification_date>March 2020</verification_date>
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>March 31, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 2, 2020</study_first_posted>
-  <last_update_submitted>April 6, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 8, 2020</last_update_posted>
+  <last_update_submitted>April 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

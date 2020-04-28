@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="471">
+<clinical_study rank="528">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04357028</url>
   </required_header>
@@ -92,8 +92,13 @@
     <intervention_type>Drug</intervention_type>
     <intervention_name>Measles-Mumps-Rubella Vaccine</intervention_name>
     <description>Measles mumps Rubella vaccine is a weak attenuated life vaccine</description>
-    <arm_group_label>Control</arm_group_label>
     <arm_group_label>MMR vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebos</intervention_name>
+    <description>0.5 ml subcutaneous of saline will be injected in posterior triceps aspect of upper arm</description>
+    <arm_group_label>Control</arm_group_label>
   </intervention>
   <eligibility>
     <criteria>
@@ -174,9 +179,9 @@
   <study_first_submitted>April 19, 2020</study_first_submitted>
   <study_first_submitted_qc>April 19, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 22, 2020</study_first_posted>
-  <last_update_submitted>April 19, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 19, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Kasr El Aini Hospital</investigator_affiliation>

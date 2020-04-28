@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="501">
+<clinical_study rank="506">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04357366</url>
   </required_header>
@@ -29,35 +29,36 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      In the SAVE study patients with lower respiratory tract infection with SARS-CoV-2 virus at
-      high risk for progression to serious respiratory failure will be detected using the suPAR
-      biomarker. They will begin early treatment with anakinra in the effort to prevent progression
-      in serious respiratory failure. Also due to the potential co-existing immunodysfunction in
-      the context of SARS-Cov-2 infection patients will also receive trimethoprim/sulfamethoxazole
-      as part of chemoprophylaxis.
+      In the SAVE study patients with lower respiratory tract infection with severe acute
+      respiratory syndrome coronavirus 2 (SARS-CoV-2) at high risk for progression to serious
+      respiratory failure will be detected using the suPAR biomarker. They will begin early
+      treatment with anakinra in the effort to prevent progression in serious respiratory failure.
+      Also due to the potential co-existing immunodysfunction in the context of SARS-CoV-2
+      infection patients will also receive trimethoprim/sulfamethoxazole as part of
+      chemoprophylaxis.
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
-      The major hurdle of COVID-19 is the early recognition of the patients at high risk for the
-      development of severe respiratory failure (SRF). If this can be achieved early, then
-      appropriate immunomodulatory treatment may be administered to prevent development of SRF.
-      This scenario is extremely visionary since it prevents the development of the major fatal
-      consequence of COVID-19 but also alleviates the heavy medical and financial burden of
-      Intensive Care Unit (ICU) admission.
+      The major hurdle of Coronavirus disease 2019 (COVID-19) is the early recognition of the
+      patients at high risk for the development of severe respiratory failure (SRF). If this can be
+      achieved early, then appropriate immunomodulatory treatment may be administered to prevent
+      development of SRF. This scenario is extremely visionary since it prevents the development of
+      the major fatal consequence of COVID-19 but also alleviates the heavy medical and financial
+      burden of Intensive Care Unit (ICU) admission.
 
       Current evidence suggests that SARS-CoV-2 activates endothelial function which leads to
-      over-production of D-dimers. uPAR (urokinase plasminogen activator receptor) is anchored to
+      over-production of D-dimers. Urokinase plasminogen activator receptor (uPAR) is anchored to
       the cell membranes of the lung endothelial cells. As result of the activation of kallikrein,
       uPAR is cleaved and enters the systemic circulation as the soluble counterpart suPAR.
       Preliminary unpublished data from 57 Greek patients hospitalized after March 1st, 2020 in
       Greek hospitals due to pneumonia by confirmed SARS-CoV-2 infection showed that those with
       suPAR admission levels ≥ 6 ng/ml had greater risk for the development of SRF within 14 days
       than patients with suPAR less than 6ng/ml. The sensitivity of suPAR to detect these patients
-      was 85.9% and the positive predictive value 85.9%. It needs to be outscored that all 21 Greek
-      patients with suPAR≥ 6ng/ml were under treatment with hydroxychloroquine and azithromycin.
-      These data were confirmed in 15 patients hospitalized for pneumonia by SARS-CoV-2 in Rush
-      Medical Center at Chicago (Rovina et al. submitted).
+      was 85.9% and the positive predictive value 85.9%. It needs to be underlined that all 21
+      Greek patients with suPAR≥ 6ng/ml were under treatment with hydroxychloroquine and
+      azithromycin. These data were confirmed in 15 patients hospitalized for pneumonia by
+      SARS-CoV-2 in Rush Medical Center at Chicago.
 
       This prognostic ability of suPAR for unfavourable outcome is not presented for the first
       time; in the TRIAGE III trial that was conducted among 4,420 admissions in the emergency
@@ -68,9 +69,9 @@
 
       It is obvious that suPAR can early identify the start of such a type of inflammatory process
       in the lung parenchyma that has will soon be intensified. A recent publication has shown that
-      this is due to the early release of IL-1α from lung epithelial cells that are infected by the
-      virus. This IL-1α acts as a promoting factor that stimulates the production of IL-1β and of a
-      further cytokine storm from alveolar macrophages.
+      this is due to the early release of interleukin-1α (IL-1α) from lung epithelial cells that
+      are infected by the virus. This IL-1α acts as a promoting factor that stimulates the
+      production of IL-1β and of a further cytokine storm from alveolar macrophages.
 
       Anakinra is the only marketed product that inhibits both IL-1β and IL-1α and hence it is able
       to block an inflammatory response early on and to prevent the downstream inflammatory
@@ -84,7 +85,7 @@
 
       Chemoprophylaxis in HIV-free patients with some form of immunosuppression is considered
       effective. Given the active inflammatory process in the pulmonary parenchyma,
-      hypercytonaemia, co-existing lymphopenia and the dysregulation of the immune response
+      hypercytokinemia, co-existing lymphopenia and the dysregulation of the immune response
       accompanying COVID-19 disease patients will also receive trimethoprim / sulfamethoxazole as
       part of chemoprophylaxis.
     </textblock>
@@ -133,7 +134,7 @@
     <description>Change of Sequential organ failure assessment (SOFA) score of enrolled subjects between days 1 and 14 (Sequential organ failure assessment range 0-24, high score associated with worst outcome)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Cytokine of cytikine production between days 1 and 7</measure>
+    <measure>Change of cytokine production between days 1 and 7</measure>
     <time_frame>Visit study day 1, visit study day 7</time_frame>
     <description>Change of cytokine stimulation from peripheral blood mononuclear cells of enrolled subjects will be compared between days 1 and 7</description>
   </secondary_outcome>
@@ -147,7 +148,6 @@
   <condition>COVID-19</condition>
   <condition>Virus Diseases</condition>
   <condition>Corona Virus Infection</condition>
-  <condition>LRTI</condition>
   <condition>Lower Respiratory Tract Infection Viral</condition>
   <arm_group>
     <arm_group_label>Anakinra and trimethoprim/sulfamethoxazole</arm_group_label>
@@ -157,14 +157,14 @@
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>Anakinra</intervention_name>
-    <description>Treatment with 100mg Anakinra SC once daily for ten days</description>
+    <description>Treatment with 100mg Anakinra subcutaneously (sc) once daily for ten days</description>
     <arm_group_label>Anakinra and trimethoprim/sulfamethoxazole</arm_group_label>
     <other_name>Kineret</other_name>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
     <intervention_name>trimethoprim/sulfamethoxazole</intervention_name>
-    <description>Treatment with 80/400 mgTrimethoprime/sulfamethoxazole p.o once daily for ten days</description>
+    <description>Treatment with 80/400 mgTrimethoprime/sulfamethoxazole orally once daily for ten days</description>
     <arm_group_label>Anakinra and trimethoprim/sulfamethoxazole</arm_group_label>
     <other_name>Bactrimel</other_name>
   </intervention>
@@ -210,7 +210,7 @@
 
           -  Known hypersensitivity to trimethoprim/sulfamethoxazole
 
-          -  Known G-6PD enzyme deficiency
+          -  Known glucose 6 phosphate dehydrogenase (G-6PD) enzyme deficiency
 
           -  Oral or IV intake of corticosteroids at a daily dose equal or greater than 0.4 mg
              prednisone for a greater period than the last 15 days.
@@ -473,9 +473,9 @@
   <study_first_submitted>April 20, 2020</study_first_submitted>
   <study_first_submitted_qc>April 21, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 22, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

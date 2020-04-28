@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="274">
+<clinical_study rank="303">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04361435</url>
   </required_header>
@@ -300,9 +300,9 @@
     <description>Changes in values</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Modified wood Score</measure>
+    <measure>Modified Wood Clinical Asthma Score (m-WCAS)</measure>
     <time_frame>10 minutes and 30 minutes from the end of the procedure</time_frame>
-    <description>Changes in values</description>
+    <description>Changes in values (0 to 10, worse outcome is 10)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Expiratory tidal lung volume.</measure>
@@ -507,10 +507,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 12, 2020</study_first_submitted>
   <study_first_submitted_qc>April 22, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 22, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>St. Justine's Hospital</investigator_affiliation>

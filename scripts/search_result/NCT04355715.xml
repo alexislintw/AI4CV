@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="281">
+<clinical_study rank="310">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04355715</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>RECHMPL20_0223</org_study_id>
     <nct_id>NCT04355715</nct_id>
   </id_info>
-  <brief_title>Combinaison of Chest Scanography and Nasal Viral Detection Test to Detect COVID-19 Positive Patients Before Surgical Intervention in a University Hospital During Coronavirus Pandemia</brief_title>
+  <brief_title>Combination of Chest Scanography and Nasal Viral Detection Test to Detect COVID-19 Positive Patients Before Surgical Intervention in a University Hospital During Coronavirus Pandemia</brief_title>
   <acronym>COVID-Scan</acronym>
   <official_title>Evaluation of a COVID-19 Screening Strategy Combining Chest Low Dose CT and RT-PCR Test for Patients Admitted for Surgical or Interventional Procedures During the COVID 19 Outbreak</official_title>
   <sponsors>
@@ -28,13 +28,13 @@
   </oversight_info>
   <brief_summary>
     <textblock>
-      Use lay language. This research aims to improve the screening for COVID-19 upon admission to
-      the Montpellier University Hospital for an act under general anesthesia or at high risk of
-      transmission of the virus. Indeed, routine nasal swabs present many false negatives (60 to
-      70%) and many patients with the coronavirus have little or no symptoms. Performing a chest CT
-      scan can reveal early signs very suggestive of viral pneumoniae due to the new coronavirus
-      without additional risk compared to a simple chest X-ray (no injection of contrast medium,
-      low exposure).
+      This research aims to improve the screening for COVID-19 upon admission to the Montpellier
+      University Hospital for an act under general anesthesia or at high risk of transmission of
+      the virus. Indeed, routine nasal swabs present many false negatives (60 to 70%) and many
+      patients with the coronavirus have little or no symptoms. Performing a chest CT scan can
+      reveal early signs very suggestive of viral pneumoniae due to the new coronavirus without
+      additional risk compared to a simple chest X-ray (no injection of contrast medium, low
+      exposure).
 
       The objective is to assess the sensitivity of the diagnosis of COVID-19 by carrying out a
       nasopharyngeal RT-PCR and a low dose thoracic scanography at the hospital admission of
@@ -43,10 +43,10 @@
       the risks of transmission to healthcare professionals or other patients and to rationalize
       the use of protective equipment.
 
-      This is an observationnal research without modification of care in the setting of COVID-19
+      This is an observational research without modification of care in the setting of COVID-19
       pandemia. All clinical and biological data will be issued from routine care and medical
       charts. Routine use of CT scan and nasal swabs is an institutional approved strategy.
-      Serologic tests will be performed as soon as availlable from serum collection collected after
+      Serologic tests will be performed as soon as available from serum collection collected after
       routine blood analysis. All data will be anonymously recorded after information and
       non-opposition of the patient.
     </textblock>
@@ -114,7 +114,7 @@
 
           -  Age under 18 years
 
-          -  Patietn with restriction of freedom
+          -  Patient with restriction of freedom
 
           -  Vital surgical emergency
 
@@ -150,9 +150,9 @@
   <study_first_submitted>April 17, 2020</study_first_submitted>
   <study_first_submitted_qc>April 17, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 21, 2020</study_first_posted>
-  <last_update_submitted>April 17, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 17, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

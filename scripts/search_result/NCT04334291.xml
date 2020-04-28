@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="333">
+<clinical_study rank="374">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04334291</url>
   </required_header>
@@ -207,7 +207,7 @@
     <time_frame>through study completion, an average of 1 month</time_frame>
     <description>According the attending physician.</description>
   </secondary_outcome>
-  <enrollment type="Anticipated">2500</enrollment>
+  <enrollment type="Anticipated">6000</enrollment>
   <condition>COVID 19</condition>
   <intervention>
     <intervention_type>Combination Product</intervention_type>
@@ -273,9 +273,9 @@
   <study_first_submitted>April 1, 2020</study_first_submitted>
   <study_first_submitted_qc>April 3, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 3, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>St Carlos Hospital, Madrid, Spain</investigator_affiliation>

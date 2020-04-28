@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="191">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04363736</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CA42481</org_study_id>
+    <nct_id>NCT04363736</nct_id>
+  </id_info>
+  <brief_title>A Study to Investigate Intravenous Tocilizumab in Participants With Moderate to Severe COVID-19 Pneumonia</brief_title>
+  <acronym>MARIPOSA</acronym>
+  <official_title>A Phase-II, Open-Label, Randomized, Multicenter Study to Investigate the Pharmacodynamics, Pharmacokinetics, Safety, and Efficacy of 8 mg/kg or 4mg/kg Intravenous Tocilizumab in Patients With Moderate to Severe COVID-19 Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will assess the pharmacodynamics, pharmacokinetics, safety and efficacy of two
+      different doses of tocilizumab (TCZ) in combination with standard-of-care (SOC) in
+      hospitalized adult participants with moderate to severe COVID-19 pneumonia.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 4, 2020</start_date>
+  <completion_date type="Anticipated">August 3, 2020</completion_date>
+  <primary_completion_date type="Anticipated">June 11, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Concentration of C-Reactive Protein (CRP)</measure>
+    <time_frame>Day 7</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Serum Concentration of Interleukin-6 (IL-6)</measure>
+    <time_frame>Days 1, 3, 7, 14, and 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Concentration of Soluble Interleukin Receptor (sIL-6R)</measure>
+    <time_frame>Days 1, 3, 7, 14, and 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Concentration of Ferritin</measure>
+    <time_frame>Days 1, 3, 7, 14, and 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Concentration of TCZ Following Administration of 8 mg/kg IV TCZ</measure>
+    <time_frame>At pre-defined intervals from first TCZ administration to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Concentration of TCZ Following Administration of 4 mg/kg IV TCZ</measure>
+    <time_frame>At pre-defined intervals from first TCZ administration to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Status, as Assessed Using a 7-Category Ordinal Scale</measure>
+    <time_frame>Days 14 and 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Clinical Improvement, Defined as a National Early Warning Score 2 (NEWS2) of &lt;/=2 Maintained for 24 Hours</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Improvement in at Least Two Categories Relative to Baseline on a 7-Category Ordinal Scale of Clinical Status</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Supplemental Oxygen Use</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Intensive Care Unit (ICU) Stays</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Mechanical Ventilation</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of ICU Stay</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Clinical Failure, Defined as the Time to Death, Mechanical Ventilation, ICU Admission, or Withdrawal (whichever occurs first)</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality Rate</measure>
+    <time_frame>Days 7, 14, 21, 28, and 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Hospital Discharge or &quot;Ready for Discharge&quot;</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Addition of a Second Dose of TCZ</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pecentage of Participants with Adverse Events</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 (COVID-19) Viral Load Over Time</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Real-Time Polymerase Chain Reaction (PCR) Virus Negativity</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants with any Post-Treatment Infection</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>COVID-19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>TCZ 8 mg/kg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive intravenous (IV) tocilizumab (TCZ) at a dose of 8 mg/kg in addition to standard-of-care treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TCZ 4 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive IV tocilizumab (TCZ) at a dose of 4 mg/kg in addition to standard-of-care treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tociliuzumab</intervention_name>
+    <description>Participants will receive IV TCZ.</description>
+    <arm_group_label>TCZ 4 mg/kg</arm_group_label>
+    <arm_group_label>TCZ 8 mg/kg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+          -  Hospitalization with COVID-19 pneumonia confirmed by a positive polymerase chain
+             reaction (PCR) of any specimen [e.g., respiratory, blood, urine, stool, and other
+             bodily fluids]) and evidence of pneumonia on chest X-ray or computed tomography scan
+
+          -  For severe patients, SpO2 &lt;/= 93% or PaO2/FiO2 &lt; 300 mmHg. If a participant is on
+             supplemental oxygen with SpO2 &gt; 93%, but desaturation &lt;/= to 93% on lower supplemental
+             oxygen or ambient air is documented during screening, the inclusion criterion is met
+
+          -  For moderate patients (those who do not qualify as severe based oxygen requirements),
+             CRP &gt; 2 x upper limit of normal (ULN) is required
+
+          -  For women of childbearing potential: agreement to remain abstinent (refrain from
+             heterosexual intercourse) or use contraception, as defined by the protocol
+
+          -  For men: agreement to remain abstinent (refrain from heterosexual intercourse) or use
+             a condom, and agreement to refrain from donating sperm, as defined by the protocol
+
+        Exclusion Criteria
+
+          -  Known severe allergic reactions to TCZ or other monoclonal antibodies
+
+          -  Active tuberculosis (TB) infection
+
+          -  Suspected active bacterial, fungal, viral, or other infection (besides SARS-CoV-2)
+
+          -  Participants who are on a mechanical ventilator &gt; 24 hours or extracorporeal membrane
+             oxygenation (ECMO), in shock, or combination thereof with other organ failure
+             requiring treatment in an ICU
+
+          -  In the opinion of the investigator, progression to death is imminent and inevitable
+             within the next 24 hours, irrespective of the provision of treatments
+
+          -  Receipt of oral anti-rejection or immunomodulatory drugs (including TCZ) within the
+             past 3 months
+
+          -  Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) &gt; 10 x ULN detected
+             within 24 hours at screening or at baseline (according to local laboratory reference
+             ranges)
+
+          -  Absolute neutrophil count (ANC) &lt; 1000/uL at screening and baseline (according to
+             local laboratory reference ranges)
+
+          -  Platelet count &lt; 50,000/uL at screening and baseline (according to local laboratory
+             reference ranges)
+
+          -  Pregnancy or breastfeeding, or positive pregnancy test at a predose examination
+
+          -  Treatment with an investigational drug within 5 drug-elimination half-lives or 30 days
+             (whichever is longer) of randomization
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Reference Study ID Number: CA42481 www.roche.com/about_roche/roche_worldwide.htm</last_name>
+    <phone>888-662-6728</phone>
+    <email>global-roche-genentech-trials@gene.com</email>
+  </overall_contact>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 27, 2020</study_first_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to individual patient level data through the clinical study data request platform: https://vivli.org Further details on Roche's criteria for eligible studies are available here: https://vivli.org For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here: (https://www.roche.com/research_and_development/who_we_are_how_we_work/clinical_trials/our_commitment_to_data_sharing.htm</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="465">
+<clinical_study rank="512">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04360759</url>
   </required_header>
@@ -30,11 +30,11 @@
     <textblock>
       Clinical manifestations of Covid-19 are poorly characterised in HIV co-infection, which may
       predispose to more severe disease. Reducing hospitalisation and severe illness in this
-      population has important individual and public health benefits. We propose a pragmatic
-      multi-centre, randomized controlled trial in South Africa to evaluate the efficacy and safety
-      of chloroquine or hydroxychloroquine to prevent progression of disease and hospitalisation
-      amongst HIV-positive people with Covid-19 not requiring hospitalisation at initial
-      assessment.
+      population has important individual and public health benefits. The investigators propose a
+      pragmatic multi-centre, randomized controlled trial in South Africa to evaluate the efficacy
+      and safety of chloroquine or hydroxychloroquine to prevent progression of disease and
+      hospitalisation amongst HIV-positive people with Covid-19 not requiring hospitalisation at
+      initial assessment.
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -260,10 +260,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 22, 2020</study_first_submitted>
   <study_first_submitted_qc>April 22, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 22, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University of Cape Town</investigator_affiliation>
@@ -279,9 +279,7 @@
     <sharing_ipd>Yes</sharing_ipd>
     <ipd_description>Data collected from this study may be made available to other international researchers and institutions who are working to control this Public Health Emergency, but in a fully anonymized way. No personal identifiers will be available anywhere in the data. Dates will either not be included or will be shifted by a random interval so as to not make it possible to trace any identity.</ipd_description>
     <ipd_info_type>Study Protocol</ipd_info_type>
-    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
-    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
-    <ipd_time_frame>An interim efficacy analysis will be performed after 30% (168) participants have completed the day-28 follow up visit. This will have sufficient power to detect a difference in survival probability of 10% between the arms. The trial will continue enrolling until interim analysis results have been reviewed by the DSMB.</ipd_time_frame>
+    <ipd_time_frame>Recruitment period is planned for a maximum of 12 months, rate dependent on patient numbers. Additional sites will be opened after initial approvals.</ipd_time_frame>
   </patient_data>
   <!-- Results have not yet been posted for this study                                          -->
 </clinical_study>

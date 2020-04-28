@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="338">
+<clinical_study rank="378">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04360824</url>
   </required_header>
@@ -122,17 +122,37 @@
     <description>duration of intensive care measures</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Transfusion of blood products</measure>
+    <measure>Packed Red Blood Cell Transfusions</measure>
     <time_frame>30 Days post intervention</time_frame>
-    <description>number of units and type of blood products needed</description>
+    <description>The number of units of packed red blood cells transfused</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Platelet Transfusions</measure>
+    <time_frame>30 Days post intervention</time_frame>
+    <description>The number of units of platelets transfused</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fresh Frozen Plasma Transfusions</measure>
+    <time_frame>30 Days post intervention</time_frame>
+    <description>The number of units of Fresh Frozen Plasma Transfused</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cryoprecipitate Transfusions</measure>
+    <time_frame>30 Days post intervention</time_frame>
+    <description>The number of units of Cryoprecipitate Transfused</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prothrombin Complex Concentrate Transfusions</measure>
+    <time_frame>30 Days post intervention</time_frame>
+    <description>The number of units of Prothrombin Complex ConcentrateTransfused</description>
   </secondary_outcome>
   <other_outcome>
-    <measure>Thrombin generation assay</measure>
+    <measure>The endogenous thrombin potential will be determined within 24 hours of randomization and weekly for 30 days or until hospital discharge</measure>
     <time_frame>30 days post intervention</time_frame>
-    <description>Will be performed in stored plasma using Calibrated Automated Thrombogram. In particular we will measure lag time and peak for thrombin generation and endogenous thrombin potential.</description>
+    <description>Will be performed in stored plasma using Calibrated Automated Thrombogram. The endogenous thrombin potential will be calculated in units of nM.Min.</description>
   </other_outcome>
   <other_outcome>
-    <measure>Measurement of Components of NETs (cfDNA, Histones, DNA-myeloperoxidase)</measure>
+    <measure>Plasma levels of cell-free DNA will be determined within 24 hours of randomization and weekly for 30 days or until hospital discharge</measure>
     <time_frame>30 days post intervention</time_frame>
     <description>These assays will be performed in stored plasma. Quantification of cfDNA will be performed using Qubit dsDNA HS Assay kit. Histones H4, citrullinated-histone and DNA-myeloperoxidase will be measured using commercially available ELISA kit.</description>
   </other_outcome>
@@ -226,10 +246,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 13, 2020</study_first_submitted>
   <study_first_submitted_qc>April 22, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 22, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University of Iowa</investigator_affiliation>

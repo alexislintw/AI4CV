@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="4">
+<clinical_study rank="5">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04354831</url>
   </required_header>
@@ -55,7 +55,7 @@
   <study_design_info>
     <allocation>Non-Randomized</allocation>
     <intervention_model>Parallel Assignment</intervention_model>
-    <intervention_model_description>106 patients in 2 cohorts (ICU cohort and a hospitalized non-ICU cohort)</intervention_model_description>
+    <intervention_model_description>131 patients in 2 cohorts (ICU cohort and a hospitalized non-ICU cohort)</intervention_model_description>
     <primary_purpose>Treatment</primary_purpose>
     <masking>None (Open Label)</masking>
   </study_design_info>
@@ -70,7 +70,7 @@
     <description>length of admission for COVID</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
-  <enrollment type="Anticipated">106</enrollment>
+  <enrollment type="Anticipated">131</enrollment>
   <condition>COVID-19</condition>
   <arm_group>
     <arm_group_label>ICU Cohort</arm_group_label>
@@ -80,7 +80,7 @@
   <arm_group>
     <arm_group_label>Non-ICU Cohort</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Patients who are in the ICU at the time of enrollment. Patients will receive anti-SARS-CoV-2 convalescent plasma.</description>
+    <description>Patients who are NOT in the ICU at the time of enrollment. Patients will receive anti-SARS-CoV-2 convalescent plasma.</description>
   </arm_group>
   <intervention>
     <intervention_type>Biological</intervention_type>
@@ -164,9 +164,9 @@ Study drug will be administered as a single intravenous infusion</description>
   <study_first_submitted>April 14, 2020</study_first_submitted>
   <study_first_submitted_qc>April 16, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 21, 2020</study_first_posted>
-  <last_update_submitted>April 16, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 16, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Medical College of Wisconsin</investigator_affiliation>

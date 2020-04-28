@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="40">
+<clinical_study rank="42">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04355338</url>
   </required_header>
@@ -11,8 +11,9 @@
     <org_study_id>COV-01-IB</org_study_id>
     <nct_id>NCT04355338</nct_id>
   </id_info>
-  <brief_title>Assessment of Seroprevalence and Incidence of SARS-CoV-2 Infection and COVID-19 in Brazil</brief_title>
-  <official_title>Assessment of Seroprevalence and Incidence of SARS-CoV-2 Infection and COVID-19 in Brazil</official_title>
+  <brief_title>Assessment of Incidence of SARS-CoV-2 Infection and COVID-19 in Brazil (AVISA)</brief_title>
+  <acronym>AVISA</acronym>
+  <official_title>Assessment of Incidence of SARS-CoV-2 Infection and COVID-19 in Brazil</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Butantan Institute</agency>
@@ -28,30 +29,31 @@
   <brief_summary>
     <textblock>
       This is an observational study, meaning that no interventions is tested, to determine
-      seroprevalence and incidence of SARS-CoV-2 infection and COVID-19 in different clinical sites
-      in Brazil in several age groups. The study aims to assess baseline number of infected
-      participants and perform a follow-up along two years to determine the new cases occurring
-      among participants during the period. All participants will collect blood samples to get more
-      details on the immune response.
+      incidence of SARS-CoV-2 infection and COVID-19 in different clinical sites in Brazil in
+      several age groups. The study aims to assess baseline number of infected participants and
+      perform a follow-up along two years to determine the new cases occurring among participants
+      during the period. All participants will collect blood samples to get more details on the
+      immune response.
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
-      This is an observational longitudinal study to assess seroprevalence and incidence of
-      SARS-CoV-2 infection in Brazil. The study sample is stratified in nine age groups according
-      decades of life with an expected incidence of 10%, at least, during the study period of 24
-      months. For the first age groups, (0-9, 10-19 and 20-29 years), sample was calculated with
-      the minimum expected incidence of COVID-19 among infected, regardless severity, is 10%. For
-      the latest age groups (30-39, 40-49, 50-59, 60-69, 70-79 and 80+), the sample was calculated
-      with the expected minimum incidence of hospitalization due to COVID-19 according to estimates
-      per age group reported by Verity R et al. https://doi.org/10.1016/S1473-3099(20)30243-7 After
-      the consent procedure, all participants will have a short interview, a IgG/IgM SARS-CoV-2
-      rapid test and a blood withdrawal to obtain serum. These procedures will be repeated every
-      four weeks until the end of the study. Individuals with symptoms compatible will be
-      followed-up to confirm COVID-19 diagnosis as well as to assess severity, need for
-      hospitalization and assisted ventilation, sequels, and eventual reinfection. Levels of
-      neutralizing antibodies and other immune markers will be prospectively assessed in all
-      infected participants, either asymptomatic and symptomatic.
+      This is an observational longitudinal study to assess incidence of SARS-CoV-2 infection in
+      Brazil. The study sample is stratified in nine age groups according decades of life, equally
+      distributed in both sexes, with an expected incidence of 10%, at least, during the study
+      period of 24 months. For the first age groups, (0-9, 10-19 and 20-29 years), sample was
+      calculated with the minimum expected incidence of COVID-19 among infected, regardless
+      severity, is 10%. For the latest age groups (30-39, 40-49, 50-59, 60-69, 70-79 and 80+), the
+      sample was calculated with the expected minimum incidence of hospitalization due to COVID-19
+      according to estimates per age group reported by Verity R et al.
+      https://doi.org/10.1016/S1473-3099(20)30243-7 After the consent procedure, all participants
+      will have a short interview, a IgG/IgM SARS-CoV-2 rapid test and a blood withdrawal to obtain
+      serum for neutralizing antibodies. These procedures will be repeated every four weeks until
+      the end of the study. Individuals with symptoms compatible will be followed-up to confirm
+      COVID-19 diagnosis as well as to assess severity, need for hospitalization and assisted
+      ventilation, sequels, and eventual reinfection. Levels of neutralizing antibodies and other
+      immune markers will be prospectively assessed in all infected participants, either
+      asymptomatic and symptomatic.
     </textblock>
   </detailed_description>
   <overall_status>Not yet recruiting</overall_status>
@@ -62,23 +64,18 @@
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
     <observational_model>Cohort</observational_model>
-    <time_perspective>Retrospective</time_perspective>
+    <time_perspective>Prospective</time_perspective>
   </study_design_info>
-  <primary_outcome>
-    <measure>Previous SARS-CoV-2 infection</measure>
-    <time_frame>6 months</time_frame>
-    <description>Positive serology for SARS-Co-2 infection at baseline</description>
-  </primary_outcome>
   <primary_outcome>
     <measure>Incidence of SARS-CoV-2 infection</measure>
     <time_frame>24 months</time_frame>
-    <description>Incidence of serological/virological diagnosis for SARS-Co-2 infection during follow-up</description>
+    <description>Number of cases with serological/virological diagnosis for SARS-Co-2 infection</description>
   </primary_outcome>
-  <secondary_outcome>
+  <primary_outcome>
     <measure>Incidence of COVID-19</measure>
     <time_frame>24 months</time_frame>
     <description>Number of cases of symptomatic SARS-CoV-2 infection</description>
-  </secondary_outcome>
+  </primary_outcome>
   <secondary_outcome>
     <measure>Incidence of hospitalization due to COVID-19</measure>
     <time_frame>24 years</time_frame>
@@ -89,28 +86,33 @@
     <time_frame>24 months</time_frame>
     <description>Level of neutralizing antibodies in participants with SARS-Co-2 infection</description>
   </secondary_outcome>
+  <secondary_outcome>
+    <measure>Previous SARS-CoV-2 infection</measure>
+    <time_frame>6 months</time_frame>
+    <description>Positive serology for SARS-Co-2 infection at baseline</description>
+  </secondary_outcome>
   <other_outcome>
     <measure>Incidence of SARS-CoV-2 reinfection</measure>
     <time_frame>24 months</time_frame>
-    <description>Incidence of a new SARS-CoV-2 infection in an individual with a proven previous infection</description>
+    <description>Number of a new SARS-CoV-2 infection in an individual with a proven previous infection</description>
   </other_outcome>
   <other_outcome>
     <measure>Incidence of COVID-19 cases requiring mechanical ventilation</measure>
     <time_frame>24 months</time_frame>
-    <description>Incidence of COVID-19 cases requiring mechanical ventilation</description>
+    <description>Number of COVID-19 cases requiring mechanical ventilation</description>
   </other_outcome>
   <other_outcome>
     <measure>Incidence of deaths due to COVID-19</measure>
     <time_frame>24 months</time_frame>
-    <description>Incidence of deaths due to COVID-19</description>
+    <description>Number of deaths due to COVID-19</description>
   </other_outcome>
   <other_outcome>
     <measure>Incidence of sequels after COVID-19</measure>
     <time_frame>24 months</time_frame>
-    <description>Incidence of sequels attributed to COVID-19</description>
+    <description>Number and description of sequels attributed to COVID-19</description>
   </other_outcome>
   <number_of_groups>9</number_of_groups>
-  <enrollment type="Anticipated">4030</enrollment>
+  <enrollment type="Anticipated">4100</enrollment>
   <condition>COVID-19</condition>
   <arm_group>
     <arm_group_label>0-9 years</arm_group_label>
@@ -180,8 +182,6 @@
 
           -  Febrile illness in the latest 72 hours
 
-          -  Influenza-like illness in the last three months
-
           -  Olfactory or gustatory dysfunction in the last three months
 
           -  Healthcare worker in a service with routine attention to COVID-19 patients
@@ -209,9 +209,9 @@
   <study_first_submitted>April 17, 2020</study_first_submitted>
   <study_first_submitted_qc>April 17, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 21, 2020</study_first_posted>
-  <last_update_submitted>April 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <last_update_submitted>April 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

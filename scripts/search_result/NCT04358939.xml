@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="251">
+<clinical_study rank="279">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04358939</url>
   </required_header>
   <id_info>
     <org_study_id>HIGH-PRONE-COVID-19</org_study_id>
     <secondary_id>2020-A01121-38</secondary_id>
-    <secondary_id>DGOS / PHRCI / 2020</secondary_id>
     <secondary_id>DR200125</secondary_id>
     <nct_id>NCT04358939</nct_id>
   </id_info>
@@ -316,10 +315,10 @@
       </address>
     </facility>
     <contact>
-      <last_name>Jean REIGNER, MD-PhD</last_name>
+      <last_name>Jean REIGNIER, MD-PhD</last_name>
     </contact>
     <investigator>
-      <last_name>Jean REIGNER, MD-PhD</last_name>
+      <last_name>Jean REIGNIER, MD-PhD</last_name>
       <role>Principal Investigator</role>
     </investigator>
   </location>
@@ -367,10 +366,10 @@
       </address>
     </facility>
     <contact>
-      <last_name>Guillaume VOIROT, MD</last_name>
+      <last_name>Guillaume VOIRIOT, MD</last_name>
     </contact>
     <investigator>
-      <last_name>Guillaume VOIROT, MD</last_name>
+      <last_name>Guillaume VOIRIOT, MD</last_name>
       <role>Principal Investigator</role>
     </investigator>
   </location>
@@ -452,10 +451,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 16, 2020</study_first_submitted>
   <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

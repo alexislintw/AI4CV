@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="765">
+<clinical_study rank="851">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04344912</url>
   </required_header>
   <id_info>
-    <org_study_id>INDS 0522070420</org_study_id>
+    <org_study_id>APHP200524</org_study_id>
+    <secondary_id>0522070420</secondary_id>
     <nct_id>NCT04344912</nct_id>
   </id_info>
   <brief_title>Impact of COVID19 Outbreak in Cardiac Acute Care</brief_title>
@@ -146,9 +147,9 @@
   <study_first_submitted>April 10, 2020</study_first_submitted>
   <study_first_submitted_qc>April 10, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 14, 2020</study_first_posted>
-  <last_update_submitted>April 10, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 10, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 14, 2020</last_update_posted>
+  <last_update_submitted>April 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

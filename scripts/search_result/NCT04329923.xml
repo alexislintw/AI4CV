@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="98">
+<clinical_study rank="110">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04329923</url>
   </required_header>
@@ -165,7 +165,7 @@
     <description>Antimalarial compound</description>
     <arm_group_label>Cohort 2 HCQ low dose</arm_group_label>
     <arm_group_label>Cohort 3 HCQ</arm_group_label>
-    <other_name>Plaqeunil</other_name>
+    <other_name>Plaquenil</other_name>
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
@@ -339,9 +339,9 @@
   <study_first_submitted>March 30, 2020</study_first_submitted>
   <study_first_submitted_qc>March 30, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 1, 2020</study_first_posted>
-  <last_update_submitted>April 9, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>University of Pennsylvania</investigator_affiliation>

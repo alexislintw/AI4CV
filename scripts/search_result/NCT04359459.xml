@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="275">
+<clinical_study rank="307">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04359459</url>
   </required_header>
@@ -30,9 +30,9 @@
     <textblock>
       Rationale:
 
-      We hypothesize that genetics and the nasal epithelial response to SARS-CoV2 are critical
-      determinants of the immune response to viral infection, and predict clinical outcome in
-      COVID-19 patients.
+      The investigators hypothesize that genetics and the nasal epithelial response to SARS-CoV2
+      are critical determinants of the immune response to viral infection, and predict clinical
+      outcome in COVID-19 patients.
 
       Objective:
 
@@ -55,8 +55,8 @@
 
       Study population:
 
-      A total of 150 patients diagnosed with COVID-19 will be included. We aim for 50 patients per
-      group, divided over 3 groups:
+      A total of 150 patients diagnosed with COVID-19 will be included. The investigators aim for
+      50 patients per group, divided over 3 groups:
 
       Group 1 Patients with mild disease who tested positively for SARS-CoV2 infection, but only
       experience mild symptoms and do not need hospitalization.
@@ -86,9 +86,9 @@
       symptoms. The biological mechanisms underlying this striking difference in clinical outcome
       and the long term consequences are unknown, yet a genetic factor seems likely. SARS-CoV2
       enters cells via the ACE2 receptor and the activating protease TMPRSS2 which have recently
-      been shown to be strongly enriched in nasal epithelium. We hypothesize that genetics and the
-      nasal epithelial response to SARS-CoV2 are critical determinants of the immune response to
-      viral infection, and predict clinical outcome in COVID-19 patients.
+      been shown to be strongly enriched in nasal epithelium. The investigators hypothesize that
+      genetics and the nasal epithelial response to SARS-CoV2 are critical determinants of the
+      immune response to viral infection, and predict clinical outcome in COVID-19 patients.
 
       Objective:
 
@@ -112,8 +112,8 @@
 
       Study population:
 
-      A total of 150 patients diagnosed with COVID-19 will be included. We aim for 50 patients per
-      group, divided over 3 groups:
+      A total of 150 patients diagnosed with COVID-19 will be included. The investigators aim for
+      50 patients per group, divided over 3 groups:
 
       Group 1 Patients with mild disease who tested positively for SARS-CoV2 infection, but only
       experience mild symptoms and do not need hospitalization.
@@ -234,10 +234,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 20, 2020</study_first_submitted>
   <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>University Medical Center Groningen</investigator_affiliation>

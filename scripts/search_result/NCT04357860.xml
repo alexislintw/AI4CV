@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="451">
+<clinical_study rank="505">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04357860</url>
   </required_header>
@@ -90,14 +90,14 @@ Time to absence of oxygen requirement to maintain saturation in ambient air ≥ 
 Number of days in need of supplemental oxygen</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Patients requiring invasive mechanical ventilation</measure>
+    <measure>Proportion of patients requiring invasive mechanical ventilation</measure>
     <time_frame>At day 28 or when the subject is discharged (whichever occurs first)</time_frame>
-    <description>Proportion of patients requiring invasive mechanical ventilation</description>
+    <description>Proportion of patients requiring invasive mechanical ventilation in the trial</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Patients having negative COVID-19 CRP at each visit</measure>
+    <measure>Proportion of patients having negative COVID-19 CRP at each visit</measure>
     <time_frame>At day 28 or when the subject is discharged (whichever occurs first)</time_frame>
-    <description>Proportion of patients having negative COVID-19 CRP at each visit</description>
+    <description>Proportion of patients having negative COVID-19 CRP at each visit of the trial</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Mean of serum cytokine levels</measure>
@@ -110,14 +110,14 @@ Number of days in need of supplemental oxygen</description>
     <description>Incidence of adverse events related to medication and its administration</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Appearance of serious bacterial, fungal or opportunistic infections</measure>
+    <measure>Incidence in the appearance of serious bacterial, fungal or opportunistic infections</measure>
     <time_frame>At day 28 or when the subject is discharged (whichever occurs first)</time_frame>
-    <description>Incidence in the appearance of serious bacterial, fungal or opportunistic infections</description>
+    <description>Incidence in the appearance of serious bacterial, fungal or opportunistic infections in the subjects</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Perforation of the gastrointestinal tract</measure>
+    <measure>Incidence of perforation of the gastrointestinal tract</measure>
     <time_frame>At day 28 or when the subject is discharged (whichever occurs first)</time_frame>
-    <description>Incidence of perforation of the gastrointestinal tract</description>
+    <description>Incidence of perforation of the gastrointestinal tract in subjects</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Leukocyte and neutrophil count</measure>
@@ -191,58 +191,71 @@ Number of days in need of supplemental oxygen</description>
       <textblock>
         Inclusion Criteria:
 
-          1. Age ≥ 18 years and &lt;75 years
+          -  Age ≥ 18 years and &lt;75 years
 
-          2. Admission for confirmed respiratory symptoms to COVID-19 based on a positive PCR in a
+          -  Admission for confirmed respiratory symptoms to COVID-19 based on a positive PCR in a
              sample of the respiratory tract in the local laboratory in the absence of respiratory
              distress syndrome requiring ONAF or mechanical ventilation
 
-          3. Interstitial pneumonia confirmed by chest radiography or CT
+          -  Interstitial pneumonia confirmed by chest radiography or CT
 
-          4. IL-6 levels&gt; 40 pg / ml. In its absence, D-Dimer (DD)&gt; 1500 or&gt; 1000 may be included
+          -  IL-6 levels&gt; 40 pg / ml. In its absence, D-Dimer (DD)&gt; 1500 or&gt; 1000 may be included
              if progressive increases are documented
 
-          5. Negative pregnancy test in women of childbearing age
+          -  Negative pregnancy test in women of childbearing age
 
-          6. Signature of informed consent
+          -  Signature of informed consent
 
         Exclusion Criteria:
 
-          1. SOFA score&gt; 6 points
+          -  SOFA score&gt; 6 points
 
-          2. Patient who, in the researcher's opinion, is not a subsidiary of invasive mechanical
+          -  Patient who, in the researcher's opinion, is not a subsidiary of invasive mechanical
              ventilation
 
-          3. Neutrophil count &lt;2 x 103 / μL
+          -  Neutrophil count &lt;2 x 103 / μL
 
-          4. Platelet count &lt;100 x 103 / μL
+          -  Platelet count &lt;100 x 103 / μL
 
-          5. ALT or AST levels&gt; 5 times the upper limit of normal
+          -  ALT or AST levels&gt; 5 times the upper limit of normal
 
-          6. Severe renal failure (CrCr &lt;30 ml / min)
+          -  Severe renal failure (CrCr &lt;30 ml / min)
 
-          7. Active bacterial infectious process
+          -  Active bacterial infectious process
 
-          8. Active tuberculosis, history of not completing treatment against tuberculosis,
+          -  Active tuberculosis, history of not completing treatment against tuberculosis,
              suspicion of extrapulmonary tuberculosis
 
-          9. History of intestinal ulcer or diverticulitis
+          -  History of intestinal ulcer or diverticulitis
 
-         10. History of hypersensitivity reactions to Sarilumab or its excipients
+          -  History of hypersensitivity reactions to Sarilumab or its excipients
 
-         11. Treatment with TNF antagonists
+          -  Treatment with TNF antagonists
 
-        13. Previous treatment with anti-IL6 in the previous 30 days 14. Chronic prior treatment
-        with corticosteroids at doses greater than 0.5 mg / kg / day of prednisone or equivalent.
-        Yes, inhaled and topical corticosteroids are acceptable 15. Concomitant treatment with
-        immunomodulators, among which are Vitamin D or statins. Macrolides such as azithromycin are
-        acceptable 16. Patients on immunosuppressive treatment for any cause 17. HIV-infected
-        patients with CD4 &lt;200 / mm3 18. Past or current history of autoimmune disease or systemic
-        inflammatory disease 19. Patients who have received or are planning therapy with
-        immunomodulatory antibodies, including immunoglobulins 20. Participation in any clinical
-        trial that evaluated any investigational product in the last 3 months or less than 5
-        half-lives of the investigational product 21. Pregnancy 22. Any other condition that, in
-        clinical judgment, prevents adherence to the patient's protocol
+          -  Previous treatment with anti-IL6 in the previous 30 days
+
+          -  Chronic prior treatment with corticosteroids at doses greater than 0.5 mg / kg / day
+             of prednisone or equivalent. Yes, inhaled and topical corticosteroids are acceptable
+
+          -  Concomitant treatment with immunomodulators, among which are Vitamin D or statins.
+             Macrolides such as azithromycin are acceptable
+
+          -  Patients on immunosuppressive treatment for any cause
+
+          -  HIV-infected patients with CD4 &lt;200 / mm3
+
+          -  Past or current history of autoimmune disease or systemic inflammatory disease
+
+          -  Patients who have received or are planning therapy with immunomodulatory antibodies,
+             including immunoglobulins
+
+          -  Participation in any clinical trial that evaluated any investigational product in the
+             last 3 months or less than 5 half-lives of the investigational product
+
+          -  Pregnancy
+
+          -  Any other condition that, in clinical judgment, prevents adherence to the patient's
+             protocol
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -293,9 +306,9 @@ Number of days in need of supplemental oxygen</description>
   <study_first_submitted>April 20, 2020</study_first_submitted>
   <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 22, 2020</study_first_posted>
-  <last_update_submitted>April 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

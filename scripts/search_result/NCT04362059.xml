@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="728">
+<clinical_study rank="800">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04362059</url>
   </required_header>
@@ -11,9 +11,9 @@
     <org_study_id>RHM CRI0399</org_study_id>
     <nct_id>NCT04362059</nct_id>
   </id_info>
-  <brief_title>A Clinical Trial of Nebulized Bovactant (Alveofact®) for the Treatment of Moderate to Severe COVID-19</brief_title>
+  <brief_title>A Clinical Trial of Nebulized Surfactant for the Treatment of Moderate to Severe COVID-19</brief_title>
   <acronym>COVSurf</acronym>
-  <official_title>A Clinical Trial of Nebulized Bovactant (Alveofact®) for the Treatment of Moderate to Severe COVID-19</official_title>
+  <official_title>A Clinical Trial of Nebulized Surfactant for the Treatment of Moderate to Severe COVID-19</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>University Hospital Southampton NHS Foundation Trust</agency>
@@ -40,7 +40,7 @@
       Lung surfactant is present in the lungs. It covers the alveolar surface where it reduces the
       work of breathing and prevents the lungs from collapsing. In some respiratory diseases and in
       patients that require ventilation this substance does not function normally. This study will
-      introduce surfactant to the patients lungs via the AeroFact-COVID Drug Delivery System
+      introduce surfactant to the patients lungs via the COVSurf Drug Delivery System
     </textblock>
   </brief_summary>
   <detailed_description>
@@ -80,12 +80,12 @@
   <primary_outcome>
     <measure>Oxygenation Improvement</measure>
     <time_frame>3 months</time_frame>
-    <description>To assess the improvement in oxygenation as determined by the PaO2/FiO2 ratio after treatment with Alveofact®.</description>
+    <description>To assess the improvement in oxygenation as determined by the PaO2/FiO2 ratio after treatment with study treatment</description>
   </primary_outcome>
   <primary_outcome>
     <measure>Pulmonary ventilation Improvement</measure>
     <time_frame>3 months</time_frame>
-    <description>To assess the improvement in pulmonary ventilation as determined by the Ventilation Index (VI), where VI = [RR x (PIP − PEEP) × PaCO2]/1000 after treatment with Alveofact®.</description>
+    <description>To assess the improvement in pulmonary ventilation as determined by the Ventilation Index (VI), where VI = [RR x (PIP − PEEP) × PaCO2]/1000 after study treatment.</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Safety Assessment of Frequency and Severity of Adverse Events</measure>
@@ -98,16 +98,16 @@
   <arm_group>
     <arm_group_label>Treatment Arm</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Patients will be administered surfactant via AeroFact-COVID Drug Delivery System</description>
+    <description>Patients will be administered surfactant via COVSurf Drug Delivery System</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Control Arm</arm_group_label>
     <arm_group_type>Active Comparator</arm_group_type>
-    <description>Patients shall receive regualar Standard of Care treatment</description>
+    <description>Patients shall receive regular Standard of Care treatment</description>
   </arm_group>
   <intervention>
     <intervention_type>Device</intervention_type>
-    <intervention_name>AeroFact-COVID Drug Delivery System</intervention_name>
+    <intervention_name>COVSurf Drug Delivery System</intervention_name>
     <description>Device introduces surfactant to the patients lungs</description>
     <arm_group_label>Treatment Arm</arm_group_label>
   </intervention>
@@ -228,10 +228,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 20, 2020</study_first_submitted>
   <study_first_submitted_qc>April 23, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 24, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

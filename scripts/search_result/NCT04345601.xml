@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="433">
+<clinical_study rank="485">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 24, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04345601</url>
   </required_header>
@@ -252,16 +252,15 @@
   <study_first_submitted>April 10, 2020</study_first_submitted>
   <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 14, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <last_update_submitted>April 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Baylor College of Medicine</investigator_affiliation>
     <investigator_full_name>LaQuisa Hill</investigator_full_name>
     <investigator_title>Assistant Professor</investigator_title>
   </responsible_party>
-  <keyword>Gene Therapy</keyword>
   <keyword>Mesenchymal Stromal Cells</keyword>
   <keyword>Respiratory failure</keyword>
   <condition_browse>
