@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="269">
+<clinical_study rank="281">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04342897</url>
   </required_header>
@@ -55,6 +55,11 @@
     <measure>Number of Participants Reporting Each Severity Rating on the National Institute of Allergy and Infectious Diseases (NIAID) Ordinal Assessment</measure>
     <time_frame>Day 1 to Day 28</time_frame>
     <description>The scale is an assessment of clinical status. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants who are Alive and Respiratory Failure Free</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Survival without Respiratory Failure</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Oxygen Saturation (SpO₂)</measure>
@@ -117,7 +122,8 @@
       <textblock>
         Inclusion Criteria:
 
-          -  Are hospitalized with pneumonia, and presumed or confirmed COVID-19
+          -  Are hospitalized for less than 48 hours with pneumonia, and presumed or confirmed
+             COVID-19
 
           -  Are able and willing to give signed informed consent (legally authorized
              representative can provide informed consent if needed)
@@ -204,9 +210,9 @@
   <study_first_submitted>April 10, 2020</study_first_submitted>
   <study_first_submitted_qc>April 10, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 13, 2020</study_first_posted>
-  <last_update_submitted>April 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

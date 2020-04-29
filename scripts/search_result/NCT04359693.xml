@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="629">
+<clinical_study rank="557">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04359693</url>
   </required_header>
@@ -12,7 +12,7 @@
     <secondary_id>2020-A00995-34</secondary_id>
     <nct_id>NCT04359693</nct_id>
   </id_info>
-  <brief_title>Impact of SARS-CoV-2 Infection on the Incidence of Ventilator-acquired Infections</brief_title>
+  <brief_title>Impact of COVID-19 Infection on the Incidence of Ventilator-acquired Infections</brief_title>
   <acronym>COVAPID</acronym>
   <official_title>Impact of SARS-CoV-2 Infection on the Incidence of Ventilator-acquired Infections</official_title>
   <sponsors>
@@ -180,9 +180,9 @@
   <study_first_submitted>April 21, 2020</study_first_submitted>
   <study_first_submitted_qc>April 21, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 24, 2020</last_update_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

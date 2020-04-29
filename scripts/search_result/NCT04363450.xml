@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="562">
+<clinical_study rank="591">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04363450</url>
   </required_header>
@@ -20,11 +20,11 @@
       <agency_class>Other</agency_class>
     </lead_sponsor>
     <collaborator>
-      <agency>Lafayette General Medical Center</agency>
+      <agency>Lafayette General Health</agency>
       <agency_class>Other</agency_class>
     </collaborator>
     <collaborator>
-      <agency>University of Louisiana Lafayette</agency>
+      <agency>University of Louisiana at Lafayette</agency>
       <agency_class>Other</agency_class>
     </collaborator>
   </sponsors>
@@ -57,8 +57,8 @@
       hydroxychloroquine versus placebo for a total of 12 weeks.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
-  <start_date type="Anticipated">May 4, 2020</start_date>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 27, 2020</start_date>
   <completion_date type="Anticipated">August 3, 2020</completion_date>
   <primary_completion_date type="Anticipated">July 6, 2020</primary_completion_date>
   <phase>Phase 3</phase>
@@ -170,13 +170,98 @@
     <phone>337-261-6000</phone>
     <email>rlee10@lsuhsc.edu</email>
   </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Lafayette General Medical Center</name>
+      <address>
+        <city>Lafayette</city>
+        <state>Louisiana</state>
+        <zip>70503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ann D Chauffe, DO, MPH</last_name>
+      <phone>337-261-6000</phone>
+      <email>achauf@lsuhsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Rebecca B Lee, DO, MS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nicholas Sells, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>James B Falterman, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carl Sabottke, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Daniel Stouts, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ann D Chauffe, DO, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital and Clinics</name>
+      <address>
+        <city>Lafayette</city>
+        <state>Louisiana</state>
+        <zip>70506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ann D Chauffe, DO, MPH</last_name>
+      <phone>337-261-6000</phone>
+      <email>achauf@lsuhsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ann D Chauffe, DO, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rebecca B Lee, DO, MS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nicholas Sells, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>James B Falterman, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carl Sabottke, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Daniel Stout, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 23, 2020</study_first_submitted>
   <study_first_submitted_qc>April 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 27, 2020</study_first_posted>
-  <last_update_submitted>April 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Louisiana State University Health Sciences Center in New Orleans</investigator_affiliation>

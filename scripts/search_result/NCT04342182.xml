@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="215">
+<clinical_study rank="224">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04342182</url>
   </required_header>
@@ -59,7 +59,7 @@
       Patient population:
 
       Patients with PCR confirmed COVID disease, age &gt;18 years Donors will be included with a known
-      history of COVID who have been asymptomatic for at least 24 hours.
+      history of COVID who have been asymptomatic for at least 14 days.
 
       Intervention: 300mL of convP Duration of treatment: ConvP will be given as a one-time
       infusion Duration of follow up: Until discharge or death before day 60, whichever comes first
@@ -290,9 +290,9 @@ Plasma will be administered according to the Erasmus MC KIS protocol regarding t
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 10, 2020</study_first_posted>
-  <last_update_submitted>April 22, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 24, 2020</last_update_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Erasmus Medical Center</investigator_affiliation>

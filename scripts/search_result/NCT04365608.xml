@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="962">
+<clinical_study rank="763">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04365608</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>INT_EMS_PPE_1</org_study_id>
     <nct_id>NCT04365608</nct_id>
   </id_info>
-  <brief_title>Prehospital Intubation With Personal Protective Equipment</brief_title>
+  <brief_title>Prehospital Intubation of COVID-19 Patient With Personal Protective Equipment</brief_title>
   <official_title>Safety and Efficacy of Endotracheal Intubation by Paramedics in Suspected/Confirmed COVID-19 Patients Under Cardiac Arrest Using Vie Scope Laryngoscope</official_title>
   <sponsors>
     <lead_sponsor>
@@ -191,10 +191,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 24, 2020</study_first_submitted>
   <study_first_submitted_qc>April 24, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 28, 2020</study_first_posted>
-  <last_update_submitted>April 24, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 28, 2020</study_first_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Lazarski University</investigator_affiliation>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="158">
+<clinical_study rank="166">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04292899</url>
   </required_header>
@@ -1898,6 +1898,17 @@
   </location>
   <location>
     <facility>
+      <name>Hospital Universitari de Bellvitge</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>Hospital Clinic de Barcelona</name>
       <address>
         <city>Barcelona</city>
@@ -2269,9 +2280,9 @@
   <study_first_submitted>February 28, 2020</study_first_submitted>
   <study_first_submitted_qc>February 28, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 3, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 24, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

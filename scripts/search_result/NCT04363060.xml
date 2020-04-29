@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="223">
+<clinical_study rank="235">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04363060</url>
   </required_header>
@@ -66,9 +66,9 @@
     <description>Rate of positive SARS-CoV-2 RT-PCR on nasopharyngeal sample</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Clinical evolution on the WHO Ordinal Scale for Clinical Improvement for COVID-19</measure>
+    <measure>Clinical evolution on the World Health Organization Ordinal Scale for Clinical Improvement for COVID-19</measure>
     <time_frame>day 6, day 10, and day 30</time_frame>
-    <description>Clinical evolution on the WHO Ordinal Scale for Clinical Improvement for COVID-19</description>
+    <description>Clinical evolution on the WHO Ordinal Scale for Clinical Improvement for COVID-19 score. Scale ranging from 0 to 8 (0:unifected; 8:dead)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Total duration of antibiotic treatment during the 30 days following inclusion</measure>
@@ -223,9 +223,9 @@
   <study_first_submitted>April 23, 2020</study_first_submitted>
   <study_first_submitted_qc>April 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 27, 2020</study_first_posted>
-  <last_update_submitted>April 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

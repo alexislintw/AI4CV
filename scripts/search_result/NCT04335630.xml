@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="947">
+<clinical_study rank="1000">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04335630</url>
   </required_header>
@@ -261,7 +261,7 @@
     <PMID>32186331</PMID>
   </reference>
   <reference>
-    <citation>Zheng YY, Ma YT, Zhang JY, Xie X. COVID-19 and the cardiovascular system. Nat Rev Cardiol. 2020 Mar 5. doi: 10.1038/s41569-020-0360-5. [Epub ahead of print]</citation>
+    <citation>Zheng YY, Ma YT, Zhang JY, Xie X. COVID-19 and the cardiovascular system. Nat Rev Cardiol. 2020 May;17(5):259-260. doi: 10.1038/s41569-020-0360-5.</citation>
     <PMID>32139904</PMID>
   </reference>
   <verification_date>April 2020</verification_date>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="527">
+<clinical_study rank="552">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04303507</url>
   </required_header>
@@ -29,21 +29,24 @@
   <brief_summary>
     <textblock>
       The study is a double-blind, randomised, placebo-controlled trial that will be conducted in
-      health care settings. After obtaining fully informed consent, the investigator will recruit
-      healthcare workers, or other individuals at significant risk who can be followed reliably for
-      5 months. 40,000 participants will be recruited and the investigator predict an average of
-      400-800 participants per site in 50-100 sites.
+      healthcare settings. After obtaining fully informed consent, the investigator will recruit
+      healthcare workers in a healthcare facility delivering direct care to patients with either
+      proven or suspected COVID-19, who can be followed reliably for up to 5 months. 40,000
+      participants will be recruited and the investigators predict an average of 400-800
+      participants per site in 50-100 sites.
 
-      The participant will be randomised to receive either chloroquine/ hydroxychloroquine or
-      placebo (1:1 randomisation). A loading dose of 10mg base/kg, followed by 155 mg daily (250mg
-      chloroquine phosphate salt or 200mg hydroxychloroquine sulphate) will be taken for 3 months.
-      Subsequent episodes of symptomatic respiratory illness, including symptomatic COVID-19,
-      clinical outcomes, and asymptomatic infection with the virus causing COVID-19 will be
-      recorded during the follow-up period. If they are diagnosed with COVID-19 during the period
-      of prophylaxis, they will continue their prophylaxis unless advised to do so by their
-      healthcare professional until they run out of their current supply of chloroquine/
-      hydroxychloroquine or placebo at home. They will not collect more. They will be followed up
-      for 28 days (up until a maximum of 60 days if not recovered at 28 days).
+      The participant will be randomised in Asia to receive either chloroquine or placebo (1:1
+      randomisation) or in European and African sites, to receive hydroxychloroquine or placebo
+      (1:1 randomisation). A loading dose of 10mg base/kg (four 155mg tablets for a 60kg subject),
+      followed by 155 mg daily (250mg chloroquine phosphate salt/ 200mg hydroxychloroquine
+      sulphate) will be taken for 90 days.
+
+      If the participant is diagnosed with COVID-19, they will take continue to take the study
+      medication unless advised to stop by their healthcare professional, or 90 days after
+      enrolment, whichever is sooner.
+
+      Episodes of symptomatic respiratory illness, including symptomatic COVID-19, and clinical
+      outcomes will be recorded in the Case Record Form during the follow-up period.
     </textblock>
   </brief_summary>
   <overall_status>Not yet recruiting</overall_status>
@@ -61,33 +64,48 @@
   </study_design_info>
   <primary_outcome>
     <measure>Number of symptomatic COVID-19 infections</measure>
-    <time_frame>Approximately 100 days</time_frame>
+    <time_frame>Approximately 90 days</time_frame>
     <description>Number of symptomatic COVID-19 infections will be compared between the chloroquine or hydroxychloroquine and placebo groups</description>
   </primary_outcome>
-  <primary_outcome>
+  <secondary_outcome>
     <measure>Symptoms severity of COVID-19</measure>
-    <time_frame>Approximately 100 days</time_frame>
+    <time_frame>Approximately 90 days</time_frame>
     <description>Symptoms severity of COVID-19 will be compared between the two groups using a respiratory severity score.</description>
-  </primary_outcome>
+  </secondary_outcome>
   <secondary_outcome>
     <measure>Number of asymptomatic cases of COVID-19</measure>
-    <time_frame>Approximately 100 days</time_frame>
-    <description>Number of asymptomatic cases of COVID-19 will be determined by comparing acute and convalescent serology in the two groups.</description>
+    <time_frame>Approximately 90 days</time_frame>
+    <description>Number of asymptomatic cases of COVID-19 will be determined by comparing serology in all participants at time of enrolment and at the end of follow up.</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Number of symptomatic acute respiratory illnesses</measure>
-    <time_frame>Approximately 100 days</time_frame>
+    <time_frame>Approximately 90 days</time_frame>
     <description>Number of symptomatic acute respiratory illnesses will be compared between the chloroquine or hydroxychloroquine and placebo groups.</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Severity of symptomatic acute respiratory illnesses</measure>
-    <time_frame>Approximately 100 days</time_frame>
+    <time_frame>Approximately 90 days</time_frame>
     <description>Severity of symptomatic acute respiratory illnesses will be compared between the chloroquine or hydroxychloroquine and placebo groups.</description>
   </secondary_outcome>
   <other_outcome>
     <measure>Genetic loci and levels of biochemical components will be correlated with frequency of COVID-19, ARI and disease severity.</measure>
-    <time_frame>Approximately 100 days</time_frame>
-    <description>Genetic loci and levels of biochemical components will be correlated with frequency of COVID-19, ARI and disease severity.</description>
+    <time_frame>Approximately 90 days</time_frame>
+    <description>Genetic loci and levels of biochemical components will be correlated with frequency of COVID-19, Acute Respiratory Infection and disease severity.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assess the impact of chloroquine or hydroxychloroquine prophylaxis on number of days lost to work during the pandemic.</measure>
+    <time_frame>Approximately 90 days</time_frame>
+    <description>Number of days lost to work in relation to the treatment arm</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assess the impact of chloroquine or hydroxychloroquine prophylaxis on healthcare costs</measure>
+    <time_frame>Approximately 90 days</time_frame>
+    <description>The trial will collect data on monetary costs associated with the use of healthcare resources and determine the effects between treatment groups.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assess the impact of chloroquine or hydroxychloroquine prophylaxis on quality of life measures using the quality of life questionnaire (EQ-5D-3L)</measure>
+    <time_frame>Approximately 90 days</time_frame>
+    <description>The trial will collect data on health-related quality of life using the quality of life questionnaire (EQ-5D-3L) to determine the effects between treatment groups.</description>
   </other_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">40000</enrollment>
@@ -98,7 +116,7 @@
     <arm_group_label>Chloroquine or Hydroxychloroquine</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
     <description>In Asia, the participant will receive chloroquine.
-In Europe, the participant will receive hydroxychloroquine</description>
+In Europe and Africa, the participant will receive hydroxychloroquine</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Placebo</arm_group_label>
@@ -119,55 +137,46 @@ In Europe, the participant will receive hydroxychloroquine</description>
   <eligibility>
     <criteria>
       <textblock>
-        Study Participants
-
-        These are of two types:
-
-        A. Adult volunteers (exact age is dependent on countries) working as a healthcare worker or
-        frontline (i.e. patient contact) in a healthcare facility or similar institution
-
-        B. Provided that they are willing to participate in the trial and can be followed
-        adequately for up to 5 months, we may also enrol hospitalised patients or relatives exposed
-        or potentially exposed to the SARS-CoV-2 virus or other high-risk groups
+        Study Participants The study population is adult workers in a healthcare facility
+        delivering direct care to patients with either proven or suspected COVID-19.
 
         Inclusion Criteria:
 
-          -  Participant is willing and able to give informed consent for participation in the
+          1. Participant is willing and able to give informed consent for participation in the
              study and agrees with the study and its conduct
 
-          -  Agrees not to self-medicate with chloroquine, hydroxychloroquine or other potential
+          2. Agrees not to self-medicate with chloroquine, hydroxychloroquine or other potential
              antivirals
 
-          -  Adults (exact age is dependent on countries)
+          3. Adults (exact age is dependent on countries)
 
-          -  Not previously diagnosed with COVID-19
+          4. Not previously diagnosed with COVID-19
 
-          -  Not currently symptomatic with an Acute Respiratory Infection
+          5. Not currently symptomatic with an ARI
 
-          -  Participant A. works in healthcare facility or other well characterised high-risk
-             environment, OR B. is an inpatient or relative of a patient in a participating
-             hospital and likely exposed to COVID-19 infection or another high-risk group
+          6. Participant works in a healthcare facility delivering direct care to patients with
+             either proven or suspected COVID-19
 
-          -  Possesses an internet-enabled smartphone (Android or iOS)
+          7. Possesses an internet-enabled smartphone (Android or iOS)
 
         Exclusion Criteria:
 
-          -  Hypersensitivity reaction to chloroquine, hydroxychloroquine or 4-aminoquinolines
+          1. Hypersensitivity reaction to chloroquine, hydroxychloroquine or 4-aminoquinolines
 
-          -  Contraindication to taking chloroquine as prophylaxis e.g. known epileptic, known
+          2. Contraindication to taking chloroquine as prophylaxis e.g. known epileptic, known
              creatinine clearance &lt; 10 ml/min
 
-          -  Already taking chloroquine, hydroxychloroquine or 4-aminoquinolines
+          3. Already taking chloroquine, hydroxychloroquine or 4-aminoquinolines
 
-          -  Taking a concomitant medication (Abiraterone acetate, Agalsidase, Conivaptan,
-             Dabrafenib, Dacomitinib, Enzalutamide, Idelalisib, Mifepristone, Mitotane, tiripentol)
-             which cannot be safely stopped
+          4. Taking a concomitant medication (Abiraterone acetate, Agalsidase Alfa or Beta,
+             Conivaptan, Dabrafenib, Dacomitinib, Enzalutamide, Idelalisib, Mifepristone, Mitotane,
+             Stiripentol) which cannot be safely stopped
 
-          -  Known retinal disease
+          5. Known retinal disease
 
-          -  Inability to be followed up for the trial period
+          6. Inability to be followed up for the trial period
 
-          -  Known prolonged QT syndrome (however ECG is not required at baseline)
+          7. Known prolonged QT syndrome (however ECG is not required at baseline)
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -184,9 +193,9 @@ In Europe, the participant will receive hydroxychloroquine</description>
   <study_first_submitted>March 6, 2020</study_first_submitted>
   <study_first_submitted_qc>March 10, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 11, 2020</study_first_posted>
-  <last_update_submitted>March 25, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 25, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 27, 2020</last_update_posted>
+  <last_update_submitted>April 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

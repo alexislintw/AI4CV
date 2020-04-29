@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="70">
+<clinical_study rank="72">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348656</url>
   </required_header>
@@ -131,10 +131,6 @@
 
         -  Prior diagnosis of COVID-19 documented by a PCR test at time of infection or by positive
            anti-SARS-CoV-2 serology following infection
-
-        -  Complete resolution of symptoms
-
-        -  A delay of at least 14 days since resolution of COVID-19 symptoms
 
         -  A maximum of 12 weeks since resolution of COVID-19 symptoms
 
@@ -270,9 +266,9 @@
     <description>Transfusion-associated adverse events, Grade 3 and 4 serious adverse events, and cumulative incidence of Grade 3 and 4 adverse events and serious adverse events (using medDRA)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Transfusion-associated adverse events (AE)</measure>
+    <measure>CCP transfusion-associated adverse events (AE)</measure>
     <time_frame>30 days</time_frame>
-    <description>Transfusion-associated adverse events (AE)</description>
+    <description>CCP transfusion-associated adverse events (AE)</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">1200</enrollment>
@@ -757,9 +753,9 @@
   <study_first_submitted>April 13, 2020</study_first_submitted>
   <study_first_submitted_qc>April 13, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 17, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 17, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

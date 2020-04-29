@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="94">
+<clinical_study rank="98">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04363034</url>
   </required_header>
@@ -38,7 +38,7 @@
       (e.g. acetaminophen, diphenhydramine, etc.) as necessary.
     </textblock>
   </detailed_description>
-  <overall_status>Temporarily not available</overall_status>
+  <overall_status>Available</overall_status>
   <study_type>Expanded Access</study_type>
   <expanded_access_info>
     <expanded_access_type_intermediate>Yes</expanded_access_type_intermediate>
@@ -102,13 +102,23 @@
     <minimum_age>18 Years</minimum_age>
     <maximum_age>N/A</maximum_age>
   </eligibility>
+  <overall_contact>
+    <last_name>Danielle Evans</last_name>
+    <phone>(501) 526-7906</phone>
+    <email>DEvans@uams.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>David Avery</last_name>
+    <phone>(501) 214-2101</phone>
+    <email>daavery@uams.edu</email>
+  </overall_contact_backup>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 23, 2020</study_first_submitted>
   <study_first_submitted_qc>April 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 27, 2020</study_first_posted>
-  <last_update_submitted>April 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

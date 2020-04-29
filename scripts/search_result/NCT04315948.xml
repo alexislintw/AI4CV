@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="638">
+<clinical_study rank="668">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04315948</url>
   </required_header>
@@ -376,7 +376,178 @@ n=620</description>
   </overall_contact_backup>
   <location>
     <facility>
-      <name>CHRU Lille</name>
+      <name>Centre Hospitalier Universitaire Amiens-Picardie</name>
+      <address>
+        <city>Amiens</city>
+        <zip>80054</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Jean-Philippe LANOIX</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Yoann ZERBIB</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Regional Metz-Thionville</name>
+      <address>
+        <city>Ars-Laquenexy</city>
+        <zip>57085</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Céline ROBERT</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rostane GACI</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Régional Universitaire de Besançon</name>
+      <address>
+        <city>Besançon</city>
+        <zip>25000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Kevin BOUILLER</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean-Christophe NAVELLOU</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Bordeaux</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Denis MALVY</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Didier GRUSON</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - hôpital Henri-Mondor</name>
+      <address>
+        <city>Créteil</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Sébastien GALLIEN</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Armand MEKONTSO DESSAP</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Dijon-Bourgogne</name>
+      <address>
+        <city>Dijon</city>
+        <zip>21000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Lionel PIROTH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean-Pierre QUENOT</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Martinique</name>
+      <address>
+        <city>Fort De France</city>
+        <zip>97261</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>André CABIE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Cyrille CHABARTIER</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HP Hôpital Bicêtre</name>
+      <address>
+        <city>Kremlin-Bicêtre</city>
+        <zip>94270</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Stéphane JAUREGUIBERRY</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Samy FIGUEIREDO</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalo-Universitaire de Grenoble</name>
+      <address>
+        <city>La Tronche</city>
+        <zip>38700</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Olivier EPAULARS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nicolas TERZI</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Régional Universitaire de Lille</name>
       <address>
         <city>Lille</city>
         <zip>59000</zip>
@@ -390,12 +561,88 @@ n=620</description>
     </investigator>
     <investigator>
       <last_name>Julien Poissy</last_name>
-      <role>Principal Investigator</role>
+      <role>Sub-Investigator</role>
     </investigator>
   </location>
   <location>
     <facility>
-      <name>CHU Nantes</name>
+      <name>Hospices Civils de Lyon</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Florence ADER</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean-Christophe RICHARD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Montpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Vincent LEMOING</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kada KLOUCHE</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier de la Région de Mulhouse Sud Alsace</name>
+      <address>
+        <city>Mulhouse</city>
+        <zip>68100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Joy MOOTIEN</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Olivier HINSCHBERGER</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Régional et Universitaire de Nancy</name>
+      <address>
+        <city>Nancy</city>
+        <zip>54000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>François GOEHRINGER</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sébastien GIBOT</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Nantes</name>
       <address>
         <city>Nantes</city>
         <zip>44000</zip>
@@ -409,12 +656,126 @@ n=620</description>
     </investigator>
     <investigator>
       <last_name>Jean Reignier</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalo-Universitaire de Nice</name>
+      <address>
+        <city>Nice</city>
+        <zip>06000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Johan COURJEON</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean DELLAMONICA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hôpital Saint Antoine</name>
+      <address>
+        <city>Paris</city>
+        <zip>75012</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Karine LACOMBE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hafid AIT TOUFELLA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hôpital Universitaire Pitié Salpêtrière</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Valérie POURCHER</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Julien MAYAUX</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hôpital Cochin</name>
+      <address>
+        <city>Paris</city>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Odile LAUNAY</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean-Paul MIRA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Paris Saint-Joseph et Marie Lannelongue</name>
+      <address>
+        <city>Paris</city>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Benoit PILMIS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jerome Le Pavec</last_name>
       <role>Principal Investigator</role>
     </investigator>
   </location>
   <location>
     <facility>
-      <name>APHP - Bichat Claude Bernard</name>
+      <name>APHP- Hôpital Européen Georges-Pompidou</name>
+      <address>
+        <city>Paris</city>
+        <zip>75015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>David LEBEAUX</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean-Luc DIEHL</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Hôpital Bichat Claude Bernard</name>
       <address>
         <city>Paris</city>
         <zip>75018</zip>
@@ -428,19 +789,240 @@ n=620</description>
     </investigator>
     <investigator>
       <last_name>Jean-François Timsit</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Rennes</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>François BENEZIT</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Yves LE TULZO</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital DELAFONTAINE</name>
+      <address>
+        <city>Saint-Denis</city>
+        <zip>93200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Jerome ABOAB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Flora CROCKETT</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital d'Instruction des Armées BEGIN</name>
+      <address>
+        <city>Saint-Mandé</city>
+        <zip>94160</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Cécile FICKO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Clément DUBOST</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Saint Etienne</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <zip>42055</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Elisabeth BOTELHO-NEVERS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Guillaume THIERY</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Régional Universitaire de Strasbourg</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>François DANION</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ferhat MEZIANI</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Toulouse</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Guillaume MARTIN BLONDEL</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Fanny BOUNES - VARDON</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Toulouse</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Guillaume MARTIN BLONDEL</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Béatrice RIU-POULENC</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de Tourcoing</name>
+      <address>
+        <city>Tourcoing</city>
+        <zip>59208</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Eric SENNEVILLE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Vanessa JEAN-MICHEL</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Tours</name>
+      <address>
+        <city>Tours</city>
+        <zip>37000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Louis BERNARD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Denis GAROT</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Annecy Genevois</name>
+      <address>
+        <city>Épagny</city>
+        <zip>74370</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Violaine TOLSMA</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>David BOUGON</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Luxembourg</name>
+      <address>
+        <city>Luxembourg</city>
+        <zip>L-1210</zip>
+        <country>Luxembourg</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Thérèse STAUB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpitaux Robert Schuman</name>
+      <address>
+        <city>Luxembourg</city>
+        <zip>L-2450</zip>
+        <country>Luxembourg</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Marc BERNIA</last_name>
       <role>Principal Investigator</role>
     </investigator>
   </location>
   <location_countries>
     <country>France</country>
+    <country>Luxembourg</country>
   </location_countries>
   <verification_date>March 2020</verification_date>
   <study_first_submitted>March 13, 2020</study_first_submitted>
   <study_first_submitted_qc>March 18, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 20, 2020</study_first_posted>
-  <last_update_submitted>March 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>March 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">March 25, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

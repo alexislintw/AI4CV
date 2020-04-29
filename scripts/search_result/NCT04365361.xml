@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="764">
+<clinical_study rank="806">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04365361</url>
   </required_header>
@@ -150,17 +150,20 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 25, 2020</study_first_submitted>
   <study_first_submitted_qc>April 25, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 28, 2020</study_first_posted>
-  <last_update_submitted>April 25, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 25, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 28, 2020</study_first_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>The University of Hong Kong</investigator_affiliation>
     <investigator_full_name>Dr. Agnes Yuen-Kwan Lai</investigator_full_name>
     <investigator_title>Assistant Professor</investigator_title>
   </responsible_party>
-  <keyword>psychological, Stress, Depression, students</keyword>
+  <keyword>Stress</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Higher education students</keyword>
+  <keyword>Psychological impact</keyword>
   <patient_data>
     <sharing_ipd>No</sharing_ipd>
     <ipd_description>It was not included in the participants' consent.</ipd_description>

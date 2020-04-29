@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="229">
+<clinical_study rank="243">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04318301</url>
   </required_header>
@@ -61,10 +61,10 @@
       with hypertension in patients with COVID-19.
     </textblock>
   </detailed_description>
-  <overall_status>Active, not recruiting</overall_status>
+  <overall_status>Completed</overall_status>
   <start_date type="Actual">March 21, 2020</start_date>
-  <completion_date type="Anticipated">March 30, 2020</completion_date>
-  <primary_completion_date type="Anticipated">March 28, 2020</primary_completion_date>
+  <completion_date type="Actual">March 30, 2020</completion_date>
+  <primary_completion_date type="Actual">March 28, 2020</primary_completion_date>
   <study_type>Observational</study_type>
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
@@ -176,9 +176,9 @@
   <study_first_submitted>March 20, 2020</study_first_submitted>
   <study_first_submitted_qc>March 20, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 23, 2020</study_first_posted>
-  <last_update_submitted>April 6, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 6, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 7, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>Nanfang Hospital of Southern Medical University</investigator_affiliation>

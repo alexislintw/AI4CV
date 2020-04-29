@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="758">
+<clinical_study rank="800">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04357041</url>
   </required_header>
@@ -38,17 +38,17 @@
     <textblock>
       The proposed study is an observational study. The study will include our previous subjects,
       those who are following the shelter- in- place order due to the COVID-19 pandemic.
-      Demographic data of the individuals participating in the study will be recorded. During this
+      Demographic data of individuals participating in the study will be recorded. During this
       12-month protocol, participants will be contacted through email to complete online
       questionnaires on weekly basis for 8 weeks, and then once every 4 weeks until the end of the
-      study. Subjects will record their one-day food intake, physical activity, eating behavior,
-      and stress and anxiety level, which takes ~1 hour to complete.
+      study. Subjects will record their one-day food intake, physical activity, sleep, and stress
+      and anxiety level, which takes ~1 hour to complete.
 
       Subjects will be recruited through our CNRC databases of individuals who come to our clinic
       in the past 1 year, online advertisement, and word of mouth. A phone and/or email will be
-      administered to ensure their eligibility using our standard tools and protocols. Subjects who
+      administered to ensure their eligibility using our standard tools and protocols. People who
       are willing and able to participate and meet the basic screening eligibility will be
-      contacted through email for inform consent and the continuing of the study.
+      contacted through email for informed consent and the continuing of the study.
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
@@ -69,22 +69,23 @@
   <primary_outcome>
     <measure>International Physical Activity Questionnaire (IPAQ)</measure>
     <time_frame>0-12 months</time_frame>
-    <description>IPAQ will be used to evaluate the current physical activity level of the participants during the study period.</description>
+    <description>IPAQ will be used to evaluate the current physical activity level of the participants during the study period. All continuous scores are expressed in MET-minutes/week, Walking = 3.3 METs, Moderate PA = 4.0 METs and Vigorous PA = 8.0 METs.</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Health-Related Quality of Life SF-12 Scale</measure>
     <time_frame>0-12 months</time_frame>
-    <description>Short Form 12 (Short Form12- SF12) quality of life scale will be used to evaluate health-related quality of life during the study period.</description>
+    <description>Short Form 12 (Short Form12- SF12) quality of life scale will be used to evaluate health-related quality of life during the study period.The SF-12v2 is a health-related quality-of-life question- naire consisting of twelve questions that measure eight health domains to assess physical and mental health. Physical health-related domains include General Health (GH), Physical Functioning (PF), Role Physical (RP), and Body Pain (BP). Mental health-related scales include Vi- tality (VT), Social Functioning (SF), Role Emotional (RE), and Mental Health (MH). the raw scores could be transformed to provide scores for eight scales, each ranging from 0 (the worst) to 100 (the best)</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>State trait inventory for cognitive and somatic anxiety (STISA).</measure>
     <time_frame>0-12 months</time_frame>
-    <description>STISA will be used to measure state and trait anxiety as well as cognitive and somatic anxiety during the study period.</description>
+    <description>STISA will be used to measure state and trait anxiety as well as cognitive and somatic anxiety during the study period.scale consists of 21 items that are rated on a 4-point Likert scale. Both the STICSA State and Trait scales were designed to have two factors. One factor reflects the cognitive symptoms of anxiety (10 items, highest score: 40 (the worst), lowest score 10 (the best) ), and the second factor reflects the somatic symptoms of anxiety (11 items, highest score: 44 (the worst), lowest score 11(the best)).</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Beck Depression inventory (BDI)</measure>
     <time_frame>0-12 months</time_frame>
-    <description>BDI will be used to investigate the stress levels of the individuals participating in the study during the study period.</description>
+    <description>BDI will be used to investigate the stress levels of the individuals participating in the study during the study period. The highest possible total for the whole test would be 36, the lowest would be 0. scoring category: 1-10: normal; 11-16 Mild mood disturbance; 17-20: Borderline clinical depression; 21-30
+:Moderate depression; 31-40:Severe depression; over 40: Extreme depression</description>
   </secondary_outcome>
   <enrollment type="Anticipated">500</enrollment>
   <condition>ALL, Adult</condition>
@@ -153,9 +154,9 @@
   <study_first_submitted>April 17, 2020</study_first_submitted>
   <study_first_submitted_qc>April 21, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 22, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

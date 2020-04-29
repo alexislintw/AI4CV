@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="917">
+<clinical_study rank="968">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04365530</url>
   </required_header>
@@ -145,8 +145,13 @@
     </facility>
     <status>Recruiting</status>
     <contact>
-      <last_name>Helene BEAUSSIER, PharmD, pHD</last_name>
+      <last_name>Sebastien Hascoet, MD</last_name>
+      <email>s.hascoet@hml.fr</email>
     </contact>
+    <investigator>
+      <last_name>Sebastien HASCOET, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
   </location>
   <location>
     <facility>
@@ -228,10 +233,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 26, 2020</study_first_submitted>
   <study_first_submitted_qc>April 26, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 28, 2020</study_first_posted>
-  <last_update_submitted>April 26, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 26, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 28, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 28, 2020</study_first_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

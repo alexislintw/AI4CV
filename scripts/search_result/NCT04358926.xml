@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="305">
+<clinical_study rank="319">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04358926</url>
   </required_header>
@@ -114,7 +114,7 @@
   <study_design_info>
     <allocation>Randomized</allocation>
     <intervention_model>Parallel Assignment</intervention_model>
-    <intervention_model_description>Randomized controoled, double blinded study</intervention_model_description>
+    <intervention_model_description>Randomized controled, double blinded study</intervention_model_description>
     <primary_purpose>Treatment</primary_purpose>
     <masking>Double (Participant, Outcomes Assessor)</masking>
     <masking_description>The participants will be be able to tell if treated by hyperbaric or normobaric oxygen being in the chamber, blinded to the measured pressure.
@@ -136,9 +136,54 @@ The outcome assessors will receive anonymous blinded data.</masking_description>
     <description>Early Warning Score (NEWS) calculated by the patient's vitals and condition</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>Inflammation level</measure>
+    <measure>Inflammation level -CRP</measure>
     <time_frame>1 day and 7 days after the last intervention session</time_frame>
-    <description>white blood cells number, CRP level, ESR and cytokines: IL-1,IL-2,IL-6,IL-10, TNFalpha, Procalcitonin, Ferritin</description>
+    <description>blood CRP level</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inflammation level - ESR</measure>
+    <time_frame>1 day and 7 days after the last intervention session</time_frame>
+    <description>erythrocyte sedimentation rate</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>white blood cells number</measure>
+    <time_frame>1 day and 7 days after the last intervention session</time_frame>
+    <description>white blood cells number</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cytokines - IL1</measure>
+    <time_frame>1 day and 7 days after the last intervention session</time_frame>
+    <description>blood IL1 level</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cytokines - IL2</measure>
+    <time_frame>1 day and 7 days after the last intervention session</time_frame>
+    <description>blood IL2 level</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cytokines - IL6</measure>
+    <time_frame>1 day and 7 days after the last intervention session</time_frame>
+    <description>blood IL6 level</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cytokines - IL10</measure>
+    <time_frame>1 day and 7 days after the last intervention session</time_frame>
+    <description>blood IL10 level</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cytokines - TNFalpha</measure>
+    <time_frame>1 day and 7 days after the last intervention session</time_frame>
+    <description>blood TNFalpha level</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inflammation level - procalcitonin</measure>
+    <time_frame>1 day and 7 days after the last intervention session</time_frame>
+    <description>blood procalcitonin level</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inflammation level - ferritin</measure>
+    <time_frame>1 day and 7 days after the last intervention session</time_frame>
+    <description>blood ferritin level</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>Symptoms level</measure>
@@ -161,14 +206,14 @@ The outcome assessors will receive anonymous blinded data.</masking_description>
     <description>Chest xray changes evaluated qualitatively and quantitatively</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Number of patients with IgG seroconverstion</measure>
+    <measure>Number of patients with IgG seroconversion</measure>
     <time_frame>1 day and 7 days after the last intervention session</time_frame>
-    <description>number of patients who develoepd SARS-CoV-2 IgG antibodies</description>
+    <description>number of patients who developed SARS-CoV-2 IgG antibodies</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Number of patients with IgM seroconverstion</measure>
+    <measure>Number of patients with IgM seroconversion</measure>
     <time_frame>1 day and 7 days after the last intervention session</time_frame>
-    <description>number of patients who develoepd SARS-CoV-2 IgM antibodies</description>
+    <description>number of patients who developed SARS-CoV-2 IgM antibodies</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>FEV1/FVC</measure>
@@ -235,8 +280,10 @@ The outcome assessors will receive anonymous blinded data.</masking_description>
 
           -  Positive SARS-CoV-2 RT-PCR
 
-          -  At least one risk factor for bad prognosis of COVID-19: hypertension, diabetes
-             mellitus, ischemic heart disease, smoking, age&gt;50, etc.
+          -  At least one risk factor for bad prognosis of COVID-19: Moderate-severe Asthma,
+             Diabetes mellitus, Cardiac conditions (congestive heart failure, coronary disease,
+             cardiomyopathy, pulmonary hypertension), severe obesity (BMI&gt;40), age&gt;65,
+             immunodeficiency, chronic liver disease.
 
           -  Respiratory insufficiency : Room Air SpO2 &lt;94% or PaO2/FiO2&lt;300mmHg
 
@@ -245,8 +292,6 @@ The outcome assessors will receive anonymous blinded data.</masking_description>
           -  Ability to sign an informed consent
 
         Exclusion Criteria:
-
-          -  Negative SARS-CoV-2 RT-PCR
 
           -  HBOT contraindication: pneumothorax, pneumomediastinum, claustrophobia, ear/sinus
              disease which aren't allowed in HBOT, known chronic pulmonary disease: severe
@@ -262,6 +307,11 @@ The outcome assessors will receive anonymous blinded data.</masking_description>
     <maximum_age>N/A</maximum_age>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
+  <overall_official>
+    <last_name>Amir Hadanny, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Shamir Medical Center</affiliation>
+  </overall_official>
   <overall_contact>
     <last_name>Amir Hadanny, MD</last_name>
     <phone>972544707381</phone>
@@ -295,15 +345,20 @@ The outcome assessors will receive anonymous blinded data.</masking_description>
   <study_first_submitted>April 21, 2020</study_first_submitted>
   <study_first_submitted_qc>April 21, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 24, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
   <patient_data>
-    <sharing_ipd>Undecided</sharing_ipd>
+    <sharing_ipd>Yes</sharing_ipd>
     <ipd_description>Sharing upon specific requests will be considered</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Within 1 month of request</ipd_time_frame>
+    <ipd_access_criteria>Specific requests</ipd_access_criteria>
   </patient_data>
   <!-- Results have not yet been posted for this study                                          -->
 </clinical_study>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="586">
+<clinical_study rank="610">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 28, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04363827</url>
   </required_header>
@@ -11,7 +11,7 @@
     <org_study_id>IRST100.47</org_study_id>
     <nct_id>NCT04363827</nct_id>
   </id_info>
-  <brief_title>Protect: A Randomized Study With Hydroxychloroquine Versus Observational Support for Prevention and Early Phase Treatment of Coronavirus Disease (COVID-19)</brief_title>
+  <brief_title>Protect: Study With Hydroxychloroquine for Prevention and Early Phase Treatment of Coronavirus Disease (COVID-19)</brief_title>
   <acronym>PROTECT</acronym>
   <official_title>PROTECT: A Randomized Study With Hydroxychloroquine Versus Observational Support for Prevention or Early Phase Treatment of Coronavirus Disease (COVID-19)</official_title>
   <sponsors>
@@ -76,32 +76,32 @@
   </study_design_info>
   <primary_outcome>
     <measure>the proportion of subjects of Group 1 who become symptomatic and/or swab positive in each arm within 1 month from randomization.</measure>
-    <time_frame>up to 4 months</time_frame>
+    <time_frame>within 1 month from randomization</time_frame>
     <description>Group 1:The primary endpoint/outcome measure is the proportion of subjects of Group 1 who become symptomatic and/or swab positive in each arm within 1 month from randomization.</description>
   </primary_outcome>
   <primary_outcome>
     <measure>the proportion of subjects of Group 2 who become swab negative in each arm within 14 days from randomization.</measure>
-    <time_frame>up to 4 months</time_frame>
+    <time_frame>within 14 days from randomization</time_frame>
     <description>Group 2: The primary endpoint/outcome measure is the proportion of subjects of Group 2 who become swab negative in each arm within 14 days from randomization.</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>The proportion of subjects with positive swabs in Group 1 within 1 month from randomization in both arms</measure>
-    <time_frame>up to 4 months</time_frame>
+    <time_frame>within 1 month from randomization</time_frame>
     <description>The proportion of subjects with positive swabs in randomized population of SARS-CoV-2-exposed subjects ( Group 1) within 1 month from randomization in both arms</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>The proportion of subjects of Group 1 who become symptomatic in each arm within 1 month from randomization</measure>
-    <time_frame>up to 4 months</time_frame>
+    <time_frame>within 1 month from randomization</time_frame>
     <description>The proportion of subjects of Group 1 who become symptomatic in each arm within 1 month from randomization, in subgroup population identified by stratification factors, class of age and gender.</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>The proportion of subjects of Group 2 who become swab negative in each arm within within 14 days from randomization.</measure>
-    <time_frame>up to 4 months</time_frame>
-    <description>The proportion of subjects of Group 2 who become swab negative in each arm within within 14 days from randomization, in subgroup population identified by stratification factors, class of age and gender.</description>
+    <measure>The proportion of subjects of Group 2 who become swab negative in each arm within 14 days from randomization.</measure>
+    <time_frame>within 14 days from randomization</time_frame>
+    <description>The proportion of subjects of Group 2 who become swab negative in each arm within 14 days from randomization, in subgroup population identified by stratification factors, class of age and gender.</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>The proportion of subjects of Group 2 who become swab negative in each arm within 1 month from randomization in overall population and in subgroup population</measure>
-    <time_frame>up to 4 months</time_frame>
+    <time_frame>within 1 month from randomization</time_frame>
     <description>The proportion of subjects of Group 2 who become swab negative in each arm within 1 month from randomization in overall population and in subgroup population identified by stratification factors, class of age and gender.</description>
   </secondary_outcome>
   <secondary_outcome>
@@ -112,7 +112,7 @@
   <secondary_outcome>
     <measure>Variation in Quality of Life scores in different time points</measure>
     <time_frame>up to 10 months</time_frame>
-    <description>Variation in Quality of Life scores in different time points (weekly) respect to baseline values in both Group 1 and Group 2 populations.</description>
+    <description>Variation in Quality of Life scores EQ-5D-5L (EQ-5D descriptive system with 5 severity levels from better to worse, and the EQ visual analogue scale (EQ VAS, scale from 100 to 0, high is better) in different time points (weekly) respect to baseline values in both Group 1 and Group 2 populations.</description>
   </secondary_outcome>
   <number_of_arms>4</number_of_arms>
   <enrollment type="Anticipated">2300</enrollment>
@@ -258,9 +258,9 @@
   <study_first_submitted>April 24, 2020</study_first_submitted>
   <study_first_submitted_qc>April 24, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 27, 2020</study_first_posted>
-  <last_update_submitted>April 24, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
+  <last_update_submitted>April 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
