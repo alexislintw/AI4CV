@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="708">
+<clinical_study rank="731">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04367077</url>
   </required_header>
@@ -11,8 +11,8 @@
     <org_study_id>B04-03</org_study_id>
     <nct_id>NCT04367077</nct_id>
   </id_info>
-  <brief_title>MultiStem Administration for COVID-19 Induced ARDS (MaCoViA)</brief_title>
-  <acronym>MaCoViA</acronym>
+  <brief_title>MultiStem Administration for COVID-19 Induced ARDS (MACoVIA)</brief_title>
+  <acronym>MACoVIA</acronym>
   <official_title>A Phase 2/3 Study to Assess the Safety and Efficacy of MultiStem® Therapy in Subjects With Acute Respiratory Distress Syndrome (ARDS) Due to Coronavirus Disease (COVID-19)</official_title>
   <sponsors>
     <lead_sponsor>
@@ -101,7 +101,7 @@
         Exclusion Criteria:
 
         Moribund subject who, in the opinion of the Investigator, is not expected to survive at
-        least 48 hours and End-stage severe lung disease
+        least 48 hours and End-stage severe chronic lung disease
       </textblock>
     </criteria>
     <gender>All</gender>
@@ -145,6 +145,11 @@
         <country>United States</country>
       </address>
     </facility>
+    <contact>
+      <last_name>Athersys Clinical Trials Group</last_name>
+      <phone>216-426-3597</phone>
+      <email>macovia@athersys.com</email>
+    </contact>
   </location>
   <location_countries>
     <country>United States</country>
@@ -152,10 +157,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 27, 2020</study_first_submitted>
   <study_first_submitted_qc>April 27, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 29, 2020</study_first_posted>
-  <last_update_submitted>April 27, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 29, 2020</study_first_posted>
+  <last_update_submitted>April 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

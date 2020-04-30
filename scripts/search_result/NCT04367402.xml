@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="236">
+<clinical_study rank="245">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04367402</url>
   </required_header>
@@ -38,14 +38,11 @@
   <start_date type="Actual">March 30, 2020</start_date>
   <completion_date type="Anticipated">September 2020</completion_date>
   <primary_completion_date type="Actual">April 24, 2020</primary_completion_date>
-  <phase>N/A</phase>
-  <study_type>Interventional</study_type>
+  <study_type>Observational</study_type>
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
-    <allocation>Non-Randomized</allocation>
-    <intervention_model>Parallel Assignment</intervention_model>
-    <primary_purpose>Other</primary_purpose>
-    <masking>None (Open Label)</masking>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
   </study_design_info>
   <primary_outcome>
     <measure>Retrospective study on individuals with or without symptoms to verify the reliability of a prognostic/diagnostic test based on IgM/IgG analysis.</measure>
@@ -57,22 +54,19 @@
     <time_frame>6 months</time_frame>
     <description>By an in silico analysis, we found 2 missense variants in ACE2 gene annotated at residues 82 (rs766996587) and 355 (rs961360700) involved in PPIs with MAF&lt;0.01. Variants in other residues of the ACE2 may affect protein structure and/or activity/localization, influence the binding of the spike protein and thus the virus ability to enter the respiratory tract.In light of its relevance in cell entry, pharmacological approaches aimed at modulating ACE2 expression, through the modulation of SIRT1 activity in the lung or by selective oligo antisense treatment, should help in counteracting COVID-19 infection. Annotated SNPs evaluation of the TMPRSS2 gene showed 4 exonic common polymorphisms (MAF&gt;1%); of these, rs12329760 is a missense variant in the SRCR domain mediating PPI and ligand binding. Common SNPs are at the 3'UTR, possibly involved in regulating mRNA stability and several rare variants mapped in exons encoding the peptidase domain, potentially affecting protein activity.</description>
   </secondary_outcome>
-  <number_of_arms>3</number_of_arms>
+  <number_of_groups>3</number_of_groups>
   <enrollment type="Anticipated">600</enrollment>
   <condition>COVID-19</condition>
   <arm_group>
     <arm_group_label>Symptomatic Patients</arm_group_label>
-    <arm_group_type>Experimental</arm_group_type>
     <description>Patients who had symptoms related to COVID-19 infection</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Health people</arm_group_label>
-    <arm_group_type>Experimental</arm_group_type>
     <description>Healthy people who never had syntomps related to COVID-19 infection</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Asyntomatic Individuals</arm_group_label>
-    <arm_group_type>Experimental</arm_group_type>
     <description>Asyntomatic people to recruit after the restriction have ended</description>
   </arm_group>
   <intervention>
@@ -84,11 +78,16 @@
     <arm_group_label>Symptomatic Patients</arm_group_label>
   </intervention>
   <eligibility>
+    <study_pop>
+      <textblock>
+        Sample size: 200 symptomatic patients with no other characteristics; 200 health people with
+        no other characteristics; 200 asymptomatic individuals to recruit after the restrictions
+        have ended with no other characteristics.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
     <criteria>
       <textblock>
-        Sample size: 200 symptomatic patients; 200 health people; 200 asymptomatic individuals to
-        recruit after the restrictions have ended.
-
         Inclusion Criteria:
 
           -  adult patients (&gt; 18 years old)
@@ -133,10 +132,10 @@
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 17, 2020</study_first_submitted>
   <study_first_submitted_qc>April 28, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 29, 2020</study_first_posted>
-  <last_update_submitted>April 28, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 29, 2020</study_first_posted>
+  <last_update_submitted>April 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Azienda Ospedaliera San Paolo</investigator_affiliation>

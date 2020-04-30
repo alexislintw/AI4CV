@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="399">
+<clinical_study rank="414">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04367831</url>
   </required_header>
@@ -91,7 +91,7 @@
   <secondary_outcome>
     <measure>Total Number of Patients with the Need for Renal Replacement Therapy in the ICU</measure>
     <time_frame>Discharge from hospital or 30 days</time_frame>
-    <description>To determine the impact of intermediate-dose anti-coagulation compared with prophylactic anti-coagulation on rates of acute kidney injury and renal recovery in the ICU.</description>
+    <description>The impact of intermediate-dose anti-coagulation compared with prophylactic anti-coagulation on rates of acute kidney injury and renal recovery in the ICU will be measured with the total number of patients who need of renal replacement therapy in the ICU.</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Total Number of Patients with Major bleeding in the ICU</measure>
@@ -276,10 +276,10 @@ BMI &gt; 50 kg/m2: Enoxaparin 60 mg SC q12h</description>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 27, 2020</study_first_submitted>
   <study_first_submitted_qc>April 27, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 29, 2020</study_first_posted>
-  <last_update_submitted>April 27, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 29, 2020</study_first_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Columbia University</investigator_affiliation>

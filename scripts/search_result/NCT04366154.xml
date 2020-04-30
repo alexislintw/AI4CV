@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="351">
+<clinical_study rank="362">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04366154</url>
   </required_header>
@@ -48,69 +48,69 @@
     <time_perspective>Prospective</time_perspective>
   </study_design_info>
   <primary_outcome>
-    <measure>To assess the impact of the COVID-19 pandemic on the adaptations of medical oncology treatments administered in hospital (day units) to patients with cancer or malignant hemopathy</measure>
+    <measure>To assess the impact of the COVID-19 pandemic on the modifications of treatments administered in hospital (day units) to patients with cancer or malignant hemopathy</measure>
     <time_frame>up to 6 months</time_frame>
     <description>Proportion of patients with modification of the treatments administered</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>To assess the impact of the COVID-19 pandemic on the adaptations of medical oncology treatments administered in hospital (day units) to patients with cancer or malignant hemopathy</measure>
+    <measure>To assess the impact of the COVID-19 pandemic on the change in the rate of treatment administration in hospital (day units) to patients with cancer or malignant hemopathy</measure>
     <time_frame>up to 6 months</time_frame>
     <description>Proportion of patients with change in the rate of treatment administration</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>To assess the impact of the COVID-19 pandemic on the adaptations of medical oncology treatments administered in hospital (day units) to patients with cancer or malignant hemopathy</measure>
+    <measure>To assess the impact of the COVID-19 pandemic on the number of cures administeredin hospital (day units) to patients with cancer or malignant hemopathy</measure>
     <time_frame>up to 6 months</time_frame>
     <description>Proportion of patients with change in the number of cures administered</description>
   </primary_outcome>
   <primary_outcome>
-    <measure>To assess the impact of the COVID-19 pandemic on the adaptations of medical oncology treatments administered in hospital (day units) to patients with cancer or malignant hemopathy</measure>
+    <measure>To assess the impact of the COVID-19 pandemic on change of modality of administration in hospital (day units) to patients with cancer or malignant hemopathy</measure>
     <time_frame>up to 6 months</time_frame>
     <description>Proportion of patients with change of modality of administration (home administration to replace day hospital administration, teleconsultation uses)</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>Evaluate the psychological impact of the pandemic on cancer patients treated in unit day of hospital</measure>
+    <measure>Evaluate the perceived stress on cancer patients treated in unit day of hospital</measure>
     <time_frame>up to 6 months</time_frame>
-    <description>Score of questionnaires of perceived stress</description>
+    <description>Score of questionnaires of Perceived Stress Scale [0-40 points]</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Evaluate the psychological impact of the pandemic on cancer patients treated in unit day of hospital</measure>
+    <measure>Evaluate the post-traumatic stress on cancer patients treated in unit day of hospital</measure>
     <time_frame>up to 6 months</time_frame>
-    <description>Score of questionnaires of post-traumatic stress</description>
+    <description>Score of questionnaires of Impact of Event Scale-Revised [0-88 points]</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Evaluate the psychological impact of the pandemic on cancer patients treated in unit day of hospital</measure>
+    <measure>Evaluate the sleep disorders on cancer patients treated in unit day of hospital</measure>
     <time_frame>up to 6 months</time_frame>
-    <description>Score of questionnaires of sleep disorders</description>
+    <description>Score of questionnaires of sleep disorders (ISI scale, 0-28 points)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Evaluate the psychological impact of the pandemic on cancer patients treated in unit day of hospital</measure>
+    <measure>Evaluate the quality of life on cancer patients treated in unit day of hospital</measure>
     <time_frame>up to 6 months</time_frame>
-    <description>Score of questionnaires of quality of life</description>
+    <description>Score of questionnaires of quality of life (FACT-G scale)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Evaluate the psychological impact of the pandemic on cancer patients treated in unit day of hospital</measure>
+    <measure>Evaluate the cognitive complaints on cancer patients treated in unit day of hospital</measure>
     <time_frame>up to 6 months</time_frame>
-    <description>Score of questionnaires of cognitive complaints</description>
+    <description>Score of questionnaires of cognitive complaints (Fact-Cog scales; 0-148 points)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Evaluate the psychological impact of the pandemic on caregivers (perceived stress, post-traumatic stress, burnout, feeling of personal effectiveness)</measure>
+    <measure>Evaluate the perceived stress on caregivers (perceived stress, post-traumatic stress, burnout, feeling of personal effectiveness)</measure>
     <time_frame>up to 3 months</time_frame>
-    <description>Score of questionnaires of perceived stress</description>
+    <description>Score of questionnaires of Perceived Stress Scale [0-40 points]</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Evaluate the psychological impact of the pandemic on caregivers (perceived stress, post-traumatic stress, burnout, feeling of personal effectiveness)</measure>
+    <measure>Evaluate the post-traumatic stress on caregivers (perceived stress, post-traumatic stress, burnout, feeling of personal effectiveness)</measure>
     <time_frame>up to 3 months</time_frame>
-    <description>Score of questionnaires of post-traumatic stress</description>
+    <description>Score of questionnaires of Impact of Event Scale-Revised [0-88 points]</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Evaluate the psychological impact of the pandemic on caregivers (perceived stress, post-traumatic stress, burnout, feeling of personal effectiveness)</measure>
+    <measure>Evaluate the burnout on caregivers (perceived stress, post-traumatic stress, burnout, feeling of personal effectiveness)</measure>
     <time_frame>up to 3 months</time_frame>
-    <description>Score of questionnaires of burnout</description>
+    <description>Score of questionnaires of burnout ((Maslach Burn Out Inventory scale, 0-132 points)</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Evaluate the psychological impact of the pandemic on caregivers (perceived stress, post-traumatic stress, burnout, feeling of personal effectiveness)</measure>
+    <measure>Evaluate the feeling of personal effectiveness on caregivers (perceived stress, post-traumatic stress, burnout, feeling of personal effectiveness)</measure>
     <time_frame>up to 3 months</time_frame>
-    <description>Score of questionnaires of feeling of personal effectiveness</description>
+    <description>Score of questionnaires of feeling of personal effectiveness (0-30 points)</description>
   </secondary_outcome>
   <number_of_groups>2</number_of_groups>
   <enrollment type="Anticipated">385</enrollment>
@@ -190,9 +190,9 @@
   <study_first_submitted>April 16, 2020</study_first_submitted>
   <study_first_submitted_qc>April 27, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 28, 2020</study_first_posted>
-  <last_update_submitted>April 27, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 28, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

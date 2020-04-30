@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="777">
+<clinical_study rank="876">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04363437</url>
   </required_header>
@@ -11,8 +11,8 @@
     <org_study_id>2020-04-12</org_study_id>
     <nct_id>NCT04363437</nct_id>
   </id_info>
-  <brief_title>the COMBAT-COVID-19 Pilot Study</brief_title>
-  <acronym>COMBAT-COVID19</acronym>
+  <brief_title>COlchicine in Moderate Severity Hospitalized Patients Before ARDS to Treat COVID-19</brief_title>
+  <acronym>COMBATCOVID19</acronym>
   <official_title>COlchicine in Moderate Severity Hospitalized Patients Before ARDS to Treat COVID-19 (the COMBAT-COVID-19 Pilot Study)</official_title>
   <sponsors>
     <lead_sponsor>
@@ -42,18 +42,18 @@
       are a number of drugs undergoing clinical study to see if they are effective in treating the
       COVID-19 virus.
 
-      At Maimonides Medical Center, we are taking the appropriate steps to find an effective
-      treatment for COVID-19. The COMBAT COVID-19 Pilot Study is designed for patients diagnosed
-      with COVID-19 infection who require oxygen supplementation to be treated with colchicine to
-      reduce the chance of needing a mechanical ventilator.
+      At Maimonides Medical Center, the investigators are taking the appropriate steps to find an
+      effective treatment for COVID-19. The COMBAT COVID-19 Pilot Study is designed for patients
+      diagnosed with COVID-19 infection who require oxygen supplementation to be treated with
+      colchicine to reduce the chance of needing a mechanical ventilator.
 
       Colchicine is an FDA approved medication that is used to treat inflammatory disorders such as
       Gout and Familial Mediterranean Fever. It has also been used to treat other inflammatory
       conditions such as inflammation around the heart and been demonstrated to help patients who
       have had an acute heart attack. Colchicine is a readily available drug which is usually well
-      tolerated by patients. We believe that colchicine may reduce the inflammation in the lungs.
-      If so, the lungs may be able heal at a quicker pace and we hope that this may reduce the need
-      for mechanical ventilation.
+      tolerated by patients. The investigators believe that colchicine may reduce the inflammation
+      in the lungs. If so, the lungs may be able heal at a quicker pace and we hope that this may
+      reduce the need for mechanical ventilation.
 
       The research will be a randomized trial, patient will be randomly selected to be in either
       the colchicine treatment group or the standard medicines group. The treatment group will
@@ -79,9 +79,9 @@
 
         6. Reduces mortality
 
-      HYPOTHESIS We hypothesize that treatment with colchicine in COVID-19 moderate/high-risk
-      patients may decrease the risk of progression into ARDS requiring increased oxygen
-      requirements, mechanical ventilation, and mortality.
+      HYPOTHESIS The investigators hypothesize that treatment with colchicine in COVID-19
+      moderate/high-risk patients may decrease the risk of progression into ARDS requiring
+      increased oxygen requirements, mechanical ventilation, and mortality.
 
       STUDY DESIGN Prospective, completely randomized, open labeled, controlled study. Patients
       will be randomized into two groups (A and B). Patients of group A will be treated under what
@@ -128,7 +128,9 @@
 
       Inclusion criteria:
 
-        -  Males and females &gt;=18 years of age
+        -  Males and females
+
+        -  &gt;=18 years of age
 
         -  Willing and able to provide written informed consent prior to performing study
            procedures
@@ -178,14 +180,15 @@
         -  Patient is considered by the investigator, for any reason, to be unsuitable candidate
            for the study
 
+        -  Patient received Remdesivir, Sarilumab, Tociluzimab, Lopinavir/Ritonavir or other
+           immunomodulator given for COVID-19 treatment (convalescent plasma is NOT an exclusion)
+
       Design: The pilot study is a prospective randomized study involving colchicine in the
       experimental arm. The study will be performed in the inpatient wards at Maimonides Medical
       Center.
 
       Data Collection Procedures: Data will be collected from Sunrise Clinical Manager Electronic
-      records at Maimonides Medical Center. Data will be stored in the Maimonides Shared S: drive.
-      Physical copies of the consent and patent data sheets will be in a locked file cabinet on the
-      Maimonides Medical Center 4th Floor Professional Building Cardiology Research office.
+      records at Maimonides Medical Center.
 
       Patients with COVID-19 infection are usually assessed with laboratory tests to determine
       their inflammatory state. Markers such as CRP, troponin, LDH and Ferritin, and IL6 level are
@@ -217,16 +220,16 @@
 
              -  Mortality
 
-      Safety Monitoring We anticipate colchicine to have an excellent safety profile given the
-      medication's widespread use in the outpatient and inpatient setting. However outcome data at
-      each 20 patients will be evaluated to ensure there are no adverse events which would would
-      necessitate pausing or discontinuation of the study. A signal for adverse events will be
-      discussed internally with the investigators and reported to the IRB. Serious adverse events
-      will be reported within 24 hours to the IRB.
+      Safety Monitoring The investigators anticipate colchicine to have an excellent safety profile
+      given the medication's widespread use in the outpatient and inpatient setting. However
+      outcome data at each 20 patients will be evaluated to ensure there are no adverse events
+      which would would necessitate pausing or discontinuation of the study. A signal for adverse
+      events will be discussed internally with the investigators and reported to the IRB. Serious
+      adverse events will be reported within 24 hours to the IRB.
     </textblock>
   </detailed_description>
   <overall_status>Recruiting</overall_status>
-  <start_date type="Actual">April 23, 2020</start_date>
+  <start_date type="Actual">April 26, 2020</start_date>
   <completion_date type="Anticipated">June 30, 2021</completion_date>
   <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
   <phase>Phase 2</phase>
@@ -264,7 +267,7 @@
   </intervention>
   <intervention>
     <intervention_type>Drug</intervention_type>
-    <intervention_name>Usual Care and no Colchine</intervention_name>
+    <intervention_name>Usual Care</intervention_name>
     <description>COVID Patients in this arm will receive usual care COVID19 treatment and will not receive colchine.</description>
     <arm_group_label>Usual Care</arm_group_label>
   </intervention>
@@ -322,11 +325,14 @@
 
           -  Patient is considered by the investigator, for any reason, to be unsuitable candidate
              for the study
+
+          -  Patient received Remdesivir, Sarilumab, Tociluzimab, Lopinavir/Ritonavir or other
+             immunomodulator given for COVID-19 treatment (convalescent plasma is NOT an exclusion)
       </textblock>
     </criteria>
     <gender>All</gender>
     <minimum_age>18 Years</minimum_age>
-    <maximum_age>120 Years</maximum_age>
+    <maximum_age>100 Years</maximum_age>
     <healthy_volunteers>No</healthy_volunteers>
   </eligibility>
   <overall_official>
@@ -371,9 +377,9 @@
   <study_first_submitted>April 23, 2020</study_first_submitted>
   <study_first_submitted_qc>April 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 27, 2020</study_first_posted>
-  <last_update_submitted>April 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 27, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>
@@ -391,12 +397,12 @@
   </patient_data>
   <provided_document_section>
     <provided_document>
-      <document_type>Statistical Analysis Plan</document_type>
-      <document_has_protocol>No</document_has_protocol>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
       <document_has_icf>No</document_has_icf>
       <document_has_sap>Yes</document_has_sap>
-      <document_date>April 22, 2020</document_date>
-      <document_url>https://ClinicalTrials.gov/ProvidedDocs/37/NCT04363437/SAP_000.pdf</document_url>
+      <document_date>April 24, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/37/NCT04363437/Prot_SAP_001.pdf</document_url>
     </provided_document>
   </provided_document_section>
   <!-- Results have not yet been posted for this study                                          -->

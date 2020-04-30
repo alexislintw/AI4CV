@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="420">
+<clinical_study rank="436">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04359654</url>
   </required_header>
@@ -96,29 +96,34 @@
     <masking>None (Open Label)</masking>
   </study_design_info>
   <primary_outcome>
-    <measure>Reduction in inflammation</measure>
+    <measure>Measuring the change in inflammation</measure>
     <time_frame>7 days</time_frame>
-    <description>Stabilisation of C-reactive protein</description>
+    <description>Analysing stabilisation of C-reactive protein</description>
   </primary_outcome>
   <secondary_outcome>
-    <measure>Mortality</measure>
+    <measure>Number of patients that are alive at 28 days</measure>
     <time_frame>28 days</time_frame>
-    <description>Death</description>
+    <description>How many patients that are still alive</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Oxygen requirement</measure>
+    <measure>Amount of days that patient requires oxygen</measure>
     <time_frame>7 days</time_frame>
-    <description>Oxygenation index</description>
+    <description>How many days on oxygen</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Length of hospital admission</measure>
+    <measure>Average oxygenation index</measure>
     <time_frame>7 days</time_frame>
-    <description>Days admitted</description>
+    <description>Calculating index with Fi02, mean airways pressure and Pa02 via https://www.mdcalc.com/oxygenation-index#use-cases</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Need of mechanical ventilation</measure>
+    <measure>Days patient admitted to hospital</measure>
     <time_frame>7 days</time_frame>
-    <description>Days on mechanical ventilation</description>
+    <description>How many days as an inpatient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients that need mechanical ventilation</measure>
+    <time_frame>7 days</time_frame>
+    <description>How many patients require mechanical ventilation</description>
   </secondary_outcome>
   <number_of_arms>2</number_of_arms>
   <enrollment type="Anticipated">50</enrollment>
@@ -231,9 +236,9 @@
   <study_first_submitted>April 21, 2020</study_first_submitted>
   <study_first_submitted_qc>April 21, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 24, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

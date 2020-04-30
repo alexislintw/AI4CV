@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="403">
+<clinical_study rank="417">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04362345</url>
   </required_header>
@@ -12,7 +12,7 @@
     <nct_id>NCT04362345</nct_id>
   </id_info>
   <brief_title>Clinical Features and Risk Factors Associated With Worse Outcome in Patients Hospitalized for Covid-19 Pneumonia</brief_title>
-  <official_title>Clinical Features and Risk Factors Associated With Worse Outcome in Patients Hospitalized for Covid-19 Pneumonia in France: a Retrospective Multicenter Cohort Study</official_title>
+  <official_title>Clinical Features and Risk Factors Associated With Worse Outcome in Patients Hospitalized for Covid-19 Pneumonia in France</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>University Hospital, Strasbourg, France</agency>
@@ -34,13 +34,13 @@
   </brief_summary>
   <overall_status>Recruiting</overall_status>
   <start_date type="Actual">April 9, 2020</start_date>
-  <completion_date type="Anticipated">April 17, 2020</completion_date>
-  <primary_completion_date type="Actual">April 17, 2020</primary_completion_date>
+  <completion_date type="Anticipated">May 17, 2020</completion_date>
+  <primary_completion_date type="Anticipated">May 17, 2020</primary_completion_date>
   <study_type>Observational</study_type>
   <has_expanded_access>No</has_expanded_access>
   <study_design_info>
     <observational_model>Case-Only</observational_model>
-    <time_perspective>Retrospective</time_perspective>
+    <time_perspective>Other</time_perspective>
   </study_design_info>
   <primary_outcome>
     <measure>Identification of risk factors for severity (death or transfer to resuscitation) of Covid-19 infection</measure>
@@ -158,9 +158,9 @@
   <study_first_submitted>April 20, 2020</study_first_submitted>
   <study_first_submitted_qc>April 23, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 23, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 23, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 24, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

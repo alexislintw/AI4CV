@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="267">
+<clinical_study rank="277">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04358068</url>
   </required_header>
@@ -34,21 +34,22 @@
     <textblock>
       The purpose of this study is to evaluate the efficacy of hydroxychloroquine (HCQ) and
       azithromycin (Azithro) to prevent hospitalization or death in symptomatic adult outpatients
-      with COVID-19.
+      with COVID-19 caused by SARS-CoV-2 infection.
     </textblock>
   </brief_summary>
   <detailed_description>
     <textblock>
       This Phase IIB study will evaluate the efficacy of hydroxychloroquine (HCQ) and azithromycin
-      (Azithro) to prevent hospitalization or death in symptomatic adult outpatients with COVID-19.
+      (Azithro) to prevent hospitalization or death in symptomatic adult outpatients with COVID-19
+      caused by SARS-CoV-2 infection.
 
       Participants will be randomized 1:1 to receive active/placebo study treatment as follows:
-      HCQ/Placebo 600 mg immediately followed by 200 mg three times a day for 7 days and
-      Azithro/Placebo 500 mg on the first day, followed by 250 mg daily for 4 days.
+      HCQ/Placebo 400 mg orally twice a day on Day 0 followed by 200 mg orally twice a day for 6
+      days, and Azithro/Placebo 500 mg once on Day 0, followed by 250 mg daily for 4 days.
 
-      Stratification will be by &quot;high&quot; versus &quot;low&quot; risk of progression to severe COVID-19 disease,
-      where &quot;high risk&quot; is defined as a person age ≥60 years or having at least one of several
-      specified comorbidities.
+      Stratification will be by &quot;high&quot; versus &quot;low&quot; risk of progression to severe COVID-19, where
+      &quot;high risk&quot; is defined as a person age ≥60 years or having at least one of several specified
+      comorbidities.
 
       Participants will receive study treatment for 7 days and will be followed for an additional
       23 weeks. Assessments on a subset of 200 participants will include blood collection,
@@ -105,7 +106,7 @@
     <description>Defined as the last day in the participant's daily diary card on which a moderate or worse symptom was recorded</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Participant-specific area under the curve of total symptom score associated with COVID-19 disease over time</measure>
+    <measure>Participant-specific area under the curve (AUC) of the symptom score associated with COVID-19 disease over time</measure>
     <time_frame>Measured through Day 20</time_frame>
     <description>Defined as the sum of scores for the targeted symptoms (defined in the protocol) in the participant's daily diary record (each individual symptom is scored from 0 to 3).</description>
   </secondary_outcome>
@@ -128,14 +129,14 @@
   <arm_group>
     <arm_group_label>Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)</arm_group_label>
     <arm_group_type>Experimental</arm_group_type>
-    <description>Day 0-6/7: Hydroxychloroquine 600 mg (administered as three 200 mg capsules) as a single dose on Day 0, then in 6-8 hours begin 200 mg (administered as one 200 mg capsule) three times daily for 21 doses (total of 4800 mg over 7 days).
-Days 0-4: Azithromycin 500 mg (administered as two 250 mg capsules) as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) once daily for 4 doses (4 days, Days 1-4).</description>
+    <description>Hydroxychloroquine 400 mg (administered as two 200 mg capsules) orally twice daily for 2 doses starting on Day 0, followed by 200 mg (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:
+Azithromycin 500 mg (administered as two 250 mg capsules) orally as a single dose on Day 0, followed by 250 mg (administered as one 250 mg capsule) orally once daily for 4 doses (4 days).</description>
   </arm_group>
   <arm_group>
     <arm_group_label>Arm B: Placebo for Hydroxychloroquine and Azithromycin</arm_group_label>
     <arm_group_type>Placebo Comparator</arm_group_type>
-    <description>Days 0-6/7: Placebo for Hydroxychloroquine (administered as three matching placebo capsules) as a single dose on Day 0, then in 6-8 hours begin 200 mg (administered as one 200 mg capsule) three times daily for 21 doses (7 days).
-Days 0-4: Placebo for Azithromycin (administered as two matching placebo capsules) as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) once daily for 4 doses (4 days, Days 1-4).</description>
+    <description>Placebo for Hydroxychloroquine (administered as two matching placebo capsules) orally twice daily for 2 doses starting on Day 0, followed by Placebo for HCQ (administered as one 200 mg capsule) orally twice daily for 12 doses (6 days), PLUS:
+Placebo for Azithromycin (administered as two matching placebo capsules) orally as a single dose on Day 0, followed by Placebo for Azithromycin (administered as one matching placebo capsule) orally once daily for 4 doses (4 days).</description>
   </arm_group>
   <intervention>
     <intervention_type>Drug</intervention_type>
@@ -167,10 +168,10 @@ Days 0-4: Placebo for Azithromycin (administered as two matching placebo capsule
         Inclusion Criteria:
 
           -  Documentation of confirmed active severe acute respiratory syndrome coronavirus
-             (SARS-CoV-2) infection
+             (SARS-CoV-2) infection.
 
-          -  Experiencing at least one of the following SARS-CoV-2 infection symptoms: fever (can
-             be subjective) OR cough OR shortness of breath.
+          -  Experiencing at least one of the following SARS-CoV-2 infection symptoms within 24
+             hours of screening: fever (can be subjective) OR cough OR shortness of breath.
 
           -  Agrees to not participate in another clinical trial for the treatment of COVID-19 or
              SARS-CoV-2 during the study period up until reaching hospitalization or 21 days,
@@ -185,13 +186,16 @@ Days 0-4: Placebo for Azithromycin (administered as two matching placebo capsule
 
           -  History of or current hospitalization for COVID-19.
 
-          -  History of ventricular arrhythmia or on antiarrhythmics.
+          -  History of ventricular arrhythmia or using antiarrhythmics within the past 30 days.
 
           -  Personal or family history of Long QT syndrome.
 
           -  History of kidney disease.
 
           -  History of ischemic or structural heart disease.
+
+          -  History of hypokalemia or hypomagnesemia or taking potassium supplementation or
+             magnesium supplementation
 
           -  Personal medical history of porphyria, retinopathy, severe hepatic impairment, or
              glucose-6-phosphate dehydrogenase (G6PD) deficiency.
@@ -201,9 +205,11 @@ Days 0-4: Placebo for Azithromycin (administered as two matching placebo capsule
              chloroquine, hydroxychloroquine, and azithromycin, or participation in a clinical
              trial involving any of these drugs whether for treatment or prophylaxis.
 
-          -  Use of antiepileptic drugs.
-
           -  Requirement or expected requirement for a medication that significantly prolongs QT
+             intervals or increases risk for QT prolongation.
+
+          -  Loop diuretics are exceptions to above exclusion criterion but these cannot be used
+             within 30 days prior to study entry.
 
           -  Participating in a study where co-enrollment is not allowed.
 
@@ -227,9 +233,9 @@ Days 0-4: Placebo for Azithromycin (administered as two matching placebo capsule
   <study_first_submitted>April 20, 2020</study_first_submitted>
   <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 22, 2020</study_first_posted>
-  <last_update_submitted>April 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="584">
+<clinical_study rank="602">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04323761</url>
   </required_header>
@@ -104,6 +104,18 @@
   </overall_contact>
   <location>
     <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Banner Health</name>
       <address>
         <city>Phoenix</city>
@@ -116,7 +128,7 @@
   </location>
   <location>
     <facility>
-      <name>Community Medical Centers</name>
+      <name>Community Regional Medical Centers (CRMC)</name>
       <address>
         <city>Fresno</city>
         <state>California</state>
@@ -152,7 +164,7 @@
   </location>
   <location>
     <facility>
-      <name>MemorialCare Medical Group Long Beach</name>
+      <name>Long Beach Memorial Medical Center</name>
       <address>
         <city>Long Beach</city>
         <state>California</state>
@@ -176,11 +188,11 @@
   </location>
   <location>
     <facility>
-      <name>California Pacific Medical Center</name>
+      <name>Scripps Mercy Hospital</name>
       <address>
-        <city>San Francisco</city>
+        <city>San Diego</city>
         <state>California</state>
-        <zip>94109</zip>
+        <zip>92064</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -188,7 +200,19 @@
   </location>
   <location>
     <facility>
-      <name>The Regents of the University of California, on behalf of its San Francisco campus</name>
+      <name>California Pacific Medical Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Medical Center (Parnassus Campus)</name>
       <address>
         <city>San Francisco</city>
         <state>California</state>
@@ -212,7 +236,7 @@
   </location>
   <location>
     <facility>
-      <name>San Mateo County Medical Center Foundation</name>
+      <name>San Mateo Medical Center</name>
       <address>
         <city>San Mateo</city>
         <state>California</state>
@@ -274,9 +298,9 @@
     <facility>
       <name>Rose Medical Center</name>
       <address>
-        <city>Boulder</city>
+        <city>Denver</city>
         <state>Colorado</state>
-        <zip>80304</zip>
+        <zip>80220</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -332,7 +356,7 @@
   </location>
   <location>
     <facility>
-      <name>Memorial Healthcare System</name>
+      <name>Memorial Regional Hospital</name>
       <address>
         <city>Hollywood</city>
         <state>Florida</state>
@@ -356,7 +380,7 @@
   </location>
   <location>
     <facility>
-      <name>AdventHealth Orlando</name>
+      <name>AdventHealth Orlando, Investigational Drug Services</name>
       <address>
         <city>Orlando</city>
         <state>Florida</state>
@@ -416,6 +440,18 @@
   </location>
   <location>
     <facility>
+      <name>Loyola University Medical Center</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Northwestern Medicine Central DuPage Hospital</name>
       <address>
         <city>Winfield</city>
@@ -440,11 +476,11 @@
   </location>
   <location>
     <facility>
-      <name>Touro Infirmary</name>
+      <name>Richard L Roudebush</name>
       <address>
-        <city>New Orleans</city>
-        <state>Louisiana</state>
-        <zip>70115</zip>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -452,7 +488,19 @@
   </location>
   <location>
     <facility>
-      <name>Ochsner Medical Center</name>
+      <name>Touro Infirmary</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Clinic Foundation</name>
       <address>
         <city>New Orleans</city>
         <state>Louisiana</state>
@@ -500,7 +548,7 @@
   </location>
   <location>
     <facility>
-      <name>University of Massachusetts</name>
+      <name>UMass Memorial Medical Center</name>
       <address>
         <city>Worcester</city>
         <state>Massachusetts</state>
@@ -536,11 +584,35 @@
   </location>
   <location>
     <facility>
+      <name>Detroit Medical Center Detroit Receiving Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Henry Ford Health System</name>
       <address>
         <city>Detroit</city>
         <state>Michigan</state>
         <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>McLaren Health Care Corporation</name>
+      <address>
+        <city>Flint</city>
+        <state>Michigan</state>
+        <zip>48532</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -668,7 +740,19 @@
   </location>
   <location>
     <facility>
-      <name>St. Michael's Medical Center</name>
+      <name>Jersey Shore University Medical Center</name>
+      <address>
+        <city>Neptune</city>
+        <state>New Jersey</state>
+        <zip>07753</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Michael's Medical Center</name>
       <address>
         <city>Newark</city>
         <state>New Jersey</state>
@@ -800,11 +884,35 @@
   </location>
   <location>
     <facility>
+      <name>The Brooklyn Hospital Center</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Kingsbrook Jewish Medical Center</name>
       <address>
         <city>Brooklyn</city>
         <state>New York</state>
         <zip>11203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Woodhull Medical Center</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11206</zip>
         <country>United States</country>
       </address>
     </facility>
@@ -848,6 +956,18 @@
   </location>
   <location>
     <facility>
+      <name>NYU Langone Hospital - Brooklyn</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>New York City Health and Hospitals - Coney Island</name>
       <address>
         <city>Brooklyn</city>
@@ -860,7 +980,7 @@
   </location>
   <location>
     <facility>
-      <name>New York Presbyterian Hospital</name>
+      <name>New York Presbyterian- Queens</name>
       <address>
         <city>Flushing</city>
         <state>New York</state>
@@ -884,6 +1004,30 @@
   </location>
   <location>
     <facility>
+      <name>Queens Hospital Center</name>
+      <address>
+        <city>Jamaica</city>
+        <state>New York</state>
+        <zip>11432</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Hospital for Special Surgery</name>
       <address>
         <city>New York</city>
@@ -896,7 +1040,31 @@
   </location>
   <location>
     <facility>
-      <name>New York City Health and Hospitals/Harlem</name>
+      <name>New York City Health and New York City Health and Hospitals - Metropolitan- Metropolitan</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Irving Medical Center - New York Presbyterian Hospital Core Lab</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>New York City Health + Hospitals / Harlem</name>
       <address>
         <city>New York</city>
         <state>New York</state>
@@ -956,7 +1124,7 @@
   </location>
   <location>
     <facility>
-      <name>Staten Island University Hopsital- Northwell Health (North Campus)</name>
+      <name>Staten Island University Hospital- Northwell Health (North Campus)</name>
       <address>
         <city>Staten Island</city>
         <state>New York</state>
@@ -1040,7 +1208,7 @@
   </location>
   <location>
     <facility>
-      <name>St. David's Medical Center</name>
+      <name>St. David's South Austin Medical Center</name>
       <address>
         <city>Austin</city>
         <state>Texas</state>
@@ -1100,7 +1268,7 @@
   </location>
   <location>
     <facility>
-      <name>Methodist Healthcare System of San Antonio</name>
+      <name>Methodist Healthcare System of San Antonio, Ltd. LLP, dha, Methodist Hospital</name>
       <address>
         <city>San Antonio</city>
         <state>Texas</state>
@@ -1126,7 +1294,7 @@
     <facility>
       <name>Inova Fairfax Medical Campus</name>
       <address>
-        <city>Fairfax</city>
+        <city>Falls Church</city>
         <state>Virginia</state>
         <zip>22042</zip>
         <country>United States</country>
@@ -1181,6 +1349,28 @@
   </location>
   <location>
     <facility>
+      <name>Hôpital Civil Marie Curie</name>
+      <address>
+        <city>Lodelinsart</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>William Osler Health System</name>
+      <address>
+        <city>Brampton</city>
+        <state>Ontario</state>
+        <zip>L6R 3J7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
       <name>Hopital Avicenne</name>
       <address>
         <city>Bobigny</city>
@@ -1196,6 +1386,17 @@
       <address>
         <city>Brest Cedex</city>
         <zip>29609</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Available</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Gabriel-Montpied</name>
+      <address>
+        <city>Clermont Ferrand</city>
+        <zip>63000</zip>
         <country>France</country>
       </address>
     </facility>
@@ -1709,6 +1910,7 @@
   </location>
   <location_countries>
     <country>Belgium</country>
+    <country>Canada</country>
     <country>France</country>
     <country>Germany</country>
     <country>Israel</country>
@@ -1724,9 +1926,9 @@
   <study_first_submitted>March 24, 2020</study_first_submitted>
   <study_first_submitted_qc>March 24, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">March 27, 2020</study_first_posted>
-  <last_update_submitted>April 24, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 24, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 28, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

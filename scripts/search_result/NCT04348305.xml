@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="434">
+<clinical_study rank="449">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04348305</url>
   </required_header>
@@ -276,6 +276,34 @@ If continuous intravenous infusion is not possible, we will allow the use of bol
   </location>
   <location>
     <facility>
+      <name>Hvidovre Hospital - Dept of Infectious diseases</name>
+      <address>
+        <city>Hvidovre</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Benfield</last_name>
+      <email>Thomas.Lars.Benfield@regionh.dk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hvidovre Hospital - Dept of Intensive Care</name>
+      <address>
+        <city>Hvidovre</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Klaus T Kristiansen</last_name>
+      <email>klaus.tjelle.kristiansen.02@regionh.dk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
       <name>Hvidovre Hospital - Dept of Pulmonary Medicine</name>
       <address>
         <city>Hvidovre</city>
@@ -341,9 +369,9 @@ If continuous intravenous infusion is not possible, we will allow the use of bol
   <study_first_submitted>April 11, 2020</study_first_submitted>
   <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 16, 2020</study_first_posted>
-  <last_update_submitted>April 28, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
+  <last_update_submitted>April 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="274">
+<clinical_study rank="284">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04336332</url>
   </required_header>
@@ -159,9 +159,9 @@ Azithromycin 250 mg taken by mouth once (1) time a day for four (4) days.</descr
     <description>• Hydroxychloroquine sulfate 200 mg taken by mouth three (3) times a day for 10 days</description>
   </arm_group>
   <arm_group>
-    <arm_group_label>Arm 3: Supportive Care</arm_group_label>
+    <arm_group_label>Arm 3: Placebo</arm_group_label>
     <arm_group_type>No Intervention</arm_group_type>
-    <description>Supportive care Days 1-6.
+    <description>Placebo pills Days 1-6.
 If you still have COVID-19 symptoms you will receive Hydroxychloroquine sulfate 200 mg by mouth three (3) times a day for 10 days</description>
   </arm_group>
   <intervention>
@@ -193,8 +193,6 @@ If you still have COVID-19 symptoms you will receive Hydroxychloroquine sulfate 
              consistent with COVID-19
 
           -  Ability to measure and quantify viral load by quantitative PCR
-
-          -  Temperature &gt;100.6°F
 
           -  Age 18 to 89
 
@@ -243,6 +241,48 @@ If you still have COVID-19 symptoms you will receive Hydroxychloroquine sulfate 
     <phone>732-235-7840</phone>
     <email>hussaisa@rwjms.rutgers.edu</email>
   </overall_contact>
+  <location>
+    <facility>
+      <name>Saint Barnabas Medical Center</name>
+      <address>
+        <city>Livingston</city>
+        <state>New Jersey</state>
+        <zip>07039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sara Ingersoll</last_name>
+      <phone>973-322-5000</phone>
+      <email>Sara.Ingersoll@rwjbh.org</email>
+    </contact>
+    <investigator>
+      <last_name>Anthony Carlino, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Morristown Medical Center</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07960</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Margaret Guthrie</last_name>
+      <phone>973-971-6347</phone>
+      <email>Margaret.Guthrie@atlantichealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Eric Whitman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
   <location>
     <facility>
       <name>Robert Wood Johnson University Hopsital</name>
@@ -306,6 +346,27 @@ If you still have COVID-19 symptoms you will receive Hydroxychloroquine sulfate 
       <role>Principal Investigator</role>
     </investigator>
   </location>
+  <location>
+    <facility>
+      <name>Overlook Hospital</name>
+      <address>
+        <city>Summit</city>
+        <state>New Jersey</state>
+        <zip>07901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric Whitman, MD</last_name>
+      <phone>973-971-7111</phone>
+      <email>eric.whitman@atlantichealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Eric Whitman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
   <location_countries>
     <country>United States</country>
   </location_countries>
@@ -313,9 +374,9 @@ If you still have COVID-19 symptoms you will receive Hydroxychloroquine sulfate 
   <study_first_submitted>March 31, 2020</study_first_submitted>
   <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 7, 2020</study_first_posted>
-  <last_update_submitted>April 9, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 9, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 13, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Rutgers, The State University of New Jersey</investigator_affiliation>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="477">
+<clinical_study rank="494">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04360837</url>
   </required_header>
@@ -37,7 +37,7 @@
       COVID-19 originated from Severe Acut Respiratory Syndrome Coronavirus-2 (SARS-CoV-2)
       infection leads to critical condition due to hypoxemic respiratory failure with the
       background of viral pneumonia. Both alevolar recruitment and the subsequent optimal positive
-      end-expiratory pressure (PEEP) adjustment has a pivotal role in the eliminitaion of
+      end-expiratory pressure (PEEP) adjustment has a pivotal role in the elimination of
       atelectasis developed by inflammation in the lung parenchyma The gold standard of the follow
       up of recruitment manoeuvre is the chest computed tomography (CT) examination. However,
       reduction of intrahospital transport and the exposure with healthcare workers are recommended
@@ -51,12 +51,12 @@
   </brief_summary>
   <detailed_description>
     <textblock>
-      COVID-19 originated from SARS-CoV-2 infection leads to critical condition in 5% of the cases
-      due to hypoxemic respiratory failure with the background of viral pneumonia. 90% of these
-      patients require invasive mechanical ventilation on critical care units. Both alevolar
-      recruitment and the subsequent optimal positive end-expiratory pressure (PEEP) adjustment has
-      a pivotal role in the eliminitaion of atelectasis developed by inflammation in the lung
-      parenchyma.
+      COVID-19 originated from Severe Acut Respiratory Syndrome Coronavirus-2 (SARS-CoV-2)
+      infection leads to critical condition in 5% of the cases due to hypoxemic respiratory failure
+      with the background of viral pneumonia. 90% of these patients require invasive mechanical
+      ventilation on critical care units. Both alevolar recruitment and the subsequent optimal
+      positive end-expiratory pressure (PEEP) adjustment has a pivotal role in the eliminitaion of
+      atelectasis developed by inflammation in the lung parenchyma.
 
       The gold standard of the follow up of recruitment manoeuvre is the chest computed tomography
       (CT) examination. However, reduction of intrahospital transport and the exposure with
@@ -159,7 +159,7 @@ Repeating the above detailed intervention once daily as long as the patient is c
       <textblock>
         Inclusion Criteria:
 
-          -  SARS-CoV-2 positivity confirmed by polimerase chain reaction
+          -  SARS-CoV-2 positivity confirmed by polymerase chain reaction
 
           -  orotracheally intubated patients
 
@@ -217,9 +217,9 @@ Repeating the above detailed intervention once daily as long as the patient is c
   <study_first_submitted>April 22, 2020</study_first_submitted>
   <study_first_submitted_qc>April 22, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 22, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 24, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Principal Investigator</responsible_party_type>
     <investigator_affiliation>Szeged University</investigator_affiliation>

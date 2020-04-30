@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="791">
+<clinical_study rank="818">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04335162</url>
   </required_header>
@@ -36,7 +36,7 @@
       non survivors) and fibrin degradation products are also associated with increased risk of
       mortality suggesting also the possibility of venous thromboembolism. Therefore, screening for
       cardiomyopathies and venous thromboembolism could represent an important challenge for
-      patients with COID-19 management.
+      patients with COVID-19 management.
     </textblock>
   </brief_summary>
   <overall_status>Recruiting</overall_status>
@@ -133,6 +133,59 @@
   </overall_contact>
   <location>
     <facility>
+      <name>Centre Hospitalier de Cannes</name>
+      <address>
+        <city>Cannes</city>
+        <zip>06400</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pierre-Marie BERTRAND</last_name>
+      <email>PM.BERTRAND@ch-cannes.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Alexandre ROBERT</last_name>
+      <email>A.ROBERT@ch-cannes.fr</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de Draguignan</name>
+      <address>
+        <city>Draguignan</city>
+        <zip>83300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andres Jurado</last_name>
+      <email>andres.jurado@wanadoo.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de Grasse</name>
+      <address>
+        <city>Grasse</city>
+        <zip>06130</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pierre-Marie Bertrand</last_name>
+      <email>pm.bertrand@ch-cannes.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Alexandre Robert</last_name>
+      <email>a.robert@ch-cannes.fr</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
       <name>CHU de Nice</name>
       <address>
         <city>Nice</city>
@@ -156,7 +209,7 @@
         <country>France</country>
       </address>
     </facility>
-    <status>Not yet recruiting</status>
+    <status>Recruiting</status>
     <contact>
       <last_name>Mathieu Jozwiak</last_name>
       <phone>0033158412661</phone>
@@ -170,9 +223,9 @@
   <study_first_submitted>April 3, 2020</study_first_submitted>
   <study_first_submitted_qc>April 3, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 6, 2020</study_first_posted>
-  <last_update_submitted>April 3, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 3, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 6, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

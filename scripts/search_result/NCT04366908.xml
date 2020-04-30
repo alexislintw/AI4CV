@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="617">
+<clinical_study rank="637">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04366908</url>
   </required_header>
@@ -115,9 +115,9 @@
     <description>Compare the evolution in the degree of dyspnea using the analog Borg scale</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>Evolution of radiological findings</measure>
+    <measure>Evolution of the improvement of radiological findings by simple radiology</measure>
     <time_frame>At day 28.</time_frame>
-    <description>Compare the evolution of radiological findings by simple radiology</description>
+    <description>Compare the evolution of radiological findings by simple radiology in the recruited subjects since their beginning in the trial until they end the trial</description>
   </secondary_outcome>
   <secondary_outcome>
     <measure>Incidence of adverse events</measure>
@@ -207,10 +207,10 @@ Start: 2 capsules Days 3, 7, 14, 21, 28: 1 capsule</description>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 25, 2020</study_first_submitted>
   <study_first_submitted_qc>April 27, 2020</study_first_submitted_qc>
-  <study_first_posted type="Estimate">April 29, 2020</study_first_posted>
-  <last_update_submitted>April 27, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 27, 2020</last_update_submitted_qc>
-  <last_update_posted type="Estimate">April 29, 2020</last_update_posted>
+  <study_first_posted type="Actual">April 29, 2020</study_first_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

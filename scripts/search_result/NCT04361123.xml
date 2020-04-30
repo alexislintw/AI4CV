@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="785">
+<clinical_study rank="811">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04361123</url>
   </required_header>
@@ -53,7 +53,7 @@
       seroconversions over the 12 months of the study.
     </textblock>
   </detailed_description>
-  <overall_status>Not yet recruiting</overall_status>
+  <overall_status>Enrolling by invitation</overall_status>
   <start_date type="Anticipated">April 2020</start_date>
   <completion_date type="Anticipated">December 2021</completion_date>
   <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
@@ -197,18 +197,27 @@
     <role>Principal Investigator</role>
     <affiliation>Atrium Health</affiliation>
   </overall_official>
-  <overall_contact>
-    <last_name>Melanie Hogg, MS</last_name>
-    <phone>704-355-4288</phone>
-    <email>Melanie.Hogg@atriumhealth.org</email>
-  </overall_contact>
+  <location>
+    <facility>
+      <name>Atrium Health</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
   <verification_date>April 2020</verification_date>
   <study_first_submitted>April 22, 2020</study_first_submitted>
   <study_first_submitted_qc>April 22, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 24, 2020</study_first_posted>
-  <last_update_submitted>April 22, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 22, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 24, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>Atrium Health</investigator_affiliation>

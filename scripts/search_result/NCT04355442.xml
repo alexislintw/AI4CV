@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="735">
+<clinical_study rank="759">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04355442</url>
   </required_header>
@@ -98,17 +98,17 @@
   <primary_outcome>
     <measure>evolution of number of maxillofacial trauma</measure>
     <time_frame>1 year</time_frame>
-    <description>evolution of number of maxillofacial trauma during COVID-19 first month of containment measures compared to the same period in 2018 and 2019</description>
+    <description>evolution of number of maxillofacial trauma during COVID-19 first month of containment measures compared to the same period in 2018 and 2019.the number of patients from different investigator centers operated for a facial fracture occurring between March 16, 2020 and April 15, 2020 will be compared to the number of patients in these same centers operated for a facial fracture during the same period in 2018 and in 2019. A sub-group analysis, by center, will also be carried out.</description>
   </primary_outcome>
   <secondary_outcome>
     <measure>variability in terms of type of trauma</measure>
     <time_frame>1 year</time_frame>
-    <description>study of variability in terms of type of trauma with and without confinement</description>
+    <description>study of variability in terms of type of trauma with and without confinement.</description>
   </secondary_outcome>
   <secondary_outcome>
-    <measure>the inter-regional variability of maxillofacial trauma</measure>
+    <measure>Comparative assessment of types of trauma by the inter-regional variability</measure>
     <time_frame>1 year</time_frame>
-    <description>study of the inter-regional variability of maxillofacial trauma</description>
+    <description>Comparative assessment of types of trauma by the inter-regional variability : study of the inter-regional variability of maxillofacial trauma</description>
   </secondary_outcome>
   <number_of_groups>2</number_of_groups>
   <enrollment type="Anticipated">300</enrollment>
@@ -181,9 +181,9 @@
   <study_first_submitted>April 16, 2020</study_first_submitted>
   <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 21, 2020</study_first_posted>
-  <last_update_submitted>April 20, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 20, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 21, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>
   </responsible_party>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="136">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04370236</url>
+  </required_header>
+  <id_info>
+    <org_study_id>XPro1595-COVID-19</org_study_id>
+    <nct_id>NCT04370236</nct_id>
+  </id_info>
+  <brief_title>XPro1595 for the Treatment of Pulmonary Complications From COVID-19</brief_title>
+  <official_title>Phase 2 Randomised Trial Using XPro1595 to Treat Participants With Pulmonary Complications From Coronavirus Disease (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Inmune Bio, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Inmune Bio, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether XPro1595 can prevent the progression of
+      respiratory complications in COVID19 patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The clinical trial is a Phase 2, open-label, randomized clinical trial of XPro1595 in
+      participants with pulmonary complications due to COVID-19 infection.
+
+      Patients with COVID-19 infection and a room air oxygen saturation (SaO2) &gt;93% are eligible to
+      participate in a 28-day study to determine whether XPro1595 can prevent the progression of
+      pulmonary complications.
+
+      Eligible participants will be randomized (1:1) to receive either XPro1595 at 1mg/kg by
+      subcutaneous injection (SC) + standard of care (SOC) or SOC alone. Participants randomized to
+      XPro1595 + SOC will receive their first dose of XPro1595 after randomization and a second
+      dose 7 days later. A final safety visit will occur on Day 28.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2020</start_date>
+  <completion_date type="Anticipated">January 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Standard of Care vs. XPro1595 + Standard of Care</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants with treatment failure</measure>
+    <time_frame>28 days</time_frame>
+    <description>Treatment failure is defined by progression to one of the following:
+Transfer to ICU
+Need for mechanical
+New onset myocardial infarction or congestive heart failure
+Requirement for renal replacement therapy
+New onset of neurologic symptoms
+New onset of thrombotic or embolic event
+Death</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with an increase in the World Health Organization (WHO) Ordinal Scale of Clinical Improvement</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to treatment failure</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with all-cause mortality</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to death</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of index-hospital stay</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of ICU level of care</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Number of Days with Fever</measure>
+    <time_frame>28 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Readmission before day 28 for any reason due to COVID-19</measure>
+    <time_frame>28 days</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients will receive standard medical care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>XPro1595 + Standard of Care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive XPro1595 plus standard medical care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>XPro1595</intervention_name>
+    <description>Patients will receive a weekly injection of 1mg/kg XPro1595 for 2 weeks</description>
+    <arm_group_label>XPro1595 + Standard of Care</arm_group_label>
+    <other_name>DN-TNF, INB03, XENP345</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Aged &gt; 50 years old
+
+          -  Have a positive COVID-19 test in last 28 days
+
+          -  Have a room air SaO2 &lt;93%
+
+          -  Have abnormal chest X-ray, MRI or CT scan consistent with pulmonary complications from
+             COVID-19
+
+          -  Provide written informed consent prior to any study-related procedures being
+             performed.
+
+        Exclusion Criteria:
+
+          -  Require immediate intubation due to advanced respiratory failure
+
+          -  Require immediate admission to an Intensive Care Unit for any reason
+
+          -  On current therapy with approved Tumor Necrosis Factor (TNF) inhibitor (eg:
+             thalidomide)
+
+          -  Being treated with corticosteroids dose of &gt;10mg per day
+
+          -  Taking any medication known to be Chemokine Receptor 5 antagonist (eg: leronlimab,
+             aplaviroc, vicriviroc or maraviroc)
+
+          -  Taking any medication known to inhibit the cytokine pathway (eg: anakinra,
+             tocilizumab, siltuximab, etc)
+
+          -  Known to be pregnant
+
+          -  Significant hepatic disease (ALT/AST&gt; 4 times the ULN)
+
+          -  On current therapy for cancer
+
+          -  Known hypersensitivity to investigational product or its excipients
+
+          -  Participating in an investigational drug or device trial
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Christopher Barnum, PhD</last_name>
+    <phone>+1 (858) 964-3720</phone>
+    <email>trials@inmunebio.com</email>
+  </overall_contact>
+  <link>
+    <url>http://www.inmunebio.com</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 30, 2020</study_first_posted>
+  <last_update_submitted>April 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>TNF</keyword>
+  <keyword>XPro1595</keyword>
+  <keyword>DN-TNF</keyword>
+  <keyword>cytokine storm</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

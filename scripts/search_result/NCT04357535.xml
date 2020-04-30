@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clinical_study rank="153">
+<clinical_study rank="221">
   <!-- This xml conforms to an XML Schema at:
     https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on April 29, 2020</download_date>
+    <download_date>ClinicalTrials.gov processed this data on April 30, 2020</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT04357535</url>
   </required_header>
@@ -12,7 +12,7 @@
     <nct_id>NCT04357535</nct_id>
   </id_info>
   <brief_title>Prognosis of Coronavirus Disease 2019 (COVID-19) Patients Receiving Receiving Antihypertensives</brief_title>
-  <official_title>Prognosis of Patients With Coronavirus Disease 2019 (COVID-19) Receiving Angiotensin-Converting Enzyme Inhibitors (ACE-I) and Angiotensin II Receptor Antagonists (ARBs)</official_title>
+  <official_title>Prognosis of SARS-Cov 2 Positive Patients Receiving Angiotensin Converting Enzyme Inhibitors (ACE-I) and Angiotensin II Receptor Antagonists (ARBs)</official_title>
   <sponsors>
     <lead_sponsor>
       <agency>Hakeam Abdulaziz Hakeam</agency>
@@ -234,9 +234,9 @@ Admission to the intensive care unit (ICU) and data relating to ICU stay.</descr
   <study_first_submitted>April 19, 2020</study_first_submitted>
   <study_first_submitted_qc>April 21, 2020</study_first_submitted_qc>
   <study_first_posted type="Actual">April 22, 2020</study_first_posted>
-  <last_update_submitted>April 21, 2020</last_update_submitted>
-  <last_update_submitted_qc>April 21, 2020</last_update_submitted_qc>
-  <last_update_posted type="Actual">April 22, 2020</last_update_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 30, 2020</last_update_posted>
   <responsible_party>
     <responsible_party_type>Sponsor-Investigator</responsible_party_type>
     <investigator_affiliation>King Faisal Specialist Hospital &amp; Research Center</investigator_affiliation>
@@ -246,10 +246,6 @@ Admission to the intensive care unit (ICU) and data relating to ICU stay.</descr
   <keyword>Coronavirus Disease 2019</keyword>
   <keyword>Angiotensin Converting Enzyme Inhibitors</keyword>
   <keyword>Angiotensin II Receptor Blockers</keyword>
-  <condition_browse>
-    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
-    <mesh_term>Coronavirus Infections</mesh_term>
-  </condition_browse>
   <intervention_browse>
     <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
     <mesh_term>Angiotensin II</mesh_term>
