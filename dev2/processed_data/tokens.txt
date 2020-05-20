@@ -1,0 +1,118 @@
+ace inhibitors terapy
+active bleeding
+adenovirus
+age
+alanine aminotransferase
+alanine aminotransferase
+albumin
+allergic
+allergic alveolitis
+allergy
+alt
+alteration in hepatic values
+alveolar proteinosis
+arrhythmias
+aspartate aminotransferase
+aspartate aminotransferase
+ast
+asthenia
+autoimmune diseases
+bacterial pneumonia
+bilirubin
+blood dyscrasia
+c-reactive protein
+cancer
+chest ct
+chest tightness
+chest x-ray
+child pugh score
+ck values elevation
+conjunctivitis
+coronary artery disease
+cough
+creatinine
+creatinine clearance
+creatinine kinase
+days of aggravated clinical symptoms
+diabetes
+diarrhea
+dyspnea
+end-stage lung disease
+estimated glomerular filtration rate
+expected survival time
+fat liver
+fatigue
+fever
+fungal pneumonia
+gout
+hbv
+hcv
+headache
+hemoglobin
+hepatitis b virus
+hepatitis c virus
+high blood pressure
+high esr
+hiv
+human immunodeficiency virus
+hyperthension
+hypoalbuminemia
+icu
+immunosuppressive agents
+intensive care unit
+intensive care unit
+intubation
+ketoacidosis
+kidney diseases
+lactate
+ldh values elevation
+limphopoenia
+liver diseases
+lymphocyte
+malignant tumor
+mechanical ventilation
+myalgias
+nasal discharge
+nausea
+neoplastic disease
+neutrophil
+non invasive ventilatory assistance
+obesity
+obstructive pneumonia
+organ failure
+organ transplants
+pao2/fio2 ratio
+parainfluenza virus
+pco2
+pcr elevation
+peep
+peritoneal dialysis
+ph
+pharyngodynia
+platelet
+potassium
+presence of cardiophaty
+prothrombin
+psychosis
+pulmonary interstitial fibrosis
+renal impairment
+renal replacement therapy hemodialysis
+respiratory distress
+respiratory failure
+respiratory rate
+rhinitis
+rr
+rt-pcr
+sequential organ failure assessment
+severe malnutrition
+sex
+significant disorder of coagulation
+smoker
+sodium
+sofa score
+sore-throat
+spo2
+sputum production
+urea
+vomit
+white blood cell

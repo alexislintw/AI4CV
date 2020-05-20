@@ -1,0 +1,1965 @@
+NCT03808922
+
+        inclusion criteria:
+
+          1. at the time of randomization, requires supplemental oxygen ≥2 lpm due to hypoxemia.
+
+          2. immunocompromised, as defined by one or more of the following:
+
+               -  received an autologous or allogeneic hematopoietic stem cell transplantation
+                  (hsct) at any time in the past
+
+               -  received a solid organ transplant at any time in the past
+
+               -  has been or is currently being treated with chemotherapy for hematologic
+                  malignancies (e.g., leukemia, myeloma, lymphoma) and/or solid tumor malignancies
+                  (e.g., lung, breast, brain cancer) at any time in the past
+
+               -  has an immunodeficiency due to congenital abnormality (only applicable to
+                  subjects age < 18 years old) or pre-term birth (only applicable to subjects age ≤
+                  2 years old)
+
+          3. has, within 3 days prior to randomization, a confirmed lrti with a sialic acid
+             dependent respiratory virus
+
+          4. if female, subject must meet one of the following conditions:
+
+               -  not be of childbearing potential or
+
+               -  be of childbearing potential and have a negative urine/serum pregnancy test and
+                  agrees to practice an acceptable method of contraception
+
+          5. non-vasectomized males are required to practice effective birth control methods
+
+          6. capable of understanding and complying with procedures as outlined in the protocol
+
+          7. provides signed informed consent prior to the initiation of any screening or
+             study-specific procedures
+
+        for covid-19 sub study:
+
+          1. be ≥18 years of age
+
+          2. provide adequate medical history to permit accurate stratification (but health status
+             may be healthy, high-risk conditions, or immunocompromised).
+
+          3. prior to sars cov 2 infection, has the ability to carry out self-care activities of
+             daily living (basic adl)
+
+          4. have lower respiratory tract infection (lrti) confirmed by ct imaging, with or without
+             contrast, to involve at least 2 lobes of the lung.
+
+          5. has laboratory-confirmation of the presence of sars cov 2 in the respiratory tract by
+             at least one of the following samples
+
+          6. satisfy inclusion criteria #1, 4, 5, 6, 7 of the main study
+
+        exclusion criteria:
+
+          1. subjects may not be on hospice care or, in the opinion of the investigator, have a low
+             chance of survival during the first 10 days of treatment
+
+          2. subjects with alanine aminotransferase (alt), aspartate aminotransferase (ast), or
+             alkaline phosphatase (alp) ≥3x uln and total bilirubin (tbili) ≥2x uln note: subjects
+             with alt/ast/alp ≥ 3x uln and tb ≥2x uln that have been chronically stable (for >1
+             year on more than one assessments) due to known liver pathology including malignancy
+             (primary or metastasis), chronic medications, transplantation, or chronic infection
+             will not be excluded
+
+          3. female subjects breastfeeding or planning to breastfeed at any time through 30 days
+             after the last dose of study drug
+
+          4. subjects taking any other investigational drug used to treat pulmonary infection.
+
+          5. psychiatric or cognitive illness or recreational drug/alcohol use that, in the opinion
+             of the principal investigator, would affect subject safety and/or compliance
+
+          6. subjects with known hypersensitivity to das181 and/or any of its components
+
+          7. subjects with severe sepsis due to either their baseline sad-rv infection or a
+             concurrent viral, bacterial, or fungal infection and meet at least one of the
+             following criteria:
+
+               -  has evidence of vital organ failure outside of the lung (e.g., liver, kidney)
+
+               -  requires vasopressors to maintain blood pressure
+
+        for covid-19 sub study:
+
+          1. subjects requiring invasive mechanical, bi-pap or cpap ventilation at randomization.
+
+          2. subjects receiving any other investigational or empiric treatment for sars-2-cov
+             (either as part of a clinical trial or under emergency approval (approved agents for
+             the management of symptoms, e.g., fever, are permitted).
+
+          3. subjects who are known hiv-positive (and not undetectable at most recent hiv rna
+             assessment)
+
+          4. subjects who are currently taking immunomodulating biologics (e.g, interferons,
+             interleukin)
+
+          5. subjects with severe sepsis due to either their sars-cov-2 infection or a concurrent
+             viral, bacterial, or fungal infection and meeting at least one of the following
+             criteria:
+
+               -  have evidence of vital organ failure outside of the lung (e.g., liver, kidney)
+
+               -  require vasopressors to maintain blood pressure
+
+          6. subjects meeting exclusion criteria #2, 3, 5 and 6 of the main study
+      
+
+
+NCT04280705
+
+        inclusion criteria:
+
+          1. admitted to a hospital with symptoms suggestive of covid-19 infection.
+
+          2. subject (or legally authorized representative) provides informed consent prior to
+             initiation of any study procedures.
+
+          3. subject (or legally authorized representative) understands and agrees to comply with
+             planned study procedures.
+
+          4. male or non-pregnant female adult > / = 18 years of age at time of enrollment.
+
+          5. has laboratory-confirmed sars-cov-2 infection as determined by polymerase chain
+             reaction (pcr) or other commercial or public health assay in any specimen, as
+             documented by either or the following:
+
+               -  pcr positive in sample collected < 72 hours prior to randomization; or
+
+               -  pcr positive in sample collected >/= 72 hours prior to randomization, documented
+                  inability to obtain a repeat sample (e.g. due to lack of testing supplies,
+                  limited testing capacity, results taking >24 hours, etc.) and progressive disease
+                  suggestive of ongoing sars-cov-2 infection.
+
+          6. illness of any duration, and at least one of the following:
+
+               -  radiographic infiltrates by imaging (chest x-ray, ct scan, etc.), or
+
+               -  spo2 < / = 94% on room air, or
+
+               -  requiring supplemental oxygen, or
+
+               -  requiring mechanical ventilation.
+
+          7. women of childbearing potential must agree to either abstinence or use at least one
+             primary form of contraception not including hormonal contraception from the time of
+             screening through day 29.
+
+          8. agrees to not participate in another clinical trial for the treatment of covid-19 or
+             sars-cov-2 through day 29.
+
+        exclusion criteria:
+
+          1. alanine transaminase (alt) or aspartate transaminase (ast) > 5 times the upper limit
+             of normal.
+
+          2. estimated glomerular filtration rate (egfr) < 30 ml/min (including patients receiving
+             hemodialysis or hemofiltration).
+
+          3. pregnancy or breast feeding.
+
+          4. anticipated discharge from the hospital or transfer to another hospital which is not a
+             study site within 72 hours.
+
+          5. allergy to any study medication.
+      
+
+
+NCT04292730
+
+        key inclusion criteria:
+
+          -  willing and able to provide written informed consent prior to performing study
+             procedures (participants ≥ 18 years of age) or assent (participants ≥ 12 and < 18
+             years of age) prior to performing study procedures. for participants ≥ 12 and < 18
+             years of age, a parent or legal guardian willing and able to provide written informed
+             consent prior to performing study procedures
+
+          -  severe acute respiratory syndrome coronavirus (sars-cov)-2 infection confirmed by
+             polymerase chain reaction (pcr) test ≤ 4 days before randomization
+
+          -  currently hospitalized and requiring medical care for covid-19
+
+          -  peripheral capillary oxygen saturation (spo2) > 94% on room air at screening
+
+          -  radiographic evidence of pulmonary infiltrates
+
+        key exclusion criteria:
+
+          -  participation in any other clinical trial of an experimental treatment for covid-19
+
+          -  concurrent treatment with other agents with actual or possible direct acting antiviral
+             activity against sars-cov-2 < 24 hours prior to study drug dosing
+
+          -  requiring mechanical ventilation at screening
+
+          -  alanine aminotransferase (alt) or aspartate aminotransferase (ast) > 5 x upper limit
+             of normal (uln)
+
+          -  creatinine clearance < 50 ml/min using the cockcroft-gault formula for participants ≥
+             18 years of age {cockcroft 1976} and schwartz formula for participants < 18 years of
+             age
+
+        note: other protocol defined inclusion/exclusion criteria may apply.
+      
+
+
+NCT04292899
+
+        key inclusion criteria:
+
+          -  willing and able to provide written informed consent, or with a legal representative
+             who can provide informed consent, or enrolled under international conference on
+             harmonization (ich) e6(r2) 4.8.15 emergency use provisions as deemed necessary by the
+             investigator (age ≥18), or willing and able to provide assent (age ≥12 to <18, where
+             locally and nationally approved) prior to performing study procedures
+
+          -  aged ≥ 18 years (at all sites), or aged ≥ 12 and < 18 years of age weighing ≥ 40 kg
+             (where permitted according to local law and approved nationally and by the relevant
+             institutional review board [irb] or independent ethics committee [iec])
+
+          -  severe acute respiratory syndrome coronavirus (sars-cov)-2 infection confirmed by
+             polymerase chain reaction (pcr) test ≤ 4 days before randomization
+
+          -  currently hospitalized
+
+          -  peripheral capillary oxygen saturation (spo2) ≤ 94% or requiring supplemental oxygen
+             at screening
+
+        key exclusion criteria:
+
+          -  participation in any other clinical trial of an experimental treatment for covid-19
+
+          -  concurrent treatment with other agents with actual or possible direct acting antiviral
+             activity against sars-cov-2 is prohibited < 24 hours prior to study drug dosing
+
+          -  evidence of multiorgan failure
+
+          -  mechanically ventilated (including v-v ecmo) ≥ 5 days, or any duration of v-a ecmo.
+
+          -  alanine aminotransferase (alt) or aspartate aminotransferase (ast) > 5 x upper limit
+             of normal (uln)
+
+          -  creatinine clearance < 50 ml/min using the cockcroft-gault formula for participants ≥
+             18 years of age {cockcroft 1976} and schwartz formula for participants < 18 years of
+             age
+
+        note: other protocol defined inclusion/exclusion criteria may apply.
+      
+
+
+NCT04308668
+
+        inclusion criteria:
+
+          -  provision of informed consent
+
+          -  exposure to a covid19 case within 4 days as either a healthcare worker or household
+             contact, or
+
+          -  symptomatic covid19 case with confirmed diagnosis within 4 days of symptom onset or
+             symptomatic healthcare worker with known covid19 contact and within 4 days of symptom
+             onset;
+
+        exclusion criteria:
+
+          -  current hospitalization
+
+          -  allergy to hydroxychloroquine
+
+          -  retinal eye disease
+
+          -  known glucose-6 phosphate dehydrogenase (g-6-pd) deficiency
+
+          -  known chronic kidney disease, stage 4 or 5 or receiving dialysis
+
+          -  weight < 40 kg
+
+          -  known porphyria
+
+          -  current use of: hydroxychloroquine or cardiac medicines of: flecainide, tambocor;
+             amiodarone, cordarone, pacerone; digoxin or digox, digitek, lanoxin; procainamide or
+             procan, procanbid, propafenone, rythmal)
+      
+
+
+NCT04315298
+
+        key inclusion criteria:
+
+          -  laboratory-confirmed sars-cov-2 infection as determined by polymerase chain reaction
+             (pcr), result from any specimen (or other commercial or public health assay) within 2
+             weeks prior to randomization and no alternative explanation for current clinical
+             condition
+
+          -  hospitalized with illness of any duration with evidence of pneumonia and severe
+             disease, critical disease, multi-system organ dysfunction or immunocompromised at
+             baseline
+
+          -  ability to provide informed consent signed by study patient or legally acceptable
+             representative
+
+          -  willingness and ability to comply with study-related procedures/assessments
+
+        key exclusion criteria:
+
+          -  in the opinion of the investigator, not expected to survive for more than 48 hours
+             from screening
+
+          -  presence of any of the following abnormal laboratory values at screening: absolute
+             neutrophil count (anc) less than 2000 mm3, aspartate aminotransferase (ast) or alanine
+             aminotransferase (alt) greater than 5 x upper limit of normal (uln), platelets <50,000
+             per mm3
+
+          -  treatment with anti-il 6, anti-il-6r antagonists, or with janus kinase inhibitors
+             (jaki) in the past 30 days or plans to receive during the study period
+
+          -  current treatment with the simultaneous combination of leflunomide and methotrexate
+
+          -  known active tuberculosis (tb), history of incompletely treated tb, suspected or known
+             extrapulmonary tb, suspected or known systemic bacterial or fungal infections
+
+          -  patients who have received immunosuppressive antibody therapy within the past 5
+             months, including intravenous immunoglobulin or plans to receive during the study
+             period
+
+          -  participation in a double-blind clinical research study evaluating an investigational
+             product (ip) or therapy within 3 months and less than 5 half-lives of ip prior to the
+             screening visit (the use of remdesivir, hydroxychloroquine, or other treatments being
+             used for covid-19 treatments in the context of an open-label study or compassionate
+             use protocol is permitted)
+
+          -  any physical examination findings, and/or history of any illness, concomitant
+             medications or recent live vaccines that, in the opinion of the study investigator,
+             might confound the results of the study or pose an additional risk to the patient by
+             their participation in the study
+
+          -  known systemic hypersensitivity to sarilumab or the excipients of the drug product
+
+        note: other protocol defined inclusion / exclusion criteria may apply
+      
+
+
+NCT04317040
+
+        inclusion criteria:
+
+          1. should be at least 18 years of age,
+
+          2. male or female,
+
+          3. diagnosed with covid-19 and confirmed sars-cov-2 viral infection.
+
+          4. able to sign the consent form.
+
+          5. severe covid-19 (appendix a), or niaid 8-point ordinal score 3 to 4 (requiring
+             non-invasive ventilation or oxygen, a spo2 </= 94% or tachypnea (respiratory rate >/=
+             24 breaths/min), appendix b).
+
+        exclusion criteria:
+
+          1. patients with covid 19 in critical condition or ards (appendix a) or niaid 8-point
+             ordinal score 2 (hospitalized, on invasive mechanical ventilation or extracorporeal
+             membrane oxygenation (ecmo)).
+
+          2. patients with bacterial / fungal infections.
+
+          3. patients who are pregnant, breastfeeding, or have a positive pregnancy test result
+             before enrollment.
+
+          4. severe liver damage (child-pugh score ≥ c, ast> 5 times the upper limit).
+
+          5. patients with known severe renal impairment (creatinine clearance ≤ 30 ml / min) or
+             patients receiving continuous renal replacement therapy, hemodialysis, or peritoneal
+             dialysis.
+
+          6. the investigator believes that participating in the trial is not in the best interests
+             of the patient, or the investigator considers unsuitable for enrollment (such as
+             unpredictable risks or subject compliance issues).
+      
+
+
+NCT04318444
+
+        inclusion criteria:
+
+          -  household contact of index case: currently residing in the same household as an
+             individual evaluated at nyp via outpatient, emergency department (ed), or inpatient
+             services who (1) test positive for covid-19, or (2) are defined as suspected cases, or
+             persons under investigations (pui), by the treating physician.
+
+          -  willing to take study drug as directed for 5 days.
+
+        exclusion criteria:
+
+          -  age <18 years old
+
+          -  suspected or confirmed current covid-19, defined as: (1) temperature > 38 celsius; (2)
+             cough; (3) shortness of breath; (4) sore throat; or, if available (not required), (5)
+             positive confirmatory testing for covid-19
+
+          -  suspected or confirmed convalescent covid-19, defined as any of the above symptoms
+             within the prior 4 weeks.
+
+          -  inability to take medications orally
+
+          -  inability to provide written consent
+
+          -  known sensitivity/allergy to hydroxychloroquine
+
+          -  current use of hydroxychloroquine for another indication
+
+          -  pregnancy
+
+          -  prior diagnosis of retinopathy
+
+          -  prior diagnosis of glucose-6-phosphate dehydrogenase (g6pd) deficiency
+
+          -  major comorbidities increasing risk of study drug including: i. hematologic
+             malignancy, ii. advanced (stage 4-5) chronic kidney disease or dialysis therapy, iii.
+             known history of ventricular arrhythmias, iv. current use of drugs that prolong the qt
+             interval
+      
+
+
+NCT04320615
+
+        inclusion criteria:
+
+          -  hospitalized with covid-19 pneumonia confirmed per who criteria (including a positive
+             pcr of any specimen; e.g., respiratory, blood, urine, stool, other bodily fluid) and
+             evidenced by chest x-ray or ct scan
+
+          -  spo2 </=93% or pao2/fio2 <300 mmhg
+
+        exclusion criteria:
+
+          -  known severe allergic reactions to tcz or other monoclonal antibodies
+
+          -  active tuberculosis (tb) infection
+
+          -  suspected active bacterial, fungal, viral, or other infection (besides covid-19)
+
+          -  in the opinion of the investigator, progression to death is imminent and inevitable
+             within the next 24 hours, irrespective of the provision of treatments
+
+          -  have received oral anti-rejection or immunomodulatory drugs (including tcz) with the
+             past 3 months
+
+          -  participating in other drug clinical trials (participation in covid-19 anti-viral
+             trials may be permitted if approved by medical monitor)
+
+          -  pregnant or breastfeeding, or positive pregnancy test in a pre-dose examination
+
+          -  treatment with an investigational drug within 5 half-lives or 30 days (whichever is
+             longer) of randomization (investigational covid-19 antivirals may be permitted if
+             approved by medial monitor)
+
+          -  any serious medical condition or abnormality of clinical laboratory tests that, in the
+             investigator's judgment, precludes the patient's safe participation in and completion
+             of the study
+
+          -  alanine aminotransferase (alt) or aspartate aminotransferase (ast) > 10 x upper limit
+             of normal (uln) detected within 24 hours at screening (per local lab)
+
+          -  absolute neutrophil count (anc) < 1000/ml at screening (per local lab)
+
+          -  platelet count < 50,000/ml at screening (per local lab)
+      
+
+
+NCT04322682
+
+        inclusion criteria:
+
+          1. males and females, at least 40 years of age, capable and willing to provide informed
+             consent;
+
+          2. patient must have received a diagnosis of covid-19 infection within the last 24 hours;
+
+          3. outpatient setting (not currently hospitalized or under immediate consideration for
+             hospitalization);
+
+          4. patient must possess at least one of the following high-risk criteria: 70 years or
+             more of age, diabetes mellitus, uncontrolled hypertension (systolic blood pressure
+             ≥150 mm hg), known respiratory disease (including asthma or chronic obstructive
+             pulmonary disease), known heart failure, known coronary disease, fever of ≥38.4°c
+             within the last 48 hours, dyspnea at the time of presentation, bicytopenia,
+             pancytopenia, or the combination of high neutrophil count and low lymphocyte count;
+
+          5. female patient is either not of childbearing potential, defined as postmenopausal for
+             at least 1 year or surgically sterile, or is of childbearing potential and practicing
+             at least one method of contraception and preferably two complementary forms of
+             contraception including a barrier method (e.g. male or female condoms, spermicides,
+             sponges, foams, jellies, diaphragm, intrauterine device (iud)) throughout the study
+             and for 30 days after study completion;
+
+          6. patient must be able and willing to comply with the requirements of this study
+             protocol.
+
+        exclusion criteria:
+
+          1. patient currently hospitalized or under immediate consideration for hospitalization;
+
+          2. patient currently in shock or with hemodynamic instability;
+
+          3. patient with inflammatory bowel disease (crohn's disease or ulcerative colitis),
+             chronic diarrhea or malabsorption;
+
+          4. patient with pre-existent progressive neuromuscular disease;
+
+          5. estimated glomerular filtration rate (egfr), using the mdrd equation for all subjects
+             being considered for enrollment, with a cut-off of < 30 ml/m in/1.73m2;
+
+          6. patient with a history of cirrhosis, chronic active hepatitis or severe hepatic
+             disease;
+
+          7. female patient who is pregnant, or breast-feeding or is considering becoming pregnant
+             during the study or for 6 months after the last dose of study medication;
+
+          8. patient currently taking colchicine for other indications (mainly chronic indications
+             represented by familial mediterranean fever or gout);
+
+          9. patient with a history of an allergic reaction or significant sensitivity to
+             colchicine;
+
+         10. patient undergoing chemotherapy for cancer;
+
+         11. patient is considered by the investigator, for any reason, to be an unsuitable
+             candidate for the study.
+      
+
+
+NCT04328012
+
+        inclusion criteria
+
+          1. hospitalized patient
+
+          2. laboratory confirmation of sars-cov-2 infection </= 72 hr prior to randomization
+
+          3. randomization within 72 hr of hospital admission
+
+          4. negative pregnancy test for reproductive age women
+
+          5. patient or lar able to provide informed consent
+
+        exclusion criteria, general (all groups)
+
+          1. end stage renal disease (esrd) not undergoing renal replacement therapy
+
+          2. severe hepatic insufficiency (lfts > 5 times the upper limit of normal or known esld
+             or cirrhosis)
+
+          3. nausea/vomiting or aspiration risk precluding oral medications unless can be given by
+             gastric tube
+
+          4. use of another sars-cov-2 directed medication empirically or within another clinical
+             trial within the prior week
+
+          5. pregnancy or breast feeding
+
+          6. absence of dependable contraception in reproductive age women
+
+          7. inability to obtain or declined informed consent
+
+        exclusion criteria, group specific group 1 (lopinavir/ritonavir)
+
+          1. allergy or intolerance to lopinavir/ritonavir
+
+          2. already taking lopinavir/ritonavir (within 1 month)
+
+          3. known hiv infection and/or taking antiretroviral therapy for another indication
+
+          4. co-administration with certain drugs due to cyp3a interactions if taken in < 24 hr
+
+        group 2 (hydroxychloroquine)
+
+          1. allergy or intolerance to hydroxychloroquine (or chloroquine)
+
+          2. already taking hydroxychloroquine or chloroquine (within 1 month)
+
+          3. recent malaria exposure (within 1 month)
+
+          4. history or current cardiac diseases (heart failure, ventricular arrhythmias, lbbb or
+             rbbb, qtc prolongation)
+
+          5. history of retinopathy
+
+          6. severe hypoglycemia
+
+          7. auditory disorders
+
+          8. known g6pd deficiency
+
+          9. porphyria or psoriasis
+
+         10. severe active alcohol use disorder (not in remission)
+
+         11. seizure disorder
+
+         12. co-administration of significant hepatotoxic agents (acetaminophen in standard dosing
+             would not be included)
+
+         13. co-administration with certain drugs due to cyp3a interactions if taken in < 24 hr
+
+        group 3 (losartan)
+
+          1. allergy or intolerance to losartan (or ace inhibitors or other arbs)
+
+          2. already taking ace or arb (within 1 month)
+
+          3. hypotension
+
+          4. hyperkalemia (k >/= 5.0 at time of screening or history of hyperkalemia)
+
+          5. blood pressure < 110/70 mm hg or history of hypotension or recent (within 1 month) or
+             recurrent syncope
+
+          6. severe renal dysfunction (estimated gfr < 30 ml/min at time of screening or history
+             advanced renal disease)
+
+          7. severe volume depletion or acute kidney injury (aki)
+
+          8. known cirrhotic ascites
+
+          9. known severe aortic or mitral valve stenosis
+
+         10. known unstented renal artery stenosis
+
+         11. co-administration with certain drugs due to cyp3a interactions if taken in < 24 hr
+
+        group 4 (standard care [placebo])
+
+        1. none
+      
+
+
+NCT04328467
+
+        inclusion criteria:
+
+        - a healthcare worker at high risk for covid-19 exposure (defined below):
+
+          -  persons primarily working in emergency departments (physicians, nurses, ancillary
+             staff, triage personnel)
+
+          -  persons primarily working in intensive care units (physicians, nurses, ancillary
+             staff, respiratory therapists)
+
+          -  persons performing aerosol generating procedures (i.e. anesthesiologists, nurse
+             anesthetists (crnas)
+
+          -  first responders (i.e. emts, paramedics)
+
+        exclusion criteria:
+
+          -  active covid-19 disease
+
+          -  prior covid-19 disease
+
+          -  current fever, cough, shortness of breath
+
+          -  allergy to chloroquine or hydroxychloroquine
+
+          -  prior retinal eye disease
+
+          -  known chronic kidney disease, stage 4 or 5 or dialysis
+
+          -  known glucose-6 phosphate dehydrogenase (g-6-pd) deficiency
+
+          -  weight <40 kg
+
+          -  prolonged qt syndrome
+
+          -  current use of hydroxychloroquine, chloroquine, or cardiac medicines of flecainide,
+             amiodarone, digoxin, procainamide, or propafenone
+
+          -  current use of medications with known significant drug-drug interactions: artemether,
+             lumefantrine, mefloquine, tamoxifen, or methotrexate.
+      
+
+
+NCT04328961
+
+        inclusion criteria:
+
+          -  men or women 18 to 80 years of age inclusive, at the time of signing the informed
+             consent
+
+          -  willing and able to provide informed consent
+
+          -  had a close contact of a person (index) with known pcr-confirmed sars-cov-2 infection
+             or who is currently being assessed for covid-19. close contact defined as:
+
+               1. household contact (i.e., residing with the index case in the 14 days prior to
+                  index diagnosis)
+
+               2. medical staff, first responders, or other care persons who cared for the index
+                  case without personal protection (mask and gloves)
+
+          -  less than 4 days since last exposure (close contact with a person with sars-cov-2
+             infection) to the index case
+
+          -  body weight < 100 kg (self-reported)
+
+          -  access to device and internet for telehealth visits
+
+        exclusion criteria:
+
+          -  known hypersensitivity to hcq or other 4-aminoquinoline compounds
+
+          -  currently hospitalized
+
+          -  symptomatic with subjective fever, cough, or sore throat
+
+          -  current medications exclude concomitant use of hcq
+
+          -  concomitant use of other anti-malarial treatment or chemoprophylaxis
+
+          -  history of retinopathy of any etiology
+
+          -  psoriasis
+
+          -  porphyria
+
+          -  known bone marrow disorders with significant neutropenia (polymorphonuclear leukocytes
+             < 1500) or thrombocytopenia (< 100 k)
+
+          -  concomitant use of digoxin, cyclosporin, cimetidine, or tamoxifen
+
+          -  known liver disease
+
+          -  known long qt syndrome
+
+          -  use of any investigational or non-registered drug or vaccine within 30 days preceding
+             the first dose of the study drugs, or planned use during the study period
+      
+
+
+NCT04332107
+
+        inclusion criteria:
+
+          -  evidence of a positive sars-cov-2 test and test results received within the previous
+             three days
+
+          -  not currently hospitalized
+
+          -  willing and able to receive study drug by mail
+
+          -  willing and able to return the internet-based study questionnaires at baseline, day 3,
+             7, 14, 21 days
+
+          -  no known allergy or other contraindication to macrolides
+
+          -  age 18 years or older at the time of enrollment
+
+          -  no known history of prolongation of the qt interval (eg. history of torsades de
+             pointes, congenital long qt syndrome, bradyarrhthmia)
+
+          -  no recent use of hydroxychloroquine within the past 7 days for participants >55 years
+             of age
+
+          -  provision of informed consent
+      
+
+
+NCT04332991
+
+        inclusion criteria:
+
+          1. age ≥18 years
+
+          2. currently hospitalized or in an emergency department with anticipated hospitalization.
+
+          3. symptoms of acute respiratory infection, defined as one or more of the following:
+
+               1. cough
+
+               2. fever (> 37.5° c / 99.5° f)
+
+               3. shortness of breath
+
+               4. sore throat
+
+          4. laboratory-confirmed sars-cov-2 infection within the past 10 days or sars-cov-2
+             laboratory test result pending plus a high clinical suspicion for covid-19 as
+             indicated by fulfilling all of the following:
+
+               1. cough with duration ≤10 days
+
+               2. bilateral pulmonary infiltrates on chest imaging (radiograph, or computed
+                  tomography or ultrasound) or new hypoxemia defined as spo2 ≤94% on room air
+
+               3. no alternative explanation for symptoms of acute respiratory infection
+
+        exclusion criteria:
+
+          1. prisoner
+
+          2. pregnancy
+
+          3. breast feeding
+
+          4. symptoms of acute respiratory infection for >10 days before randomization
+
+          5. >48 hours between meeting inclusion criteria and randomization
+
+          6. seizure disorder
+
+          7. porphyria cutanea tarda
+
+          8. diagnosis of long qt syndrome
+
+          9. qtc >500 ms on electrocardiogram within 72 hours prior to enrollment
+
+         10. known allergy to hydroxychloroquine, chloroquine, or amodiaquine
+
+         11. receipt in the 12 hours prior to enrollment, or planned administration during the
+             5-day study period that treating clinicians feel cannot be substituted for another
+             medication, of any of the following: amiodarone; cimetidine; dofetilide;
+             phenobarbital; phenytoin; sotalol
+
+         12. receipt of >1 dose of hydroxychloroquine or chloroquine in the 10 days prior to
+             enrollment
+
+         13. inability to receive enteral medications
+
+         14. inability to be contacted on day 15 for clinical outcome assessment
+      
+
+
+NCT04333732
+
+        inclusion criteria:
+
+          1. age ≥18 years.
+
+          2. healthcare worker based in a primary, secondary or tertiary healthcare setting with a
+             high risk of developing covid-19 due to their potential exposure to patients with
+             sars-cov-2 infection.
+
+          3. must have a 'smart' mobile phone with access to the internet for data collection
+             purposes.
+
+          4. participants will provide informed consent via an electronic consent process.
+
+        exclusion criteria:
+
+          1. weight outside range 50 kg - 200 kg (110 lbs - 440 lbs).
+
+          2. prior enrolment into this or other covid-19 prevention or treatment trials.
+
+          3. self-reported, diagnosed infection with sars-cov-2 or previous covid-19 diagnosis
+             within the last 6 months.
+
+          4. self-reported current acute respiratory infection.
+
+          5. concurrent and/or recent involvement in other research, or use of chloroquine;
+             hydroxychloroquine or any other 4-aminoquinolone, or another experimental
+             investigational medicinal product that is likely to interfere with the study
+             medication within three months of study enrolment.
+
+          6. antimalarial agents (lumefantrine, mefloquine, pyronaridine or amodiaquine), since
+             they may cause a dangerous drug interaction.
+
+          7. self-reported known allergies to the imp and excipients of imp and placebo.
+
+          8. self-reported presence or history of the following conditions: retinopathy or retinal
+             disease; cardiomyopathy; cardiac arrhythmia; known long qtc; psoriasis; porphyria
+             cutanea tarda; epilepsy; myasthenia gravis; myopathy of any cause; serious hepatic or
+             renal disease; severe depression; currently undergoing treatment for tuberculosis.
+
+          9. self-reported current use of medication with known serious hepatotoxic effects or
+             known interaction with chloroquine
+
+         10. inability or unwillingness to be followed up for the trial period
+
+        nb: pregnancy and breastfeeding are not exclusions for entry.
+      
+
+
+NCT04334382
+
+        inclusion criteria:
+
+          -  adult, age>44 years, competent to provide consent
+
+          -  confirmed covid-19, via a positive nucleic acid assay for covid-19 within the last 7
+             days
+
+        exclusion criteria:
+
+          -  participants already prescribed chloroquine, hydroxychloroquine, or azithromycin
+
+          -  allergy to hydroxychloroquine or azithromycin
+
+          -  history of bone marrow transplant
+
+          -  known g6pd (glucose-6-phosphate dehydrogenase deficiency) deficiency
+
+          -  chronic hemodialysis, peritoneal dialysis, continuous renal replacement therapy or
+             glomerular filtration rate < 20ml/min/1.73m2
+
+          -  liver disease (e.g. child pugh score ≥ b or ast (aspartate transaminase)>2 times upper
+             limit)
+
+          -  psoriasis
+
+          -  porphyria
+
+          -  known cardiac conduction delay (qtc > 500msec) or taking any prescription medications
+             known to prolong qt interval
+
+          -  concomitant use of digitalis, flecainide, amiodarone, procainamide, or propafenone
+
+          -  prisoner
+
+          -  weight < 35kg
+
+          -  inability to follow-up - no cell phone or no address or not spanish or english
+             speaking
+
+          -  receipt of any experimental treatment for sars-cov-2 (off-label, compassionate use, or
+             trial related) within the 30 days prior to the time of the screening evaluation
+
+          -  no symptoms attributable to covid-19
+
+          -  pregnant or nursing
+      
+
+
+NCT04340232
+
+        inclusion criteria:
+
+          -  male or female aged 18 - 89 years at time of enrollment
+
+          -  hospitalized (or documented plan to hospitalize if patient is in the emergency
+             department) with symptoms suggestive of covid-19
+
+          -  illness of any duration that meets each of the following:
+
+               1. evidence of pneumonia, including radiographic infiltrates by imaging (chest
+                  x-ray, ct scan, etc.) or clinical assessment (rales/crackles on exam)
+
+               2. requires supportive care, including non-invasive supplemental oxygen
+
+          -  laboratory-confirmed sars-cov-2 infection as determined by pcr or other commercial or
+             public health assay within 7 days of enrollment
+
+          -  understands and agrees to comply with planned study procedures
+
+          -  provides informed consent signed by study patient or legally acceptable representative
+
+        exclusion criteria:
+
+          -  absolute lymphocyte count is less than 500 cells/mm
+
+          -  absolute neutrophil count is less than 1000 cells/mm
+
+          -  hemoglobin level is less than 8 g/dl
+
+          -  estimated gfr is less than 60 ml/min/1.73 m2
+
+          -  alt or ast is over 5 times the upper limit of normal
+
+          -  treatment with other jak inhibitors, oat3 inhibitors, biologic disease-modifying
+             anti-rheumatic drugs (dmards), anti-il-6 or anti-il-6r antibodies, or potent
+             immunosuppressants such as azathioprine. and cyclosporine concurrently or within the
+             past 5 days. note: recent or concurrent treatment with hydroxychloroquine or
+             chloroquine is allowable, as these are 'non-biologic' dmards with potential antiviral
+             activity.
+
+          -  history of hiv infection and on active immunosuppressant therapy
+
+          -  current hematological or solid organ malignancy and on active immunosuppressant
+             therapy
+
+          -  active tuberculosis (tb) infection or known or suspected systemic bacterial or fungal
+             infection
+
+          -  pregnancy or breast feeding
+
+          -  known allergy to baricitinib
+
+          -  in the opinion of the investigator, they are unlikely to survive for >48 hours from
+             screening
+
+          -  any physical examination findings and/or history of any illness that, in the opinion
+             of the investigator, might confound the results of the study or pose an additional
+             risk to the patient by their participation in the study
+
+        additional exclusion criteria for phase 2 only:
+
+        • invasive oxygen supplementation, including mechanical ventilation and extracorporeal
+        membrane oxygenation (ecmo)
+      
+
+
+NCT04340557
+
+        inclusion criteria:
+
+          -  confirmed covid-19 positive test result
+
+          -  mild to moderate respiratory disease defined by oxygen requirement of at least 2 l/min
+             to maintain oxygen saturation level ≥92%.
+
+          -  systolic blood pressure ≥ 110 mmhg.
+
+          -  age ≥18 years old.
+
+          -  access to an electronic device that is able to access docusign® online and email for
+             consenting.
+
+          -  able to read/write/speak english or spanish fluently.
+
+          -  subjects must have the ability to understand the requirements of the study, provide
+             informed consent, and provide authorization of use and disclosure of personal health
+             information.
+
+          -  negative pregnancy test for women of childbearing potential.
+
+        exclusion criteria:
+
+          -  severe allergy to any arb or ace-inhibitor, including angioedema
+
+          -  in the intensive care unit at screening.
+
+          -  home meds include any kind of ace inhibitor or arb
+
+          -  sbp <110 mmhg
+
+          -  acute kidney injury (50% reduction in gfr from baseline at admission to any time
+             during treatment in the study treatment arm)
+
+          -  hyperkalemia >5.0 mmol/l at baseline or any time during treatment in the study
+             treatment arm
+
+          -  creatinine clearance < 30 ml/min at baseline or any time during treatment in the study
+             treatment arm
+      
+
+
+NCT04341441
+
+        inclusion criteria:
+
+          1. participant is willing and able to provide informed consent.
+
+          2. participant is 18-75 years of age.
+
+          3. participant does not have symptoms of respiratory infection, including cough, fevers
+             (temperature >38.0c), difficulty breathing, shortness of breath, chest pains, malaise,
+             myalgia, headaches, nausea or vomiting, or other symptoms associated with covid-19.
+
+          4. participant is willing to provide blood samples for the study.
+
+          5. subject agrees to all aspects of the study.
+
+          6. the participant has no known allergies or contraindications (as stated in the consent
+             form) to the use of hydroxychloroquine (hcq) as noted in the exclusion criteria and
+             pharmacy sections.
+
+        exclusion criteria:
+
+          1. does not meet inclusion criteria.
+
+          2. participant unable or unwilling to provide informed consent.
+
+          3. participant has any of the symptoms above or screens positive for possible covid-19
+             disease.
+
+          4. participant is currently enrolled in a study to evaluate an investigational drug.
+
+          5. vulnerable populations deemed inappropriate for study by the site principal
+             investigator.
+
+          6. the participant has a known allergy/hypersensitivity or has a medication or
+             co-morbidity (including history of gastric bypass, epilepsy, cardiovascular disease or
+             renal failure) that prevents the use of hcq (see pharmacy section).
+
+          7. the participant is a woman of childbearing age whose pregnancy status is unknown and
+             is not willing to use 2 methods of contraception.
+
+          8. the participant is pregnant or nursing.
+
+          9. the participant was diagnosed with retinopathy prior to study entry.
+
+         10. the participant has a diagnosis of porphyria prior to study entry.
+
+         11. the participant has renal failure with a creatinine clearance of <10 ml/min,
+             pre-dialysis or requiring dialysis.
+
+         12. the participant has a family history of sudden cardiac death.
+
+         13. the participant is currently on diuretic therapy.
+
+         14. the participant has a history of known prolonged qt syndrome.
+
+         15. the participant is already taking any of the following medications: abiraterone
+             acetate, agalsidase, amodiaquine, azithromycin, conivaptan, dabrafenib, dacomitinib,
+             dapsone (systemic), digoxin, enzalutamide, fusidic acid (systemic), idelalisib,
+             lanthanum, lumefantrine, mefloquine, mifepristone, mitotane, pimozide, qt-prolonging
+             agents, stiripentol).
+      
+
+
+NCT04341727
+
+        inclusion criteria:
+
+          -  hospitalization for management of sars cov-2 infection
+
+          -  positive sars cov-2 test
+
+          -  age >=18 years
+
+          -  provision of informed consent
+
+          -  electrocardiogram (ecg) ≤48 hours prior to enrollment
+
+          -  complete blood count, glucose-6 phosphate-dehydrogenase (g6pd), comprehensive
+             metabolic panel and magnesium ≤48 hours prior to enrollment from standard of care.
+
+          -  if participating in sexual activity that could lead to pregnancy, individuals of
+             reproductive potential who can become pregnant must agree to use contraception
+             throughout the study. at least one of the following must be used throughout the study:
+
+               -  condom (male or female) with or without spermicide
+
+               -  diaphragm or cervical cap with spermicide
+
+               -  intrauterine device (iud)
+
+               -  hormone-based contraceptive
+
+        exclusion criteria:
+
+          -  contraindication or allergy to chloroquine, hydroxychloroquine or azithromycin
+
+          -  current use hydroxychloroquine, chloroquine or azithromycin
+
+          -  concurrent use of another investigational agent
+
+          -  invasive mechanical ventilation
+
+          -  participants who have any severe and/or uncontrolled medical conditions such as:
+
+               -  unstable angina pectoris,
+
+               -  symptomatic congestive heart failure,
+
+               -  myocardial infarction,
+
+               -  cardiac arrhythmias or know prolonged qtc >470 males, >480 female on ecg
+
+               -  pulmonary insufficiency,
+
+               -  epilepsy (interaction with chloroquine),
+
+          -  prior retinal eye disease
+
+          -  concurrent malignancy requiring chemotherapy
+
+          -  known chronic kidney disease, egfr<10 or dialysis
+
+          -  g-6-pd deficiency, if unknown requires g6pd testing prior to enrollment
+
+               -  known porphyria
+
+               -  known myasthenia gravis
+
+               -  currently pregnant or planning on getting pregnant while on study
+
+               -  breast feeding
+
+               -  ast/alt >five times the upper limit of normal uln*
+
+               -  bilirubin >five times the uln*
+
+               -  magnesium <1.4 meq/l*
+
+               -  calcium <8.4mg/dl >10.6mg/dl*
+
+               -  potassium <3.3 >5.5 meg/l*
+      
+
+
+NCT04341935
+
+        inclusion criteria:
+
+          -  type 2 diabetes mellitus (t2dm) as per american diabetes association (ada) guidelines
+
+          -  age ≥ 18
+
+          -  confirmed covid-19
+
+          -  mild covid-19 defined as any of the following: fever, malaise, cough, headache, sore
+             throat, myalgia, nasal congestion, diarrhea
+
+          -  moderate covid-19 is defined as > 2 of the following in non-intubated patients: any
+             symptom of mild disease, radiographic imaging (chest x-ray or lung ultrasound) with
+             bilateral ground glass opacities or bilateral consolidations, spo2 <90% up to 5l nasal
+             cannula (nc)
+
+          -  no additional signs or symptoms of severe covid-19.
+
+        exclusion criteria:
+
+          -  type 1 diabetes mellitus (t1dm) diabetes, as per ada guidelines
+
+          -  history of diabetic ketoacidosis (dka)
+
+          -  history of acute pancreatitis
+
+          -  chronic or acute renal failure with estimated glomerular filtration rate (egfr) < 30
+             ml/min/1.73 m2
+
+        exclusion criteria:
+
+        t1dm diabetes, as per ada guidelines, history of dka, history of acute pancreatitis;
+        chronic or acute renal failure with egfr < 30 ml/min/1.73 m2
+      
+
+
+NCT04344444
+
+        inclusion criteria:
+
+          -  age greater than 18 years
+
+          -  positive sars-cov-2 testing or consistent clinical syndrome (based on clinical picture
+             e.g. characteristic infiltrates on chest x-ray, laboratory findings, and with
+             agreement by two physicians) in patients under investigation (puis).
+
+          -  onset of symptoms < 7 days from date of enrollment
+
+          -  oxygen saturation of >94% on room air with defined risk factors (table 1) consistent
+             with moderate disease or oxygen saturation of < 94% on room air consistent with severe
+             disease
+
+          -  ability and willingness to comply with study procedures
+
+        exclusion criteria:
+
+          -  qtc greater than 450 milliseconds on screening ekg
+
+          -  pregnant or lactating women
+
+          -  inability to take oral pills or inability to use a feeding tube
+
+          -  inability to obtain informed consent either from the patient or from the next of kin
+             if patient is incapacitated. for the purpose of this study obtaining a verbal consent
+             from a family member on the phone with a witness will be considered acceptable since
+             there is a 'no visitor' policy in force at hospitals.
+
+          -  patients requiring icu level care
+
+          -  use of azithromycin or hydroxychloroquine within 30 days prior to admission
+      
+
+
+NCT04345692
+
+        inclusion criteria:
+
+        i. subject (or legally authorized representative) provides written informed consent prior
+        to initiation of any study procedures.
+
+        ii. understands and agrees to comply with planned study procedures. iii. male or female
+        adult ≥18 - 95 years of age at time of enrolment. iv. laboratory-confirmed sars-cov-2
+        infection in any specimen < 5 days prior to randomization.
+
+        v. at least one of the following:
+
+          1. radiographic infiltrates by imaging (chest x-ray, ct scan, etc.) or
+
+          2. clinical assessment (evidence of rales/crackles on exam) and spo2 ≤94% on room air vi.
+             women of childbearing potential must agree to use at least one primary form of
+             contraception for the duration of the study.
+
+        exclusion criteria:
+
+        i. history of liver failure ii. history of stage 4 severe chronic kidney disease or
+        requiring dialysis iii. self-reported pregnant or breast feeding. iv. allergy to
+        hydroxychloroquine or choloroquine v. known contraindication to hydroxychloroquine,
+        including retinopathy, g6pd deficiency, qt prolongation
+      
+
+
+NCT04346615
+
+        inclusion criteria:
+
+          1. written informed consent must be obtained from the subject in accordance with
+             requirements of the study center's institutional review board (irb) or subjects must
+             provide w informed consent in accordance with requirements of the study center's irb
+             or ethics committee, prior to the initiation of any protocol-required procedures
+
+          2. subjects must agree to provide all requested demographic information (i.e. gender,
+             race)
+
+          3. subjects must be able to read and understand english or spanish
+
+          4. subjects must be over the age of 18 years
+
+          5. subjects must have laboratory-confirmed sars-cov-2 infection as determined by
+             pcr-based commercial or public health assay
+
+          6. subjects must have symptoms that require hospitalization with supplemental oxygen as
+             determined by the admitting physician. the maximum nasal cannula o2 concentration
+             should be determined by the treating clinician and the limitations of the specific
+             equipment
+
+          7. subjects must be willing and able to comply with study-related procedures/assessments
+
+        exclusion criteria:
+
+          1. subjects in immediate need of mechanical ventilation or extracorporeal membrane
+             oxygenation (ecmo)
+
+          2. subjects with an estimated creatinine clearance of < 60 ml/min, at the screening visit
+
+          3. prisoners or subjects who are involuntarily incarcerated
+
+          4. subjects who are participating in any other investigational clinical trial while
+             participating in this clinical trial
+
+          5. subjects who are under the age of 18 years
+
+          6. subjects who are pregnant (all potential female enrollees need to have a negative
+             pregnancy test prior to ip administration)
+
+          7. subjects with multi-organ failure
+
+          8. subjects who have received more than 24 hours of supplemental oxygen prior to
+             randomization
+
+          9. subjects with prior significant pulmonary disease (e.g., copd/ild/chf/ipf) are
+             excluded
+
+         10. subjects receiving investigational therapies as part of a formal clinical trial for
+             the treatment of covid-19. during the course of this study, investigational therapies
+             that may become "standard of care" to treat covid-19, but are not part of a clinical
+             trial, are allowed
+
+         11. subjects who are on long-acting cgrp monoclonal antibodies will be excluded including
+             aimovig (erenumab), emgality (galcanezumab), ajovy (fremanezumab), and vyepti
+             (eptinezumab). additionally, the investigational oral cgrp receptor antagonist,
+             atogepant, that is taken daily will also be excluded. oral cgrp receptor antagonists,
+             nurtec odt (rimegepant) and ubelvy (ubrogepant) that are typically used prn
+             infrequently will not be excluded as long the subject was not taking them on a daily
+             basis and does not take them during the current study
+
+         12. subjects who are unlikely to survive for more than 48 hours from the screening visit
+
+         13. subjects with any of the following abnormal laboratory values at screening: aspartate
+             ast or alt greater than 3x uln or bilirubin greater than 2x uln
+
+         14. subjects with known active tb, history of incompletely treated tb, suspected or known
+             extrapulmonary tb
+
+         15. subjects with suspected or known systemic bacterial or fungal infections. however,
+             empiric antibiotics are permitted.
+
+         16. subjects who have participated in any clinical research study evaluating an ip or
+             therapy within 3 months and less than 5 half-lives of ip prior to the screening visit
+
+         17. subjects with any physical examination findings and/or history of any illness that, in
+             the opinion of the study investigator, might confound the results of the study or pose
+             an additional risk to the subject by their participation in the study
+      
+
+
+NCT04348370
+
+        inclusion criteria:
+
+          -  adult (≥18 years)
+
+          -  male or female
+
+          -  hospital personnel taking care for patients with known or suspected sars-cov-2
+             infection and providing, on average, at least 25 hours per week of direct patient care
+
+        exclusion criteria:
+
+          -  known allergy to (components of) the bcg vaccine or serious adverse events to prior
+             bcg administration
+
+          -  known active or latent mycobacterium tuberculosis or with another mycobacterial
+             species. a history with- or a suspicion of m. tuberculosis infection.
+
+          -  fever (>38 c) within the past 24 hours
+
+          -  age > 75 years
+
+          -  pregnancy or planning pregnancy within 30 days of study enrollment
+
+          -  breastfeeding
+
+          -  suspicion of active viral or bacterial infection
+
+          -  any immunocompromised subjects. this exclusion category comprises: a) subjects with
+             known infection by the human immunodeficiency virus (hiv-1); b) subjects with known
+             neutropenic with less than 1500 neutrophils/mm3; c) subjects with solid organ
+             transplantation; d) subjects with bone marrow transplantation; e) subjects under
+             chemotherapy; f) subjects with primary immunodeficiency; g) known severe lymphopenia
+             with less than 400 lymphocytes/mm3; h) treatment with any anti-cytokine therapies. i)
+             treatment with oral or intravenous steroids defined as daily doses of 10mg prednisone
+             or equivalent for longer than 3 months
+
+          -  living with someone who is immunosuppressed or taking immunosuppressive drugs
+
+          -  previous documented infection with covid19
+
+          -  active solid or non-solid malignancy or lymphoma within the prior two years
+
+          -  direct involvement in the design or the execution of the study
+
+          -  expected absence from work of ≥4 of the following 12 weeks due to any reason
+             (holidays, maternity leave, retirement, planned surgery etc)
+
+          -  not in possession of a smartphone
+
+          -  inability to keep the vaccine site covered in the case of a draining pustule.
+      
+
+
+NCT04350593
+
+        inclusion criteria:
+
+          1. provision of informed consent
+
+          2. male or female patients aged ≥18 years
+
+          3. currently hospitalized
+
+          4. confirmed sars-cov-2 infection by laboratory testing <72h prior to randomization or
+             strongly suspected on presentation
+
+          5. chest radiography or ct findings consistent with covid-19
+
+          6. mild-moderate disease: spo2≥94% with low-flow supplemental oxygen (3 liters or less)
+
+          7. medical history of at least one of the following:
+
+               1. hypertension
+
+               2. t2dm
+
+               3. atherosclerotic cardiovascular disease
+
+               4. heart failure (with either reduced or preserved lvef)
+
+               5. ckd stage 3 to 4 (egfr between 25 to 60 ml/min/1.73 m2)
+
+        key exclusion criteria:
+
+          1. severe covid-19: requiring mechanical ventilation via endotracheal intubation, and/or
+             non-invasive ventilation
+
+          2. expected need for mechanical ventilation within the next 24 hours
+
+          3. expected survival of less than 24 hours at the time of presentation
+
+          4. egfr <25 ml/min/1.73 m2 or receiving renal replacement therapy/dialysis
+
+          5. systolic bp <95 mmhg and/or requirement for vasopressor treatment and/or inotropic or
+             mechanical circulatory support at screening
+
+          6. history of type 1 diabetes mellitus
+
+          7. currently receiving or has received in the last 14 days, experimental immune
+             modulators and/or monoclonal antibody therapies for covid-19
+
+          8. history of diabetic ketoacidosis within last 6 months
+
+          9. current treatment with any sglt2i (eg, dapagliflozin, canagliflozin, empagliflozin,
+             ertugliflozin) or having received treatment with any sglt2i within 4 weeks prior to
+             screening
+
+         10. current participation in another interventional clinical trial (with an
+             investigational drug) that is not an observational registry
+
+               -  note that use of rescue therapies including immune modulators, monoclonal
+                  antibody therapies, antiviral therapies, and other agents that are approved or
+                  being used through open label compassionate/expanded use programs or in
+                  accordance with the local standard of care is permitted during the study.
+      
+
+
+NCT04352946
+
+        inclusion criteria:
+
+          1. health care worker (hcw) at the hospital who work on a "full time" basis during the
+             study period. for the purposes of the study, "health care workers" are physicians,
+             nurses, nurse practitioners, physician assistants, respiratory therapists, x-ray
+             technicians, social workers and support staff (including but not limited to
+             house-keeping, and porters).
+
+          2. age ≥18 years.
+
+          3. ability to communicate with study staff in english
+
+        exclusion criteria:
+
+          1. known hypersensitivity/allergy to hydroxychloroquine or to 4-aminoquinoline compounds.
+
+          2. current use of hydroxychloroquine for the treatment of a medical condition.
+
+          3. known prolonged qt syndrome, or concomitant medications which simultaneously may
+             prolong the qtc that cannot be temporarily suspended/replaced. these are including but
+             not limited to class ia, ic and iii antiarrhythmics; certain antidepressants,
+             antipsychotics, and anti-infectives; domperidone; 5-hydroxytryptamine (5-ht)3 receptor
+             antagonists; kinase inhibitors; histone deacetylase inhibitors beta-2 adrenoceptor
+             agonists.
+
+          4. known pre-existing retinopathy of the eye.
+
+          5. disclosure of self-administered use of hydroxychloroquine or chloroquine currently
+             under investigation <4 weeks prior to study. this window is intended to account for
+             the drug half-life of hcq (21 days).
+
+          6. baseline symptom of covid-19 disease at enrollment and baseline viral detection
+             specimen positive for sars-cov-2. all participants with covid-19 symptoms at
+             enrollment will be directed to have confirmatory testing (within the department or
+             occupational health as per the site guidelines). participants who are negative for
+             sars-cov-2 will be redirected to enrollment procedures, those testing positive will be
+             excluded.
+      
+
+
+NCT04354428
+
+        inclusion criteria:
+
+          -  men or women 18 to 80 years of age, inclusive, at the time of signing the informed
+             consent
+
+          -  willing and able to provide informed consent
+
+          -  laboratory confirmed sars-cov-2 infection, with test results within past 72 hours
+
+          -  access to device and internet for telehealth visits
+
+          -  at increased risk of developing severe covid-19 disease (at least one of the
+             following)
+
+               1. age ≥60 years
+
+               2. presence of pulmonary disease, specifically moderate or severe persistent asthma,
+                  chronic obstructive pulmonary disease, pulmonary hypertension, emphysema
+
+               3. diabetes mellitus (type 1 or type 2), requiring oral medication or insulin for
+                  treatment
+
+               4. hypertension, requiring at least 1 oral medication for treatment
+
+               5. immunocompromised status due to disease (e.g., those living with human
+                  immunodeficiency virus with a cd4 t-cell count of <200/mm3)
+
+               6. immunocompromised status due to medication (e.g., persons taking 20 mg or more of
+                  prednisone equivalents a day, anti-inflammatory monoclonal antibody therapies, or
+                  cancer therapies)
+
+               7. body mass index ≥30 (self-reported)
+
+        exclusion criteria:
+
+          -  known hypersensitivity to hcq or other 4-aminoquinoline compounds
+
+          -  known hypersensitivity to azithromycin or other azalide or macrolide antibiotics
+
+          -  currently hospitalized
+
+          -  signs of respiratory distress prior to randomization, including respiratory rate >24
+
+          -  current medications include hcq
+
+          -  concomitant use of other anti-malarial treatment or chemoprophylaxis
+
+          -  history of retinopathy of any etiology
+
+          -  psoriasis
+
+          -  porphyria
+
+          -  chronic kidney disease (stage iv or receiving dialysis)
+
+          -  known bone marrow disorders with significant neutropenia (polymorphonuclear leukocytes
+             <1500) or thrombocytopenia (<100 k)
+
+          -  concomitant use of digoxin, cyclosporin, cimetidine, amiodarone, or tamoxifen
+
+          -  known cirrhosis
+
+          -  known personal or family history of long qt syndrome
+
+          -  history of coronary artery disease with a history of graft or stent
+
+          -  history of heart failure, class 2 or greater using the new york heart association
+             functional class
+
+          -  taking medications associated with prolonged qt such as antipsychotic medications or
+             antidepressants (e.g., citalopram, venlafaxine, and bupropion) and unable to stop
+             during the trial
+
+          -  taking warfarin (coumadin or jantoven)
+
+          -  known history of glucose-6-phosphate-dehydrogenase deficiency
+
+          -  history of myasthenia gravis
+      
+
+
+NCT04356937
+
+        inclusion criteria:
+
+        patients who meet all of the following criteria will be eligible to participate in the
+        study:
+
+          1. must have provided informed consent in a manner approved by the investigator's
+             institutional review board (irb) or independent ethics committee (iec) prior to any
+             assessments. if a patient is unable to provide informed consent due to their medical
+             condition, the patient's legally authorized representative may consent on behalf of
+             the study patient, as permitted by local law and institutional standard operating
+             procedures;
+
+          2. age > 18 and < 80 years old
+
+          3. male or female gender
+
+          4. confirmed sars-cov-2 infection by np swab pcr
+
+          5. admitted to non-icu level care at mgh
+
+          6. with evidence of severe covid-19 (at least 1 of the following):
+
+               1. fever > 38c
+
+               2. bilateral pulmonary infiltrates on chest x ray
+
+               3. need for supplemental o2 to maintain saturation > 92%
+
+          7. and at least 1 of the following:
+
+               1. ferritin > 500 ng/ml
+
+               2. crp > 50 mg/l
+
+          8. women of childbearing potential (ie, not post-menopausal or surgically sterilized)
+             must have a negative highly sensitive urine or serum pregnancy test before
+             randomization. participating women of childbearing potential must be willing to
+             consistently use effective methods of contraception (ie, condom, combined oral
+             contraceptive, implant, injectable, indwelling intrauterine device, or a vasectomized
+             partner) from screening until at least 90 days after administration of the last dose
+             of study drug;
+
+          9. the patient must be willing and able to provide informed consent and abide all study
+             requirements and restrictions.
+
+        exclusion criteria:
+
+        patients who meet any of the following criteria will be excluded from participation in the
+        study:
+
+          1. unable to provide verbal informed consent
+
+          2. uncontrolled bacterial, fungal, or non-covid viral infection
+
+          3. active tb or ltbi with < 1 month of treatment
+
+          4. any prior investigational immunologic therapy (for instance with biologic or jak
+             inhibitor) within 28-days or 3 half-lives of the agent
+
+          5. any concurrent immunosuppressive medication that the pi believes would put the patient
+             at higher risk
+
+          6. oral or iv corticosteroid for non-covid-19 indication within the last 7 days at a dose
+             of ≥ 10 mg prednisone or equivalent per day
+
+          7. history of diverticulitis or bowel perforation
+
+          8. anc <500, platelets <50,000*
+
+          9. ast/alt > 5x uln
+
+         10. women who are pregnant or planning to get pregnant in the next 90 days;
+
+         11. any condition that could interfere with, or for known allergy to the study drug or any
+             of its ingredients or known allergy to any other anti il 6 agents;
+
+         12. any condition that could interfere with or for which the treatment might interfere
+             with, the conduct of the study or interpretation of the study results, or that would,
+             in the opinion of the investigator, increase the risk of the participant by
+             participating in the study.
+      
+
+
+NCT04359277
+
+        inclusion criteria:
+
+        in order to be eligible to participate in this study, an individual must meet all of the
+        following criteria:
+
+          1. >18 years of age
+
+          2. hospitalized patient with a diagnosis of covid-19
+
+          3. consistent with the institution guidelines, d-dimer > 500ng/ml
+
+               1. if a d-dimer is between 500ng/ml to 2,000ng/ml - there appears to be clinical
+                  equipoise by the nyu medical community
+
+               2. if a d-dimer is >2,000 and < 10,000 and is not on a higher dose anticoagulation
+                  and a blood clot is not suspected and there is clinical equipoise, a patient may
+                  be approached for enrollment
+
+        exclusion criteria:
+
+        an individual who meets any of the following criteria will be excluded from participation
+        in this study:
+
+          1. meeting alternative indication for higher-dose anticoagulation
+
+               1. prevalent blood clot at the time of enrollment
+
+               2. on renal replacement therapies (crrt, cvvh)
+
+               3. d-dimer >10,000 ng/ml
+
+               4. change in d-dimer >6x over the admission lab value
+
+               5. renal failure requiring renal replacement therapy
+
+               6. prior vte
+
+               7. atrial fibrillation (with a chads2 score >1) on oral anticoagulant therapy
+                  already
+
+          2. prior heparin induced thrombocytopenia within 100 days
+
+          3. stroke within 30 days
+
+          4. prior hemorrhagic stroke (ever)
+
+          5. gi bleed within the past 6 months
+
+          6. platelet count <100,000
+
+          7. pregnancy
+
+          8. anemia with a hemoglobin <9mg/dl
+
+          9. signs of active bleeding (e.g. requirement of a blood transfusion in the past 30 days)
+
+         10. other high bleeding risk (i.e. trauma, use of dual antiplatelet therapy)
+
+         11. renal failure on admission (by rifle criteria 3x change in serum creatinine from
+             baseline or >75% reduction in gfr or urine output <0.3ml/kg over 24 hours or anuria
+             for 12 hours)
+
+         12. subjects who have no capacity to consent for themselves.
+      
+
+
+NCT04361552
+
+        inclusion criteria:
+
+          -  diagnosis with sars-cov-2 by the currently available assays (food and drug
+             administration [fda] approved)
+
+          -  should be hospitalized and exhibit at least one of the following predictors of
+             mortality
+
+               -  age >= 65 years
+
+               -  current smoker (smoked >= 100 cigarettes in life and actively smoking)
+
+               -  chronic obstructive pulmonary disease (copd)
+
+               -  diabetes
+
+               -  hypertension
+
+               -  coronary artery disease
+
+               -  cerebrovascular accident (cva)
+
+               -  chronic renal disease (creatinine of >= 2 mg/dl)
+
+               -  cancer
+
+               -  patients that have c-reactive protein (crp) >= 10 mg/l
+
+               -  d-dimer >= 0.5 mg/l
+
+               -  procalcitonin >= 0.5 mg/l
+
+               -  lactate dehydrogenase (ldh) >= upper limit of normal (uln)
+
+          -  patients or authorized family member willing to sign informed consent to participate
+             in this study
+
+        exclusion criteria:
+
+          -  pregnant or lactating women
+
+          -  hypersensitivity to tocilizumab
+
+          -  patients or authorized family member unwilling to sign informed consent to participate
+             in this study
+
+          -  uncontrolled tuberculosis, or any uncontrolled fungal infection (eg: candidemia)
+      
+
+
+NCT04362176
+
+        inclusion criteria:
+
+          -  age ≥18 years
+
+          -  currently hospitalized or in an emergency department with anticipated hospitalization.
+
+          -  symptoms of acute respiratory infection, defined as one or more of the following:
+             cough, fever (> 37.5° c / 99.5° f), shortness of breath
+
+          -  laboratory-confirmed sars-cov-2 infection within the past 10 days
+
+        exclusion criteria:
+
+          -  prisoner
+
+          -  unable to randomize within 14 days after onset of acute respiratory infection symptoms
+
+          -  unable to randomize within 48 hours after hospital arrival
+
+          -  inability to be contacted on day 29-36 for clinical outcome assessment
+
+          -  receipt of pooled immunoglobulin in the past 30 days
+
+          -  contraindications to transfusion or history of prior reactions to transfusion blood
+             products
+
+          -  previous enrollment in this trial
+      
+
+
+NCT04363866
+
+        inclusion criteria:
+
+          1. ability to understand and the willingness to sign a written informed consent document.
+
+          2. individuals aged ≥ 18 years of all races and ethnic groups.
+
+          3. must have documented positive test result for sars-cov-2 (covid19), or high clinical
+             suspicion for sars-cov-2 based on presence of typical clinical findings (e.g., fever,
+             respiratory symptoms, pulmonary abnormalities on chest x-ray or ct scan), lack of
+             alternative diagnosis, and history of exposure to a known case of sars-cov-2 infection
+             within the past 14 days
+
+          4. not receiving institutional therapy for treatment of sars-cov-2, including (but not
+             limited to) remdesivir, chloroquine, hydroxychloroquine, or any other investigational
+             agent(s).
+
+          5. must meet at least one of the following clinical stratifications:
+
+               1. have at least 1 minor criterion per ats criteria (refer to appendix a), or
+
+               2. have fever, respiratory symptoms, with pneumonia visible on chest imaging (e.g.,
+                  x-ray or computed tomography [ct]), or
+
+               3. high risk for poor outcome, as defined by any one of the following:
+
+             i. age ≥ 60 years old
+
+             ii. underlying medical comorbidities, defined as:
+
+               -  cardiovascular disease
+
+               -  diabetes
+
+               -  chronic respiratory disease (e.g., copd)
+
+               -  hypertension, defined as blood pressure ≥ 140 / 90 mmhg
+
+             iii. solid organ or stem cell transplant recipient
+
+             iv. diagnosis of solid or hematologic malignancy being treated with systemic
+             chemotherapy
+
+             v. receipt of biologic agent or prednisone > 0.5 mg/kg/day (or equivalent)
+
+          6. participants with preexisting auditory damage are allowed.
+
+          7. participants with a history of epilepsy are allowed.
+
+          8. female participants of childbearing potential (focbp) must have a negative serum or
+             urine pregnancy test (per institutional standards) prior to the start of study drug.
+
+          9. focbp must agree to use highly-effective method(s) of contraception during the study
+             and for 1 months after the last dose of study drug. focbp are those who have not been
+             surgically sterilized or have not been free from menses for >1 year without an
+             alternative medical cause.
+
+         10. male participants must agree to use an adequate method of contraception starting with
+             the first dose of study therapy through at least 1 months after the last dose of study
+             drug.
+
+         11. participant must agree to not breastfeed during the study or for 30 days after the
+             last dose of study treatment.
+
+        exclusion criteria:
+
+          1. the patient has serious and/or uncontrolled preexisting medical condition(s) that, in
+             the judgment of the investigator, would preclude participation in this study.
+
+          2. judgment by the investigator that the patient should not participate in the study if
+             the patient is unlikely to comply with study procedures, restrictions and
+             requirements.
+
+          3. psychiatric illness/social situations, or any condition that, in the opinion of the
+             investigator, would interfere with evaluation of study treatment or interpretation of
+             participant safety or study results, or substantially increase risk of incurring aes,
+             or compromise the ability of the patient to give written informed consent.
+
+          4. resting ecg indicating uncontrolled, potentially reversible cardiac conditions, as
+             judged by the investigator (e.g., unstable ischemia, uncontrolled symptomatic
+             arrhythmia, congestive heart failure, qtcf prolongation >500 ms, electrolyte
+             disturbances, etc.), or participants with congenital long qt syndrome
+
+          5. patients with myesthenia gravis or other neuromuscular disorders
+
+          6. patients with history of psoriasis.
+
+             a. may be waived at the discretion of the pi
+
+          7. patients with history of porphyria
+
+             a. may be waived at the discretion of the pi
+
+          8. concomitant use of other antiviral agents for the study's duration, but may be waived
+             at discretion of the principal investigator
+
+          9. hypersensitivity to the study agent, or any of its excipients.
+
+         10. females who are pregnant or lactating.
+      
+
+
