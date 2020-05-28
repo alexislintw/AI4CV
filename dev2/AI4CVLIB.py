@@ -223,7 +223,7 @@ def extract_operator(token,_string):
 	token = ' ' + token + ' '
 	t_idx = _string.find(token)
 
-	if re.search('≥|>=|>/=|',_string[t_idx+len(token):]):
+	if re.search('≥|>=|>/=',_string[t_idx+len(token):]):
 		return '>='
 	elif re.search('≤|<=|</=',_string[t_idx+len(token):]):
 		return '<='
